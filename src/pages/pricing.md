@@ -1,48 +1,6 @@
 ---
-title: Pricing
+title: FAQ
 sections:
-- type: pricingblock
-  template: pricingblock
-  section_id: pricing
-  title: Pricing Plans
-  component: PricingBlock
-  subtitle: You can have a separate pricing page or list everything on the home page.
-  bg: gray
-  pricingplans:
-  - title: Basic
-    price: "$5/m"
-    details: |-
-      * Lorem ipsum dolor sit amet
-      * Mauris a mi tincidunt
-      * Suspendisse ut lacus
-      * Etiam eget dui a augue
-    actions:
-    - label: Order Now
-      url: "/signup"
-    highlight: false
-  - title: Professional
-    price: "$49/m"
-    details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
-    highlight: true
-    actions:
-    - label: Order Now
-      url: "/signup"
-  - title: Enterprise
-    price: "$149/m"
-    details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
-    actions:
-    - label: Order Now
-      url: "/signup"
-    highlight: false
 - type: faqblock
   template: faqblock
   section_id: faq
