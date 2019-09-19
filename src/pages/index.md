@@ -40,7 +40,7 @@ sections:
   - title: 4. Reçois ta rémunération
     content: Une fois que tu as validé ta participation à un projet sur la plateforme,
       nous te reversons la rémunération associée.
-    image: ''
+    image: "/images/Web—Section Left Copy.svg"
     actions: []
 - type: reviewsblock
   template: reviewsblock
