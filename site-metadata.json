@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Je m'inscris",
-          "url": "/signup"
+          "url": "/contact"
         }
       ]
     }
