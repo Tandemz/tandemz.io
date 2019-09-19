@@ -11,7 +11,7 @@ sections:
     elles. Tu n'y connais rien ? Justement, pour elles, ton avis est précieux !
   image: "/images/Web—Section Left Copy.svg"
   actions:
-  - label: PARTICIPER A UN PROJET
+  - label: JE PARTICIPE
     url: "/features"
 - type: featuresblock
   template: featuresblock
