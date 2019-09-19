@@ -23,5 +23,11 @@ fields:
   default: contact
   config:
     required: true
+- name: test
+  type: text
+  config:
+    required: true
+  label: TEst
+  description: test
 pages:
 - src/pages/contact.md
