@@ -4,7 +4,7 @@
   "header": {
     "title": "Azimuth",
     "logo_img": "/images/logo_png.png",
-    "has_nav": false,
+    "has_nav": true,
     "menu": {
       "actions": [
         {
