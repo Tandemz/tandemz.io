@@ -7,9 +7,9 @@ export default class CtaBlock extends React.Component {
     render() {
         return (
             <section id={_.get(this.props, 'section.section_id')} className="block cta-block bg-accent outer">
-              <div className="inner-large">
-                <div className="grid">
-                  <div className="cell block-content">
+              <div className="inner-medium">
+                <div>
+                  <div className="block-content">
                     <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
                     {_.get(this.props, 'section.subtitle') && 
                     <p className="block-subtitle">
