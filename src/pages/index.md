@@ -21,13 +21,11 @@ sections:
   subtitle: ''
   bg: gray
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: 1. Parle-nous de toi
+    content: Inscris-toi et définis ton profil. Nous t'aiderons à trouver des projets
+      qui te correspondent.
     image: images/feature1.png
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
   - title: Awesome Feature of Your Services
     content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
       sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
