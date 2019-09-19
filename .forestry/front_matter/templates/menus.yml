@@ -1,4 +1,9 @@
 ---
 label: Menus
 hide_body: true
-fields: []
+fields:
+- name: menu_item
+  type: text
+  config:
+    required: false
+  label: Menu item
