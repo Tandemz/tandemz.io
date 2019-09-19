@@ -44,15 +44,15 @@ sections:
       url: "/features"
 - type: reviewsblock
   template: reviewsblock
-  section_id: reviews
-  title: Testimonials
+  section_id: studies
+  title: Ces produits on besoin de ton avis
   component: ReviewsBlock
-  subtitle: 'Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-    semper libero id sodales. '
+  subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
+    voir des annonces qui te correspondent !
   bg: white
   reviews:
   - author: John Doe
-    avatar: images/review1.jpg
+    avatar: ''
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
   - author: Jane Roe
