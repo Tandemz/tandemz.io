@@ -5,7 +5,9 @@ menus:
     title: Contact
     weight: 3
 template: contact
-subtitle: ''
+subtitle: Tu souhaites poster une annonce ou bien nous poser une question en particulier
+  ?
 img_path: ''
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula. 
+Envoie nous un mail à contact@tandemz.io.
