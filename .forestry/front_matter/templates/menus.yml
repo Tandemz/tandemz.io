@@ -1,9 +1,0 @@
----
-label: Menus
-hide_body: true
-fields:
-- name: page_name
-  type: text
-  config:
-    required: true
-  label: Page name
