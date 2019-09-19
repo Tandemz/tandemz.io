@@ -19,7 +19,7 @@ sections:
   title: Comment ça marche ?
   component: FeaturesBlock
   subtitle: ''
-  bg: gray
+  bg: white
   featureslist:
   - title: 1. Parle-nous de toi
     content: Inscris-toi et définis ton profil. Nous t'aiderons à trouver des projets
