@@ -23,14 +23,5 @@ fields:
   default: contact
   config:
     required: true
-- name: test_du_contact
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: test du contact
 pages:
 - src/pages/contact.md
