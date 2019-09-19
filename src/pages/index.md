@@ -79,9 +79,7 @@ sections:
   title: Rejoins la communauté Tandemz et commence à construire des produits !
   component: CtaBlock
   subtitle: ''
-  actions:
-  - label: Get Started
-    url: "/signup"
+  actions: []
 - type: postsblock
   template: postsblock
   section_id: recent-posts
