@@ -16,6 +16,12 @@ fields:
   name: img_path
   label: Image
   description: The image shown below the page title.
+- name: test
+  type: text
+  config:
+    required: true
+  label: TEst
+  description: test
 - type: text
   name: template
   label: Template
@@ -23,11 +29,5 @@ fields:
   default: contact
   config:
     required: true
-- name: test
-  type: text
-  config:
-    required: true
-  label: TEst
-  description: test
 pages:
 - src/pages/contact.md
