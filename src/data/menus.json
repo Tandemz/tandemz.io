@@ -1,14 +1,1 @@
-{
-  "menus": [
-        {
-            "type": "home",
-            "title": "Home",
-            "url": "/#"
-        },
-        {
-            "type": "faq",
-            "title": "FAQ",
-            "url": "/pricing"
-        }
-    ]
-}
+{}
