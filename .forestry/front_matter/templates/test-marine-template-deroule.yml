@@ -1,4 +1,57 @@
 ---
 label: Test Marine Template Déroulé
 hide_body: false
-fields: []
+fields:
+- name: raison
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Raison
+- name: raison2
+  type: field_group_list
+  fields:
+  - name: donne_ta_voix
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Donne ta voix
+  - name: sois_remunere
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: sois rémunéré
+  - name: suis_tes_marques_preferees
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: suis tes marques préférées
+  - name: decouvre_de_nouveaux_produits
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: découvre de nouveaux produits
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Raison2
