@@ -26,13 +26,11 @@ sections:
       qui te correspondent.
     image: images/feature1.png
     actions: []
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
+  - title: 2. Trouve un projet
+    content: Notre algorithme détermine les projets qui pourraient t'intéresser. Tu
+      peux aussi parcourir l'ensemble de nos annonces et postuler à celles qui t'intéressent.
     image: images/feature2.png
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
