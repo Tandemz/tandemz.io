@@ -37,6 +37,11 @@ sections:
       ton avis honnête et ton ressenti.
     image: images/feature3.png
     actions: []
+  - title: 4. Reçois ta rémunération
+    content: Une fois que tu as validé ta participation à un projet sur la plateforme,
+      nous te reversons la rémunération associée.
+    image: ''
+    actions: []
 - type: reviewsblock
   template: reviewsblock
   section_id: studies
