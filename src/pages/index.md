@@ -58,7 +58,7 @@ sections:
   component: ReviewsBlock
   subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
     voir des annonces qui te correspondent !
-  bg: white
+  bg: gray
   reviews:
   - author: Annonce n°1
     avatar: ''
