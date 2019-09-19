@@ -79,9 +79,9 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Rejoins la communauté Tandemz et commence à construire des produits !
+  title: Rejoins la communauté Tandemz
   component: CtaBlock
-  subtitle: ''
+  subtitle: et commence à construire des produits !
   actions: []
 menus:
   main:
