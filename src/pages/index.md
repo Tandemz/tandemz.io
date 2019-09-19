@@ -60,10 +60,13 @@ sections:
     voir des annonces qui te correspondent !
   bg: white
   reviews:
-  - author: John Doe
+  - author: Annonce n°1
     avatar: ''
-    content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
-      non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+    content: "Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des pièces
+      détachées pour ta voiture - en ligne ou en magasin - viens nous parler de ton
+      expérience !     ⏰  Durée : 30 min  \U0001F3E0  Lieu : à distance par téléphone
+      OU en personne vers Paris Saint-Lazare  \U0001F381  Rémunération : un bon d'achat
+      FNAC de 20€"
   - author: Jane Roe
     avatar: images/review2.jpg
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
