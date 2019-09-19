@@ -22,8 +22,8 @@
     "has_social": true,
     "social_title": "Community",
     "has_subscribe": true,
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "Je m'inscris",
+    "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
