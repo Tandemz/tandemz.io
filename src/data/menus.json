@@ -1,14 +1,5 @@
 {
   "links": [
-    {
-      "type": "Home",
-      "title": "Home",
-      "url": "/#"
-    },
-    {
-      "type": "FAQ",
-      "title": "FAQ",
-      "url": "/pricing"
-    }
+
   ]
 }
