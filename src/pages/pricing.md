@@ -4,22 +4,22 @@ sections:
 - type: faqblock
   template: faqblock
   section_id: faq
-  title: Frequently Asked Questions
+  title: Foire Aux Questions
   component: FaqBlock
-  subtitle: Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.
+  subtitle: est-ce qu'on met du texte à cet endroit ?
   bg: gray
   faqitems:
   - question: FAQ Question 1
     answer: Hello Marine !
-  - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
+  - question: Question 2
     answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
       tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus mollis feugiat.
       Praesent nibh libero, placerat et justo at, luctus tristique enim. Pellentesque
       habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-  - question: Aliquam eget purus ante?
+  - question: Question 3
     answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
       eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
-  - question: Sed scelerisque in ipsum eu sollicitudin?
+  - question: Question 4
     answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
       nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
       magna. Vivamus in hendrerit magna, non pellentesque metus. Morbi orci odio,
