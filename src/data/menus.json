@@ -6,9 +6,9 @@
       "url": "/#"
     },
     {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/"
+      "type": "FAQ",
+      "title": "FAQ",
+      "url": "/pricing"
     }
   ]
 }
