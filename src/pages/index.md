@@ -76,9 +76,9 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: This Is Call To Action Block!
+  title: Rejoins la communauté Tandemz et commence à construire des produits !
   component: CtaBlock
-  subtitle: This is an optional description for the call to action block.
+  subtitle: ''
   actions:
   - label: Get Started
     url: "/signup"
