@@ -9,17 +9,16 @@ sections:
   content: Les entreprises et les marques ont besoin de toi pour mieux construire
     leurs futurs produits. Teste leurs nouveautés, discute et partage ton avis avec
     elles. Tu n'y connais rien ? Justement, pour elles, ton avis est précieux !
-  image: "/images/Web—Section Left Copy.png"
+  image: "/images/Web—Section Left Copy.svg"
   actions:
   - label: PARTICIPER A UN PROJET
     url: "/features"
 - type: featuresblock
   template: featuresblock
-  section_id: features
-  title: Features
+  section_id: howItWorks
+  title: Comment ça marche ?
   component: FeaturesBlock
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
+  subtitle: ''
   bg: gray
   featureslist:
   - title: The Best Feature of Your Services
