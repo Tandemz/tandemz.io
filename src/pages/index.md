@@ -12,7 +12,7 @@ sections:
   image: "/images/Web—Section Left Copy.svg"
   actions:
   - label: Je participe
-    url: "/features"
+    url: "/#call-to-action"
 - template: contentblock
   component: ContentBlock
   bg: gray
