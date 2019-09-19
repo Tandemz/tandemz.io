@@ -42,6 +42,7 @@ export default class CtaBlock extends React.Component {
                       </p>
                     </form>
                   </div>
+                </div>
               </div>
             </section>
         );
