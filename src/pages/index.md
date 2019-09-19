@@ -31,13 +31,12 @@ sections:
       peux aussi parcourir l'ensemble de nos annonces et postuler à celles qui t'intéressent.
     image: images/feature2.png
     actions: []
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
+  - title: 3. Participe au projet
+    content: Tout ce que tu as à faire c'est de te présenter au rendez-vous et de
+      suivre les instructions de ton interlocuteur. On ne recherche rien de plus que
+      ton avis honnête et ton ressenti.
     image: images/feature3.png
-    actions:
-    - label: Learn More
-      url: "/features"
+    actions: []
 - type: reviewsblock
   template: reviewsblock
   section_id: studies
