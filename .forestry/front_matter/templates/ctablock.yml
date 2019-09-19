@@ -11,26 +11,16 @@ fields:
   label: Title
   description: The title of the section.
 - type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section.
+- type: text
   name: component
   label: Component
   hidden: true
   default: CtaBlock
   config:
     required: true
-- type: text
-  name: subtitle
-  label: Subtitle
-  description: The subtitle of the section.
-- type: field_group_list
-  name: actions
-  label: Action Buttons
-  fields:
-  - type: include
-    name: include_action
-    label: Action
-    template: action
-  config:
-    labelField: label
 - type: text
   name: type
   label: Reference Type Name
