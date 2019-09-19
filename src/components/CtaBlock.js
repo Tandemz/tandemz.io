@@ -38,7 +38,7 @@ export default class CtaBlock extends React.Component {
                       </p>
                       <input type="hidden" name="form-name" value="contactForm" />
                       <p className="form-row form-submit">
-                        <button type="submit" className="button">Send Message</button>
+                        <button type="submit" className="button white large">Je m\'inscris</button>
                       </p>
                     </form>
                   </div>
