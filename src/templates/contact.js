@@ -19,11 +19,6 @@ export default class Contact extends React.Component {
                     {htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle'))}
                   </div>
                   }
-                  {_.get(this.props, 'pageContext.frontmatter.img_path') && 
-                  <div className="post-thumbnail">
-                    <img src={safePrefix(_.get(this.props, 'pageContext.frontmatter.img_path'))} alt={_.get(this.props, 'pageContext.frontmatter.title')} />
-                  </div>
-                  }
                   <div className="post-content">
                     {htmlToReact(_.get(this.props, 'pageContext.html'))}
                     <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
@@ -32,16 +27,16 @@ export default class Contact extends React.Component {
                         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                       </p>
                       <p className="form-row">
-                        <label className="form-label">Name</label>
+                        <label className="form-label">Nom</label>
+                        <input type="text" name="surname" className="form-input"/>
+                      </p>
+                      <p className="form-row">
+                        <label className="form-label">Prénom</label>
                         <input type="text" name="name" className="form-input"/>
                       </p>
                       <p className="form-row">
                         <label className="form-label">Email address</label>
                         <input type="email" name="email" className="form-input"/>
-                      </p>
-                      <p className="form-row">
-                        <label className="form-label">Message</label>
-                        <textarea name="message" className="form-textarea" rows="7" />
                       </p>
                       <input type="hidden" name="form-name" value="contactForm" />
                       <p className="form-row form-submit">
