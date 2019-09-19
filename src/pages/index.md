@@ -19,7 +19,7 @@ sections:
   type: contentblock
   section_id: test
   title: Pourquoi devenir testeur ?
-  content: ''
+  content: 'Test de Marine '
   image: ''
   actions: []
 - type: featuresblock
