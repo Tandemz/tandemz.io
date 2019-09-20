@@ -84,9 +84,12 @@ sections:
       : un **bon d'achat FNAC de 20€**"
     avatar: ''
   - author: Testez notre application pour mieux gérer votre budget familial
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
+    content: "Nous cherchons des personnes qui :\n\n* doivent suivre le budget de
+      la famille au quotidien\n* souhaitent faire des économies sur leurs dépenses\n*
+      ne savent pas trop comment trouver le meilleur fournisseur internet / d'énergie
+      etc\n\n⏰ Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance par téléphone**
+      OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération : **un
+      bon d'achat FNAC de 20€**"
     avatar: ''
 - type: ctablock
   template: ctablock
