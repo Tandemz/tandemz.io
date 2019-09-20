@@ -26,15 +26,15 @@ export default class CtaBlock extends React.Component {
                       </p>
                       <p className="form-row">
                         <label className="form-label">Nom</label>
-                        <input type="text" name="surname" className="form-input"/>
+                        <input type="text" name="surname" className="form-input" required/>
                       </p>
                       <p className="form-row">
                         <label className="form-label">Prénom</label>
-                        <input type="text" name="name" className="form-input"/>
+                        <input type="text" name="name" className="form-input" required/>
                       </p>
                       <p className="form-row">
                         <label className="form-label">Adresse email</label>
-                        <input type="email" name="email" className="form-input"/>
+                        <input type="email" name="email" className="form-input" required/>
                       </p>
                       <input type="hidden" name="form-name" value="contactForm" />
                       <p className="form-row form-submit">
