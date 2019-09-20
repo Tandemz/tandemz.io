@@ -9,6 +9,8 @@ sections:
   subtitle: est-ce qu'on met du texte à cet endroit ?
   bg: gray
   faqitems:
+  - question: Qu'est-ce qu'un test utilisateur ?
+    answer: blablabla à finir
   - question: Comment ça marche ?
     answer: |-
       Pour t'inscrire, il te suffit de renseigner tes coordonnées et de cliquer sur "JE participe". Suite à ton inscription, tu recevras un mail de la part de Tandemz t'invitant à renseigner un formulaire. Cela nous permettra de mieux te connaître et de te proposer par la suite des annonces qui te correspondent.
