@@ -42,9 +42,13 @@ fields:
   - type: file
     name: avatar
     label: Avatar
-  - type: text
+  - type: textarea
     name: content
     label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: markdown
   config:
     labelField: author
 - type: text
