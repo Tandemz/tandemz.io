@@ -24,7 +24,7 @@ sections:
   - title: 1. Parle-nous de toi
     content: Inscris-toi et définis ton profil. Nous t'aiderons à trouver des projets
       qui te correspondent.
-    image: images/feature1.png
+    image: "/images/Profile.svg"
     actions: []
   - title: 2. Trouve un projet
     content: Notre algorithme détermine les projets qui pourraient t'intéresser. Tu
@@ -60,6 +60,8 @@ sections:
       class=\"AlignLeft\">\U0001F381 Rémunération : un<strong> bon d'achat FNAC de
       20€</strong></p>"
     url: http://www.airbnb.com
+    author: ''
+    avatar: ''
   - title: Testez notre application pour mieux gérer votre budget familial
     content: "<p class=\"AlignLeft\">Nous cherchons des personnes qui :</p><ul><li><p>doivent
       suivre le budget de la famille au quotidien</p></li><li><p>souhaitent faire
@@ -70,6 +72,8 @@ sections:
       Saint-Lazare</strong></p><p class=\"AlignLeft\">\U0001F381 Rémunération : <strong>un
       bon d'achat FNAC de 20€</strong></p>"
     url: http://www.google.com
+    author: ''
+    avatar: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action
