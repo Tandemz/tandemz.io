@@ -86,12 +86,14 @@ sections:
       20€</strong></p>"
     avatar: ''
   - author: Testez notre application pour mieux gérer votre budget familial
-    content: "Nous cherchons des personnes qui :\n\n* doivent suivre le budget de
-      la famille au quotidien\n* souhaitent faire des économies sur leurs dépenses\n*
-      ne savent pas trop comment trouver le meilleur fournisseur internet / d'énergie
-      etc\n\n⏰ Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance par téléphone**
-      OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération : **un
-      bon d'achat FNAC de 20€**"
+    content: "<p class=\"AlignLeft\">Nous cherchons des personnes qui :</p><ul><li><p>doivent
+      suivre le budget de la famille au quotidien</p></li><li><p>souhaitent faire
+      des économies sur leurs dépenses</p></li><li><p>ne savent pas trop comment trouver
+      le meilleur fournisseur internet / d'énergie etc</p></li></ul><p class=\"AlignLeft\">⏰
+      Durée :<strong> 30 min</strong></p><p class=\"AlignLeft\">\U0001F3E0 Lieu :
+      <strong>à distance par téléphone</strong> OU en personne vers <strong>Paris
+      Saint-Lazare</strong></p><p class=\"AlignLeft\">\U0001F381 Rémunération : <strong>un
+      bon d'achat FNAC de 20€</strong></p>"
     avatar: ''
 - type: ctablock
   template: ctablock
