@@ -13,7 +13,7 @@ sections:
     answer: blablabla à finir
   - question: Comment ça marche ?
     answer: |-
-      Pour t'inscrire, il te suffit de renseigner tes coordonnées et de cliquer sur "JE participe". Suite à ton inscription, tu recevras un mail de la part de Tandemz t'invitant à renseigner un formulaire. Cela nous permettra de mieux te connaître et de te proposer par la suite des annonces qui te correspondent.
+      Pour t'inscrire, il te suffit de renseigner tes coordonnées et de cliquer sur "Je participe". Suite à ton inscription, tu recevras un mail de la part de Tandemz t'invitant à renseigner un formulaire. Cela nous permettra de mieux te connaître et de te proposer par la suite des annonces qui te correspondent.
 
       Pour l'instant, la plateforme est encore en construction, nous te notifierons donc personnellement par mail lorsqu'une annonce qui pourrait t'intéresser est publiée. Par la suite, tu pourras découvrir l'ensemble des annonces et postuler toi-même à celles que tu aimes bien.
 
