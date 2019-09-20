@@ -8,7 +8,7 @@
     "menu": {
       "actions": [
         {
-          "label": "Je m'inscris",
+          "label": "Je participe",
           "url": "/contact"
         }
       ]
