@@ -9,7 +9,7 @@ sections:
   subtitle: est-ce qu'on met du texte à cet endroit ?
   bg: gray
   faqitems:
-  - question: FAQ Question 1
+  - question: Comment ça marche ?
     answer: Hello Marine !
   - question: Question 2
     answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
