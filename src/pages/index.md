@@ -77,15 +77,17 @@ sections:
   bg: gray
   studies:
   - author: Conducteur, as-tu déjà acheté des pièces détachées pour ta voiture ?
-    content: "Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des pièces
+    content: "Essuie-glace, pneu, huile, alternateur...Si tu as déjà acheté des pièces
       détachées pour ta voiture - en ligne ou en magasin - viens nous parler de ton
-      expérience !     ⏰  Durée : 30 min  \U0001F3E0  Lieu : à distance par téléphone
-      OU en personne vers Paris Saint-Lazare  \U0001F381  Rémunération : un bon d'achat
-      FNAC de 20€"
+      expérience !\n\n⏰  Durée : **30 min**  \n\n\U0001F3E0  Lieu : à distance **par
+      téléphone** OU en personne vers **Paris Saint-Lazare**\n\n \U0001F381  Rémunération
+      : un **bon d'achat FNAC de 20€**"
+    avatar: ''
   - author: Testez notre application pour mieux gérer votre budget familial
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
+    avatar: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action
