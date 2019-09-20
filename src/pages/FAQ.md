@@ -35,8 +35,11 @@ sections:
       proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
       ça te tente ?"
   - question: Mes données sont-elles en sécurité ?
-    answer: Bien sûr, vos données sont protégées. Tandemz suit la réglementation RGPD
-      et vos données personnelles ne sont jamais transmises à des tiers.
+    answer: Bien sûr, tes données sont protégées. Tandemz suit la réglementation RGPD
+      et tes données personnelles ne sont jamais transmises à des tiers. Tu peux également
+      à tout instant nous demander de te transmettre l'intégralité de tes données
+      sur la plateforme, ainsi que nous demander de supprimer ces données de notre
+      base.
   - question: Puis-je devenir testeur professionnel ?
     answer: Il n'est pas possible de vivre exclusivement des contreparties obtenues
       sur Tandemz. Le nombre de test auxquels tu peux participer est bloqué au-delà
