@@ -24,7 +24,7 @@ sections:
   - title: 1. Parle-nous de toi
     content: Inscris-toi et définis ton profil. Nous t'aiderons à trouver des projets
       qui te correspondent.
-    image: "/images/profile (1).svg"
+    image: "/images/profile.svg"
     actions: []
   - title: 2. Trouve un projet
     content: Notre algorithme détermine les projets qui pourraient t'intéresser. Tu
