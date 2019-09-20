@@ -44,7 +44,7 @@ sections:
     actions: []
 - type: reviewsblock
   template: reviewsblock
-  section_id: studies
+  section_id: reviews
   title: Ces produits on besoin de ton avis
   component: ReviewsBlock
   subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
@@ -67,6 +67,14 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
+- template: studies-section
+  title: Section annonces
+  subtitle: Trop bien de tester !
+  bg: gray
+  studies:
+  - study_title: Viens tester mon app !
+    descritpion: Ce sera dans mon salon et je te paie le thé
+  element_id: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action
