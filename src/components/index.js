@@ -9,6 +9,7 @@ import HeroBlock from './HeroBlock';
 import PostsBlock from './PostsBlock';
 import PricingBlock from './PricingBlock';
 import ReviewsBlock from './ReviewsBlock';
+import StudiesBlock from './StudiesBlock';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
@@ -25,6 +26,7 @@ export {
     PostsBlock,
     PricingBlock,
     ReviewsBlock,
+    StudiesBlock,
     Social,
     SubscribeForm,
     Layout
@@ -42,6 +44,7 @@ export default {
     PostsBlock,
     PricingBlock,
     ReviewsBlock,
+    StudiesBlock,
     Social,
     SubscribeForm,
     Layout

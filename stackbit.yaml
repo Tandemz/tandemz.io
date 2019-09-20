@@ -203,6 +203,7 @@ models:
             - postsblock
             - pricingblock
             - reviewsblock
+            - studiesblock
       - type: page_menus
         name: menus
         label: Home Menus
@@ -629,6 +630,40 @@ models:
             - type: string
               name: content
               label: Content
+  studiesblock:
+  type: object
+  label: Studies Section
+  extends:
+    - section
+  fields:
+    - name: component
+      default: StudiesBlock
+    - type: string
+      name: subtitle
+      label: Subtitle
+      description: The subtitle of the section.
+    - type: enum
+      name: bg
+      label: Background
+      description: The background of the section.
+      options:
+        - gray
+        - white
+      default: gray
+    - type: list
+      name: studies
+      label: Studies
+      items:
+        type: object
+        label: Study
+        labelField: author
+        fields:
+          - type: string
+            name: author
+            label: Author
+          - type: string
+            name: content
+            label: Content
   action:
     type: object
     label: Action
