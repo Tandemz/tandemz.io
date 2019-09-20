@@ -74,7 +74,7 @@ sections:
   studies:
   - study_title: Viens tester mon app !
     descritpion: Ce sera dans mon salon et je te paie le thé
-  element_id: ''
+  element_id: Studies Section
 - type: ctablock
   template: ctablock
   section_id: call-to-action
