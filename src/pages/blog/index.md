@@ -1,5 +1,5 @@
 ---
-title: Blog de Marine
+title: Blog de Tandemz
 menus:
   secondary:
     title: Blog
