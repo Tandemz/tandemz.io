@@ -1,6 +1,6 @@
 ---
 title: Qui sommes-nous ?
-subtitle: La naissance de tandemz - à ré-écrire
+subtitle: Tandemz, une toute nouvelle histoire
 img_path: "/images/Artboard3.svg"
 menus:
   secondary:
@@ -11,4 +11,4 @@ template: page
 ---
 Tandemz sera lancée dans quelques semaines. Nous travaillons d'arrache pied pour faire naître cette toute nouvelle plateforme.
 
-A ré-écrire bien sûr
+N'hésite pas à t'inscrire pour faire partie de la communauté Tandemz et être au courant des nouveautés. Dès que la plateforme sera lancée, nous te préviendrons.
