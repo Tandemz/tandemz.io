@@ -13,4 +13,4 @@ Tandemz, c'est aujourd'hui une équipe de trois fondateurs, France, Marine et Ni
 
 Tandemz sera lancée dans quelques semaines. Nous travaillons d'arrache pied pour faire naître cette toute nouvelle plateforme.
 
-N'hésite pas à [t'inscrire](#call-to-action "t'inscrire") pour faire partie de la communauté Tandemz et être au courant des nouveautés. Dès que la plateforme sera lancée, nous te préviendrons.
+N'hésite pas à [t'inscrire](/#call-to-action "t'inscrire") pour faire partie de la communauté Tandemz et être au courant des nouveautés. Dès que la plateforme sera lancée, nous te préviendrons.
