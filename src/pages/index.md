@@ -35,7 +35,7 @@ sections:
     content: Tout ce que tu as à faire c'est de te présenter au rendez-vous et de
       suivre les instructions de ton interlocuteur. On ne recherche rien de plus que
       ton avis honnête et ton ressenti.
-    image: "/images/Web—Section Left Copy.svg"
+    image: "/images/Discuss.svg"
     actions: []
   - title: 4. Reçois ta rémunération
     content: Une fois que tu as validé ta participation à un projet sur la plateforme,
