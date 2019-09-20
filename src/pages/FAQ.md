@@ -6,11 +6,10 @@ sections:
   section_id: faq
   title: Foire Aux Questions
   component: FaqBlock
-  subtitle: est-ce qu'on met du texte à cet endroit ?
+  subtitle: La réponse à votre question ne se trouve pas ci-dessous ? N'hésite pas
+    à nous contacter directement par mail.
   bg: gray
   faqitems:
-  - question: Qu'est-ce qu'un test utilisateur ?
-    answer: blablabla à finir
   - question: Comment ça marche ?
     answer: |-
       Pour t'inscrire, il te suffit de renseigner tes coordonnées et de cliquer sur "Je participe". Suite à ton inscription, tu recevras un mail de la part de Tandemz t'invitant à renseigner un formulaire. Cela nous permettra de mieux te connaître et de te proposer par la suite des annonces qui te correspondent.
@@ -36,6 +35,8 @@ sections:
       on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises
       proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
       ça te tente ?"
+  - question: Qu'est-ce qu'un test utilisateur ?
+    answer: blablabla à finir
   - question: Mes données sont-elles en sécurité ?
     answer: Bien sûr, tes données sont protégées. Tandemz suit la réglementation RGPD
       et tes données personnelles ne sont jamais transmises à des tiers. Tu peux également
