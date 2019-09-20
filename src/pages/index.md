@@ -42,31 +42,6 @@ sections:
       nous te reversons la rémunération associée.
     image: "/images/Web—Section Left Copy.svg"
     actions: []
-- type: reviewsblock
-  template: reviewsblock
-  section_id: reviews
-  title: Ces produits on besoin de ton avis
-  component: ReviewsBlock
-  subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
-    voir des annonces qui te correspondent !
-  bg: gray
-  reviews:
-  - author: Annonce n°1
-    avatar: ''
-    content: "Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des pièces
-      détachées pour ta voiture - en ligne ou en magasin - viens nous parler de ton
-      expérience !     ⏰  Durée : 30 min  \U0001F3E0  Lieu : à distance par téléphone
-      OU en personne vers Paris Saint-Lazare  \U0001F381  Rémunération : un bon d'achat
-      FNAC de 20€"
-  - author: Jane Roe
-    avatar: images/review2.jpg
-    content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
-      interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
-      vel posuere justo laoreet.
-  - author: Richard Roe
-    avatar: images/review3.jpg
-    content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
-      et malesuada fames ac ante ipsum primis in faucibus.
 - type: studiesblock
   template: studiesblock
   section_id: studies
@@ -76,7 +51,7 @@ sections:
     voir des annonces qui te correspondent !
   bg: gray
   studies:
-  - author: Conducteur, as-tu déjà acheté des pièces détachées pour ta voiture ?
+  - title: Conducteur, as-tu déjà acheté des pièces détachées pour ta voiture ?
     content: "<p>Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des
       pièces détachées pour ta voiture - en ligne ou en magasin - viens nous parler
       de ton expérience !</p><p class=\"AlignLeft\"><strong>⏰ </strong>Durée :<strong>
@@ -84,8 +59,8 @@ sections:
       par téléphone</strong> OU en personne vers <strong>Paris Saint-Lazare</strong></p><p
       class=\"AlignLeft\">\U0001F381 Rémunération : un<strong> bon d'achat FNAC de
       20€</strong></p>"
-    avatar: ''
-  - author: Testez notre application pour mieux gérer votre budget familial
+    url: http://www.airbnb.com
+  - title: Testez notre application pour mieux gérer votre budget familial
     content: "<p class=\"AlignLeft\">Nous cherchons des personnes qui :</p><ul><li><p>doivent
       suivre le budget de la famille au quotidien</p></li><li><p>souhaitent faire
       des économies sur leurs dépenses</p></li><li><p>ne savent pas trop comment trouver
@@ -94,7 +69,7 @@ sections:
       <strong>à distance par téléphone</strong> OU en personne vers <strong>Paris
       Saint-Lazare</strong></p><p class=\"AlignLeft\">\U0001F381 Rémunération : <strong>un
       bon d'achat FNAC de 20€</strong></p>"
-    avatar: ''
+    url: http://www.google.com
 - type: ctablock
   template: ctablock
   section_id: call-to-action
