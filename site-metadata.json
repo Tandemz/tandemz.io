@@ -9,7 +9,7 @@
       "actions": [
         {
           "label": "Je participe",
-          "url": "/contact"
+          "url": "/#call-to-action"
         }
       ]
     }
