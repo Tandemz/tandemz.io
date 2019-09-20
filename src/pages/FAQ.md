@@ -11,11 +11,18 @@ sections:
   faqitems:
   - question: Comment ça marche ?
     answer: Hello Marine !
-  - question: Question 2
-    answer: Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-      tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus mollis feugiat.
-      Praesent nibh libero, placerat et justo at, luctus tristique enim. Pellentesque
-      habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+  - question: Pourquoi devenir testeur ?
+    answer: "Il y a plein de bonnes raisons pour devenir testeur. En voici quelques
+      unes : \n\n* Donne ta voix, change le monde : donne ton avis honnête aux marques
+      et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement
+      la direction que prend un produit ;\n* Découvre de nouveaux produits : des nouveautés
+      qui ne sont même pas encore commercialisées, et si tu découvrais avant tout
+      le monde la future application à la mode ?\n* Suis l'évolution de tes marques
+      préférées : tu es intéressé par des produits en particulier ? Une fois en favoris,
+      dès qu'une nouveauté est à tester, te voilà informé !\n* Ton temps est précieux,
+      on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises
+      proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
+      ça te tente ?"
   - question: Question 3
     answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
       eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
