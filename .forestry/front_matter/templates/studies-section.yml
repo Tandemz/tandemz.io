@@ -35,28 +35,3 @@ fields:
       path: 
   label: Background
   description: The background of the section.
-- name: studies
-  type: field_group_list
-  fields:
-  - name: study_title
-    type: text
-    config:
-      required: true
-    label: Study Title
-    description: The study title
-    default: Viens tester mon app !
-  - name: descritpion
-    type: textarea
-    default: Ce sera dans mon salon et je te paie le thé
-    config:
-      required: true
-      wysiwyg: true
-      schema:
-        format: markdown
-    label: Description
-    description: The study description
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Studies
