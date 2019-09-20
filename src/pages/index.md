@@ -13,15 +13,6 @@ sections:
   actions:
   - label: Je participe
     url: "/#call-to-action"
-- template: contentblock
-  component: ContentBlock
-  bg: gray
-  type: contentblock
-  section_id: test
-  title: Pourquoi devenir testeur ?
-  content: 'Test de Marine '
-  image: ''
-  actions: []
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
