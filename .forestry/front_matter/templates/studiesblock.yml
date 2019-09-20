@@ -37,11 +37,8 @@ fields:
   label: Studies
   fields:
   - type: text
-    name: author
-    label: Author
-  - type: file
-    name: avatar
-    label: Avatar
+    name: title
+    label: Title
   - type: textarea
     name: content
     label: Content
@@ -49,8 +46,11 @@ fields:
       wysiwyg: true
       schema:
         format: html-blocks
+  - type: text
+    name: url
+    label: Screening Url
   config:
-    labelField: author
+    labelField: title
 - type: text
   name: type
   label: Reference Type Name

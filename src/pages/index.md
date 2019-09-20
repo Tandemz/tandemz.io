@@ -60,8 +60,6 @@ sections:
       class=\"AlignLeft\">\U0001F381 Rémunération : un<strong> bon d'achat FNAC de
       20€</strong></p>"
     url: http://www.airbnb.com
-    author: ''
-    avatar: ''
   - title: Testez notre application pour mieux gérer votre budget familial
     content: "<p class=\"AlignLeft\">Nous cherchons des personnes qui :</p><ul><li><p>doivent
       suivre le budget de la famille au quotidien</p></li><li><p>souhaitent faire
@@ -72,8 +70,6 @@ sections:
       Saint-Lazare</strong></p><p class=\"AlignLeft\">\U0001F381 Rémunération : <strong>un
       bon d'achat FNAC de 20€</strong></p>"
     url: http://www.google.com
-    author: ''
-    avatar: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action

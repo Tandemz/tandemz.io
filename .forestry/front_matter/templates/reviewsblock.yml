@@ -37,14 +37,14 @@ fields:
   label: Reviews
   fields:
   - type: text
-    name: title
-    label: Title
+    name: author
+    label: Author
   - type: text
     name: content
     label: Content
-  - type: text
-    name: url
-    label: Screeening url
+  - type: file
+    name: avatar
+    label: Avatar
   config:
     labelField: author
 - type: text
