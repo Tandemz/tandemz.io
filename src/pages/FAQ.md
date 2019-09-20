@@ -20,6 +20,8 @@ sections:
       Une fois sélectionné, Tandemz te fournira toutes les informations nécessaires pour ta participation. Il te suffit simplement de te rendre au rendez-vous à l'heure indiquée. Tu seras ensuite guidé par ton hôte.
 
       Suite au test, Tandemz prendra contact avec toi pour savoir si tout s'est bien déroulé et connaître ton ressenti sur le test. La contrepartie te sera versée dès que ta participation aura été validée par l'entreprise.
+
+      En cas de doute ou de question, n'hésite pas à nous contacter par mail à contact@tandemz.io.
   - question: Pourquoi devenir testeur ?
     answer: "Il y a plein de bonnes raisons pour devenir testeur. En voici quelques
       unes : \n\n* Donne ta voix, change le monde : donne ton avis honnête aux marques
