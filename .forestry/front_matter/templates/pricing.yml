@@ -25,4 +25,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/pricing.md
+- src/pages/FAQ.md
