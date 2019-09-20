@@ -4,7 +4,7 @@ subtitle: La naissance de tandemz - à ré-écrire
 img_path: "/images/Artboard3.svg"
 menus:
   secondary:
-    title: About Us
+    title: A propos de nous
     weight: 1
 template: page
 
