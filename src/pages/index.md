@@ -29,7 +29,7 @@ sections:
   - title: 2. Trouve un projet
     content: Notre algorithme détermine les projets qui pourraient t'intéresser. Tu
       peux aussi parcourir l'ensemble de nos annonces et postuler à celles qui t'intéressent.
-    image: "/images/questionnaire.jpg"
+    image: "/images/feature2.png"
     actions: []
   - title: 3. Participe au projet
     content: Tout ce que tu as à faire c'est de te présenter au rendez-vous et de
