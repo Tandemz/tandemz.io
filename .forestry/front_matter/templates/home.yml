@@ -21,6 +21,7 @@ fields:
   - postsblock
   - pricingblock
   - reviewsblock
+  - studies-section
 - type: text
   name: template
   label: Template
