@@ -34,9 +34,9 @@ sections:
       on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises
       proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
       ça te tente ?"
-  - question: Question 3
-    answer: 'Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-      eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque eget velit. '
+  - question: Mes données sont-elles en sécurité ?
+    answer: Bien sûr, vos données sont protégées. Tandemz suit la réglementation RGPD
+      et vos données personnelles ne sont jamais transmises à des tiers.
   - question: Question 4
     answer: Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac dignissim
       nisi mollis eget. Ut vitae nisi sit amet nisi suscipit dictum faucibus eget
