@@ -9,6 +9,13 @@ fields:
   config:
     required: true
 - type: text
+  name: template
+  label: Template
+  hidden: false
+  default: contact
+  config:
+    required: true
+- type: text
   name: subtitle
   label: Subtitle
   description: The text shown below the page title.
@@ -16,12 +23,5 @@ fields:
   name: img_path
   label: Image
   description: The image shown below the page title.
-- type: text
-  name: template
-  label: Template
-  hidden: false
-  default: contact
-  config:
-    required: true
 pages:
 - src/pages/contact.md
