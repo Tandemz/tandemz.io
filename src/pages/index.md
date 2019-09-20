@@ -77,11 +77,13 @@ sections:
   bg: gray
   studies:
   - author: Conducteur, as-tu déjà acheté des pièces détachées pour ta voiture ?
-    content: "Essuie-glace, pneu, huile, alternateur...Si tu as déjà acheté des pièces
-      détachées pour ta voiture - en ligne ou en magasin - viens nous parler de ton
-      expérience !\n\n⏰  Durée : **30 min**  \n\n\U0001F3E0  Lieu : à distance **par
-      téléphone** OU en personne vers **Paris Saint-Lazare**\n\n \U0001F381  Rémunération
-      : un **bon d'achat FNAC de 20€**"
+    content: "<p>Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des
+      pièces détachées pour ta voiture - en ligne ou en magasin - viens nous parler
+      de ton expérience !</p><p class=\"AlignLeft\"><strong>⏰ </strong>Durée :<strong>
+      30 min</strong></p><p class=\"AlignLeft\">\U0001F3E0 Lieu : <strong>à distance
+      par téléphone</strong> OU en personne vers <strong>Paris Saint-Lazare</strong></p><p
+      class=\"AlignLeft\">\U0001F381 Rémunération : un<strong> bon d'achat FNAC de
+      20€</strong></p>"
     avatar: ''
   - author: Testez notre application pour mieux gérer votre budget familial
     content: "Nous cherchons des personnes qui :\n\n* doivent suivre le budget de
