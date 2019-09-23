@@ -10,6 +10,10 @@ sections:
     pas à nous contacter directement par mail.
   bg: gray
   faqitems:
+  - question: Pourquoi les entreprises ont-elles besoin de moi ?
+    answer: Pour avoir ton avis et anticiper tes besoins et construire des produits
+      qui t'apportent des vraies solutions satisfaisantes. Pour voir les problèmes
+      potentiels, les détecter et les corriger.
   - question: Comment ça marche ?
     answer: |-
       Pour t'inscrire, il te suffit de renseigner tes coordonnées et de cliquer sur "Je participe". Suite à ton inscription, tu recevras un mail de la part de Tandemz t'invitant à renseigner un formulaire. Cela nous permettra de mieux te connaître et de te proposer par la suite des annonces qui te correspondent.
