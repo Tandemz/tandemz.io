@@ -46,6 +46,10 @@ h6 {
   &:first-child {
     margin-top: 0;
   }
+
+  p {
+    margin: inherit;
+  }
 }
 
 h1 {

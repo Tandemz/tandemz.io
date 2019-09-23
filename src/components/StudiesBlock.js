@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, Link, safePrefix} from '../utils';
+import {htmlToReact, markdownify} from '../utils';
 
 export default class StudiesBlock extends React.Component {
     render() {

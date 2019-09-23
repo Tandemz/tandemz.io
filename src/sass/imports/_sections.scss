@@ -21,7 +21,7 @@
   }
 }
 
-.block-preview {
+.block-preview, .hero-preview {
   margin-bottom: 1.66667rem;
 }
 
@@ -98,6 +98,12 @@
       padding-right: 68px;
     }
 
+    .hero-preview {
+      -webkit-flex: 7;
+      -ms-flex: 7;
+      flex: 7;
+    }
+
     .block-content {
       -webkit-flex: 5;
       -ms-flex: 5;
@@ -126,6 +132,10 @@
     .block-preview {
       padding-left: 68px;
       padding-right: 0;
+    }
+
+    .hero-preview {
+      padding-left: 32px;
     }
   }
 }

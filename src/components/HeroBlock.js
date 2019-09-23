@@ -10,7 +10,7 @@ export default class HeroBlock extends React.Component {
               <div className="inner">
                 <div className="grid">
                   {_.get(this.props, 'section.image') && 
-                  <div className="cell block-preview">
+                  <div className="cell hero-preview">
                     <img src={safePrefix(_.get(this.props, 'section.image'))} alt={_.get(this.props, 'section.title')} />
                   </div>
                   }
