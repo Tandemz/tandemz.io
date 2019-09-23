@@ -21,25 +21,19 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Faisons un peu connaissance
-    content: Aide nous à comprendre quels projets pourraient te correspondre en renseignant
-      ton profil. Tu peux même nous indiquer si tu souhaites tester des produits en
-      particulier !
-    image: "/images/profile.svg"
-    actions: []
-  - title: 2. Trouve un projet
-    content: Notre algorithme détermine les projets qui te correspondent le plus.
-      Tu peux aussi consulter les avis ou parcourir l'ensemble de nos annonces et
-      postuler à celles qui t'intéressent.
+  - title: 1. Trouve un projet
+    content: Notre algorithme détermine les projets qui correspondent le plus à ton
+      profil. Tu peux aussi parcourir l'ensemble de nos annonces et postuler à celles
+      qui t'intéressent.
     image: "/images/Choose.svg"
     actions: []
-  - title: 3. Participe au projet
+  - title: 2. Participe au projet
     content: Ton interlocuteur professionnel te transmet les informations. Il ne te
       reste plus qu'à te présenter au rendez-vous et suivre le déroulé du test. On
       ne recherche rien de plus que ton avis honnête et ton ressenti.
     image: "/images/Discuss.svg"
     actions: []
-  - title: 4. Reçois ta rémunération
+  - title: 3. Reçois ta rémunération
     content: 'Une fois que tu nous as confirmé que tout s''est bien déroulé pour toi,
       nous te reversons la rémunération associée. Prêt à recommencer? '
     image: "/images/Payment.svg"
