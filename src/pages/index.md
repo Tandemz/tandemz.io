@@ -29,8 +29,8 @@ sections:
     actions: []
   - title: 1. Trouve un projet
     content: Notre algorithme détermine les projets qui correspondent le plus à ton
-      profil. Tu peux également consulter les avis ou parcourir l'ensemble de nos
-      annonces. Lorsque tu as fait ton choix, il ne te reste plus qu'à postuler.
+      profil. Tu peux aussi parcourir l'ensemble de nos annonces et postuler à celles
+      qui t'intéressent.
     image: "/images/Choose.svg"
     actions: []
   - title: 2. Participe au projet
