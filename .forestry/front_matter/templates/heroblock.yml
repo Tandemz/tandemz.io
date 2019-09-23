@@ -6,10 +6,15 @@ fields:
 - type: text
   name: section_id
   label: Element ID
-- type: text
+- type: textarea
   name: title
   label: Title
-  description: The title of the section.
+  description: The title of the section
+  config:
+    required: true
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: text
   name: component
   label: Component
