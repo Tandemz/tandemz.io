@@ -29,7 +29,7 @@ sections:
 
       En voici quelques unes :
 
-      * Donne ta voix, change le monde : donne ton avis honnête aux marques et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement la direction que prend un produit ;
+      * Donne ta voix, change le monde : donne ton avis honnête aux marques et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement la direction que prend un produit.
       * Tu vas peut-être tester des nouveautés qui ne sont même pas encore commercialisées, et si tu découvrais avant tout le monde la future application à la mode ?
       * Suis l'évolution de tes marques préférées : tu es intéressé par des produits en particulier ? Une fois en favoris, dès qu'une nouveauté est à tester, te voilà informé !
       * Ton temps est précieux, on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises proposent une contrepartie à ta participation. Etre payé pour donner ton avis, ça te tente ?
