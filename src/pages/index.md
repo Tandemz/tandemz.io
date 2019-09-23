@@ -34,10 +34,10 @@ sections:
     image: "/images/Choose.svg"
     actions: []
   - title: 3. Participe au projet
-    content: Tous les détails d'organisation te seront transmis par ton futur interlocuteur.
-      Il ne te restera plus qu'à te présenter au rendez-vous et suivre le déroulé
-      du test. Pas d'inquiétude, on ne recherche rien de plus que ton avis honnête
-      et ton ressenti.
+    content: Tous les détails d'organisation te sont transmis par ton futur interlocuteur.
+      Il ne te reste plus qu'à te présenter au rendez-vous et suivre le déroulé du
+      test. Pas d'inquiétude, on ne recherche rien de plus que ton avis honnête et
+      ton ressenti.
     image: "/images/Discuss.svg"
     actions: []
   - title: 4. Reçois ta rémunération
