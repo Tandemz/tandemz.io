@@ -33,7 +33,7 @@ sections:
       postuler à celles qui t'intéressent.
     image: "/images/Choose.svg"
     actions: []
-  - title: 3. Participe au projet
+  - title: 2. Participe au projet
     content: Ton interlocuteur professionnel te transmet les informations. Il ne te
       reste plus qu'à te présenter au rendez-vous et suivre le déroulé du test. On
       ne recherche rien de plus que ton avis honnête et ton ressenti.
