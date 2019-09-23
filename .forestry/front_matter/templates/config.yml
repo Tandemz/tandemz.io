@@ -8,6 +8,12 @@ fields:
   description: Site title
   config:
     required: true
+- type: text
+  name: description
+  label: Description
+  description: Site description
+  config:
+    required: true
 - type: select
   name: palette
   label: Color Palette
