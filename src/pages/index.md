@@ -27,7 +27,7 @@ sections:
       particulier !
     image: "/images/profile.svg"
     actions: []
-  - title: 2. Trouve un projet
+  - title: 1. Trouve un projet
     content: Notre algorithme détermine les projets qui te correspondent le plus.
       Tu peux aussi consulter les avis ou parcourir l'ensemble de nos annonces et
       postuler à celles qui t'intéressent.
