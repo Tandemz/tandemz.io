@@ -24,7 +24,7 @@ export default class StudiesBlock extends React.Component {
                       <div className="study-title">
                         <p>{_.get(review, 'title')}</p>
                       </div>
-                      <p className="study-text">{htmlToReact(_.get(review, 'content'))}</p>
+                      <p className="study-text">{markdownify(_.get(review, 'content'))}</p>
                       <div class="menu-button">
                         <a href={_.get(review, 'url')} className="button">Je participe</a>
                       </div>
