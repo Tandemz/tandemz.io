@@ -24,17 +24,15 @@ sections:
 
       En cas de doute ou de question, n'hésite pas à nous contacter par mail à [contact@tandemz.io](mailto:contact@tandemz.io "contact@tandemz.io").
   - question: Pourquoi devenir testeur ?
-    answer: "Il y a plein de bonnes raisons pour devenir testeur. \n\nEn voici quelques
-      unes :\n\n* Donne ta voix, change le monde : donne ton avis honnête aux marques
-      et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement
-      la direction que prend un produit ;\n* Découvre de nouveaux produits : des nouveautés
-      qui ne sont même pas encore commercialisées, et si tu découvrais avant tout
-      le monde la future application à la mode ?\n* Suis l'évolution de tes marques
-      préférées : tu es intéressé par des produits en particulier ? Une fois en favoris,
-      dès qu'une nouveauté est à tester, te voilà informé !\n* Ton temps est précieux,
-      on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises
-      proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
-      ça te tente ?"
+    answer: |-
+      Il y a plein de bonnes raisons pour devenir testeur.
+
+      En voici quelques unes :
+
+      * Donne ta voix, change le monde : donne ton avis honnête aux marques et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement la direction que prend un produit ;
+      * Tu vas peut-être tester des nouveautés qui ne sont même pas encore commercialisées, et si tu découvrais avant tout le monde la future application à la mode ?
+      * Suis l'évolution de tes marques préférées : tu es intéressé par des produits en particulier ? Une fois en favoris, dès qu'une nouveauté est à tester, te voilà informé !
+      * Ton temps est précieux, on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises proposent une contrepartie à ta participation. Etre payé pour donner ton avis, ça te tente ?
   - question: Qu'est-ce qu'un test utilisateur ?
     answer: "Un test utilisateur permet aux entreprises de confronter leur produit
       ou application à la réalité des utilisateurs. L'objectif d'un test utilisateur
