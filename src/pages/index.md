@@ -22,10 +22,9 @@ sections:
   bg: white
   featureslist:
   - title: 1. Faisons un peu connaissance
-    content: Une fois inscrit sur notre plateforme, nous t'invitons à renseigner ton
-      profil. Nous pourrons alors te proposer des projets qui te correspondent mieux.
-      Tu peux même nous indiquer si tu souhaites tester des produits en particulier
-      !
+    content: Aide nous à comprendre quels projets pourraient te correspondre en renseignant
+      ton profil. Tu peux même nous indiquer si tu souhaites tester des produits en
+      particulier !
     image: "/images/profile.svg"
     actions: []
   - title: 2. Trouve un projet
