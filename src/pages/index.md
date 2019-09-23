@@ -39,7 +39,7 @@ sections:
       ne recherche rien de plus que ton avis honnête et ton ressenti.
     image: "/images/Discuss.svg"
     actions: []
-  - title: 4. Reçois ta rémunération
+  - title: 3. Reçois ta rémunération
     content: 'Une fois que tu nous as confirmé que tout s''est bien déroulé pour toi,
       nous te reversons la rémunération associée. Prêt à recommencer? '
     image: "/images/Payment.svg"
