@@ -21,9 +21,11 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Parle-nous de toi
-    content: Inscris-toi et définis ton profil. Nous t'aiderons à trouver des projets
-      qui te correspondent.
+  - title: 1. Faisons un peu connaissance
+    content: Une fois inscrit sur notre plateforme, nous t'invitons à renseigner ton
+      profil. Nous pourrons alors te proposer des projets qui te correspondent mieux.
+      Tu peux même nous indiquer si tu souhaites tester des produits en particulier
+      !
     image: "/images/profile.svg"
     actions: []
   - title: 2. Trouve un projet
