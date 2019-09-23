@@ -35,9 +35,10 @@ sections:
     image: "/images/Choose.svg"
     actions: []
   - title: 3. Participe au projet
-    content: Tout ce que tu as à faire c'est de te présenter au rendez-vous et de
-      suivre les instructions de ton interlocuteur. On ne recherche rien de plus que
-      ton avis honnête et ton ressenti.
+    content: Tous les détails d'organisation te seront transmis par ton futur interlocuteur.
+      Il ne te restera plus qu'à te présenter au rendez-vous et suivre le déroulé
+      du test. Pas d'inquiétude, on ne recherche rien de plus que ton avis honnête
+      et ton ressenti.
     image: "/images/Discuss.svg"
     actions: []
   - title: 4. Reçois ta rémunération
