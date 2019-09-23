@@ -27,8 +27,9 @@ sections:
     image: "/images/profile.svg"
     actions: []
   - title: 2. Trouve un projet
-    content: Notre algorithme détermine les projets qui pourraient t'intéresser. Tu
-      peux aussi parcourir l'ensemble de nos annonces et postuler à celles qui t'intéressent.
+    content: Notre algorithme détermine les projets qui te correspondent le plus.
+      Tu peux aussi parcourir l'ensemble de nos annonces et postuler à celles qui
+      t'intéressent.
     image: "/images/Choose.svg"
     actions: []
   - title: 3. Participe au projet
