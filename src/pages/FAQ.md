@@ -36,7 +36,16 @@ sections:
       proposent une contrepartie à ta participation. Etre payé pour donner ton avis,
       ça te tente ?"
   - question: Qu'est-ce qu'un test utilisateur ?
-    answer: blablabla à finir
+    answer: "Un test utilisateur permet aux entreprises de confronter leur produit
+      ou application à la réalité des utilisateurs. L'objectif d'un test utilisateur
+      est de comprendre la manière dont les utilisateurs se servent de leur produit
+      et les difficultés qu'ils peuvent rencontrer. \n\nLes entreprises cherchent
+      donc à rencontrer des utilisateurs représentant leur cœur de cible afin d'étudier
+      leurs besoins, leur façon de penser et de réagir face au produit.\n\nIl existe
+      différents formats de tests utilisateurs : à distance ou en face-à-face, en
+      situation ou non, interview ou observation, test d'un prototype ou test du produit
+      existant, en groupe ou seul. Chaque entreprise choisit sa méthode de test adaptée.
+      Le seul impératif : que les utilisateurs soient francs dans leurs réponses."
   - question: Mes données sont-elles en sécurité ?
     answer: Bien sûr, tes données sont protégées. Tandemz suit la réglementation RGPD
       et tes données personnelles ne sont jamais transmises à des tiers. Tu peux également
