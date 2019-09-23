@@ -21,12 +21,6 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Faisons un peu connaissance
-    content: Aide nous à comprendre quels projets pourraient te correspondre en renseignant
-      ton profil. Tu peux même nous indiquer si tu souhaites tester des produits en
-      particulier !
-    image: "/images/profile.svg"
-    actions: []
   - title: 1. Trouve un projet
     content: Notre algorithme détermine les projets qui correspondent le plus à ton
       profil. Tu peux aussi parcourir l'ensemble de nos annonces et postuler à celles
