@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Et si les produits de demain se dessinaient à deux ?
+  title: Toi aussi donne un coup de pouce aux nouveautés de demain
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de toi pour mieux construire
     leurs futurs produits. Teste leurs nouveautés, discute et partage ton avis avec
