@@ -41,8 +41,8 @@ sections:
     image: "/images/Discuss.svg"
     actions: []
   - title: 4. Reçois ta rémunération
-    content: Une fois que tu as validé sur la plateforme ta participation à un projet,
-      nous te reversons la rémunération associée. Tout s'est bien passé ?
+    content: 'Une fois que tu nous as confirmé que tout s''est bien déroulé pour toi,
+      nous te reversons la rémunération associée. Prêt à recommencer? '
     image: "/images/Payment.svg"
     actions: []
 - type: studiesblock
