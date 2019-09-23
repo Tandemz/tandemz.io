@@ -38,7 +38,7 @@ sections:
     image: "/images/Discuss.svg"
     actions: []
   - title: 4. Reçois ta rémunération
-    content: Une fois que tu as validé ta participation à un projet sur la plateforme,
+    content: Une fois que tu as validé sur la plateforme ta participation à un projet,
       nous te reversons la rémunération associée.
     image: "/images/Payment.svg"
     actions: []
