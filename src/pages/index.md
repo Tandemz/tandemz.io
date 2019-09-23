@@ -60,7 +60,7 @@ sections:
       class=\"AlignLeft\">\U0001F381 Rémunération : un<strong> bon d'achat FNAC de
       20€</strong></p>"
     url: http://www.airbnb.com
-  - title: Teste notre application pour mieux gérer ton budget familial
+  - title: Teste une application permettant de mieux gérer ton budget familial
     content: "<p class=\"AlignLeft\">Nous cherchons des personnes qui :</p><ul><li><p>doivent
       suivre le budget de la famille au quotidien</p></li><li><p>souhaitent faire
       des économies sur leurs dépenses</p></li><li><p>ne savent pas trop comment trouver
