@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Teste des nouveautés et donne un coup de pouce au futur
+  title: Teste des nouveautés. Partage ton avis. Améliore ton futur.
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de toi pour mieux construire
     leurs futurs produits. Teste leurs nouveautés, discute et partage ton avis avec
