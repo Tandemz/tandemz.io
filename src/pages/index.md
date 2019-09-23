@@ -9,7 +9,7 @@ sections:
   content: Les entreprises et les marques ont besoin de toi pour mieux construire
     leurs futurs produits. Teste leurs nouveautés, discute et partage ton avis avec
     elles. Tu n'y connais rien ? Justement, pour elles, ton avis est précieux !
-  image: "/images/Web—Section Left Copy.svg"
+  image: "/images/Hero.svg"
   actions:
   - label: Je participe
     url: "/#call-to-action"
