@@ -19,15 +19,16 @@ sections:
   component: ValueBlock
   value_title_1: Pourquoi l'entreprise le fait
   value_content_1: 'Mettre l''utilisateur au centre de la conception : on l''observe,
-    conditions réelles Anticiper tes besoins Construire des produits qui t''apportent
-    des vraies solutions satisfaisantes Voir les problèmes potentiels, les détecter
-    et les corriger'
+    conditions réelles Elle peuvent anticiper tes besoins, détecter et corriger les
+    problèmes et ainsi construire de vraies solutions satisfaisantes pour tous.'
   value_title_2: Pourquoi toi tu dois le faire
   value_content_2: En participant à des projets, tu peux enfin donner ton avis sur
     des produits, des prototypes ou des nouveautés qui t'intéressent. Bien sûr, ton
     temps est précieux, le entreprises te proposent une contrepartie (bons de réduction,
     promos ou bien argent) en échange de ton temps.
   bg: gray
+  title: ''
+  subtitle: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
