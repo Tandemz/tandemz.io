@@ -10,6 +10,7 @@ import PostsBlock from './PostsBlock';
 import PricingBlock from './PricingBlock';
 import ReviewsBlock from './ReviewsBlock';
 import StudiesBlock from './StudiesBlock';
+import ValueBlock from './ValueBlock';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
@@ -27,6 +28,7 @@ export {
     PricingBlock,
     ReviewsBlock,
     StudiesBlock,
+    ValueBlock,
     Social,
     SubscribeForm,
     Layout
@@ -45,6 +47,7 @@ export default {
     PricingBlock,
     ReviewsBlock,
     StudiesBlock,
+    ValueBlock,
     Social,
     SubscribeForm,
     Layout

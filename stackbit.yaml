@@ -204,6 +204,7 @@ models:
             - pricingblock
             - reviewsblock
             - studiesblock
+            - valueblock
       - type: page_menus
         name: menus
         label: Home Menus
@@ -664,6 +665,38 @@ models:
           - type: string
             name: content
             label: Content
+  valueblock:
+  type: object
+  label: Value Section
+  extends:
+    - section
+  fields:
+    - name: component
+      default: ValueBlock
+    - type: string
+      name: subtitle
+      label: Subtitle
+      description: The subtitle of the section.
+    - type: enum
+      name: bg
+      label: Background
+      description: The background of the section.
+      options:
+        - gray
+        - white
+      default: gray
+    - type: string
+      name: value_title_1
+      label: Value Title 1
+    - type: string
+      name: value_content_1
+      label: Value Content 1
+    - type: string
+      name: value_title_2
+      label: Value Title 2
+    - type: string
+      name: value_content_2
+      label: Value Content 2
   action:
     type: object
     label: Action
