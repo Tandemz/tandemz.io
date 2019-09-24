@@ -19,10 +19,16 @@ sections:
   title: Je ne sais pas s'il y a besoin d'un titre
   component: ValueBlock
   subtitle: Au pire tu l'enlèves :)
-  value_title_1: Valeur 1
-  value_content_1: Blablabla
-  value_title_2: Valeur 2
-  value_content_2: Blablabla
+  value_title_1: Pourquoi l'entreprise le fait
+  value_content_1: 'Mettre l''utilisateur au centre de la conception : on l''observe,
+    conditions réelles Anticiper tes besoins Construire des produits qui t''apportent
+    des vraies solutions satisfaisantes Voir les problèmes potentiels, les détecter
+    et les corriger'
+  value_title_2: Pourquoi toi tu dois le faire
+  value_content_2: En participant à des projets, tu peux enfin donner ton avis sur
+    des produits, des prototypes ou des nouveautés qui t'intéressent. Bien sûr, ton
+    temps est précieux, le entreprises te proposent une contrepartie (bons de réduction,
+    promos ou bien argent) en échange de ton temps.
   bg: gray
 - type: featuresblock
   template: featuresblock
