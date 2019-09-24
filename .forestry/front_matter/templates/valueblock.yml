@@ -1,15 +1,11 @@
 ---
 label: Value Section
 hide_body: true
-display_field: title
+display_field: section_id
 fields:
 - type: text
   name: section_id
   label: Element ID
-- type: text
-  name: title
-  label: Title
-  description: The title of the section.
 - type: text
   name: component
   label: Component
@@ -17,10 +13,6 @@ fields:
   default: ValueBlock
   config:
     required: true
-- type: text
-  name: subtitle
-  label: Subtitle
-  description: The subtitle of the section.
 - type: select
   name: bg
   label: Background

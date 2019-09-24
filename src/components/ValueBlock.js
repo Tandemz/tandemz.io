@@ -8,14 +8,6 @@ export default class ValueBlock extends React.Component {
     render() {
         return (
             <section id={_.get(this.props, 'section.section_id')} className={'block features-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
-              <div className="block-header inner-small">
-                <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
-                {_.get(this.props, 'section.subtitle') && 
-                <p className="block-subtitle">
-                  {htmlToReact(_.get(this.props, 'section.subtitle'))}
-                </p>
-                }
-              </div>
               <div className="inner">
                 <div className="block-item">
                   <div className="grid-no-reverse">

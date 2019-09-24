@@ -16,9 +16,7 @@ sections:
 - type: valueblock
   template: valueblock
   section_id: value
-  title: Je ne sais pas s'il y a besoin d'un titre
   component: ValueBlock
-  subtitle: Au pire tu l'enlèves :)
   value_title_1: Valeur 1
   value_content_1: Blablabla
   value_title_2: Valeur 2
