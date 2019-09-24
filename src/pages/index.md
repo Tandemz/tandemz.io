@@ -17,17 +17,19 @@ sections:
   template: valueblock
   section_id: value
   component: ValueBlock
-  value_title_1: Ce que ta participation t'apporte à toi
+  value_title_1: Ce que ce t'apporte à toi
   value_content_1: En participant à des projets, tu peux enfin donner ton avis sur
     des produits, des prototypes ou des nouveautés qui t'intéressent. Bien sûr, ton
     temps est précieux, les entreprises te proposent une contrepartie (bons de réduction,
     promos ou bien argent) en échange de ton temps.
-  value_title_2: Ce que ta participation apporte aux entreprises
-  value_content_2: En t'observant tester leur prototype ou bien en discutant avec
-    toi sur ta façon de penser, les entreprises parviennent à mieux anticiper tes
-    besoins ou à détecteer les problèmes d'utilisation. Elles peuvent alors construire
-    de vraies solutions satisfaisantes pour tous sur la base de tes retours.
+  value_title_2: Ce que cela apporte aux entreprises
+  value_content_2: Discuter avec toi leur permet de comprendre tes besoins ou tes
+    envies. Te voir manipuler leur permet d'identifier les manques ou les blocages.
+    En somme, elles cherchent à te connaître pour dessiner un produit qui t'est totalement
+    adapté !
   bg: gray
+  title: ''
+  subtitle: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
