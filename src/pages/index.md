@@ -24,7 +24,7 @@ sections:
   value_title_2: Pourquoi toi tu dois le faire
   value_content_2: En participant à des projets, tu peux enfin donner ton avis sur
     des produits, des prototypes ou des nouveautés qui t'intéressent. Bien sûr, ton
-    temps est précieux, le entreprises te proposent une contrepartie (bons de réduction,
+    temps est précieux, les entreprises te proposent une contrepartie (bons de réduction,
     promos ou bien argent) en échange de ton temps.
   bg: gray
   title: ''
