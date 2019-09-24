@@ -17,7 +17,7 @@ sections:
   template: valueblock
   section_id: value
   component: ValueBlock
-  value_title_1: Ce que ce t'apporte à toi
+  value_title_1: Ce que cela t'apporte à toi
   value_content_1: En participant à des projets, tu peux enfin donner ton avis sur
     des produits, des prototypes ou des nouveautés qui t'intéressent. Bien sûr, ton
     temps est précieux, les entreprises te proposent une contrepartie (bons de réduction,
