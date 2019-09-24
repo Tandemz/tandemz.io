@@ -673,10 +673,6 @@ models:
   fields:
     - name: component
       default: ValueBlock
-    - type: string
-      name: subtitle
-      label: Subtitle
-      description: The subtitle of the section.
     - type: enum
       name: bg
       label: Background

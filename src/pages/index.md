@@ -28,8 +28,6 @@ sections:
     besoins ou à détecteer les problèmes d'utilisation. Elles peuvent alors construire
     de vraies solutions satisfaisantes pour tous sur la base de tes retours.
   bg: gray
-  title: ''
-  subtitle: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
