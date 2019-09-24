@@ -18,7 +18,7 @@ export default class ValueBlock extends React.Component {
               </div>
               <div className="inner">
                 <div className="block-item">
-                  <div className="grid">
+                  <div className="grid-no-reverse">
                     <div className="cell block-content">
                       <h3 className="block-title underline">
                         {_.get(this.props, 'section.value_title_1')}

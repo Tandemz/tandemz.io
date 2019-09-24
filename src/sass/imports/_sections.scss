@@ -64,7 +64,8 @@
   .hero-block,
   .text-block,
   .block-item {
-    .grid {
+    .grid,
+    .grid-no-reverse {
       -ms-flex-align: center;
       -webkit-align-items: center;
       align-items: center;
