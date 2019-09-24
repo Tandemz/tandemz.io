@@ -41,7 +41,7 @@ sections:
 - type: studiesblock
   template: studiesblock
   section_id: studies
-  title: Ces produits on besoin de ton avis
+  title: Ces produits ont besoin de ton avis
   component: StudiesBlock
   subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
     voir des annonces qui te correspondent !
