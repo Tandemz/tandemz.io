@@ -7,7 +7,7 @@ import CtaButtons from './CtaButtons';
 export default class ValueBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className={'block features-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
+            <section id={_.get(this.props, 'section.section_id')} className={'block value-block bg-' + _.get(this.props, 'section.bg') + ' outer'}>
               <div className="inner">
                 <div className="block-item">
                   <div className="top-grid">
