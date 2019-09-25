@@ -18,11 +18,11 @@ sections:
   section_id: value
   component: ValueBlock
   value_title_1: Ce que cela t'apporte
-  value_content_1: En participant à des projets, tu peux enfin donner ton avis sur
-    des produits, des prototypes ou des nouveautés qui t'intéressent. Tu vas peut-être
-    tester en avant-première LA nouveauté de ta marque préférée, ou bien découvrir
-    des produits dont tu n'avais jamais entendu parler. Bien sûr, ton temps est précieux,
-    on te rémunère.
+  value_content_1: Tu vas enfin pouvoir donner ton avis ; ta parole a le pouvoir de
+    changer complètement la direction que prend un produit. En plus, tu vas peut-être
+    avoir l'occasion de tester en avant-première LA nouveauté de ta marque préférée,
+    ou bien découvrir des produits dont tu n'avais jamais entendu parler. Bien sûr,
+    ton temps est précieux, on te rémunère.
   value_title_2: Ce que cela apporte aux entreprises
   value_content_2: Discuter avec toi leur permet de comprendre tes besoins ou tes
     envies. Te voir manipuler leur permet d'identifier les manques ou les blocages.
