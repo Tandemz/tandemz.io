@@ -23,10 +23,9 @@ sections:
     ou bien découvrir des produits dont tu n'avais jamais entendu parler. Bien sûr,
     ton temps est précieux, on te rémunère.
   value_title_2: Ce que cela apporte aux entreprises
-  value_content_2: Discuter avec toi leur permet de comprendre tes besoins ou tes
-    envies. Te voir manipuler leur permet d'identifier les manques ou les blocages.
-    En somme, elles cherchent à te connaître pour dessiner un produit qui t'est totalement
-    adapté !
+  value_content_2: Tes retours, besoins et envies sont des ressources inestimables
+    pour les entreprises. Te rencontrer, te faire manipuler leurs produits, c'est
+    s'assurer que ceux-ci te plairont et répondront vraiment à tes besoins.
   bg: gray
   title: ''
   subtitle: ''
