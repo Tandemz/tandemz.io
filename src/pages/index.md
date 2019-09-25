@@ -19,7 +19,7 @@ sections:
   component: ValueBlock
   value_title_1: Ce que cela t'apporte
   value_content_1: Ton avis peut changer complètement la direction que prend un produit.
-    En plus, tu vas peut-être tester en avant-première LA nouveauté de ta marque préférée
+    Et tu vas peut-être tester en avant-première LA nouveauté de ta marque préférée
     ou découvrir des produits dont tu n'as jamais entendu parler. Bien sûr, ton temps
     est précieux, on te rémunère.
   value_title_2: Ce que cela apporte aux entreprises
