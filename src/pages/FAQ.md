@@ -44,10 +44,6 @@ sections:
       situation ou non, interview ou observation, test d'un prototype ou test du produit
       existant, en groupe ou seul. Chaque entreprise choisit sa méthode de test adaptée.
       Le seul impératif : que les utilisateurs soient francs dans leurs réponses."
-  - question: Pourquoi les entreprises ont-elles besoin de moi ?
-    answer: Pour avoir ton avis et anticiper tes besoins et construire des produits
-      qui t'apportent des vraies solutions satisfaisantes. Pour voir les problèmes
-      potentiels, les détecter et les corriger.
   - question: Mes données sont-elles en sécurité ?
     answer: Bien sûr, tes données sont protégées. Tandemz suit la réglementation RGPD
       et tes données personnelles ne sont jamais transmises à des tiers. Tu peux également
