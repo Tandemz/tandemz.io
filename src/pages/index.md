@@ -65,10 +65,10 @@ sections:
   studies:
   - title: Tu as envoyé des faire-parts ou tu vas bientôt le faire ? Raconte-nous
       comment ça s'est passé !
-    content: "**Faire-parts de mariage ou de naissance,** si tu en as envoyés cette
-      année ou compte le faire bientôt, alors ton expérience nous intéresse. Notre
-      site de commande et personnalisation de faire part n'attend que tes retours
-      pour s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
+    content: "Faire-parts de mariage ou de naissance, si tu en as envoyés cette année
+      ou compte le faire bientôt, alors ton expérience nous intéresse. Notre site
+      de commande et personnalisation de faire part n'attend que tes retours pour
+      s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
       par téléphone**\n\n\U0001F381 Rémunération : un **bon d'achat Amazon de 30€**
       ou **un bon de réduction de 40€ sur notre site**"
     url: ''
