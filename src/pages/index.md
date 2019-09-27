@@ -18,10 +18,10 @@ sections:
   section_id: value
   component: ValueBlock
   value_title_1: Pour toi
-  value_content_1: Ton avis peut changer complètement la direction que prend un produit.
-    Et tu vas peut-être tester en avant-première LA nouveauté de ta marque préférée
-    ou découvrir des produits dont tu n'as jamais entendu parler. Bien sûr, ton temps
-    est précieux, on te rémunère.
+  value_content_1: Ton avis a un impact énorme et peut complètement changer la direction
+    que prend un produit. Tu vas peut-être tester en avant-première LA nouveauté de
+    ta marque préférée ou découvrir des produits complètement inédits. Et comme ton
+    temps est précieux, on te rémunère !
   value_title_2: Pour les entreprises
   value_content_2: Tes retours, besoins et envies sont des ressources inestimables
     pour les entreprises. Te rencontrer, te faire manipuler leurs produits, c'est
