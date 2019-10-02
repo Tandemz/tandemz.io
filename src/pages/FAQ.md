@@ -29,10 +29,10 @@ sections:
 
       En voici quelques unes :
 
-      * Donne ta voix, change le monde : donne ton avis honnête aux marques et entreprises que tu rencontres. Ta parole a le pouvoir de changer complètement la direction que prend un produit.
-      * Tu vas peut-être tester des nouveautés qui ne sont même pas encore commercialisées, et si tu découvrais avant tout le monde la future application à la mode ?
-      * Suis l'évolution de tes marques préférées : tu es intéressé par des produits en particulier ? Une fois en favoris, dès qu'une nouveauté est à tester, te voilà informé !
-      * Ton temps est précieux, on te rémunère : bons de réduction, codes promotionnels, argent, les entreprises proposent une contrepartie à ta participation. Etre payé pour donner ton avis, ça te tente ?
+      * Donnez votre voix, changez le monde : donnez votre avis honnête aux marques et entreprises que vous rencontrez. Votre parole a le pouvoir de changer complètement la direction que prend un produit.
+      * Vous allez peut-être tester des nouveautés qui ne sont même pas encore commercialisées ! Et si vous découvriez avant tout le monde la future application à la mode ?
+      * Suivez l'évolution de vos marques préférées : vous êtes intéressé par des produits en particulier ? Une fois en favoris, dès qu'une nouveauté est à tester, vous voilà informé !
+      * Votre temps est précieux, nous vous rémunérons : bons de réduction, codes promotionnels, argent, les entreprises proposent une récompense à votre participation. Etre payé pour donner votre avis, ça vous tente ?
   - question: Qu'est-ce qu'un test utilisateur ?
     answer: "Un test utilisateur permet aux entreprises de confronter leur produit
       ou application à la réalité des utilisateurs. L'objectif d'un test utilisateur
