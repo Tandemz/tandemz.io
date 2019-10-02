@@ -44,10 +44,10 @@ sections:
       à celles qui vous intéressent.
     image: "/images/Choose.svg"
     actions: []
-  - title: 2. Participez au projet
-    content: Votre interlocuteur professionnel vous transmet les informations. Il
-      ne vous reste plus qu'à vous présenter au rendez-vous et suivre le déroulé de
-      la rencontre. On ne recherche rien de plus que votre avis honnête et votre ressenti.
+  - title: 2. Participez à la rencontre
+    content: Votre tandem vous transmet les informations. Il ne vous reste plus qu'à
+      vous présenter au rendez-vous et suivre le déroulé de la rencontre. On ne recherche
+      rien de plus que votre avis honnête et votre ressenti.
     image: "/images/Discuss.svg"
     actions: []
   - title: 3. Recevez votre rémunération
