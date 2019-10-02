@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: "Testez des nouveautés.  \nPartagez votre avis.  \nAméliorez notre futur."
+  title: "Testez des nouveautés  \nPartagez votre avis  \nAméliorez notre futur"
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de vous pour mieux construire
     leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
@@ -19,7 +19,10 @@ sections:
   section_id: value
   component: ValueBlock
   value_title_1: Pour vous
-  value_content_1: Votre avis a un impact énorme sur la direction que peut prendre un produit. Et vous allez peut-être tester en avant-première LA nouveauté ou découvrir des produits complètement inédits ! Bien sûr comme votre temps est précieux, on vous rémunère.
+  value_content_1: Votre avis a un impact énorme sur la direction que peut prendre
+    un produit. Et vous allez peut-être tester en avant-première LA nouveauté ou découvrir
+    des produits complètement inédits ! Bien sûr comme votre temps est précieux, on
+    vous rémunère.
   value_title_2: Pour les entreprises
   value_content_2: Vos retours, besoins et envies sont des ressources inestimables
     pour les entreprises. Vous rencontrer, vous faire manipuler leurs produits, c'est
