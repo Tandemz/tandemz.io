@@ -51,9 +51,9 @@ sections:
       vos données sur la plateforme, ainsi que nous demander de supprimer ces données
       de notre base.
   - question: Puis-je devenir testeur professionnel ?
-    answer: Il n'est pas possible de vivre exclusivement des contreparties obtenues
-      sur Tandemz. Le nombre de test auxquels tu peux participer est bloqué au-delà
-      d'une certaine limite.
+    answer: Il n'est pas possible de vivre exclusivement des récompenses obtenues
+      sur Tandemz. Le nombre de rencontres auxquelles vous pouvez participer est bloqué
+      au-delà d'une certaine limite.
 menus:
   main:
     title: FAQ
