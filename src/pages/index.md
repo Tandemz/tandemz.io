@@ -40,7 +40,7 @@ sections:
   featureslist:
   - title: 1. Trouvez une rencontre
     content: Notre algorithme détermine les rencontres qui correspondent le plus à
-      votre profil. Vous pouvez aussi parcourir l'ensemble de nos annonces et postuler
+      votre profil. Vous pouvez aussi parcourir l'ensemble de nos rencontres et postuler
       à celles qui vous intéressent.
     image: "/images/Choose.svg"
     actions: []
