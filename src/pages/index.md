@@ -50,9 +50,9 @@ sections:
       la rencontre. On ne recherche rien de plus que votre avis honnête et votre ressenti.
     image: "/images/Discuss.svg"
     actions: []
-  - title: 3. Reçois ta rémunération
-    content: 'Une fois que tu nous as confirmé que tout s''est bien déroulé pour toi,
-      nous te reversons la rémunération associée. Prêt à recommencer? '
+  - title: 3. Recevez votre rémunération
+    content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
+      vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
 - type: studiesblock
