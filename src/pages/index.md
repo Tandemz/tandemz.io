@@ -26,7 +26,7 @@ sections:
   value_title_2: Pour les entreprises
   value_content_2: Vos retours, besoins et envies sont des ressources inestimables
     pour les entreprises. Vous rencontrer, vous faire manipuler leurs produits, c'est
-    s'assurer que ceux-ci te plairont et répondront vraiment à vos besoins.
+    s'assurer que ceux-ci vous plairont et répondront vraiment à vos besoins.
   bg: gray
   title: ''
   subtitle: ''
