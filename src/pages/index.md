@@ -38,10 +38,10 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Trouve un projet
-    content: Notre algorithme détermine les projets qui correspondent le plus à ton
-      profil. Tu peux aussi parcourir l'ensemble de nos annonces et postuler à celles
-      qui t'intéressent.
+  - title: 1. Trouvez une rencontre
+    content: Notre algorithme détermine les rencontres qui correspondent le plus à
+      votre profil. Vous pouvez aussi parcourir l'ensemble de nos annonces et postuler
+      à celles qui vous intéressent.
     image: "/images/Choose.svg"
     actions: []
   - title: 2. Participe au projet
