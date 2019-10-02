@@ -27,14 +27,14 @@ fields:
 - type: text
   name: value_title_1
   label: Value Title 1
-- type: text
+- type: textarea
   name: value_content_1
   label: Value Content 1
   description: The text content of the feature.
 - type: text
   name: value_title_2
   label: Value Title 2
-- type: text
+- type: textarea
   name: value_content_2
   label: Value Content 2
   description: The text content of the feature.
