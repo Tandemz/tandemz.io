@@ -61,7 +61,7 @@ sections:
   title: Ces produits ont besoin de votre avis
   component: StudiesBlock
   subtitle: Postulez directement aux rencontres qui vous intéressent, ou inscrivez-vous
-    pour voir des rencontres qui vous correspondent !
+    pour en voir d'autres !
   bg: gray
   studies:
   - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
