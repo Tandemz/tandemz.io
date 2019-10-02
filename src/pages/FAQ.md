@@ -45,11 +45,11 @@ sections:
       existant, en groupe ou seul. Chaque entreprise choisit sa méthode de test adaptée.
       Le seul impératif : que les utilisateurs soient francs dans leurs réponses."
   - question: Mes données sont-elles en sécurité ?
-    answer: Bien sûr, tes données sont protégées. Tandemz suit la réglementation RGPD
-      et tes données personnelles ne sont jamais transmises à des tiers. Tu peux également
-      à tout instant nous demander de te transmettre l'intégralité de tes données
-      sur la plateforme, ainsi que nous demander de supprimer ces données de notre
-      base.
+    answer: Bien sûr, vos données sont protégées. Tandemz suit la réglementation RGPD
+      et vos données personnelles ne sont jamais transmises à des tiers. Vous pouvez
+      également à tout instant nous demander de vous transmettre l'intégralité de
+      vos données sur la plateforme, ainsi que nous demander de supprimer ces données
+      de notre base.
   - question: Puis-je devenir testeur professionnel ?
     answer: Il n'est pas possible de vivre exclusivement des contreparties obtenues
       sur Tandemz. Le nombre de test auxquels tu peux participer est bloqué au-delà
