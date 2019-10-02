@@ -4,11 +4,12 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: "Teste des nouveautés.  \nPartage ton avis.  \nAméliore notre futur."
+  title: "Testez des nouveautés.  \nPartagez votre avis.  \nAméliorez notre futur."
   component: HeroBlock
-  content: Les entreprises et les marques ont besoin de toi pour mieux construire
-    leurs futurs produits. Teste leurs nouveautés, discute et partage ton avis avec
-    elles. Tu n'y connais rien ? Justement, pour elles, ton avis est précieux !
+  content: Les entreprises et les marques ont besoin de vous pour mieux construire
+    leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
+    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
+    !
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
@@ -65,18 +66,19 @@ sections:
   studies:
   - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
       comment ça s'est passé !
-    content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette année
-      ou compte le faire bientôt, alors votre expérience nous intéresse. Notre site
-      de commande et personnalisation de faire-part n'attend que vos retours pour
-      s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
+    content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette
+      année ou compte le faire bientôt, alors votre expérience nous intéresse. Notre
+      site de commande et personnalisation de faire-part n'attend que vos retours
+      pour s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
       par téléphone**\n\n\U0001F381 Rémunération : un **bon d'achat Amazon de 30€**
       ou **un bon de réduction de 40€ sur notre site**"
     url: https://docs.google.com/forms/d/e/1FAIpQLScXK0AvbEP8rjAjwFNaY3IdE5m5rIQeOldDPqaSr4vXyOnBmw/viewform
-  - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture ?
-    content: "Essuie-glace, pneu, huile, alternateur... Si vous avez déjà acheté des pièces
-      détachées pour votre voiture - en ligne ou en magasin - venez nous parler de votre
-      expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance par
-      téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
+  - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture
+      ?
+    content: "Essuie-glace, pneu, huile, alternateur... Si vous avez déjà acheté des
+      pièces détachées pour votre voiture - en ligne ou en magasin - venez nous parler
+      de votre expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
+      par téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
       : un **bon d'achat FNAC de 20€**"
     url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
   - title: Testez une application vous permettant de mieux gérer votre budget
