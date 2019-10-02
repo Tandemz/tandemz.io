@@ -63,30 +63,30 @@ sections:
     voir des annonces qui te correspondent !
   bg: gray
   studies:
-  - title: Tu as envoyé des faire-parts ou tu vas bientôt le faire ? Raconte-nous
+  - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
       comment ça s'est passé !
-    content: "Faire-parts de mariage ou de naissance, si tu en as envoyés cette année
-      ou compte le faire bientôt, alors ton expérience nous intéresse. Notre site
-      de commande et personnalisation de faire part n'attend que tes retours pour
+    content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette année
+      ou compte le faire bientôt, alors votre expérience nous intéresse. Notre site
+      de commande et personnalisation de faire-part n'attend que vos retours pour
       s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
       par téléphone**\n\n\U0001F381 Rémunération : un **bon d'achat Amazon de 30€**
       ou **un bon de réduction de 40€ sur notre site**"
-    url: ''
-  - title: Conducteur, as-tu déjà acheté des pièces détachées pour ta voiture ?
-    content: "Essuie-glace, pneu, huile, alternateur... Si tu as déjà acheté des pièces
-      détachées pour ta voiture - en ligne ou en magasin - viens nous parler de ton
+    url: https://docs.google.com/forms/d/e/1FAIpQLScXK0AvbEP8rjAjwFNaY3IdE5m5rIQeOldDPqaSr4vXyOnBmw/viewform
+  - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture ?
+    content: "Essuie-glace, pneu, huile, alternateur... Si vous avez déjà acheté des pièces
+      détachées pour votre voiture - en ligne ou en magasin - venez nous parler de votre
       expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance par
       téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
       : un **bon d'achat FNAC de 20€**"
-    url: http://www.airbnb.com
-  - title: Teste une application te permettant de mieux gérer ton budget
+    url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
+  - title: Testez une application vous permettant de mieux gérer votre budget
     content: "Nous cherchons des personnes qui :\n\n* doivent suivre le budget de
       leur foyer au quotidien\n* souhaitent faire des économies sur leurs dépenses\n*
       ne savent pas trop comment trouver le meilleur fournisseur internet / d'énergie
       etc\n\n⏰ Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance par téléphone**
       OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération : **un
       bon d'achat FNAC de 20€**"
-    url: http://www.google.com
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdRVK9BXbadEhwFKnF8op8Qrdsd_e9Un3BSDbHa_Af_lgKAvQ/viewform
 - type: ctablock
   template: ctablock
   section_id: call-to-action

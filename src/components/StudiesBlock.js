@@ -18,15 +18,15 @@ export default class StudiesBlock extends React.Component {
               {_.get(this.props, 'section.studies') && 
               <div className="inner">
                 <div className="grid">
-                  {_.map(_.get(this.props, 'section.studies'), (review, review_idx) => (
-                  <blockquote key={review_idx} className="cell study">
+                  {_.map(_.get(this.props, 'section.studies'), (study, study_idx) => (
+                  <blockquote key={study_idx} className="cell study">
                     <div className="study-inside">
                       <div className="study-title">
-                        <p>{_.get(review, 'title')}</p>
+                        <p>{_.get(study, 'title')}</p>
                       </div>
-                      <p className="study-text">{markdownify(_.get(review, 'content'))}</p>
+                      <p className="study-text">{markdownify(_.get(study, 'content'))}</p>
                       <div class="menu-button">
-                        <a href={_.get(review, 'url')} className="button">Je participe</a>
+                        <a href={_.get(study, 'url')} className="button" target="_blank">Je participe</a>
                       </div>
                     </div>
                   </blockquote>
