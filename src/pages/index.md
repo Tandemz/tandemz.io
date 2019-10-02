@@ -19,8 +19,8 @@ sections:
   section_id: value
   component: ValueBlock
   value_title_1: Pour vous
-  value_content_1: Votre avis a un impact énorme et peut complètement changer la direction
-    que prend un produit. Et vous allez peut-être tester en avant-première LA nouveauté
+  value_content_1: Votre avis a un impact énorme et peut influencer la direction que
+    prend un produit. Et vous allez peut-être tester en avant-première LA nouveauté
     de votre marque préférée ou découvrir des produits complètement inédits ! Et comme
     votre temps est précieux, on vous rémunère.
   value_title_2: Pour les entreprises
