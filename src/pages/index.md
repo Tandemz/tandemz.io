@@ -58,10 +58,10 @@ sections:
 - type: studiesblock
   template: studiesblock
   section_id: studies
-  title: Ces produits ont besoin de ton avis
+  title: Ces produits ont besoin de votre avis
   component: StudiesBlock
-  subtitle: Postule directement aux annonces qui t'intéressent, ou inscris-toi pour
-    voir des annonces qui te correspondent !
+  subtitle: Postulez directement aux rencontres qui vous intéressent, ou inscrivez-vous
+    pour voir des rencontres qui vous correspondent !
   bg: gray
   studies:
   - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
