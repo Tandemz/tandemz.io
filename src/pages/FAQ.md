@@ -6,8 +6,8 @@ sections:
   section_id: faq
   title: Foire Aux Questions
   component: FaqBlock
-  subtitle: Tu as une question mais la réponse ne se trouve pas ci-dessous ? N'hésite
-    pas à nous contacter directement par mail.
+  subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
+    à nous contacter directement par mail.
   bg: gray
   faqitems:
   - question: Comment ça marche ?
