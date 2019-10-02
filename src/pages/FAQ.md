@@ -14,13 +14,13 @@ sections:
     answer: |-
       Pour vous inscrire, il vous suffit de renseigner vos coordonnées et de cliquer sur "Je participe". Suite à votre inscription, vous recevrez un mail de la part de Tandemz vous invitant à renseigner un formulaire d'échauffement. Cela nous permettra de mieux vous connaître et de vous proposer par la suite des rencontres qui vous correspondent.
 
-      Pour l'instant, la plateforme est encore en construction, nous vous notifierons donc personnellement par mail lorsqu'une annonce qui pourrait vous intéresser est publiée. Par la suite, vous pourrez découvrir l'ensemble des annonces et postuler vous-même à celles que vous aimez bien.
+      Pour l'instant, la plateforme est encore en construction, nous vous notifierons donc personnellement par mail lorsqu'une rencontre qui pourrait vous intéresser est publiée. Par la suite, vous pourrez découvrir l'ensemble des rencontres et postuler vous-même à celles que vous aimez bien.
 
-      La plupart des entreprises demandent à répondre à un questionnaire avant de pouvoir valider votre participation. Ainsi, lorsque vous postulez à une rencontre, vous recevrez un court questionnaire de sélection à compléter. Pas d'inquiétude, cela ne vous prendra pas longtemps et il s'agit uniquement pour l'entreprise de mieux préparer votre rencontre.
+      La plupart des entreprises demandent à ce que les participants répondent à un questionnaire avant de pouvoir valider leur participation. Ainsi, lorsque vous postulez à une rencontre, vous recevrez très probablement un court questionnaire de sélection à compléter. Pas d'inquiétude, cela ne vous prendra pas longtemps et il s'agit uniquement pour l'entreprise de mieux préparer votre rencontre.
 
-      Une fois sélectionné, Tandemz vous fournira toutes les informations nécessaires pour votre participation. Il vous suffit simplement de vous rendre au rendez-vous/de vous connecter sur le dispositif visio à l'heure indiquée. Vous serez ensuite guidé par votre tandem.
+      Une fois sélectionné, Tandemz vous fournira toutes les informations nécessaires pour votre participation. Il vous suffit simplement de vous rendre au rendez-vous (ou de vous connecter sur le dispositif visio si la rencontre est à distance) à l'heure indiquée. Vous serez ensuite guidé par votre tandem.
 
-      Suite à la rencontre, Tandemz prendra contact avec vous pour savoir si tout s'est bien déroulé et connaître votre ressenti sur la rencontre. La récompense vous sera versée dès que votre participation aura été validée par l'entreprise.
+      Suite à la rencontre, Tandemz prendra contact avec vous pour savoir si tout s'est bien déroulé. La récompense vous sera versée dès que votre participation aura été validée par l'entreprise.
 
       En cas de doute ou de question, n'hésitez pas à nous contacter par mail à [contact@tandemz.io](mailto:contact@tandemz.io "contact@tandemz.io").
   - question: Pourquoi devenir testeur ?
