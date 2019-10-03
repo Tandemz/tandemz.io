@@ -9,7 +9,9 @@ menus:
 template: page
 
 ---
-Tandemz, c'est aujourd'hui une équipe de trois fondateurs, France, Marine et Nicolas, avec l'idée de réconcilier les entreprises avec leurs utilisateurs en leur permettant de les trouver rapidement. Quoi de mieux que de rencontrer ses clients pour construire un produit main dans la main avec eux ?
+Tandemz, c'est aujourd'hui une équipe de trois fondateurs, France, Marine et Nicolas, avec l'idée de réconcilier les entreprises avec leurs utilisateurs en leur permettant d'échanger directement avec eux. 
+
+Alors, pourquoi Tandemz ? Pour nous, il est toujours plus facile de gravir une pente difficile à deux plutôt que seul. Et bien pour un produit, c'est la même chose : quoi de mieux, pour améliorer les produits de demain, que de pédaler en tandem quelques temps avec ses clients, ensemble vers la même direction ?
 
 Tandemz sera lancée dans quelques semaines. Nous travaillons d'arrache pied pour faire naître cette toute nouvelle plateforme.
 
