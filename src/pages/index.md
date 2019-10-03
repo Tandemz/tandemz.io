@@ -70,9 +70,9 @@ sections:
     content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette
       année ou compte le faire bientôt, alors votre expérience nous intéresse. Notre
       site de commande et personnalisation de faire-part n'attend que vos retours
-      pour s'améliorer !\n\n**⏰** Durée : **45 min**\n\n\U0001F3E0 Lieu : **à distance
-      par téléphone**\n\n\U0001F381 Rémunération : un **bon d'achat Amazon de 30€**
-      ou **un bon de réduction de 40€ sur notre site**"
+      pour s'améliorer !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
+      par téléphone / visioconférence**\n\n\U0001F381 Rémunération : un **bon d'achat
+      FNAC de 20€** ou **un bon de réduction de 30€ sur notre site**"
     url: https://docs.google.com/forms/d/e/1FAIpQLScXK0AvbEP8rjAjwFNaY3IdE5m5rIQeOldDPqaSr4vXyOnBmw/viewform
   - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture
       ?
