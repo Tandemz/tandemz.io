@@ -80,7 +80,7 @@ sections:
       pièces détachées pour votre voiture - en ligne ou en magasin - venez nous parler
       de votre expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
       par téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
-      : un **bon d'achat FNAC de 20€**"
+      : un **bon d'achat de 20€ sur des pièces automobiles**"
     url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
   - title: Testez une application vous permettant de mieux gérer votre budget
     content: "Nous cherchons des personnes qui :\n\n* doivent suivre le budget de
