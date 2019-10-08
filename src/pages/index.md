@@ -80,7 +80,7 @@ sections:
       pièces détachées pour votre voiture - en ligne ou en magasin - venez nous parler
       de votre expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
       par téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
-      : un **bon d'achat de 20€ sur des pièces automobiles**"
+      : un **bon d'achat de 20€ sur notre site pour des pièces automobiles**"
     url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
 - type: ctablock
   template: ctablock
