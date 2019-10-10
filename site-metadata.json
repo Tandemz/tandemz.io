@@ -1,6 +1,7 @@
 {
   "title": "Donnez votre avis, changez le monde",
   "description": "Testez en 30min les projets en cours de construction de tes marques préférées, en échange d'une rémunération. Ton avis honnête les aide à construire des produits qui te correspondent !",
+  "favicon": "/images/tandemz_favicon.jpg",
   "palette": "blue",
   "header": {
     "title": "Tandemz",
