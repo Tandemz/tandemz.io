@@ -8,8 +8,7 @@ sections:
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de vous pour mieux construire
     leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
-    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
-    !
+    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux!
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
