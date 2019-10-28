@@ -22,7 +22,7 @@ export default class HeroBlock extends React.Component {
                     {_.get(this.props, 'section.actions') && 
                     <p className="block-buttons">
                       {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
-                      <Link key={action_idx} to={safePrefix(_.get(action, 'url'))} className="button white large">{_.get(action, 'label')}</Link>
+                      <Link key={action_idx} to={process.env.GATSBY_APP_URL} className="button white large">{_.get(action, 'label')}</Link>
                       ))}
                     </p>
                     }
