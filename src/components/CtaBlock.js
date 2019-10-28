@@ -6,10 +6,10 @@ import {htmlToReact, Link, safePrefix} from '../utils';
 export default class CtaBlock extends React.Component {
     render() {
         return (
-            <section id={_.get(this.props, 'section.section_id')} className="block cta-block bg-accent outer">
-              <div className="inner-medium">
-                <div>
-                  <div className="block-content">
+          <section id={_.get(this.props, 'section.section_id')} className="block cta-block bg-accent outer">
+              <div className="inner-large">
+                <div className="grid">
+                  <div className="cell block-content">
                     <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
                     {_.get(this.props, 'section.subtitle') && 
                     <p className="block-subtitle">
@@ -17,31 +17,13 @@ export default class CtaBlock extends React.Component {
                     </p>
                     }
                   </div>
-                  <div className="post-content">
-                    {htmlToReact(_.get(this.props, 'pageContext.html'))}
-                    <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
-                      className="contact-form">
-                      <p className="screen-reader-text">
-                        <label>Don't fill this out if you're human: <input name="bot-field" /></label>
-                      </p>
-                      <p className="form-row">
-                        <label className="form-label">Nom</label>
-                        <input type="text" name="surname" className="form-input" required/>
-                      </p>
-                      <p className="form-row">
-                        <label className="form-label">Prénom</label>
-                        <input type="text" name="name" className="form-input" required/>
-                      </p>
-                      <p className="form-row">
-                        <label className="form-label">Adresse email</label>
-                        <input type="email" name="email" className="form-input" required/>
-                      </p>
-                      <input type="hidden" name="form-name" value="contactForm" />
-                      <p className="form-row form-submit">
-                        <button type="submit" className="button white large">Je participe</button>
-                      </p>
-                    </form>
+                  {_.get(this.props, 'section.actions') && 
+                  <div className="cell block-buttons">
+                    {_.map(_.get(this.props, 'section.actions'), (action, action_idx) => (
+                    <Link key={action_idx} to={process.env.GATSBY_APP_URL} className="button white large">{_.get(action, 'label')}</Link>
+                    ))}
                   </div>
+                  }
                 </div>
               </div>
             </section>

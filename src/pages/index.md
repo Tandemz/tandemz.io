@@ -85,10 +85,11 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Rejoignez la communauté Tandemz
+  title: Participez à vos premières rencontres !
   component: CtaBlock
-  subtitle: et participez à vos premières rencontres !
-  actions: []
+  actions: [
+    label: Je participe
+  ]
 menus:
   main:
     title: Home

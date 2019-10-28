@@ -37,7 +37,7 @@ export default class Header extends React.Component {
                         {_.get(this.props, 'pageContext.site.siteMetadata.header.menu.actions') && 
                           _.map(_.get(this.props, 'pageContext.site.siteMetadata.header.menu.actions'), (action, action_idx) => (
                           <li key={action_idx} className="menu-item menu-button">
-                            <Link to={safePrefix(_.get(action, 'url'))} className="button">{_.get(action, 'label')}</Link>
+                            <Link to={process.env.GATSBY_APP_URL} className="button">{_.get(action, 'label')}</Link>
                           </li>
                           ))
                         }
