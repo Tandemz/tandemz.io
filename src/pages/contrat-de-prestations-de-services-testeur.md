@@ -5,7 +5,6 @@ subtitle: ''
 img_path: ''
 
 ---
-
 _Entre,_
 
 La société **Tandemz**. D’une part,
@@ -96,7 +95,7 @@ L’utilisation des informations ci-dessus peut être autorisée par Tandemz et/
 
 ## 7. Confidentialité
 
-Dans les limites ci-dessus, Tandemz traite votre confidentialité et celle de vos données avec attention. Pour de plus amples renseignements au sujet de la façon dont sont utilisés les renseignements recueillis auprès des testeurs, consulter la [confidentialité des données](https://www.testapic.com/rejoindre-le-panel/confidentialite-des-donnees/ "Charte de confidentialité des données") du Site web.
+Dans les limites ci-dessus, Tandemz traite votre confidentialité et celle de vos données avec attention. Pour de plus amples renseignements au sujet de la façon dont sont utilisés les renseignements recueillis auprès des testeurs, consulter la [confidentialité des données](https://staging.tandemz.io/confidentialit%C3%A9-et-protection-des-donn%C3%A9es/ "Charte de confidentialité des données") du Site web.
 
 ## 8. Rétribution liée à la participation aux tests
 
@@ -148,7 +147,7 @@ Si le test nécessite l’usage d’une webcam, le testeur autorise que son imag
 
 Il vous appartient alors de ne pas communiquer sur des informations dont vous souhaiteriez conserver la confidentialité.
 
-Sauf dans la mesure ou les informations reçues seraient explicitement couvertes par notre Politique de [confidentialité des données](https://www.testapic.com/rejoindre-le-panel/confidentialite-des-donnees/), tout ce que vous transmettez ou affichez peut être utilisé librement par Tandemz ou ses sociétés affiliées ou ses partenaires, y compris, sans toutefois s’y limiter, par reproduction, divulgation, transmission, publication et diffusion. De plus, Tandemz peut à son gré utiliser toute idée, tout concept, tout savoir-faire ou toute technique qui serait incluse dans n’importe quelle communication envoyée par vous vers notre Site sans qu’il y ait rétribution ou avantage autre que ceux contractuellement définis. L’utilisation pourra être à toute fin, y compris, entre autre, pour le développement, la modification, la fabrication et la commercialisation de produits et services Tandemz à l’aide des dites informations recueillies.
+Sauf dans la mesure ou les informations reçues seraient explicitement couvertes par notre Politique de [confidentialité des données](https://staging.tandemz.io/confidentialit%C3%A9-et-protection-des-donn%C3%A9es/), tout ce que vous transmettez ou affichez peut être utilisé librement par Tandemz ou ses sociétés affiliées ou ses partenaires, y compris, sans toutefois s’y limiter, par reproduction, divulgation, transmission, publication et diffusion. De plus, Tandemz peut à son gré utiliser toute idée, tout concept, tout savoir-faire ou toute technique qui serait incluse dans n’importe quelle communication envoyée par vous vers notre Site sans qu’il y ait rétribution ou avantage autre que ceux contractuellement définis. L’utilisation pourra être à toute fin, y compris, entre autre, pour le développement, la modification, la fabrication et la commercialisation de produits et services Tandemz à l’aide des dites informations recueillies.
 
 ## 13. Limitation de responsabilité
 
