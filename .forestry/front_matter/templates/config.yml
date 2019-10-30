@@ -33,6 +33,12 @@ fields:
     - purple
     - green
     - orange
+- name: favicon
+  type: file
+  config:
+    maxSize: 250
+  label: Favicon
+  description: The website favicon
 - type: field_group
   name: header
   label: Header Configuration
