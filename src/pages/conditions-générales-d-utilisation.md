@@ -5,8 +5,6 @@ subtitle: ''
 img_path: ''
 
 ---
-# Conditions Générales d’Utilisation
-
 Vous avez eu accès à notre site et vous l’utilisez. Les présentes conditions règlent les modalités d’utilisation de notre site. Le simple fait d’utiliser ce site vous engage à en respecter les conditions d’utilisation.
 
 ## 1.Utilisations non autorisées du site et des applications
