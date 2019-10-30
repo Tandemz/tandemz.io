@@ -26,3 +26,4 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/conditions-générales-d-utilisation.md
+- src/pages/confidentialité-et-protection-des-données.md
