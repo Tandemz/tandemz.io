@@ -14,6 +14,12 @@ fields:
   description: Site description
   config:
     required: true
+- name: siteUrl
+  type: text
+  config:
+    required: true
+  label: SIte Url
+  description: The site url
 - type: select
   name: palette
   label: Color Palette
