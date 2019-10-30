@@ -66,5 +66,3 @@ Les lois françaises (sans égard à ses règles en matière de conflits de loi)
 ## 10. Informations
 
 Vous pouvez aussi consulter la foire aux questions réservées aux utilisateurs.
-
-(Informations liés à l'immatriculation)
