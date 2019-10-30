@@ -28,11 +28,7 @@
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
   }
 }
