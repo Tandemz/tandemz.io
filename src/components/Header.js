@@ -10,16 +10,16 @@ export default class Header extends React.Component {
               <div className="inner">
                 <div className="site-header-inside">
                   <div className="site-branding">
-                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') && 
+                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img') &&
                     <p className="site-logo">
                       <Link to={safePrefix('/')}>
                         <img src={safePrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img'))} alt="Logo" />
                       </Link>
                     </p>
                     }
-                    {((_.get(this.props, 'pageContext.frontmatter.template') === 'home') || (_.get(this.props, 'pageContext.frontmatter.template') === 'blog')) ? 
+                    {((_.get(this.props, 'pageContext.frontmatter.template') === 'home') || (_.get(this.props, 'pageContext.frontmatter.template') === 'blog')) ?
                     <h1 className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></h1>
-                     : 
+                     :
                     <p className="site-title"><Link to={safePrefix('/')}>{_.get(this.props, 'pageContext.site.siteMetadata.header.title')}</Link></p>
                     }
                   </div>
@@ -34,10 +34,10 @@ export default class Header extends React.Component {
                           <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
                         </li>
                         ))}
-                        {_.get(this.props, 'pageContext.site.siteMetadata.header.menu.actions') && 
+                        {_.get(this.props, 'pageContext.site.siteMetadata.header.menu.actions') &&
                           _.map(_.get(this.props, 'pageContext.site.siteMetadata.header.menu.actions'), (action, action_idx) => (
                           <li key={action_idx} className="menu-item menu-button">
-                            <Link to={process.env.GATSBY_APP_URL} className="button">{_.get(action, 'label')}</Link>
+                            <Link to={safePrefix(_.get(action, 'url'))} className="button">{_.get(action, 'label')}</Link>
                           </li>
                           ))
                         }

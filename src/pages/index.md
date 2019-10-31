@@ -90,6 +90,7 @@ sections:
   actions:
   - label: Je participe
   subtitle: ''
+  url: "{APP_URL}/devenir-testeur"
 menus:
   main:
     title: Home
