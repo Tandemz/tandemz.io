@@ -13,7 +13,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
-    url: "/#call-to-action"
+    url: "{APP_URL}/devenir-testeur"
 - type: valueblock
   template: valueblock
   section_id: value
@@ -87,9 +87,9 @@ sections:
   section_id: call-to-action
   title: Participez à vos premières rencontres !
   component: CtaBlock
-  actions: [
-    label: Je participe
-  ]
+  actions:
+  - label: Je participe
+  subtitle: ''
 menus:
   main:
     title: Home
