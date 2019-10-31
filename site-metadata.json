@@ -10,6 +10,10 @@
     "menu": {
       "actions": [
         {
+          "label": "Se connecter",
+          "url": "{APP_URL}"
+        },
+        {
           "label": "Je participe",
           "url": "{APP_URL}/devenir-testeur"
         }
