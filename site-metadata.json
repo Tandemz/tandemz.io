@@ -11,7 +11,7 @@
       "actions": [
         {
           "label": "Se connecter",
-          "url": "{APP_URL}"
+          "url": "{APP_URL}/login"
         },
         {
           "label": "Je participe",
