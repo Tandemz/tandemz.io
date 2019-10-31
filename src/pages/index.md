@@ -89,8 +89,8 @@ sections:
   component: CtaBlock
   actions:
   - label: Je participe
+    url: "{APP_URL}/devenir-testeur"
   subtitle: ''
-  url: "{APP_URL}/devenir-testeur"
 menus:
   main:
     title: Home
