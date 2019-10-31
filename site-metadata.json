@@ -11,7 +11,7 @@
       "actions": [
         {
           "label": "Je participe",
-          "url": "/#call-to-action"
+          "url": "{APP_URL}/devenir-testeur"
         }
       ]
     }
