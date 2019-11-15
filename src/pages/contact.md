@@ -3,7 +3,7 @@ title: Contact
 menus:
   secondary:
     title: Contact
-    weight: 3
+    weight: 4
 template: contact
 subtitle: Vous souhaitez poster une annonce ou bien nous poser une question en particulier
   ?

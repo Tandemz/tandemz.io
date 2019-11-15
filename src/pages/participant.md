@@ -1,10 +1,10 @@
 ---
-title: Home
+title: Espace participant
 sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: "Votre recherche utilisateur à portée de main"
+  title: "Testez des nouveautés  \nPartagez votre avis  \nAméliorez notre futur"
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de vous pour mieux construire
     leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
@@ -92,9 +92,9 @@ sections:
     url: "{APP_URL}/devenir-testeur"
   subtitle: ''
 menus:
-  main:
-    title: Home
-    weight: 1
+  secondary:
+    title: Devenir testeur
+    weight: 3
 template: home
 
 ---
