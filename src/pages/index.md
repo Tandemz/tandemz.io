@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Espace participant
 sections:
 - type: heroblock
   template: heroblock
