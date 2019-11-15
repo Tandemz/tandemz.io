@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: "Votre recherche utilisateur à portée de main"
+  title: Votre recherche utilisateur à portée de main
   component: HeroBlock
   content: Les entreprises et les marques ont besoin de vous pour mieux construire
     leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
@@ -56,32 +56,6 @@ sections:
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
-- type: studiesblock
-  template: studiesblock
-  section_id: studies
-  title: Ces produits ont besoin de votre avis
-  component: StudiesBlock
-  subtitle: Postulez directement aux rencontres qui vous intéressent, ou inscrivez-vous
-    pour en voir d'autres !
-  bg: gray
-  studies:
-  - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
-      comment ça s'est passé !
-    content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette
-      année ou compte le faire bientôt, alors votre expérience nous intéresse. Notre
-      site de commande et personnalisation de faire-part n'attend que vos retours
-      pour s'améliorer !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
-      par téléphone / visioconférence**\n\n\U0001F381 Rémunération : un **bon d'achat
-      FNAC de 20€** ou **un bon de réduction de 30€ sur notre site**"
-    url: https://docs.google.com/forms/d/e/1FAIpQLScXK0AvbEP8rjAjwFNaY3IdE5m5rIQeOldDPqaSr4vXyOnBmw/viewform
-  - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture
-      ?
-    content: "Essuie-glace, pneu, huile, alternateur... Si vous avez déjà acheté des
-      pièces détachées pour votre voiture - en ligne ou en magasin - venez nous parler
-      de votre expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
-      par téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
-      : un **bon d'achat de 20€ sur notre site pour des pièces automobiles**"
-    url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
 - type: ctablock
   template: ctablock
   section_id: call-to-action
