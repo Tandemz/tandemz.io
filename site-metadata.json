@@ -12,10 +12,6 @@
         {
           "label": "Se connecter",
           "url": "{APP_URL}/login"
-        },
-        {
-          "label": "Je participe",
-          "url": "{APP_URL}/devenir-testeur"
         }
       ]
     }
