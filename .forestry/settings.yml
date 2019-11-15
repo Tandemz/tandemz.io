@@ -20,6 +20,10 @@ sections:
   templates:
   - home
 - type: document
+  path: src/pages/participant.md
+  label: Participants
+  match: "**/*"
+- type: document
   path: src/pages/pricing.md
   label: FAQ
   templates:
