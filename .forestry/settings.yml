@@ -21,6 +21,7 @@ sections:
   - home
 - type: document
   path: src/pages/participant.md
+  label: Participants
   templates:
   - home
 - type: document
