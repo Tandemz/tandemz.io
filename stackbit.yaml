@@ -414,7 +414,7 @@ models:
           type: action
   imageblock:
     type: object
-    label: Content Section
+    label: Image Section
     extends:
       - section
     fields:
