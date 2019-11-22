@@ -29,5 +29,5 @@ fields:
   config:
     required: true
 pages:
-- src/pages/participant.md
 - src/pages/index.md
+- src/pages/participant.md

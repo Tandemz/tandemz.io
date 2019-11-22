@@ -14,23 +14,6 @@ sections:
   actions:
   - label: Je participe
     url: "{APP_URL}/devenir-testeur"
-- type: valueblock
-  template: valueblock
-  section_id: value
-  component: ValueBlock
-  value_title_1: Pour vous
-  value_content_1: Votre avis a un impact énorme sur la direction que peut prendre
-    un produit. Et vous allez peut-être tester en avant-première LA nouveauté ou découvrir
-    des produits complètement inédits ! Bien sûr comme votre temps est précieux, on
-    vous rémunère.
-  value_title_2: Pour les entreprises
-  value_content_2: Vos retours, besoins et envies sont des ressources inestimables
-    pour les entreprises. En échangeant avec vous et en vous faisant manipuler leurs
-    produits, elles veulent s'assurer qu'ils vous plairont et répondront vraiment
-    à vos besoins.
-  bg: gray
-  title: ''
-  subtitle: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
