@@ -35,15 +35,21 @@ sections:
       issue de votre CRM\n* Import et gestion de votre propre panel "
     image: "/images/Choose.svg"
     actions: []
-  - title: 2. Participez à la rencontre
-    content: Votre tandem vous transmet les informations. Il ne vous reste plus qu'à
-      vous présenter au rendez-vous et suivre le déroulé de la rencontre. On ne recherche
-      rien de plus que votre avis honnête et votre ressenti.
+  - title: Indiquez vos disponibilités, laissez Tandemz gérer le reste
+    content: |-
+      Fini les allers-retours par mail pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités affichées.
+
+      * Intégration à votre calendrier
+      * Réservez vos salles automatiquement
     image: "/images/Discuss.svg"
     actions: []
-  - title: 3. Recevez votre rémunération
-    content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
-      vous, nous vous reversons la rémunération associée. Prêt à recommencer?
+  - title: Simplifiez vos échanges avec vos participants
+    content: |-
+      Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
+
+      * Vérification du profil par questionnaire ou par enregistrement vidéo
+      * Rappels automatiques
+      * Messagerie intégrée pour des échanges centralisés
     image: "/images/Payment.svg"
     actions: []
 - template: reviewsblock
