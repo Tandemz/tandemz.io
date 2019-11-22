@@ -38,6 +38,13 @@ sections:
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
+- template: postsblock
+  component: PostsBlock
+  bg: gray
+  type: postsblock
+  section_id: ''
+  title: ''
+  subtitle: ''
 - template: pricingblock
   component: PricingBlock
   bg: gray
