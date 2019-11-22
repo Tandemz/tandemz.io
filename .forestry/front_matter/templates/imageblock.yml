@@ -7,24 +7,12 @@ fields:
   name: section_id
   label: Element ID
 - type: text
-  name: title
-  label: Title
-  description: The title of the section.
-- type: text
   name: component
   label: Component
   hidden: true
   default: ImageBlock
   config:
     required: true
-- type: textarea
-  name: content
-  label: Content
-  description: The text content of the section.
-  config:
-    wysiwyg: true
-    schema:
-      format: markdown
 - type: file
   name: image
   label: Image
@@ -40,16 +28,6 @@ fields:
     options:
     - gray
     - white
-- type: field_group_list
-  name: actions
-  label: Action Buttons
-  fields:
-  - type: include
-    name: include_action
-    label: Action
-    template: action
-  config:
-    labelField: label
 - type: text
   name: type
   label: Reference Type Name
