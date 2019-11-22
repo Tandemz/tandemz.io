@@ -10,7 +10,7 @@ sections:
     leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
     avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
     !
-  image: "/images/Hero.svg"
+  image: ''
   actions:
   - label: Je participe
     url: "{APP_URL}/devenir-testeur"
