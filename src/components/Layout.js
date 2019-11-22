@@ -38,7 +38,7 @@ export default class Body extends React.Component {
             type="image/x-icon"
           />
           <link
-            href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i"
+            href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i"
             rel="stylesheet"
           />
         </Helmet>
