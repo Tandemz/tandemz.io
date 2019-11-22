@@ -38,12 +38,16 @@ sections:
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
-- template: postsblock
-  component: PostsBlock
-  bg: gray
-  type: postsblock
+- template: reviewsblock
+  component: ReviewsBlock
+  bg: white
+  type: reviewsblock
+  title: Avec Tandemz
+  reviews:
+  - author: ''
+    avatar: ''
+    content: Ayez accès à tout le monde
   section_id: ''
-  title: ''
   subtitle: ''
 - template: pricingblock
   component: PricingBlock
