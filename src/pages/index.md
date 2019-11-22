@@ -13,6 +13,15 @@ sections:
   actions:
   - label: Ca m'intéresse
     url: "/contact"
+- template: contentblock
+  component: ContentBlock
+  bg: gray
+  type: contentblock
+  title: Test
+  content: test
+  image: "/images/Entreprises - Liste des Annonces - Empty.png"
+  section_id: ''
+  actions: []
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
