@@ -15,12 +15,12 @@ sections:
     url: "/contact"
 - template: imageblock
   component: ImageBlock
-  bg: gray
+  bg: white
   type: imageblock
   title: Test
   content: test
   image: "/images/Entreprises - Liste des Annonces - Empty.png"
-  section_id: ''
+  section_id: Image
   actions: []
 - type: featuresblock
   template: featuresblock
