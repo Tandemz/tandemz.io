@@ -4,16 +4,13 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Votre recherche utilisateur à portée de main
+  title: Tandemz, le catalyseur de vos rencontres utilisateur
   component: HeroBlock
-  content: Les entreprises et les marques ont besoin de vous pour mieux construire
-    leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
-    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
-    !
+  content: Qui a dit que l'organisation de la recherche utilisateur qualitative devait être compliquée ? Sur notre plateforme, lancez vos sessions d'interviews et de tests utilisateurs sans prise de tête
   image: ''
   actions:
-  - label: Je participe
-    url: "{APP_URL}/devenir-testeur"
+  - label: Ca m'intéresse
+    url: "/contact"
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
