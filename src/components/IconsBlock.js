@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 import { htmlToReact, safePrefix } from '../utils';
 
-export default class ReviewsBlock extends React.Component {
+export default class IconsBlock extends React.Component {
   render() {
     return (
       <section
