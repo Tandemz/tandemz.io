@@ -6,7 +6,9 @@ sections:
   section_id: hero
   title: Tandemz, le catalyseur de vos rencontres utilisateur
   component: HeroBlock
-  content: Qui a dit que l'organisation de la recherche utilisateur qualitative devait être compliquée ? Sur notre plateforme, lancez vos sessions d'interviews et de tests utilisateurs sans prise de tête
+  content: Qui a dit que l'organisation de la recherche utilisateur qualitative devait
+    être compliquée ? Sur notre plateforme, lancez vos sessions d'interviews et de
+    tests utilisateurs sans prise de tête
   image: ''
   actions:
   - label: Ca m'intéresse
@@ -36,6 +38,14 @@ sections:
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
+- template: pricingblock
+  component: PricingBlock
+  bg: gray
+  type: pricingblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  pricingplans: []
 - type: ctablock
   template: ctablock
   section_id: call-to-action
