@@ -2,7 +2,7 @@
   "title": "Donnez votre avis, changez le monde",
   "description": "Rejoignez la communauté Tandemz et testez en 30min les projets en cours de construction de vos marques préférées, en échange d'une rémunération. Votre avis honnête les aide à construire des produits qui vous correspondent !",
   "favicon": "/images/tandemz_favicon.jpg",
-  "palette": "purple",
+  "palette": "blue",
   "header": {
     "title": "Tandemz",
     "logo_img": "/images/logo_png.png",
@@ -27,9 +27,7 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": [
-
-    ]
+    "links": []
   },
   "siteUrl": "https://staging.tandemz.io"
 }
