@@ -43,9 +43,17 @@ sections:
   bg: gray
   type: pricingblock
   section_id: ''
-  title: ''
-  subtitle: ''
-  pricingplans: []
+  title: Tarif
+  subtitle: Grâce à Tandemz, passez de 2j de recrutement et organisation à 1h, et
+    concentrez-vous enfin sur votre recherche utilisateur.
+  pricingplans:
+  - title: A partir de
+    price: 100€ / mois
+    details: ''
+    highlight: false
+    actions:
+    - label: Ca m'intéresse
+      url: "/contact"
 - type: ctablock
   template: ctablock
   section_id: call-to-action
