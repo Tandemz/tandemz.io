@@ -125,7 +125,7 @@
       -ms-flex: 5.4;
       flex: 5.4;
     }
-    
+
     .underline:after {
       display: block;
     }
@@ -138,7 +138,7 @@
 
   .hero-block,
   .text-block,
-  .block-item:nth-child(2n+1) {
+  .block-item:nth-child(2n + 1) {
     .grid {
       -webkit-flex-direction: row-reverse;
       -ms-flex-direction: row-reverse;
@@ -157,6 +157,11 @@
   }
 }
 
+/* Image */
+
+.block-overlap {
+  margin-top: -200px;
+}
 /* Value */
 
 .value-block {
@@ -235,7 +240,7 @@
   background: #fff;
   border: 1px solid _palette(border);
   border-radius: 3px;
-  box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+  box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   padding: 1.5rem;
 }
 
@@ -277,7 +282,6 @@
       flex-direction: column;
       margin: 0 0 1.66667em;
 
-
       &:first-child:nth-last-child(4),
       &:first-child:nth-last-child(4) ~ .cell {
         min-width: 40%;
@@ -318,7 +322,7 @@
   background: #fff;
   border: 1px solid _palette(border);
   border-radius: 3px;
-  box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+  box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   padding: 1.11111rem;
 }
 
@@ -389,7 +393,6 @@
       flex-direction: column;
       margin: 0 0 1.66667em;
 
-
       &:first-child:nth-last-child(4),
       &:first-child:nth-last-child(4) ~ .cell {
         min-width: 40%;
@@ -431,8 +434,8 @@
     .button {
       background: _palette(accent);
       color: #fff;
-      -webkit-transition: opacity .2s ease-in;
-      transition: opacity .2s ease-in;
+      -webkit-transition: opacity 0.2s ease-in;
+      transition: opacity 0.2s ease-in;
 
       &:hover,
       &:focus,
@@ -447,7 +450,7 @@
   background: #fff;
   border: 1px solid _palette(border);
   border-radius: 3px;
-  box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+  box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   padding: 1.66667rem 1.66667rem 0.83333rem;
 
   .block-buttons {
@@ -508,7 +511,6 @@
       flex: 1 1 290px;
       margin: 0 0 1.66667em;
 
-
       &:first-child:nth-last-child(4),
       &:first-child:nth-last-child(4) ~ .cell {
         min-width: 40%;
@@ -530,7 +532,7 @@
 .accordion-header {
   background: #fff;
   border-radius: 3px;
-  box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+  box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   margin-top: 1.25rem;
 
   .accordion-trigger {
@@ -581,7 +583,7 @@
 }
 
 .accordion-panel.-ba-is-active {
-  box-shadow: 0 3px 10px 0 rgba(_palette(primary),.1);
+  box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   margin-top: 0.5rem;
 }
 
@@ -642,20 +644,28 @@
     .post-card-inside,
     .review-inside,
     .plan-inside {
-      box-shadow: 0 3px 10px 0 rgba(_palette(primary),.15);
+      box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.15);
     }
   }
 
   &.bg-accent {
     background: _palette(accent);
-    background: -webkit-linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: -webkit-linear-gradient(
+      to right,
+      _palette(accent),
+      _palette(accent-alt)
+    );
+    background: linear-gradient(
+      to right,
+      _palette(accent),
+      _palette(accent-alt)
+    );
     color: #fff;
 
     .block-title {
       color: inherit;
     }
-    
+
     .form-label {
       color: inherit;
     }

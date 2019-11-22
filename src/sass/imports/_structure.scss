@@ -30,8 +30,18 @@
   max-width: 555px;
 }
 
+.overlap-padding {
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
 @media only screen and (min-width: 801px) {
   #hero.outer {
     padding: 1rem 4vw 0;
+
+    &.overlap-padding {
+      padding-top: 100px;
+      padding-bottom: 150px;
+    }
   }
 }
