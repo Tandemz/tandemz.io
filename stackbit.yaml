@@ -196,6 +196,7 @@ models:
           labelField: title
           models:
             - contentblock
+            - imageblock
             - ctablock
             - faqblock
             - featuresblock
@@ -390,6 +391,35 @@ models:
     fields:
       - name: component
         default: ContentBlock
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section.
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section.
+      - type: enum
+        name: bg
+        label: Background
+        description: The background of the section.
+        options:
+          - gray
+          - white
+        default: gray
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
+  imageblock:
+    type: object
+    label: Content Section
+    extends:
+      - section
+    fields:
+      - name: component
+        default: ImageBlock
       - type: markdown
         name: content
         label: Content

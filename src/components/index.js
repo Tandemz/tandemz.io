@@ -1,4 +1,5 @@
 import ContentBlock from './ContentBlock';
+import ImageBlock from './ImageBlock';
 import CtaBlock from './CtaBlock';
 import CtaButtons from './CtaButtons';
 import FaqBlock from './FaqBlock';
@@ -17,6 +18,7 @@ import Layout from './Layout';
 
 export {
     ContentBlock,
+    ImageBlock,
     CtaBlock,
     CtaButtons,
     FaqBlock,
@@ -36,6 +38,7 @@ export {
 
 export default {
     ContentBlock,
+    ImageBlock,
     CtaBlock,
     CtaButtons,
     FaqBlock,

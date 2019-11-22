@@ -13,10 +13,10 @@ sections:
   actions:
   - label: Ca m'intéresse
     url: "/contact"
-- template: contentblock
-  component: ContentBlock
+- template: imageblock
+  component: ImageBlock
   bg: gray
-  type: contentblock
+  type: imageblock
   title: Test
   content: test
   image: "/images/Entreprises - Liste des Annonces - Empty.png"
