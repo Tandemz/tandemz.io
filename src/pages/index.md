@@ -44,9 +44,15 @@ sections:
   type: reviewsblock
   title: Avec Tandemz
   reviews:
-  - author: ''
+  - author: Reach
+    content: Reach
     avatar: ''
-    content: Ayez accès à tout le monde
+  - author: Autonomie
+    avatar: ''
+    content: Autonomie
+  - author: Flexibilité
+    content: Flexibilité
+    avatar: ''
   section_id: ''
   subtitle: ''
 - template: pricingblock
