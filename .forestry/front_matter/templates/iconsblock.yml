@@ -45,7 +45,7 @@ fields:
     name: icon
     label: Icon
   config:
-    labelField: author
+    labelField: title
   label: Blocks
 - type: text
   name: type
