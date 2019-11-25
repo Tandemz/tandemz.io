@@ -30,10 +30,12 @@ sections:
   featureslist:
   - title: Choisissez vos critères, Tandemz sélectionne les participants les plus
       pertinents
-    content: "Que vous souhaitiez recruter auprès de vos clients existants ou du grand
-      public, vous êtes sûr de pouvoir atteindre votre cible.\n\n* Ciblez directement
-      sur les réseaux sociaux\n* Connectez votre CRM et ciblez dedans\n* Importez
-      et gérez de votre propre panel "
+    content: |-
+      Que vous souhaitiez recruter auprès de vos clients existants ou du grand public, vous êtes sûr de pouvoir atteindre votre cible.
+
+      * Ciblez directement sur les réseaux sociaux
+      * Connectez votre CRM et ciblez dedans
+      * Importez et gérez votre propre panel
     image: "/images/Illustration - Recruit-1.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
