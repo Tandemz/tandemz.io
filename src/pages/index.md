@@ -70,9 +70,9 @@ sections:
   section_id: ''
   subtitle: ''
   blocks:
-  - title: ''
-    content: ''
-    icon: ''
+  - title: Test 1
+    content: Test 1
+    icon: "/images/binary-code.png"
   - title: ''
     content: ''
     icon: ''
