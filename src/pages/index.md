@@ -8,8 +8,8 @@ sections:
   title: Tandemz, le catalyseur de vos rencontres utilisateur
   component: HeroBlock
   content: Qui a dit que l'organisation de la recherche utilisateur qualitative devait
-    être compliquée ? Sur notre plateforme, lancez vos sessions d'interviews et de
-    tests utilisateurs sans prise de tête
+    être compliquée ? Grâce à Tandemz, lancez vos interviews et vos tests utilisateurs
+    sans prise de tête.
   image: ''
   actions:
   - label: Ça m'intéresse
