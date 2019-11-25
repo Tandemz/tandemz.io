@@ -18,7 +18,7 @@ sections:
   component: ImageBlock
   bg: white
   type: imageblock
-  image: "/images/Entreprises - Liste des Annonces.png"
+  image: "/images/Illustration - Recruit.png"
   section_id: Image
 - type: featuresblock
   template: featuresblock
