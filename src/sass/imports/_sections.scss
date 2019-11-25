@@ -157,6 +157,11 @@
 
 .block-overlap {
   margin-top: -230px;
+
+  img {
+    border-radius: 4px;
+    box-shadow: 0 20px 40px 0 rgba(_palette(primary), 0.2);
+  }
 }
 
 /* Value */
