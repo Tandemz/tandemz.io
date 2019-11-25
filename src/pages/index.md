@@ -84,7 +84,7 @@ sections:
     details: ''
     highlight: false
     actions:
-    - label: Ca m'intéresse
+    - label: Ça m'intéresse
       url: "/contact"
 menus:
   main:
