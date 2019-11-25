@@ -22,7 +22,7 @@ sections:
   section_id: Image
 - type: featuresblock
   template: featuresblock
-  section_id: howItWorks
+  section_id: Features
   title: ''
   component: FeaturesBlock
   subtitle: ''
@@ -45,7 +45,7 @@ sections:
 
       * Intégration à votre calendrier
       * Réservation de salle automatique
-    image: "/images/Discuss.svg"
+    image: "/images/Illustration - Calendar.png"
     actions: []
   - title: Simplifiez vos échanges avec vos participants
     content: |-
