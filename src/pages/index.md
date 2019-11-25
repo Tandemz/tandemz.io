@@ -37,7 +37,7 @@ sections:
       * Connectez votre CRM et ciblez dedans
       * Importez et gérez votre propre panel
       * Créez votre propre panel
-    image: "/images/Illustration - Recruit-1.png"
+    image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
