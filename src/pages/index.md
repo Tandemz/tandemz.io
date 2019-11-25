@@ -12,7 +12,7 @@ sections:
     tests utilisateurs sans prise de tête
   image: ''
   actions:
-  - label: Ca m'intéresse
+  - label: Ça m'intéresse
     url: "/contact"
 - template: imageblock
   component: ImageBlock
