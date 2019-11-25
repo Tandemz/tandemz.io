@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   className: overlap-padding
-  title: Tandemz, le catalyseur de vos rencontres utilisateur
+  title: Tandemz, le catalyseur de vos tests utilisateurs
   component: HeroBlock
   content: Qui a dit que l'organisation de la recherche utilisateur qualitative devait
     être compliquée ? Grâce à Tandemz, lancez vos interviews et vos tests utilisateurs
