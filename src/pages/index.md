@@ -70,7 +70,7 @@ sections:
   - title: sentez-vous libre
     content: En quelques minutes, lancez votre étude, en toute autonomie.
     icon: "/images/binary-code.png"
-  - title: pour recruter le bon participant !
+  - title: de recruter le bon participant !
     content: Dans votre panel ou sur les réseaux.
     icon: "/images/binary-code.png"
 - template: pricingblock
