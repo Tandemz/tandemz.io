@@ -70,8 +70,8 @@ sections:
   - title: soyez autonome
     content: Lancez votre session en quelques clics.
     icon: "/images/binary-code.png"
-  - title: Test 3
-    content: Test 3 bla bla bla
+  - title: pour recruter n'importe quel participant !
+    content: Dans votre panel ou sur les réseaux.
     icon: "/images/binary-code.png"
 - template: pricingblock
   component: PricingBlock
