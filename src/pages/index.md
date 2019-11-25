@@ -72,7 +72,8 @@ sections:
     content: En quelques minutes, lancez votre étude, en toute autonomie.
     icon: "/images/binary-code.png"
   - title: de rencontrer le bon participant !
-    content: Dans votre panel ou sur les réseaux.
+    content: Que ce soit sur les réseaux sociaux ou bien dans votre propre panel,
+      vous pouvez définir les critères les plus pertinents.
     icon: "/images/binary-code.png"
 - template: pricingblock
   component: PricingBlock
