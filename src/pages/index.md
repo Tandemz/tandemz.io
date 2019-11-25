@@ -67,8 +67,8 @@ sections:
   - title: Quelle que soit votre méthode,
     content: Test utilisateur, Interview, Focus Group
     icon: "/images/binary-code.png"
-  - title: Test 2
-    content: Test 2 bla bla bla
+  - title: soyez autonome
+    content: Lancez votre session en quelques clics.
     icon: "/images/binary-code.png"
   - title: Test 3
     content: Test 3 bla bla bla
