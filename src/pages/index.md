@@ -73,8 +73,11 @@ sections:
   - title: ''
     content: ''
     icon: ''
-  - title: Test2
-    content: Test2
+  - title: ''
+    content: ''
+    icon: ''
+  - title: Test3
+    content: Test3
     icon: "/images/binary-code.png"
 - template: pricingblock
   component: PricingBlock
