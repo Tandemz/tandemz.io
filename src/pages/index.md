@@ -35,12 +35,12 @@ sections:
       et gérez de votre propre panel "
     image: "/images/Choose.svg"
     actions: []
-  - title: Indiquez vos disponibilités, laissez Tandemz gérer le reste
+  - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
-      Fini les allers-retours par mail pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités affichées.
+      Finis les allers-retours par mail pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités.
 
       * Intégration à votre calendrier
-      * Réservez vos salles automatiquement
+      * Réservation de salle automatique
     image: "/images/Discuss.svg"
     actions: []
   - title: Simplifiez vos échanges avec vos participants
