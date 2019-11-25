@@ -67,8 +67,8 @@ sections:
   - title: Quelle que soit votre méthode,
     content: Test utilisateur, Interview, Focus Group
     icon: "/images/binary-code.png"
-  - title: soyez autonome
-    content: Lancez votre session en quelques clics.
+  - title: sentez-vous libre
+    content: En quelques minutes, lancez votre étude, en toute autonomie.
     icon: "/images/binary-code.png"
   - title: pour recruter le bon participant !
     content: Dans votre panel ou sur les réseaux.
