@@ -34,7 +34,7 @@ sections:
       public, vous êtes sûr de pouvoir atteindre votre cible.\n\n* Ciblez directement
       sur les réseaux sociaux\n* Connectez votre CRM et ciblez dedans\n* Importez
       et gérez de votre propre panel "
-    image: "/images/Illustration - Recruit.png"
+    image: "/images/Illustration - Recruit-1.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
