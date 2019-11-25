@@ -48,7 +48,7 @@ sections:
     content: |-
       Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
 
-      * Vérification du profil par questionnaire ou par enregistrement vidéo
+      * Sélection des profils par questionnaire ou par enregistrement vidéo
       * Rappels automatiques
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Payment.svg"
