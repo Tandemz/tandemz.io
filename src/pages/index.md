@@ -64,7 +64,7 @@ sections:
   section_id: ''
   subtitle: ''
   iconblocks:
-  - title: Quelle que soit votre méthode
+  - title: Quelle que soit votre méthode,
     content: Test utilisateur, Interview, Focus Group
     icon: "/images/binary-code.png"
   - title: Test 2
