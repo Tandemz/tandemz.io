@@ -70,7 +70,7 @@ sections:
   - title: soyez autonome
     content: Lancez votre session en quelques clics.
     icon: "/images/binary-code.png"
-  - title: pour recruter n'importe quel participant !
+  - title: pour recruter le bon participant !
     content: Dans votre panel ou sur les réseaux.
     icon: "/images/binary-code.png"
 - template: pricingblock
