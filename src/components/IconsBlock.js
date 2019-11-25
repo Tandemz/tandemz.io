@@ -9,7 +9,7 @@ export default class IconsBlock extends React.Component {
       <section
         id={_.get(this.props, 'section.section_id')}
         className={
-          'block reviews-block bg-' + _.get(this.props, 'section.bg') + ' outer'
+          'block cell-block bg-' + _.get(this.props, 'section.bg') + ' outer'
         }
       >
         <div className="block-header inner-small">
@@ -20,31 +20,27 @@ export default class IconsBlock extends React.Component {
             </p>
           )}
         </div>
-        {_.get(this.props, 'section.reviews') && (
+        {_.get(this.props, 'section.iconblocks') && (
           <div className="inner">
             <div className="grid">
               {_.map(
-                _.get(this.props, 'section.reviews'),
-                (review, review_idx) => (
-                  <blockquote key={review_idx} className="cell review">
-                    <div className="review-inside">
-                      <p className="review-text">
-                        {htmlToReact(_.get(review, 'content'))}
-                      </p>
-                      <footer className="review-footer">
-                        {_.get(review, 'avatar') && (
-                          <img
-                            className="review-avatar"
-                            src={safePrefix(_.get(review, 'avatar'))}
-                            alt="Author avatar"
-                          />
-                        )}
-                        <cite className="review-author">
-                          {_.get(review, 'author')}
-                        </cite>
-                      </footer>
+                _.get(this.props, 'section.iconblocks'),
+                (block, block_idx) => (
+                  <div key={block_idx} className="cell iconblock">
+                    <div>
+                      {_.get(block, 'icon') && (
+                        <img
+                          className="iconblock-icon"
+                          src={safePrefix(_.get(block, 'icon'))}
+                          alt="Icon"
+                        />
+                      )}
+                      <h5 className="iconblock-title">
+                        {_.get(block, 'title')}
+                      </h5>
+                      <p>{htmlToReact(_.get(block, 'content'))}</p>
                     </div>
-                  </blockquote>
+                  </div>
                 ),
               )}
             </div>

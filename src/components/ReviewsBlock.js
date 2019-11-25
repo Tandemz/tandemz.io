@@ -9,7 +9,7 @@ export default class ReviewsBlock extends React.Component {
       <section
         id={_.get(this.props, 'section.section_id')}
         className={
-          'block reviews-block bg-' + _.get(this.props, 'section.bg') + ' outer'
+          'block cell-block bg-' + _.get(this.props, 'section.bg') + ' outer'
         }
       >
         <div className="block-header inner-small">
