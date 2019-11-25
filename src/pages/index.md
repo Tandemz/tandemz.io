@@ -28,7 +28,7 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Choisissez vos critères, Tandemz sélectionne les participants les plus
+  - title: Définissez les critères de vos participants, Tandemz sélectionne les plus
       pertinents
     content: |-
       Que vous souhaitiez recruter auprès de vos clients existants ou du grand public, vous êtes sûr de pouvoir atteindre votre cible.
