@@ -18,7 +18,7 @@ sections:
   component: ImageBlock
   bg: white
   type: imageblock
-  image: "/images/Illustration - Recruit.png"
+  image: "/images/Entreprises - Liste des Annonces.png"
   section_id: Image
 - type: featuresblock
   template: featuresblock
@@ -34,7 +34,7 @@ sections:
       public, vous êtes sûr de pouvoir atteindre votre cible.\n\n* Ciblez directement
       sur les réseaux sociaux\n* Connectez votre CRM et ciblez dedans\n* Importez
       et gérez de votre propre panel "
-    image: "/images/Choose.svg"
+    image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
