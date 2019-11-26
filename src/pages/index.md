@@ -39,7 +39,7 @@ sections:
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
-      Finis les allers-retours pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités.
+      Finis les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
 
       * Intégration à votre calendrier
       * Réservation de salle automatique
