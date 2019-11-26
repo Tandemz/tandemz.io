@@ -40,7 +40,7 @@ sections:
 
       Cible où vous voulez
 
-      Vous définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent :
+      Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent :
 
       * Dans vos réseaux sociaux favoris
       * Dans votre panel privé importé ou constitué directement sur Tandemz
