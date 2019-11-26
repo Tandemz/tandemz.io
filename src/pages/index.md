@@ -71,9 +71,8 @@ sections:
   type: pricingblock
   section_id: ''
   title: Tarif
-  subtitle: Grâce à Tandemz, passez de 2j de recrutement et organisation à 1h, et
-    concentrez-vous enfin sur votre recherche utilisateur. En quelques minutes, lancez
-    votre étude qualitative en toute autonomie.
+  subtitle: 'En quelques minutes, lancez votre étude qualitative sur Tandemz en toute
+    autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
     price: 100€ / mois
