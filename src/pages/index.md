@@ -69,7 +69,7 @@ sections:
       tests utilisateurs, interviews, focus group.'
     icon: "/images/binary-code.png"
   - title: sentez-vous libre
-    content: En quelques minutes, lancez votre étude, en toute autonomie.
+    content: En quelques minutes, lancez votre étude qualitative, en toute autonomie.
     icon: "/images/binary-code.png"
   - title: de rencontrer le bon participant !
     content: Que ce soit sur les réseaux sociaux ou bien dans votre propre panel,
