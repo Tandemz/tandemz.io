@@ -38,7 +38,9 @@ sections:
       * Importez et gérez votre propre panel
       * Créez votre propre panel
 
-      Vous définissez les critères de vos participants, Tandemz vous permet de les recruter là où ils se trouvent :
+      Cible où vous voulez
+
+      Vous définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent :
 
       * Dans vos réseaux sociaux favoris
       * Dans votre panel privé importé ou constitué directement sur Tandemz
@@ -47,7 +49,7 @@ sections:
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
     content: |-
-      Finis les allers-retours par mail pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités.
+      Finis les allers-retours pour trouver les bons créneaux. Laissez vos participants choisir parmi vos disponibilités.
 
       * Intégration à votre calendrier
       * Réservation de salle automatique
