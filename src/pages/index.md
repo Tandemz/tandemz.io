@@ -32,11 +32,6 @@ sections:
     content: |-
       Que vous souhaitiez recruter auprès de vos clients existants ou du grand public, vous êtes sûr de pouvoir atteindre votre cible.
 
-      * Ciblez directement sur les réseaux sociaux
-      * Connectez votre CRM et ciblez dedans
-      * Importez et gérez votre propre panel
-      * Créez votre propre panel
-
       Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
 
       * Recrutement dans vos réseaux sociaux favoris
