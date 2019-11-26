@@ -62,7 +62,7 @@ sections:
       * Sélection des profils par questionnaire ou par enregistrement vidéo
       * Rappels automatiques
       * Messagerie intégrée pour des échanges centralisés
-    image: "/images/Payment.svg"
+    image: "/images/Illustration - Communication.png"
     actions: []
 - template: iconsblock
   component: IconsBlock
