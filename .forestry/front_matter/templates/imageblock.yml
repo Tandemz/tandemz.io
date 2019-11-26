@@ -3,6 +3,11 @@ label: Image Section
 hide_body: true
 display_field: title
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - type: text
   name: section_id
   label: Element ID
