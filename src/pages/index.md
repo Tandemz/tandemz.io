@@ -42,9 +42,9 @@ sections:
 
       Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
 
-      * Dans vos réseaux sociaux favoris
-      * Dans votre CRM
-      * Dans votre panel privé importé ou constitué directement sur Tandemz
+      * Recrutement dans vos réseaux sociaux favoris
+      * Connexion à votre CRM
+      * Création ou import de votre panel privé sur Tandemz
     image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
