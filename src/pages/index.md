@@ -20,6 +20,7 @@ sections:
   type: imageblock
   image: "/images/Entreprises - Liste des Annonces.png"
   section_id: Image
+  title: Organisez vos interviews et tests utilisateurs en quelques clics
 - type: featuresblock
   template: featuresblock
   section_id: Features
