@@ -5,7 +5,7 @@
   "palette": "blue",
   "header": {
     "title": "Tandemz",
-    "logo_img": "/images/logo_png.png",
+    "logo_img": "/images/Logotype.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -27,7 +27,9 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": []
+    "links": [
+
+    ]
   },
   "siteUrl": "https://staging.tandemz.io"
 }
