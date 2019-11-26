@@ -12,7 +12,7 @@
       "actions": [
         {
           "label": "Demande une démo",
-          "url": "/login"
+          "url": "/contact"
         }
       ]
     }

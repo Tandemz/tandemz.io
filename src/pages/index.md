@@ -33,7 +33,7 @@ sections:
     content: |-
       Plus besoin d'attendre que les équipes CRM ou support vous transmettent les informations !
 
-      Retrouvez toutes les informations de vos utilisateurs à un seul endroit. Définissez vos critères propres.
+      Regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Établissez les critères qui vous sont utiles. Partagez votre panel avec toute votre équipe UX.
 
       * Connexion à vos outils CRM
       * Import de vos fichiers clients
