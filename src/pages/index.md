@@ -28,7 +28,7 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Ciblez où vous voulez, soyez assuré de viser juste
+  - title: Ciblez où vous voulez
     content: |-
       Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
 
