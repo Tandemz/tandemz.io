@@ -1,10 +1,10 @@
 {
-  "title": "Donnez votre avis, changez le monde",
-  "description": "Rejoignez la communauté Tandemz et testez en 30min les projets en cours de construction de vos marques préférées, en échange d'une rémunération. Votre avis honnête les aide à construire des produits qui vous correspondent !",
+  "title": "Tandemz, le catalyseur de vos tests utilisateurs.",
+  "description": "Grâce à Tandemz, lancez vos interviews et vos tests utilisateurs en quelques clics. Recrutez parmi vos utilisateurs, ciblez dans les réseaux sociaux, ou créez votre propre panel : avec Tandemz, menez votre recherche utilisateur en toute autonomie !",
   "favicon": "/images/tandemz_favicon.jpg",
   "palette": "blue",
   "header": {
-    "title": "Tandemz",
+    "title": "Tandemz - catalyseur de vos tests utilisateurs",
     "logo_img": "/images/Logotype.png",
     "has_nav": true,
     "menu": {
@@ -18,7 +18,7 @@
   },
   "footer": {
     "logo_img": "/images/logowhite_png.png",
-    "tagline": "Construisons ensemble nos outils de demain",
+    "tagline": "Catalyseur de vos tests utilisateurs",
     "has_nav": true,
     "nav_title": "En savoir plus",
     "has_social": true,
