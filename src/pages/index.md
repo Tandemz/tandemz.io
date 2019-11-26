@@ -28,13 +28,21 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Ciblez où vous voulez
+  - title: Ciblez directement vos utilisateurs
+    content: |-
+      Plus besoin d'attendre que les équipes CRM ou support vous transmettent les informations !
+
+      * Connexion à vos outils CRM
+      * Import de vos fichiers clients
+      * Création et gestion de votre panel directement sur Tandemz
+    image: "/images/Illustration - Connect.png"
+    actions: []
+  - title: Complétez sur les réseaux sociaux
     content: |-
       Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
 
       * Recrutement dans vos réseaux sociaux favoris
-      * Connexion à votre CRM
-      * Création ou import de votre panel privé sur Tandemz
+      * Multi-posting dans les groupes et sur les plateformes de votre choix
     image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
@@ -54,25 +62,6 @@ sections:
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.png"
     actions: []
-- template: iconsblock
-  component: IconsBlock
-  bg: white
-  type: iconsblock
-  title: Avec Tandemz
-  section_id: ''
-  subtitle: ''
-  iconblocks:
-  - title: Quelle que soit votre méthode,
-    content: Tests utilisateurs, interviews, focus group, toute votre recherche qualitative
-      organisée sur Tandemz.
-    icon: "/images/binary-code.png"
-  - title: sentez-vous libre
-    content: En quelques minutes, lancez votre étude qualitative, en toute autonomie.
-    icon: "/images/binary-code.png"
-  - title: de rencontrer le bon participant!
-    content: Que ce soit sur les réseaux sociaux ou bien dans votre propre panel,
-      soyez assuré d'atteindre votre cible.
-    icon: "/images/binary-code.png"
 - template: pricingblock
   component: PricingBlock
   bg: gray
