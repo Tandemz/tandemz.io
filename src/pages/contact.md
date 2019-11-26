@@ -5,8 +5,7 @@ menus:
     title: Contact
     weight: 4
 template: contact
-subtitle: Vous souhaitez poster une annonce ou bien nous poser une question en particulier
-  ?
+subtitle: ''
 img_path: ''
 
 ---
