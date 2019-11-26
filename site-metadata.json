@@ -1,6 +1,7 @@
 {
   "title": "Tandemz, le catalyseur de vos tests utilisateurs.",
   "description": "Grâce à Tandemz, lancez vos interviews et vos tests utilisateurs en quelques clics. Recrutez parmi vos utilisateurs, ciblez dans les réseaux sociaux, ou créez votre propre panel : avec Tandemz, menez votre recherche utilisateur en toute autonomie !",
+  "keywords": "Tests utilisateurs, recherche utlisateur, ux research, interviews",
   "favicon": "/images/tandemz_favicon.jpg",
   "palette": "blue",
   "header": {
@@ -27,9 +28,7 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": [
-
-    ]
+    "links": []
   },
   "siteUrl": "https://staging.tandemz.io"
 }

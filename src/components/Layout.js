@@ -24,6 +24,13 @@ export default class Body extends React.Component {
               'pageContext.site.siteMetadata.description',
             )}
           />
+          <meta
+            name="keywords"
+            content={_.get(
+              this.props,
+              'pageContext.site.siteMetadata.keywords',
+            )}
+          />
           <meta charSet="utf-8" />
           <meta
             name="viewport"
