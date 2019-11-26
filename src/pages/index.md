@@ -36,7 +36,7 @@ sections:
       * Connexion à vos outils CRM
       * Import de vos fichiers clients
       * Création et gestion de votre panel directement sur Tandemz
-    image: "/images/Illustration - Connect.png"
+    image: "/images/Illustration - Connect.svg"
     actions: []
   - title: Complétez sur les réseaux sociaux
     content: |-
@@ -44,7 +44,7 @@ sections:
 
       * Recrutement dans vos réseaux sociaux favoris
       * Multi-posting dans les groupes et sur les plateformes de votre choix
-    image: "/images/Illustration - Recruit.png"
+    image: "/images/Illustration - Recruit.svg"
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
     content: |-
@@ -52,7 +52,7 @@ sections:
 
       * Intégration à votre calendrier
       * Réservation de salle automatique
-    image: "/images/Illustration - Calendar.png"
+    image: "/images/Illustration - Calendar.svg"
     actions: []
   - title: Simplifiez vos échanges avec les participants
     content: |-
@@ -61,7 +61,7 @@ sections:
       * Sélection des profils par questionnaire ou par enregistrement
       * Rappels automatiques
       * Messagerie intégrée pour des échanges centralisés
-    image: "/images/Illustration - Communication.png"
+    image: "/images/Illustration - Communication.svg"
     actions: []
 - template: pricingblock
   component: PricingBlock
