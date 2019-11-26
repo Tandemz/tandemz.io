@@ -29,13 +29,12 @@ sections:
   bg: white
   featureslist:
   - title: Ciblez où vous voulez, soyez assuré de viser juste
-    content: "Que vous souhaitiez recruter auprès de vos clients existants ou du grand
-      public, vous êtes sûr de pouvoir atteindre votre cible.\n\nDéfinissez les critères
-      de vos participants, Tandemz vous permet de recruter les plus pertinents là
-      où ils se trouvent:\n\nCiblez vos participants où vous voulez  \nEnfin une solution
-      qui vous assure d’atteindre votre cible ?\n\nTandemz, c’est la certitude de
-      pouvoir atteindre votre cible\n\n* Recrutement dans vos réseaux sociaux favoris\n*
-      Connexion à votre CRM\n* Création ou import de votre panel privé sur Tandemz"
+    content: |-
+      Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
+
+      * Recrutement dans vos réseaux sociaux favoris
+      * Connexion à votre CRM
+      * Création ou import de votre panel privé sur Tandemz
     image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
