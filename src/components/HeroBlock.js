@@ -26,9 +26,9 @@ export default class HeroBlock extends React.Component {
               </div>
             )}
             <div className="cell block-content">
-              <h2 className="block-title">
+              <h1 className="block-title">
                 {markdownify(_.get(this.props, 'section.title'))}
-              </h2>
+              </h1>
               <div className="block-copy">
                 {markdownify(_.get(this.props, 'section.content'))}
               </div>

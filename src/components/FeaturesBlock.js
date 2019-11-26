@@ -15,14 +15,6 @@ export default class FeaturesBlock extends React.Component {
           ' outer'
         }
       >
-        <div className="block-header inner-small">
-          <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
-          {_.get(this.props, 'section.subtitle') && (
-            <p className="block-subtitle">
-              {htmlToReact(_.get(this.props, 'section.subtitle'))}
-            </p>
-          )}
-        </div>
         {_.get(this.props, 'section.featureslist') && (
           <div className="inner">
             {_.map(
@@ -39,7 +31,7 @@ export default class FeaturesBlock extends React.Component {
                       </div>
                     )}
                     <div className="cell block-content">
-                      <h3 className="block-title">{_.get(feature, 'title')}</h3>
+                      <h2 className="block-title">{_.get(feature, 'title')}</h2>
                       <div className="block-copy">
                         {markdownify(_.get(feature, 'content'))}
                       </div>
