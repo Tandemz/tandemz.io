@@ -65,8 +65,8 @@ sections:
   subtitle: ''
   iconblocks:
   - title: Quelle que soit votre méthode,
-    content: 'Tous vos échanges qualitatifs organisés depuis la même plateforme :
-      tests utilisateurs, interviews, focus group.'
+    content: 'Toute votre recherche qualitative organisée depuis la même plateforme
+      : tests utilisateurs, interviews, focus group.'
     icon: "/images/binary-code.png"
   - title: sentez-vous libre
     content: En quelques minutes, lancez votre étude qualitative, en toute autonomie.
