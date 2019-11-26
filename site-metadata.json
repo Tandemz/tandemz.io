@@ -11,7 +11,7 @@
     "menu": {
       "actions": [
         {
-          "label": "Demande une démo",
+          "label": "Demander une démo",
           "url": "/contact"
         }
       ]
