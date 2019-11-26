@@ -8,7 +8,8 @@ sections:
   title: Tandemz, le catalyseur de vos tests utilisateurs
   component: HeroBlock
   content: Qui a dit que l'organisation de vos études qualitatives devait être compliquée
-    ? Grâce à Tandemz, lancez vos tests utilisateurs sans prise de tête.
+    ? Grâce à Tandemz, lancez vos interviews et vos tests utilisateurs sans prise
+    de tête.
   image: ''
   actions:
   - label: Ça m'intéresse
