@@ -37,6 +37,12 @@ sections:
       * Connectez votre CRM et ciblez dedans
       * Importez et gérez votre propre panel
       * Créez votre propre panel
+
+      Vous définissez les critères de vos participants, Tandemz vous permet de les recruter là où ils se trouvent :
+
+      * Dans vos réseaux sociaux favoris
+      * Dans votre panel privé importé ou constitué directement sur Tandemz
+      * Dans votre CRM
     image: "/images/Illustration - Recruit.png"
     actions: []
   - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
