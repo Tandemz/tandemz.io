@@ -7,3 +7,9 @@ command = "./stackbit-build.sh"
 
 [context.production]
   environment = { GATSBY_APP_URL = "https://app.tandemz.io", GATSBY_API_URL = "https://api.tandemz.io" }
+
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true
