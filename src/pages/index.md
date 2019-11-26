@@ -40,7 +40,7 @@ sections:
     actions: []
   - title: Complétez sur les réseaux sociaux
     content: |-
-      Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
+      Le participant parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent:
 
       * Recrutement dans vos réseaux sociaux favoris
       * Multi-posting dans les groupes et sur les plateformes de votre choix
