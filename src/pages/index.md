@@ -71,7 +71,7 @@ sections:
     icon: "/images/binary-code.png"
   - title: de rencontrer le bon participant!
     content: Que ce soit sur les réseaux sociaux ou bien dans votre propre panel,
-      vous pouvez définir les critères les plus pertinents.
+      soyez assuré d'atteindre votre cible.
     icon: "/images/binary-code.png"
 - template: pricingblock
   component: PricingBlock
