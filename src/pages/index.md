@@ -49,7 +49,7 @@ sections:
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
     content: |-
-      Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants prendre connaissance de toutes les informations et choisir parmi vos disponibilités.
+      Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
 
       * Annonce regroupant toutes les modalités pour le testeur
       * Intégration à votre calendrier
