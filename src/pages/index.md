@@ -45,11 +45,11 @@ sections:
       * Réservation de salle automatique
     image: "/images/Illustration - Calendar.png"
     actions: []
-  - title: Simplifiez vos échanges avec vos participants
+  - title: Simplifiez vos échanges avec les participants
     content: |-
       Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
 
-      * Sélection des profils par questionnaire ou par enregistrement vidéo
+      * Sélection des profils par questionnaire ou par enregistrement
       * Rappels automatiques
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.png"
