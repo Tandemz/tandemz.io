@@ -48,6 +48,8 @@ sections:
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
     content: |-
+      Rajouter que c'est pour tout type de méthodes UX : test utilisateur, interview, focus group ou autres.
+
       Finis les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
 
       * Intégration à votre calendrier
