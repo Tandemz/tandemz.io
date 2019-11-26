@@ -11,8 +11,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Se connecter",
-          "url": "{APP_URL}/login"
+          "label": "Demande une démo",
+          "url": "/login"
         }
       ]
     }
@@ -28,7 +28,9 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": []
+    "links": [
+
+    ]
   },
   "siteUrl": "https://staging.tandemz.io"
 }
