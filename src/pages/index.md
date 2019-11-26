@@ -38,7 +38,7 @@ sections:
       * Importez et gérez votre propre panel
       * Créez votre propre panel
 
-      Cible où vous voulez
+      Ciblez où vous voulez
 
       Définissez les critères de vos participants, Tandemz vous permet de recruter les plus pertinents là où ils se trouvent:
 
