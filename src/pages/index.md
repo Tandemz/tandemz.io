@@ -63,8 +63,8 @@ sections:
   subtitle: ''
   iconblocks:
   - title: Quelle que soit votre méthode,
-    content: 'Toute votre recherche qualitative organisée depuis la même plateforme
-      : tests utilisateurs, interviews, focus group.'
+    content: Tests utilisateurs, interviews, focus group, toute votre recherche qualitative
+      organisée sur Tandemz.
     icon: "/images/binary-code.png"
   - title: sentez-vous libre
     content: En quelques minutes, lancez votre étude qualitative, en toute autonomie.
