@@ -29,7 +29,7 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Ciblez directement vos utilisateurs
+  - title: Ciblez vos propres utilisateurs
     content: |-
       Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
 
