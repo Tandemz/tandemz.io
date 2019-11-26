@@ -49,10 +49,9 @@ sections:
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
     content: |-
-      Rajouter que c'est pour tout type de méthodes UX modérées : test utilisateur, interview, focus group ou autres, à distance ou pas.
+      Test utilisateur, interview, focus group, à distance ou non, pour toute étude UX modérée, finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants prendre connaissance de toutes les informations et choisir parmi vos disponibilités.
 
-      Finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants prendre connaissance de toutes les informations et choisir parmi vos disponibilités.
-
+      * Annonce regroupant toutes les modalités pour le testeur
       * Intégration à votre calendrier
       * Réservation de salle automatique
     image: "/images/Illustration - Calendar.svg"
