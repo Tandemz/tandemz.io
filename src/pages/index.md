@@ -44,6 +44,7 @@ sections:
 
       * Recrutement dans vos réseaux sociaux favoris
       * Multi-posting dans les groupes et sur les plateformes de votre choix
+      * Post dans votre communauté (si vous en avez une)
     image: "/images/Illustration - Recruit.svg"
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
