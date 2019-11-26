@@ -316,14 +316,14 @@
 /* Icon Blocks */
 
 .iconblock-icon {
-  margin-left: auto;
-  margin-right: auto;
   width: 96px;
   height: auto;
 }
 
 .iconblock {
   text-align: center;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 .iconblock-title {
