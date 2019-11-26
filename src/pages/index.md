@@ -33,6 +33,8 @@ sections:
     content: |-
       Plus besoin d'attendre que les équipes CRM ou support vous transmettent les informations !
 
+      Retrouvez toutes les informations de vos utilisateurs à un seul endroit. Définissez vos critères propres.
+
       * Connexion à vos outils CRM
       * Import de vos fichiers clients
       * Création et gestion de votre panel directement sur Tandemz
