@@ -71,8 +71,8 @@ sections:
   type: pricingblock
   section_id: ''
   title: Tarif
-  subtitle: 'En quelques minutes, lancez votre étude qualitative sur Tandemz en toute
-    autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
+  subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
+    toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
     price: 100€ / mois
