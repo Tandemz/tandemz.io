@@ -37,7 +37,7 @@ sections:
       * Création ou import de votre panel privé sur Tandemz
     image: "/images/Illustration - Recruit.png"
     actions: []
-  - title: Indiquez vos disponibilités, Tandemz s'occupe du reste
+  - title: Indiquez vos modalités, Tandemz s'occupe du reste
     content: |-
       Finis les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
 
