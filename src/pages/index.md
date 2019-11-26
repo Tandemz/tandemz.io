@@ -40,11 +40,11 @@ sections:
     actions: []
   - title: Complétez sur les réseaux sociaux
     content: |-
-      Votre participant parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent:
+      Votre participant parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
 
       * Recrutement dans vos réseaux sociaux favoris
-      * Multi-posting dans les groupes et sur les plateformes de votre choix
-      * Post dans votre communauté (si vous en avez une)
+      * Multidiffusion dans les groupes et sur les plateformes de votre choix
+      * Publications dans vos communautés existantes
     image: "/images/Illustration - Recruit.svg"
     actions: []
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
