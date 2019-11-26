@@ -69,7 +69,7 @@ sections:
   - title: sentez-vous libre
     content: En quelques minutes, lancez votre étude qualitative, en toute autonomie.
     icon: "/images/binary-code.png"
-  - title: de rencontrer le bon participant !
+  - title: de rencontrer le bon participant!
     content: Que ce soit sur les réseaux sociaux ou bien dans votre propre panel,
       vous pouvez définir les critères les plus pertinents.
     icon: "/images/binary-code.png"
