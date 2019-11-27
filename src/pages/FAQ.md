@@ -4,7 +4,7 @@ sections:
 - type: faqblock
   template: faqblock
   section_id: faq
-  title: Foire Aux Questions
+  title: Foire Aux Questions Testeurs
   component: FaqBlock
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
