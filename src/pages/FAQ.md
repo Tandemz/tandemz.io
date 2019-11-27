@@ -54,6 +54,14 @@ sections:
     answer: Il n'est pas possible de vivre exclusivement des récompenses obtenues
       sur Tandemz. Le nombre de rencontres auxquelles vous pouvez participer est bloqué
       au-delà d'une certaine limite.
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  title: Foire aux questions
+  section_id: faqcompany
+  subtitle: ''
+  faqitems: []
 menus:
   main:
     title: FAQ
