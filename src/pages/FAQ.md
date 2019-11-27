@@ -1,6 +1,18 @@
 ---
 title: FAQ
 sections:
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  title: Foire Aux Questions
+  section_id: faqcompany
+  subtitle: ''
+  faqitems:
+  - question: Question 2
+    answer: blablabla
+  - question: Question 1
+    answer: blabla
 - type: faqblock
   template: faqblock
   section_id: faq
@@ -54,18 +66,6 @@ sections:
     answer: Il n'est pas possible de vivre exclusivement des récompenses obtenues
       sur Tandemz. Le nombre de rencontres auxquelles vous pouvez participer est bloqué
       au-delà d'une certaine limite.
-- template: faqblock
-  component: FaqBlock
-  bg: gray
-  type: faqblock
-  title: Foire Aux Questions
-  section_id: faqcompany
-  subtitle: ''
-  faqitems:
-  - question: Question 2
-    answer: blablabla
-  - question: Question 1
-    answer: blabla
 menus:
   main:
     title: FAQ
