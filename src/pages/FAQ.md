@@ -16,7 +16,9 @@ sections:
       sur les réseaux sociaux ? et sur quels réseaux ?\n\nEst-ce qu'il y a une limite
       pour mon panel ?\n\nCombien de temps ça prend à faire une étude ?\n\nJ'ai besoin
       d'être accompagné.\n\nEst-ce que vous faites le B2B ? Mon panel est difficile
-      à recruter."
+      à recruter.\n\nQuelle taille d'équipe ?\n\nComment ça marche pour créer mon
+      panel sur Tandemz ?\n\nEst-ce que mes beta testeurs voient qu'ils passent par
+      Tandemz ?\n\nComment ça se passe pour l'utilisateur ?"
   - question: Question 1
     answer: blabla
 - type: faqblock
