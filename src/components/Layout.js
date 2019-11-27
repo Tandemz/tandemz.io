@@ -7,6 +7,33 @@ import Header from './Header';
 import Footer from './Footer';
 import '../sass/main.scss';
 
+const orgaSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  url: 'http://www.tandemz.io',
+  name: 'Tandemz',
+  email: 'contact@tandemz.io',
+  logo: 'https://www.tandemz.io/images/Logotype.png',
+  slogan: 'Catalyseur de vos tests utilisateurs',
+  address: {
+    '@type': 'PostalAddress',
+    addressCountry: 'France',
+    postalCode: '75005',
+  },
+  location: {
+    '@type': 'PostalAddress',
+    addressCountry: 'France',
+    postalCode: '75005',
+  },
+  contactPoint: [
+    {
+      '@type': 'ContactPoint',
+      email: 'contact@tandemz.io',
+      contactType: 'customer service',
+    },
+  ],
+};
+
 const websiteSchema = {
   '@context': 'https://schema.org',
   '@type': 'WebApplication',
@@ -18,34 +45,9 @@ const websiteSchema = {
   browserRequirements: 'Requires JavaScript. Requires HTML5.',
   version: '1.0.0',
   screenshot:
-    'https://staging.tandemz.io/images/Entreprises%20-%20Liste%20des%20Annonces.svg',
+    'https://www.tandemz.io/images/Entreprises%20-%20Liste%20des%20Annonces.svg',
   operatingSystem: 'All',
-  author: {
-    '@context': 'https://schema.org',
-    '@type': 'Organization',
-    url: 'http://www.tandemz.io',
-    name: 'Tandemz',
-    email: 'contact@tandemz.io',
-    logo: 'https://staging.tandemz.io/images/Logotype.png',
-    slogan: 'Catalyseur de vos tests utilisateurs',
-    address: {
-      '@type': 'PostalAddress',
-      addressCountry: 'France',
-      postalCode: '75005',
-    },
-    location: {
-      '@type': 'PostalAddress',
-      addressCountry: 'France',
-      postalCode: '75005',
-    },
-    contactPoint: [
-      {
-        '@type': 'ContactPoint',
-        email: 'contact@tandemz.io',
-        contactType: 'customer service',
-      },
-    ],
-  },
+  author: orgaSchema,
   offers: [
     {
       '@type': 'Offer',
@@ -111,6 +113,9 @@ export default class Body extends React.Component {
 
           <script className="structured-data-list" type="application/ld+json">
             {JSON.stringify(websiteSchema)}
+          </script>
+          <script className="structured-data-list" type="application/ld+json">
+            {JSON.stringify(orgaSchema)}
           </script>
           <meta property="og:title" content="Tandemz" />
           <meta property="og:type" content="website" />
