@@ -51,6 +51,13 @@ export default class Body extends React.Component {
             rel="stylesheet"
           />
           <SchemaOrg />
+          <meta property="og:title" content="Tandemz" />
+          <meta property="og:type" content="website" />
+          <meta property="og:url" content="https://www.tandemz.io" />
+          <meta
+            property="og:image"
+            content="https://www.tandemz.io/images/Logotype.png"
+          />
         </Helmet>
         <div
           id="page"
