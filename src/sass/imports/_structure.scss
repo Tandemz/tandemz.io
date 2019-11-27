@@ -32,5 +32,12 @@
 
 .overlap-padding {
   padding-top: 80px;
-  padding-bottom: 200px;
+  padding-bottom: 100px;
+}
+
+@media only screen and (min-width: 801px) {
+  .overlap-padding {
+    padding-top: 80px;
+    padding-bottom: 200px;
+  }
 }

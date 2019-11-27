@@ -44,6 +44,7 @@
 
 .hero-block,
 .text-block,
+.image-block,
 .block-item {
   .cell {
     text-align: center;
@@ -162,15 +163,25 @@
 
 /* Image */
 
-.block-overlap {
-  margin-top: -230px;
-  max-width: 1100px;
-  margin-left: auto;
-  margin-right: auto;
+.image-block {
+  padding-bottom: 4.5rem;
+}
 
-  img {
-    border-radius: 4px;
-    box-shadow: 0 20px 40px 0 rgba(_palette(primary), 0.2);
+.block-overlap {
+  margin-top: -140px;
+}
+
+@media only screen and (min-width: 741px) {
+  .block-overlap {
+    margin-top: -250px;
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+
+    img {
+      border-radius: 4px;
+      box-shadow: 0 20px 40px 0 rgba(_palette(primary), 0.2);
+    }
   }
 }
 
