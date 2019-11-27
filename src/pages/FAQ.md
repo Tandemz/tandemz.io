@@ -10,12 +10,8 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
-  - question: Comment se passe l'inscription à une étude pour mes participants ?
-    answer: ''
   - question: Liste de questions
     answer: |2-
-
-      Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
 
       Puis-je créer mon propre panel directement sur Tandemz ?
 
@@ -38,6 +34,8 @@ sections:
       Combien ça coûte ? Comment je peux payer ?
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: blabla
+  - question: Comment se passe l'inscription à une étude pour mes participants ?
+    answer: ''
 - type: faqblock
   template: faqblock
   section_id: faq
