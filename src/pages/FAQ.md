@@ -10,10 +10,10 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
+  - question: Comment se passe l'inscription à une étude pour mes participants ?
+    answer: ''
   - question: Liste de questions
     answer: |2-
-
-      Comment se passe l'inscription à une étude pour mes participants ?
 
       Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
 
