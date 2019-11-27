@@ -36,7 +36,7 @@ sections:
       J'ai besoin d'être accompagné.
 
       Combien ça coûte ? Comment je peux payer ?
-  - question: Question 1
+  - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: blabla
 - type: faqblock
   template: faqblock
