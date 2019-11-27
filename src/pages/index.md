@@ -1,98 +1,90 @@
 ---
-title: Home
 sections:
-- type: heroblock
-  template: heroblock
-  section_id: hero
-  title: "Testez des nouveautés  \nPartagez votre avis  \nAméliorez notre futur"
-  component: HeroBlock
-  content: Les entreprises et les marques ont besoin de vous pour mieux construire
-    leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
-    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
-    !
-  image: "/images/Hero.svg"
-  actions:
-  - label: Je participe
-    url: "/#call-to-action"
-- type: valueblock
-  template: valueblock
-  section_id: value
-  component: ValueBlock
-  value_title_1: Pour vous
-  value_content_1: Votre avis a un impact énorme sur la direction que peut prendre
-    un produit. Et vous allez peut-être tester en avant-première LA nouveauté ou découvrir
-    des produits complètement inédits ! Bien sûr comme votre temps est précieux, on
-    vous rémunère.
-  value_title_2: Pour les entreprises
-  value_content_2: Vos retours, besoins et envies sont des ressources inestimables
-    pour les entreprises. En échangeant avec vous et en vous faisant manipuler leurs
-    produits, elles veulent s'assurer qu'ils vous plairont et répondront vraiment
-    à vos besoins.
-  bg: gray
-  title: ''
-  subtitle: ''
-- type: featuresblock
-  template: featuresblock
-  section_id: howItWorks
-  title: Comment ça marche ?
-  component: FeaturesBlock
-  subtitle: ''
-  bg: white
-  featureslist:
-  - title: 1. Trouvez une rencontre
-    content: Notre algorithme détermine les rencontres qui correspondent le plus à
-      votre profil. Vous pouvez aussi parcourir l'ensemble de nos rencontres et postuler
-      à celles qui vous intéressent.
-    image: "/images/Choose.svg"
-    actions: []
-  - title: 2. Participez à la rencontre
-    content: Votre tandem vous transmet les informations. Il ne vous reste plus qu'à
-      vous présenter au rendez-vous et suivre le déroulé de la rencontre. On ne recherche
-      rien de plus que votre avis honnête et votre ressenti.
-    image: "/images/Discuss.svg"
-    actions: []
-  - title: 3. Recevez votre rémunération
-    content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
-      vous, nous vous reversons la rémunération associée. Prêt à recommencer?
-    image: "/images/Payment.svg"
-    actions: []
-- type: studiesblock
-  template: studiesblock
-  section_id: studies
-  title: Ces produits ont besoin de votre avis
-  component: StudiesBlock
-  subtitle: Postulez directement aux rencontres qui vous intéressent, ou inscrivez-vous
-    pour en voir d'autres !
-  bg: gray
-  studies:
-  - title: Vous avez envoyé des faire-part ou vous allez bientôt le faire ? Racontez-nous
-      comment ça s'est passé !
-    content: "Faire-part de mariage ou de naissance, si vous en avez envoyé cette
-      année ou compte le faire bientôt, alors votre expérience nous intéresse. Notre
-      site de commande et personnalisation de faire-part n'attend que vos retours
-      pour s'améliorer !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
-      par téléphone / visioconférence**\n\n\U0001F381 Rémunération : un **bon d'achat
-      FNAC de 20€** ou **un bon de réduction de 30€ sur notre site**"
-    url: https://docs.google.com/forms/d/e/1FAIpQLScXK0AvbEP8rjAjwFNaY3IdE5m5rIQeOldDPqaSr4vXyOnBmw/viewform
-  - title: Conducteur, avez-vous déjà acheté des pièces détachées pour votre voiture
-      ?
-    content: "Essuie-glace, pneu, huile, alternateur... Si vous avez déjà acheté des
-      pièces détachées pour votre voiture - en ligne ou en magasin - venez nous parler
-      de votre expérience !\n\n**⏰** Durée : **30 min**\n\n\U0001F3E0 Lieu : **à distance
-      par téléphone** OU en personne vers **Paris Saint-Lazare**\n\n\U0001F381 Rémunération
-      : un **bon d'achat de 20€ sur notre site pour des pièces automobiles**"
-    url: https://docs.google.com/forms/d/e/1FAIpQLScoQZI30LUXl1zm5XgmLPgajfLP_R-uushFQiFCBkGhPecsdQ/viewform
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: Rejoignez la communauté Tandemz
-  component: CtaBlock
-  subtitle: et participez à vos premières rencontres !
-  actions: []
+  - type: heroblock
+    template: heroblock
+    section_id: hero
+    className: overlap-padding
+    title: Tandemz, le catalyseur de vos tests utilisateurs
+    component: HeroBlock
+    content:
+      Qui a dit que l'organisation de vos études qualitatives devait être compliquée
+      ? Grâce à Tandemz, lancez vos interviews UX et vos tests utilisateurs sans prise
+      de tête.
+    image: ''
+    actions:
+      - label: Ça m'intéresse
+        url: '/contact'
+  - template: imageblock
+    component: ImageBlock
+    bg: white
+    type: imageblock
+    image: '/images/Entreprises - Liste des Annonces.svg'
+    section_id: Image
+    title: Organisez vos interviews et tests utilisateurs en quelques clics
+  - type: featuresblock
+    template: featuresblock
+    section_id: Features
+    title: ''
+    component: FeaturesBlock
+    subtitle: ''
+    bg: white
+    featureslist:
+      - title: Ciblez vos propres utilisateurs
+        content: |-
+          Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
+
+          * Connexion à vos outils CRM
+          * Import de vos fichiers clients
+          * Création et gestion de votre panel directement sur Tandemz
+        image: '/images/Illustration - Connect.svg'
+        actions: []
+      - title: Complétez sur les réseaux sociaux
+        content: |-
+          Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
+
+          * Recrutement dans vos réseaux sociaux favoris
+          * Multidiffusion dans les groupes et sur les plateformes de votre choix
+          * Publications dans vos communautés existantes
+        image: '/images/Illustration - Recruit.svg'
+        actions: []
+      - title: Indiquez vos modalités, Tandemz s'occupe du reste
+        content: |-
+          Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
+
+          * Annonce regroupant toutes les modalités pour le testeur
+          * Intégration à votre calendrier
+          * Réservation de salle automatique
+        image: '/images/Illustration - Calendar.svg'
+        actions: []
+      - title: Simplifiez vos échanges avec les participants
+        content: |-
+          Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
+
+          * Sélection des profils par questionnaire ou par enregistrement
+          * Rappels automatiques
+          * Messagerie intégrée pour des échanges centralisés
+        image: '/images/Illustration - Communication.svg'
+        actions: []
+  - template: pricingblock
+    component: PricingBlock
+    bg: gray
+    type: pricingblock
+    section_id: ''
+    title: Tarif
+    subtitle:
+      'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
+      toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
+    pricingplans:
+      - title: A partir de
+        price: 100€ / mois
+        details: ''
+        highlight: false
+        actions:
+          - label: Ça m'intéresse
+            url: '/contact'
 menus:
   main:
     title: Home
     weight: 1
 template: home
-
 ---

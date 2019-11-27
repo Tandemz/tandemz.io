@@ -1,10 +1,48 @@
 ---
 title: FAQ
 sections:
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  title: Foire Aux Questions
+  section_id: faqcompany
+  subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
+    à nous contacter directement par mail.
+  faqitems:
+  - question: Liste de questions
+    answer: |-
+      Combien de temps ça prend à faire une étude ?
+
+      Comment ça se passe pour l'utilisateur ?
+
+      Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
+
+      Puis-je créer mon propre panel directement sur Tandemz ?
+
+      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un lien d'inscription, avec votre Comment ça marche pour créer mon panel sur Tandemz ?
+
+      Est-ce que je peux connecter à mon CRM ?
+
+      Comment sont qualifiés les participants?
+
+      Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
+
+      Est-ce qu'il y a une limite pour mon panel ?
+
+      Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
+
+      Quelle taille d'équipe ?
+
+      J'ai besoin d'être accompagné.
+
+      Combien ça coûte ? Comment je peux payer ?
+  - question: Question 1
+    answer: blabla
 - type: faqblock
   template: faqblock
   section_id: faq
-  title: Foire Aux Questions
+  title: Foire Aux Questions Testeurs
   component: FaqBlock
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.

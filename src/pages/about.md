@@ -15,4 +15,4 @@ Alors, pourquoi Tandemz ? Pour nous, il est toujours plus facile de gravir une p
 
 Tandemz sera lancée dans quelques semaines. Nous travaillons d'arrache pied pour faire naître cette toute nouvelle plateforme.
 
-N'hésitez pas à vous[ inscrire](https://tandemz-33248.netlify.com/#call-to-action "t'inscrire") pour faire partie de la communauté Tandemz et être au courant des nouveautés. Dès que la plateforme sera lancée, nous vous préviendrons.
+N'hésitez pas à vous [inscrire](https://tandemz-33248.netlify.com/#call-to-action "t'inscrire") pour faire partie de la communauté Tandemz et être au courant des nouveautés. Dès que la plateforme sera lancée, nous vous préviendrons.

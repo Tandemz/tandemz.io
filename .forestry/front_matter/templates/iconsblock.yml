@@ -1,0 +1,57 @@
+---
+label: Icons Section
+hide_body: true
+display_field: title
+fields:
+- type: text
+  name: section_id
+  label: Element ID
+- type: text
+  name: title
+  label: Title
+  description: The title of the section.
+- type: text
+  name: component
+  label: Component
+  hidden: true
+  default: IconsBlock
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The subtitle of the section.
+- type: select
+  name: bg
+  label: Background
+  description: The background of the section.
+  default: gray
+  config:
+    source:
+      type: custom
+    options:
+    - gray
+    - white
+- type: field_group_list
+  name: iconblocks
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: content
+    label: Content
+  - type: file
+    name: icon
+    label: Icon
+  config:
+    labelField: title
+  label: Icon Blocks
+- type: text
+  name: type
+  label: Reference Type Name
+  description: Name of the Stackbit object model, used by fields of type reference
+  hidden: true
+  default: iconsblock
+  config:
+    required: true

@@ -1,24 +1,25 @@
 {
-  "title": "Donnez votre avis, changez le monde",
-  "description": "Rejoignez la communauté Tandemz et testez en 30min les projets en cours de construction de vos marques préférées, en échange d'une rémunération. Votre avis honnête les aide à construire des produits qui vous correspondent !",
+  "title": "Tandemz, le catalyseur de vos tests utilisateurs.",
+  "description": "Lancez vos interviews UX et vos tests utilisateurs sans prise de tête. Automatisez toute l'organisation de vos tests et la gestion de votre panel.",
+  "keywords": "Test utilisateur, étude qualitative, UX, recherche utilisateur, panel",
   "favicon": "/images/tandemz_favicon.jpg",
   "palette": "blue",
   "header": {
-    "title": "Tandemz",
-    "logo_img": "/images/logo_png.png",
+    "title": "Tandemz - catalyseur de vos tests utilisateurs",
+    "logo_img": "/images/Logotype.png",
     "has_nav": true,
     "menu": {
       "actions": [
         {
-          "label": "Je participe",
-          "url": "/#call-to-action"
+          "label": "Demander une démo",
+          "url": "/contact"
         }
       ]
     }
   },
   "footer": {
     "logo_img": "/images/logowhite_png.png",
-    "tagline": "Construisons ensemble nos outils de demain",
+    "tagline": "Catalyseur de vos tests utilisateurs",
     "has_nav": true,
     "nav_title": "En savoir plus",
     "has_social": true,
@@ -26,13 +27,10 @@
     "has_subscribe": false,
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
-    "content": "&copy; Stackbit. All rights reserved.",
+    "content": "&copy; Tandemz. All rights reserved.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ]
-  }
+  },
+  "siteUrl": "https://staging.tandemz.io"
 }

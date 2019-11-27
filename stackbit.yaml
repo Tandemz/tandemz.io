@@ -196,6 +196,7 @@ models:
           labelField: title
           models:
             - contentblock
+            - imageblock
             - ctablock
             - faqblock
             - featuresblock
@@ -203,6 +204,7 @@ models:
             - postsblock
             - pricingblock
             - reviewsblock
+            - iconsblock
             - studiesblock
             - valueblock
       - type: page_menus
@@ -390,6 +392,35 @@ models:
     fields:
       - name: component
         default: ContentBlock
+      - type: markdown
+        name: content
+        label: Content
+        description: The text content of the section.
+      - type: image
+        name: image
+        label: Image
+        description: The image of the section.
+      - type: enum
+        name: bg
+        label: Background
+        description: The background of the section.
+        options:
+          - gray
+          - white
+        default: gray
+      - type: list
+        name: actions
+        label: Action Buttons
+        items:
+          type: action
+  imageblock:
+    type: object
+    label: Image Section
+    extends:
+      - section
+    fields:
+      - name: component
+        default: ImageBlock
       - type: markdown
         name: content
         label: Content
@@ -617,6 +648,43 @@ models:
       - type: list
         name: reviews
         label: Reviews
+        items:
+          type: object
+          label: Review
+          labelField: author
+          fields:
+            - type: string
+              name: author
+              label: Author
+            - type: image
+              name: avatar
+              label: Avatar
+            - type: string
+              name: content
+              label: Content
+  iconsblock:
+    type: object
+    label: Icons Section
+    extends:
+      - section
+    fields:
+      - name: component
+        default: IconsBlock
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The subtitle of the section.
+      - type: enum
+        name: bg
+        label: Background
+        description: The background of the section.
+        options:
+          - gray
+          - white
+        default: gray
+      - type: list
+        name: blocks
+        label: Blocks
         items:
           type: object
           label: Review

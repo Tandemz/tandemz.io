@@ -14,6 +14,16 @@ fields:
   description: Site description
   config:
     required: true
+- type: text
+  name: keywords
+  label: Keywords
+  description: Site keywords
+- name: siteUrl
+  type: text
+  config:
+    required: true
+  label: SIte Url
+  description: The site url
 - type: select
   name: palette
   label: Color Palette
@@ -27,6 +37,12 @@ fields:
     - purple
     - green
     - orange
+- name: favicon
+  type: file
+  config:
+    maxSize: 250
+  label: Favicon
+  description: The website favicon
 - type: field_group
   name: header
   label: Header Configuration

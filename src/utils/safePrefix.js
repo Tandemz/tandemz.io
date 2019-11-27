@@ -1,9 +1,14 @@
 const { withPrefix } = require("gatsby");
-const _ = require('lodash');
+const { templateCompute } = require("./template");
+const _ = require("lodash");
 
-export default function(url) {
-    if (_.startsWith(url, '#') || _.startsWith(url, 'http')) {
-        return url;
-    }
-    return withPrefix(url);
+export default function(_url) {
+  const url = templateCompute(_url, {
+    APP_URL: process.env.GATSBY_APP_URL
+  });
+
+  if (_.startsWith(url, "#") || _.startsWith(url, "http")) {
+    return url;
+  }
+  return withPrefix(url);
 }

@@ -1,0 +1,43 @@
+---
+label: Image Section
+hide_body: true
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- type: text
+  name: section_id
+  label: Element ID
+- type: text
+  name: component
+  label: Component
+  hidden: true
+  default: ImageBlock
+  config:
+    required: true
+- type: file
+  name: image
+  label: Image
+  description: The image of the section.
+- type: select
+  name: bg
+  label: Background
+  description: The background of the section.
+  default: gray
+  config:
+    source:
+      type: custom
+    options:
+    - gray
+    - white
+- type: text
+  name: type
+  label: Reference Type Name
+  description: Name of the Stackbit object model, used by fields of type reference
+  hidden: true
+  default: imageblock
+  config:
+    required: true

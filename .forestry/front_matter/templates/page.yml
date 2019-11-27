@@ -25,3 +25,6 @@ fields:
     required: true
 pages:
 - src/pages/about.md
+- src/pages/confidentialité-et-protection-des-données.md
+- src/pages/contrat-de-prestations-de-services-testeur.md
+- src/pages/conditions-générales-d-utilisation.md

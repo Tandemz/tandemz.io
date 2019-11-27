@@ -2,16 +2,9 @@
 label: Home
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-  description: The title of the page.
-  config:
-    required: true
 - type: blocks
   name: sections
   label: Sections
-  description: Home page sections.
   template_types:
   - contentblock
   - ctablock
@@ -21,6 +14,8 @@ fields:
   - postsblock
   - pricingblock
   - reviewsblock
+  - iconsblock
+  description: Page sections
 - type: text
   name: template
   label: Template
@@ -30,3 +25,4 @@ fields:
     required: true
 pages:
 - src/pages/index.md
+- src/pages/participant.md
