@@ -12,15 +12,7 @@ sections:
   faqitems:
   - question: Liste de questions
     answer: |-
-      Est-ce que je peux connecter à mon CRM ?
-
-      Comment sont qualifiés les participants?
-
       Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
-
-      Y a-t-il une limite pour le nombre de personnes constituant mon panel ?
-
-      Oui, le nombre de personnes constituant votre panel est limité. Cette limite varie selon votre offre.
 
       Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
 
@@ -45,6 +37,14 @@ sections:
       formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple.
       Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
       "Mon panel".
+  - question: Puis-je connecter Tandemz à mon CRM ?
+    answer: ''
+  - question: Comment sont qualifiés les participants à mes études ?
+    answer: ''
+  - question: Y a-t-il une limite pour le nombre de personnes constituant mon panel
+      ?
+    answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
+      limite varie selon votre offre.
 - type: faqblock
   template: faqblock
   section_id: faq
