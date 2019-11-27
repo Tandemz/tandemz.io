@@ -10,8 +10,13 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
-  - question: Question 2
-    answer: blablabla
+  - question: Liste de questions
+    answer: "Combien ça coûte ? Comment je peux payer ?\n\nEst-ce que je peux connecter
+      à mon CRM ?\n\nComment sont qualifiés les participants? \n\nComment ça marche
+      sur les réseaux sociaux ? et sur quels réseaux ?\n\nEst-ce qu'il y a une limite
+      pour mon panel ?\n\nCombien de temps ça prend à faire une étude ?\n\nJ'ai besoin
+      d'être accompagné.\n\nEst-ce que vous faites le B2B ? Mon panel est difficile
+      à recruter."
   - question: Question 1
     answer: blabla
 - type: faqblock
