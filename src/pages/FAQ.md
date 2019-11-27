@@ -11,14 +11,30 @@ sections:
     à nous contacter directement par mail.
   faqitems:
   - question: Liste de questions
-    answer: "Combien ça coûte ? Comment je peux payer ?\n\nEst-ce que je peux connecter
-      à mon CRM ?\n\nComment sont qualifiés les participants? \n\nComment ça marche
-      sur les réseaux sociaux ? et sur quels réseaux ?\n\nEst-ce qu'il y a une limite
-      pour mon panel ?\n\nCombien de temps ça prend à faire une étude ?\n\nJ'ai besoin
-      d'être accompagné.\n\nEst-ce que vous faites le B2B ? Mon panel est difficile
-      à recruter.\n\nQuelle taille d'équipe ?\n\nComment ça marche pour créer mon
-      panel sur Tandemz ?\n\nEst-ce que mes beta testeurs voient qu'ils passent par
-      Tandemz ?\n\nComment ça se passe pour l'utilisateur ?"
+    answer: |-
+      Combien de temps ça prend à faire une étude ?
+
+      Comment ça se passe pour l'utilisateur ?
+
+      Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
+
+      Comment ça marche pour créer mon panel sur Tandemz ?
+
+      Est-ce que je peux connecter à mon CRM ?
+
+      Comment sont qualifiés les participants?
+
+      Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
+
+      Est-ce qu'il y a une limite pour mon panel ?
+
+      Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
+
+      Quelle taille d'équipe ?
+
+      J'ai besoin d'être accompagné.
+
+      Combien ça coûte ? Comment je peux payer ?
   - question: Question 1
     answer: blabla
 - type: faqblock
