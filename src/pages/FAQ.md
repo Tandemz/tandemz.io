@@ -20,7 +20,7 @@ sections:
 
       Puis-je créer mon propre panel directement sur Tandemz ?
 
-      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères pour votre panel et Tandemz génère un lien d'inscription, avec votre Comment ça marche pour créer mon panel sur Tandemz ?
+      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un lien d'inscription, avec votre Comment ça marche pour créer mon panel sur Tandemz ?
 
       Est-ce que je peux connecter à mon CRM ?
 
