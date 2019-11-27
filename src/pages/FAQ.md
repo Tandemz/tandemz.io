@@ -61,7 +61,11 @@ sections:
   title: Foire aux Questions
   section_id: faqcompany
   subtitle: ''
-  faqitems: []
+  faqitems:
+  - question: Question 2
+    answer: blablabla
+  - question: Question 1
+    answer: blabla
 menus:
   main:
     title: FAQ
