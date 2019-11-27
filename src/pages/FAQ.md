@@ -11,16 +11,15 @@ sections:
     à nous contacter directement par mail.
   faqitems:
   - question: Liste de questions
-    answer: |-
-      Combien de temps ça prend à faire une étude ?
+    answer: |2-
 
-      Comment ça se passe pour l'utilisateur ?
+      Comment se passe l'inscription à une étude pour mes participants ?
 
       Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
 
       Puis-je créer mon propre panel directement sur Tandemz ?
 
-      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un lien d'inscription, avec votre Comment ça marche pour créer mon panel sur Tandemz ?
+      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple. Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section "Mon panel".
 
       Est-ce que je peux connecter à mon CRM ?
 
