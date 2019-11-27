@@ -18,7 +18,7 @@ sections:
   component: ImageBlock
   bg: white
   type: imageblock
-  image: "/images/Entreprises - Liste des Annonces.png"
+  image: "/images/Entreprises - Liste des Annonces.svg"
   section_id: Image
   title: Organisez vos interviews et tests utilisateurs en quelques clics
 - type: featuresblock
