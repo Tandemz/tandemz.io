@@ -11,32 +11,20 @@ sections:
     à nous contacter directement par mail.
   faqitems:
   - question: Liste de questions
-    answer: |-
-      Combien de temps ça prend à faire une étude ?
-
-      Comment ça se passe pour l'utilisateur ?
-
-      Est-ce que mes beta testeurs voient qu'ils passent par Tandemz ?
-
-      Puis-je créer mon propre panel directement sur Tandemz ?
-
-      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un lien d'inscription, avec votre Comment ça marche pour créer mon panel sur Tandemz ?
-
-      Est-ce que je peux connecter à mon CRM ?
-
-      Comment sont qualifiés les participants?
-
-      Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
-
-      Est-ce qu'il y a une limite pour mon panel ?
-
-      Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
-
-      Quelle taille d'équipe ?
-
-      J'ai besoin d'être accompagné.
-
-      Combien ça coûte ? Comment je peux payer ?
+    answer: "Combien de temps ça prend à faire une étude ?\n\nComment se passe l'inscription
+      à une étude pour mes participants ? \n\nEst-ce que mes beta testeurs voient
+      qu'ils passent par Tandemz ?\n\nPuis-je créer mon propre panel directement sur
+      Tandemz ?\n\nOui tout à fait, il est possible de créer votre propre panel directement
+      sur la plateforme. Vous définissez les critères spécifiques pour votre panel
+      et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce
+      formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple.
+      Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
+      \"Mon panel\".\n\nEst-ce que je peux connecter à mon CRM ?\n\nComment sont qualifiés
+      les participants?\n\nComment ça marche sur les réseaux sociaux ? et sur quels
+      réseaux ?\n\nEst-ce qu'il y a une limite pour mon panel ?\n\nEst-ce que vous
+      faites le B2B ? Mon panel est difficile à recruter.\n\nQuelle taille d'équipe
+      ?\n\nJ'ai besoin d'être accompagné.\n\nCombien ça coûte ? Comment je peux payer
+      ?"
   - question: Question 1
     answer: blabla
 - type: faqblock
