@@ -10,17 +10,8 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
-  - question: Mes participants savent-ils qu'ils passent par Tandemz ?
-    answer: |-
-      La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
-
-      Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
   - question: Liste de questions
     answer: |2-
-
-      Puis-je créer mon propre panel directement sur Tandemz ?
-
-      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple. Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section "Mon panel".
 
       Est-ce que je peux connecter à mon CRM ?
 
@@ -41,6 +32,18 @@ sections:
     answer: blabla
   - question: Comment se passe l'inscription à une étude pour mes participants ?
     answer: ''
+  - question: Mes participants savent-ils qu'ils passent par Tandemz ?
+    answer: |-
+      La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
+
+      Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
+  - question: Puis-je créer mon propre panel directement sur Tandemz ?
+    answer: Oui tout à fait, il est possible de créer votre propre panel directement
+      sur la plateforme. Vous définissez les critères spécifiques pour votre panel
+      et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce
+      formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple.
+      Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
+      "Mon panel".
 - type: faqblock
   template: faqblock
   section_id: faq
