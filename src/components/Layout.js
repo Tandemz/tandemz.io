@@ -37,6 +37,7 @@ export default class Body extends React.Component {
             content="width=device-width, initialScale=1.0"
           />
           <meta name="google" content="notranslate" />
+          <link rel="alternate" href="https://www.tandemz.io/" hreflang="fr" />
           <link
             rel="icon"
             href={safePrefix(
