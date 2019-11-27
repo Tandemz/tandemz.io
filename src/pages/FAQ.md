@@ -7,7 +7,8 @@ sections:
   type: faqblock
   title: Foire Aux Questions
   section_id: faqcompany
-  subtitle: ''
+  subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
+    à nous contacter directement par mail.
   faqitems:
   - question: Question 2
     answer: blablabla
