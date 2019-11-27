@@ -58,7 +58,7 @@ sections:
   component: FaqBlock
   bg: gray
   type: faqblock
-  title: Foire aux questions
+  title: Foire aux Questions
   section_id: faqcompany
   subtitle: ''
   faqitems: []
