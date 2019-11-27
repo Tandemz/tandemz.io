@@ -35,7 +35,7 @@
 }
 
 .block-item {
-  margin-bottom: 1.66667rem;
+  margin-bottom: 5rem;
 
   &:last-child {
     margin-bottom: 0;
@@ -62,10 +62,17 @@
   }
 }
 
+.block-copy {
+  li {
+    text-align: left;
+  }
+}
+
 @media only screen and (min-width: 801px) {
   .hero-block,
   .text-block,
   .block-item {
+    margin-bottom: 1.66667rem;
     .grid,
     .top-grid {
       display: -ms-flexbox;
