@@ -5,6 +5,7 @@ import _ from 'lodash';
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
+import SchemaOrg from './SchemaOrg';
 import '../sass/main.scss';
 
 export default class Body extends React.Component {
@@ -49,6 +50,7 @@ export default class Body extends React.Component {
             href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i"
             rel="stylesheet"
           />
+          <SchemaOrg />
         </Helmet>
         <div
           id="page"
