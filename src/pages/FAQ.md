@@ -11,15 +11,16 @@ sections:
     à nous contacter directement par mail.
   faqitems:
   - question: Liste de questions
-    answer: |2-
-
+    answer: |-
       Est-ce que je peux connecter à mon CRM ?
 
       Comment sont qualifiés les participants?
 
       Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
 
-      Est-ce qu'il y a une limite pour mon panel ?
+      Y a-t-il une limite pour le nombre de personnes constituant mon panel ?
+
+      Oui, le nombre de personnes constituant votre panel est limité. Cette limite varie selon votre offre.
 
       Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
 
