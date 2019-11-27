@@ -10,6 +10,11 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
+  - question: Mes participants savent-ils qu'ils passent par Tandemz ?
+    answer: |-
+      La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
+
+      Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
   - question: Liste de questions
     answer: |2-
 
