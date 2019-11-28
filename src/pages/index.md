@@ -74,7 +74,7 @@ sections:
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
-    price: 100€ / mois
+    price: 125€ / mois
     details: |-
       pour la gestion de votre panel et l'automatisation de l'organisation
 
