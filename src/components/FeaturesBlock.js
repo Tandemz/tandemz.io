@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { htmlToReact, safePrefix, markdownify } from '../utils';
+import { safePrefix, markdownify } from '../utils';
 import CtaButtons from './CtaButtons';
 
 export default class FeaturesBlock extends React.Component {

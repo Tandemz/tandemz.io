@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { safePrefix, markdownify, Link } from '../utils';
+import { safePrefix } from '../utils';
 
 export default class ImageBlock extends React.Component {
   render() {
