@@ -51,8 +51,10 @@ sections:
       ?
     answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
       limite varie selon votre offre.
-  - question: ''
-    answer: ''
+  - question: Mes critères sont difficiles, mes participants sont durs à recruter
+      et/ou je recherche des participants en B2B.
+    answer: Pour l'instant, nous ne pouvons pas vous aider à recruter des professionnels.
+      Mais n'hésitez pas à nous contacter afin d'échanger avec nous sur votre problématique.
   - question: Avec combien de membres de mon équipe puis-je partager mon compte Tandemz
       ?
     answer: Un nombre illimité de collaborateurs est autorisé pour votre compte Client
