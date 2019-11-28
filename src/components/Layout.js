@@ -13,7 +13,7 @@ const orgaSchema = {
   url: 'http://www.tandemz.io',
   name: 'Tandemz',
   email: 'contact@tandemz.io',
-  logo: 'https://www.tandemz.io/images/Logotype.png',
+  logo: 'https://www.tandemz.io/images/Logo@200.png',
   slogan: 'Catalyseur de vos tests utilisateurs',
   address: {
     '@type': 'PostalAddress',
@@ -129,7 +129,7 @@ export default class Body extends React.Component {
           />
           <meta
             property="og:image"
-            content="https://www.tandemz.io/images/Logotype.png"
+            content="https://www.tandemz.io/images/Logo@200.png"
           />
         </Helmet>
         <div
