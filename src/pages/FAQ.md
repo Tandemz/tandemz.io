@@ -11,10 +11,7 @@ sections:
     à nous contacter directement par mail.
   faqitems:
   - question: Liste de questions
-    answer: |-
-      Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
-
-      Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
+    answer: Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: Pour lancer votre session, il vous suffit de quelques minutes seulement,
       le temps d'indiquer toutes les modalités de votre session et de sélectionner
@@ -54,6 +51,8 @@ sections:
       ?
     answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
       limite varie selon votre offre.
+  - question: ''
+    answer: ''
   - question: Avec combien de membres de mon équipe puis-je partager mon compte Tandemz
       ?
     answer: Un nombre illimité de collaborateurs est autorisé pour votre compte Client
