@@ -10,11 +10,6 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
-  - question: Comment et combien dois-je payer pour accéder à Tandemz ?
-    answer: |-
-      En ce qui concerne le prix, tout dépend de l'offre qui vous concerne. Nous vous invitons à vous rendre dans la section "Tarif" pour prendre connaissance du prix de nos offres.
-
-      Vos factures sont mises à disposition dans votre espace client, directement sur la plateforme. Les modes de règlement acceptés sont la CB, le virement bancaire et le chèque.
   - question: Liste de questions
     answer: |-
       Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
@@ -22,8 +17,6 @@ sections:
       Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
 
       Avec combien de membres de mon équipe puis-je partager mon compte Tandemz ?
-
-      J'aurais besoin d'être accompagné(e) pour mon étude.
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: Pour lancer votre session, il vous suffit de quelques minutes seulement,
       le temps d'indiquer toutes les modalités de votre session et de sélectionner
@@ -63,6 +56,15 @@ sections:
       ?
     answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
       limite varie selon votre offre.
+  - question: Comment et combien dois-je payer pour accéder à Tandemz ?
+    answer: |-
+      En ce qui concerne le prix, tout dépend de l'offre qui vous concerne. Nous vous invitons à vous rendre dans la section "Tarif" pour prendre connaissance du prix de nos offres.
+
+      Vos factures sont mises à disposition dans votre espace client, directement sur la plateforme. Les modes de règlement acceptés sont la CB, le virement bancaire et le chèque.
+  - question: J'aurais besoin d'être accompagné(e) pour mon étude.
+    answer: Nous pouvons vous proposer des prestations complémentaires afin de vous
+      accompagner et vous former lors de votre étude, afin que vous soyez de plus
+      en plus autonome pour vos prochaines sessions !
 - type: faqblock
   template: faqblock
   section_id: faq
