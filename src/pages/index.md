@@ -80,7 +80,7 @@ sections:
     actions: []
   - title: A partir de
     price: 200€ / mois
-    details: "**+60€ par utilisateur recruté sur les réseaux sociaux**"
+    details: "**+70€ par utilisateur recruté sur les réseaux sociaux**"
     highlight: false
     actions:
     - label: Demander un devis
