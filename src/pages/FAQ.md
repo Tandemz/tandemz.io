@@ -8,7 +8,7 @@ sections:
   title: Foire Aux Questions
   section_id: faqcompany
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
-    à nous contacter directement par mail.
+    à nous contacter directement par mail à contact@tandemz.io.
   faqitems:
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: "Pour lancer votre session, il vous suffit de quelques minutes seulement,
