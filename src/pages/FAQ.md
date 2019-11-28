@@ -29,7 +29,13 @@ sections:
       événements se créent automatiquement dans votre agenda, vous ne vous en rendrez
       même pas compte.
   - question: Comment se passe l'inscription à une étude pour mes participants ?
-    answer: ''
+    answer: Les potentiels participants correspondant aux critères de sélection reçoivent
+      un mail d'information ou bien voient l'annonce sur les réseaux sociaux. En cliquant
+      sur le lien associé, ils découvrent toutes les caractéristiques de l'annonce
+      que vous avez créée. Ils peuvent ensuite répondre à l'éventuel questionnaire
+      de sélection, choisir un créneau pour leur session et entrer leurs informations
+      personnelles. Ils sont ensuite contactés automatiquement par mail ou SMS pour
+      la confirmation et le rappel.
   - question: Mes participants savent-ils qu'ils passent par Tandemz ?
     answer: |-
       La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
