@@ -73,19 +73,17 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
+  - title: ''
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
   - title: A partir de
     price: 200€ / mois
-    details: |-
-      * Nombre illimité de sessions
-      * Nombre illimité de collaborateurs
-      * Gestion de votre panel utilisateur
-      * Intégration CRM
-      * Intégration calendrier
-
-      \+60€ / utilisateur recruté sur les réseaux sociaux
+    details: "**+60€ par utilisateur recruté sur les réseaux sociaux**"
     highlight: false
     actions:
-    - label: Ça m'intéresse
+    - label: Demander un devis
       url: "/contact"
 menus:
   main:
