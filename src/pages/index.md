@@ -74,8 +74,11 @@ sections:
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
-    price: 200€ / mois
-    details: "**+70€ par utilisateur recruté sur les réseaux sociaux**"
+    price: 100€ / mois
+    details: |-
+      pour la gestion de votre panel et l'automatisation de l'organisation
+
+      **+60€ par utilisateur recruté sur les réseaux sociaux**
     highlight: false
     actions:
     - label: Demander un devis
