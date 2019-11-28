@@ -44,11 +44,11 @@ sections:
       sont pas encore créés. Si votre CRM ne fait pas partie des connecteurs déjà
       disponibles, n'hésitez pas à nous contacter."
   - question: Comment sont qualifiés les participants à mes études ?
-    answer: 'Tout dépend de ce que vous souhaitez ! Le parcours de sélection est entièrement
+    answer: "Tout dépend de ce que vous souhaitez ! Le parcours de sélection est entièrement
       paramétrable par vous : questionnaire de sélection ou non, enregistrement vocal
       ou vidéo du candidat, validation des profils de candidats automatiquement ou
-      bien par vous-même, échanges par messagerie... De nombreuses fonctionnalités
-      sont disponibles sur Tandemz, n''hésitez pas à nous demander plus d''information.'
+      bien par vous-même, échanges par messagerie... \n\nDe nombreuses fonctionnalités
+      sont disponibles sur Tandemz, n'hésitez pas à nous demander plus d'information."
   - question: Y a-t-il une limite pour le nombre de personnes constituant mon panel
       ?
     answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
