@@ -3,7 +3,6 @@
   "description": "Lancez vos interviews UX et vos tests utilisateurs sans prise de tête. Automatisez toute l'organisation de vos tests et la gestion de votre panel.",
   "keywords": "Test utilisateur, étude qualitative, UX, recherche utilisateur, panel",
   "favicon": "/images/tandemz_favicon.jpg",
-  "palette": "blue",
   "header": {
     "title": "Tandemz - catalyseur de vos tests utilisateurs",
     "logo_img": "/images/Logotype.png",
@@ -28,9 +27,7 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": [
-
-    ]
+    "links": []
   },
   "siteUrl": "https://staging.tandemz.io"
 }
