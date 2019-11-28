@@ -31,12 +31,12 @@ sections:
 
       Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
   - question: Puis-je créer mon propre panel directement sur Tandemz ?
-    answer: Oui tout à fait, il est possible de créer votre propre panel directement
+    answer: "Oui tout à fait, il est possible de créer votre propre panel directement
       sur la plateforme. Vous définissez les critères spécifiques pour votre panel
       et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce
       formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple.
-      Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
-      "Mon panel".
+      \n\nDès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
+      \"Mon panel\"."
   - question: Puis-je connecter Tandemz à mon CRM ?
     answer: Il est tout à fait possible de connecter votre compte Tandemz à votre
       CRM afin de visualiser directement dans Tandemz vos différents utilisateurs
