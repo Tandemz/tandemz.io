@@ -70,10 +70,13 @@
 }
 
 @media only screen and (min-width: 801px) {
+  .block-item {
+    margin-bottom: 1.66667rem;
+  }
+
   .hero-block,
   .text-block,
   .block-item {
-    margin-bottom: 1.66667rem;
     .grid,
     .top-grid {
       display: -ms-flexbox;
@@ -164,7 +167,7 @@
 /* Image */
 
 .image-block {
-  padding-bottom: 4.5rem;
+  padding-bottom: 6rem;
 }
 
 .block-overlap {
@@ -173,7 +176,7 @@
 
 @media only screen and (min-width: 741px) {
   .block-overlap {
-    margin-top: -250px;
+    margin-top: -230px;
     max-width: 1100px;
     margin-left: auto;
     margin-right: auto;
@@ -568,7 +571,7 @@
 
 .accordion-header {
   background: #fff;
-  border-radius: 3px;
+  border-radius: 4px;
   box-shadow: 0 3px 10px 0 rgba(_palette(primary), 0.1);
   margin-top: 1.25rem;
 
@@ -577,8 +580,8 @@
     -webkit-align-items: center;
     align-items: center;
     background: 0;
-    border: 1px solid _palette(border);
-    border-radius: 0;
+    border-radius: 4;
+    border: none;
     box-shadow: none;
     color: _palette(secondary);
     font-size: 1rem;
@@ -626,8 +629,7 @@
 
 .accordion-content {
   background: #fff;
-  border: 1px solid _palette(border);
-  border-radius: 3px;
+  border-radius: 4px;
   color: _palette(primary);
   font-size: 0.88889rem;
   padding: 1rem 15px;
@@ -690,12 +692,12 @@
     background: -webkit-linear-gradient(
       to right,
       _palette(accent),
-      _palette(accent-alt)
+      _palette(accent-light)
     );
     background: linear-gradient(
       to right,
       _palette(accent),
-      _palette(accent-alt)
+      _palette(accent-light)
     );
     color: #fff;
 

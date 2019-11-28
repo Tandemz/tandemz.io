@@ -8,19 +8,14 @@ $font: (
 
 // Palette.
 $palette: (
-  primary: #4c5267,
-  secondary: darken(#4c5267, 15%),
-  meta: lighten(#4c5267, 20%),
-  border: lighten(#4c5267, 58%),
+  primary: #536383,
+  secondary: #192948,
+  meta: #536383,
+  border: #dbe0e5,
   bg: #f7f9fb,
-  accent: #0072ff,
-  accent-alt: #00c6ff,
-  accent-purple: #b5267b,
-  accent-purple-alt: #632695,
-  accent-green: #438945,
-  accent-green-alt: #73bb75,
-  accent-orange: #fe8c00,
-  accent-orange-alt: #f83600,
+  accent: #1c75df,
+  accent-alt: #1493ff,
+  accent-light: #0cbcff,
 );
 
 @import 'imports/functions';
