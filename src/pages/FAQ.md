@@ -49,7 +49,11 @@ sections:
       Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
       "Mon panel".
   - question: Puis-je connecter Tandemz à mon CRM ?
-    answer: ''
+    answer: Il est tout à fait possible de connecter votre compte Tandemz à votre
+      CRM afin de visualiser directement dans Tandemz vos différents utilisateurs
+      et les sélectionner lors d'une session. Bien sûr, tous les connecteurs ne sont
+      pas encore créés. Si votre CRM ne fait pas partie des connecteurs déjà disponibles,
+      n'hésitez pas à nous contacter.
   - question: Comment sont qualifiés les participants à mes études ?
     answer: ''
   - question: Y a-t-il une limite pour le nombre de personnes constituant mon panel
