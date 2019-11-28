@@ -38,11 +38,11 @@ sections:
       \n\nDès qu'un participant s'inscrit, vous le verrez apparaître dans votre section
       \"Mon panel\"."
   - question: Puis-je connecter Tandemz à mon CRM ?
-    answer: Il est tout à fait possible de connecter votre compte Tandemz à votre
+    answer: "Il est tout à fait possible de connecter votre compte Tandemz à votre
       CRM afin de visualiser directement dans Tandemz vos différents utilisateurs
-      et les sélectionner lors d'une session. Bien sûr, tous les connecteurs ne sont
-      pas encore créés. Si votre CRM ne fait pas partie des connecteurs déjà disponibles,
-      n'hésitez pas à nous contacter.
+      et les sélectionner lors d'une session. \n\nBien sûr, tous les connecteurs ne
+      sont pas encore créés. Si votre CRM ne fait pas partie des connecteurs déjà
+      disponibles, n'hésitez pas à nous contacter."
   - question: Comment sont qualifiés les participants à mes études ?
     answer: 'Tout dépend de ce que vous souhaitez ! Le parcours de sélection est entièrement
       paramétrable par vous : questionnaire de sélection ou non, enregistrement vocal
