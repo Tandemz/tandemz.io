@@ -1,7 +1,7 @@
 ---
 title: Qui sommes-nous ?
 subtitle: Tandemz, une toute nouvelle histoire
-img_path: "/images/Artboard3.svg"
+img_path: "/images/Logotype.png"
 menus:
   secondary:
     title: A propos de nous
