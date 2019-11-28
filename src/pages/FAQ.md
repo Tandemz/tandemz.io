@@ -25,7 +25,7 @@ sections:
       de sélection, choisir un créneau pour leur session et entrer leurs informations
       personnelles. Ils sont ensuite contactés automatiquement par mail ou SMS pour
       la confirmation et le rappel.
-  - question: Mes participants savent-ils qu'ils passent par Tandemz ?
+  - question: Mes participants savent-ils qu'ils sont sur la plateforme Tandemz ?
     answer: |-
       La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
 
