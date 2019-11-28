@@ -34,7 +34,7 @@ sections:
 
       * Connexion à vos outils CRM
       * Import de vos fichiers clients
-      * Création et gestion de votre panel directement sur Tandemz
+      * Création et gestion de votre panel propriétaire
     image: "/images/Illustration - Connect.svg"
     actions: []
   - title: Complétez sur les réseaux sociaux
