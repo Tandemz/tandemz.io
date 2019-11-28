@@ -10,8 +10,6 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
-  - question: Liste de questions
-    answer: Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: Pour lancer votre session, il vous suffit de quelques minutes seulement,
       le temps d'indiquer toutes les modalités de votre session et de sélectionner
@@ -51,6 +49,12 @@ sections:
       ?
     answer: Oui, le nombre de personnes constituant votre panel est limité. Cette
       limite varie selon votre offre.
+  - question: Comment fonctionne le recrutement sur les réseaux sociaux ?
+    answer: 'Tandemz utilise les API des différents réseaux sociaux pour connaître
+      les critères disponibles par réseau ainsi que pour poster les annonces automatiquement.
+      Inutile de vous rendre sur chaque réseau social : une fois créée sur Tandemz,
+      l''annonce de votre session est automatiquement diffusée sur les réseaux les
+      plus adaptés.'
   - question: Mes critères sont difficiles, mes participants sont durs à recruter
       et/ou je recherche des participants en B2B.
     answer: Pour l'instant, nous ne pouvons pas vous aider à recruter des professionnels.
