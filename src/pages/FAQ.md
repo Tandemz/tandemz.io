@@ -10,17 +10,20 @@ sections:
   subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
     à nous contacter directement par mail.
   faqitems:
+  - question: Comment et combien dois-je payer pour accéder à Tandemz ?
+    answer: |-
+      En ce qui concerne le prix, tout dépend de l'offre qui vous concerne. Nous vous invitons à vous rendre dans la section "Tarif" pour prendre connaissance du prix de nos offres.
+
+      Vos factures sont mises à disposition dans votre espace client, directement sur la plateforme. Les modes de règlement acceptés sont la CB, le virement bancaire et le chèque.
   - question: Liste de questions
     answer: |-
       Comment ça marche sur les réseaux sociaux ? et sur quels réseaux ?
 
       Est-ce que vous faites le B2B ? Mon panel est difficile à recruter.
 
-      Quelle taille d'équipe ?
+      Avec combien de membres de mon équipe puis-je partager mon compte Tandemz ?
 
-      J'ai besoin d'être accompagné.
-
-      Combien ça coûte ? Comment je peux payer ?
+      J'aurais besoin d'être accompagné(e) pour mon étude.
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
     answer: Pour lancer votre session, il vous suffit de quelques minutes seulement,
       le temps d'indiquer toutes les modalités de votre session et de sélectionner
