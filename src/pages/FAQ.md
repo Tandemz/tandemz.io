@@ -56,7 +56,9 @@ sections:
       limite varie selon votre offre.
   - question: Avec combien de membres de mon équipe puis-je partager mon compte Tandemz
       ?
-    answer: Un nombre illimité de collaborateurs est autorisé pour votre compte Client.
+    answer: Un nombre illimité de collaborateurs est autorisé pour votre compte Client
+      car nous souhaitons que vous puissiez partager facilement les informations de
+      vos sessions, avec les équipes produits également par exemple.
   - question: J'aurais besoin d'être accompagné(e) pour mon étude.
     answer: Nous pouvons vous proposer des prestations complémentaires afin de vous
       accompagner et vous former lors de votre étude, afin que vous soyez de plus
