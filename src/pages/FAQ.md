@@ -22,7 +22,12 @@ sections:
 
       Combien ça coûte ? Comment je peux payer ?
   - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
-    answer: blabla
+    answer: Pour lancer votre session, il vous suffit de quelques minutes seulement,
+      le temps d'indiquer toutes les modalités de votre session et de sélectionner
+      vos critères. L'inscription des participants peut prendre quelques jours mais
+      comme vous n'avez plus à intervenir auprès d'eux individuellement et que vos
+      événements se créent automatiquement dans votre agenda, vous ne vous en rendrez
+      même pas compte.
   - question: Comment se passe l'inscription à une étude pour mes participants ?
     answer: ''
   - question: Mes participants savent-ils qu'ils passent par Tandemz ?
