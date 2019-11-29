@@ -81,7 +81,8 @@ sections:
       de vos études.
     icon: ''
   - title: Responsables produit
-    content: Profitez des Rendez votre
+    content: Disposez de toutes les informations des sessions de recherche utilisateur
+      de votre équipe. Systématisez la démarche dans votre équipe.
     icon: ''
   subtitle: ''
 - template: pricingblock
