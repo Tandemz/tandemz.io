@@ -72,16 +72,15 @@ sections:
   title: Vous êtes
   iconblocks:
   - title: UX Designers
-    content: Ne perdez plus votre temps à organiser vos tests utilisateurs, à trouver
-      et sélectionner vos participants. Montrez enfin à votre équipe la valeur de
-      la recherche qualitative. Avec tout le temps que vous aurez gagné, vous relancerez
-      bien une petite session ?
+    content: Ne perdez plus votre temps à organiser vos tests utilisateurs et montrez
+      enfin à votre équipe la valeur de la recherche qualitative. Avec tout le temps
+      que vous aurez gagné, vous relancerez bien une petite session ?
     icon: ''
   - title: les UX Researchers
     content: blabla bis
     icon: ''
-  - title: les Responsables produit
-    content: blablabla ter
+  - title: Responsables produit
+    content: 'Suivez '
     icon: ''
   subtitle: ''
 - template: pricingblock
