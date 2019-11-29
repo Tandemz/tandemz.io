@@ -37,7 +37,7 @@ sections:
       * Création et gestion de votre panel propriétaire
     image: "/images/Illustration - Connect.svg"
     actions: []
-  - title: Complétez sur les réseaux sociaux
+  - title: Recrutez sur les réseaux sociaux
     content: |-
       Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
 
