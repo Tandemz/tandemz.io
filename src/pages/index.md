@@ -76,8 +76,9 @@ sections:
       enfin à votre équipe la valeur de votre recherche qualitative. Avec tout le
       temps que vous aurez gagné, vous relancerez bien une petite session ?
     icon: ''
-  - title: les UX Researchers
-    content: blabla bis
+  - title: UX Researchers
+    content: Recrutez plus rapidement vos participants et restez maître de l'organisation
+      de vos études.
     icon: ''
   - title: Responsables produit
     content: 'Suivez '
