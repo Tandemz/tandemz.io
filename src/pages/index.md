@@ -71,14 +71,14 @@ sections:
   section_id: for
   title: Pour
   iconblocks:
-  - title: les Responsables produit
-    content: blablabla ter
-    icon: ''
   - title: les UX Designers
     content: blablabla
     icon: ''
   - title: les UX Researchers
     content: blabla bis
+    icon: ''
+  - title: les Responsables produit
+    content: blablabla ter
     icon: ''
   subtitle: ''
 - template: pricingblock
