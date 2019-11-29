@@ -77,8 +77,9 @@ sections:
       que vous aurez gagné, vous relancerez bien une petite session ?
     icon: ''
   - title: UX Researchers
-    content: Recrutez plus rapidement vos participants et restez maître de l'organisation
-      de vos études.
+    content: N'attendez plus deux semaines pour recrutez vos participants. Restez
+      maître de l'organisation de vos études et avec votre équipe, passez ensemble
+      à la vitesse supérieure.
     icon: ''
   - title: Responsable produit
     content: 'Disposez vous aussi de toutes les informations des sessions : habituez
