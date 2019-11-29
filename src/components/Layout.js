@@ -17,12 +17,16 @@ const orgaSchema = {
   slogan: 'Catalyseur de vos tests utilisateurs',
   address: {
     '@type': 'PostalAddress',
-    addressCountry: 'France',
+    streetAddress: '33 Rue Censier',
+    addressCountry: 'FRA',
+    addressLocality: 'Paris',
     postalCode: '75005',
   },
   location: {
     '@type': 'PostalAddress',
-    addressCountry: 'France',
+    streetAddress: '33 Rue Censier',
+    addressCountry: 'FRA',
+    addressLocality: 'Paris',
     postalCode: '75005',
   },
   contactPoint: [
