@@ -78,7 +78,7 @@ sections:
     icon: ''
   - title: UX Researchers
     content: Pourquoi attendre deux semaines pour obtenir vos participants lorsque
-      vous pouvez les recruter en quelques heures ? Restez maître de l'organisation
+      vous pouvez les recruter en quelques heures? Restez maître de l'organisation
       de vos études et, avec votre équipe, passez à la vitesse supérieure.
     icon: ''
   - title: Responsable produit
