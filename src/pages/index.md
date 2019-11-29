@@ -80,7 +80,7 @@ sections:
     content: Recrutez plus rapidement vos participants et restez maître de l'organisation
       de vos études.
     icon: ''
-  - title: Responsables produit
+  - title: Responsable produit
     content: Disposez de toutes les informations des sessions de recherche utilisateur
       de votre équipe. Systématisez la démarche dans votre équipe.
     icon: ''
