@@ -66,7 +66,7 @@ sections:
     actions: []
 - template: iconsblock
   component: IconsBlock
-  bg: gray
+  bg: white
   type: iconsblock
   section_id: for
   title: Vous êtes
