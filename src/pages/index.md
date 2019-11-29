@@ -37,11 +37,11 @@ sections:
       * Création et gestion de votre panel propriétaire
     image: "/images/Illustration - Connect.svg"
     actions: []
-  - title: Recrutez sur les réseaux sociaux
+  - title: Recrutez des participants sur les réseaux sociaux
     content: |-
       Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
 
-      * Recrutement dans vos réseaux sociaux favoris
+      * Publicité dans vos réseaux sociaux favoris
       * Multidiffusion dans les groupes et sur les plateformes de votre choix
       * Publications dans vos communautés existantes
     image: "/images/Illustration - Recruit.svg"
