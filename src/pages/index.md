@@ -82,10 +82,9 @@ sections:
       de vos études et, avec votre équipe, passez à la vitesse supérieure.
     icon: ''
   - title: Responsable produit
-    content: 'Prenez part Disposez vous aussi de toutes les informations des sessions
-      : habituez toute votre équipe à la démarche et systématisez les échanges avec
-      les clients. N''oublions pas que 2 jours d''organisation de gagné par session,
-      c''est 2 jours de tests en plus pour votre produit.'
+    content: Deux jours d'organisation de gagnés à chaque session pour votre UX, ce
+      sont deux jours de tests supplémentaires pour votre produit. Vous êtes à deux
+      doigts de systématiser les tests utilisateurs dans votre conception produit.
     icon: ''
   subtitle: ''
 - template: pricingblock
