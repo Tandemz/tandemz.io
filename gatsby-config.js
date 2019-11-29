@@ -14,17 +14,12 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        resolveEnv: () => process.env.NETLIFY_ENV,
+        resolveEnv: () => process.env.BRANCH,
         env: {
-          production: {
+          master: {
             policy: [{ userAgent: '*', allow: '/' }],
           },
-          'branch-deploy': {
-            policy: [{ userAgent: '*', disallow: ['/'] }],
-            sitemap: null,
-            host: null,
-          },
-          'deploy-preview': {
+          staging: {
             policy: [{ userAgent: '*', disallow: ['/'] }],
             sitemap: null,
             host: null,
