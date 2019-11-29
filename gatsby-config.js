@@ -1,10 +1,37 @@
 module.exports = {
   pathPrefix: '/',
-  siteMetadata: require('./site-metadata.json'),
+  siteMetadata: {
+    ...require('./site-metadata.json'),
+    siteUrl:
+      process.env.BRANCH === 'master'
+        ? 'https://www.tandemz.io'
+        : 'https://staging.tandemz.io',
+  },
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
     `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        resolveEnv: () => process.env.NETLIFY_ENV,
+        env: {
+          production: {
+            policy: [{ userAgent: '*', allow: '/' }],
+          },
+          'branch-deploy': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+          'deploy-preview': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+        },
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
