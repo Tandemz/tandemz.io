@@ -1,7 +1,7 @@
 ---
 title: Qui sommes-nous ?
 subtitle: Tandemz, une toute nouvelle histoire
-img_path: "/images/photo-equipe-coupee-1.jpg"
+img_path: "/images/photo-equipe-coupee-min.jpg"
 menus:
   secondary:
     title: A propos de nous
