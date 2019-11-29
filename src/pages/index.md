@@ -73,8 +73,8 @@ sections:
   iconblocks:
   - title: UX Designers
     content: Ne perdez plus votre temps à organiser vos tests utilisateurs et montrez
-      enfin à votre équipe la valeur de la recherche qualitative. Avec tout le temps
-      que vous aurez gagné, vous relancerez bien une petite session ?
+      enfin à votre équipe la valeur de votre recherche qualitative. Avec tout le
+      temps que vous aurez gagné, vous relancerez bien une petite session ?
     icon: ''
   - title: les UX Researchers
     content: blabla bis
