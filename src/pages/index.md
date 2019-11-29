@@ -6,9 +6,10 @@ sections:
   className: overlap-padding
   title: Tandemz, le catalyseur de vos tests utilisateurs
   component: HeroBlock
-  content: Qui a dit que l'organisation de vos études qualitatives devait être compliquée
-    ? Grâce à Tandemz, lancez vos interviews UX et vos tests utilisateurs sans prise
-    de tête.
+  content: |-
+    Qui a dit que l'organisation de vos études qualitatives devait être compliquée ?
+
+    Grâce à Tandemz, lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
   image: ''
   actions:
   - label: Ça m'intéresse
@@ -34,7 +35,7 @@ sections:
 
       * Connexion à vos outils CRM
       * Import de vos fichiers clients
-      * Création et gestion de votre panel propriétaire
+      * Création et gestion de votre panel directement sur Tandemz
     image: "/images/Illustration - Connect.svg"
     actions: []
   - title: Complétez sur les réseaux sociaux
@@ -74,14 +75,11 @@ sections:
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
-    price: 125€ / mois
-    details: |-
-      pour la gestion de votre panel et l'automatisation de l'organisation
-
-      **+60€ par utilisateur recruté sur les réseaux sociaux**
+    price: 100€ / mois
+    details: ''
     highlight: false
     actions:
-    - label: Demander un devis
+    - label: Ça m'intéresse
       url: "/contact"
 menus:
   main:
