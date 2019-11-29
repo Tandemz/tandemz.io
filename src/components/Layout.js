@@ -110,10 +110,10 @@ export default class Body extends React.Component {
             )}
             type="image/x-icon"
           />
-          <link
-            href="https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i"
-            rel="stylesheet"
-          />
+          <style>
+            @import
+            url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i&display=swap');
+          </style>
 
           <script className="structured-data-list" type="application/ld+json">
             {JSON.stringify(websiteSchema)}
