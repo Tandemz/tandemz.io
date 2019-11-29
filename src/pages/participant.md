@@ -102,9 +102,5 @@ sections:
       - label: Je participe
         url: 'https://docs.google.com/forms/d/e/1FAIpQLSeBvzkb-9mk4qgJ_lkaE5RipILUEjOlItPjYRDwGWcfk6GVUg/viewform'
     subtitle: ''
-menus:
-  secondary:
-    title: Devenir testeur
-    weight: 3
 template: home
 ---
