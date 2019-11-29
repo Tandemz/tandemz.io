@@ -84,7 +84,7 @@ sections:
   - title: Responsable produit
     content: Deux jours d'organisation de gagnés à chaque session pour votre UX, ce
       sont deux jours de tests supplémentaires pour votre produit. Vous êtes à deux
-      doigts de systématiser les tests utilisateurs dans votre conception produit.
+      doigts de systématiser les tests utilisateurs pour votre produit.
     icon: ''
   subtitle: ''
 - template: pricingblock
