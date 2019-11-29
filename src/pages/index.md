@@ -78,14 +78,14 @@ sections:
     icon: ''
   - title: UX Researchers
     content: Pourquoi attendre deux semaines pour obtenir vos participants lorsque
-      vous pourriez les recruter en quelques heures ? Restez maître de l'organisation
-      de vos études et, avec votre équipe, passez ensemble à la vitesse supérieure.
+      vous pouvez les recruter en quelques heures ? Restez maître de l'organisation
+      de vos études et, avec votre équipe, passez à la vitesse supérieure.
     icon: ''
   - title: Responsable produit
-    content: 'Disposez vous aussi de toutes les informations des sessions : habituez
-      toute votre équipe à la démarche et systématisez les échanges avec les clients.
-      N''oublions pas que 2 jours d''organisation de gagné par session, c''est 2 jours
-      de tests en plus pour votre produit.'
+    content: 'Prenez part Disposez vous aussi de toutes les informations des sessions
+      : habituez toute votre équipe à la démarche et systématisez les échanges avec
+      les clients. N''oublions pas que 2 jours d''organisation de gagné par session,
+      c''est 2 jours de tests en plus pour votre produit.'
     icon: ''
   subtitle: ''
 - template: pricingblock
