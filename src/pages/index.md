@@ -64,23 +64,6 @@ sections:
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.svg"
     actions: []
-- template: iconsblock
-  component: IconsBlock
-  bg: gray
-  type: iconsblock
-  section_id: for
-  title: Pour
-  iconblocks:
-  - title: les Responsables produit
-    content: blablabla ter
-    icon: ''
-  - title: les UX Designers
-    content: blablabla
-    icon: ''
-  - title: les UX Researchers
-    content: blabla bis
-    icon: ''
-  subtitle: ''
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -91,12 +74,15 @@ sections:
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
   - title: A partir de
-    price: 100€ / mois
-    details: ''
+    price: 150€ / mois
+    details: |-
+      pour recruter des participants parmi vos utilisateurs et constituer votre propre panel
+
+      **+60€ par participant recruté dans les réseaux sociaux**
     highlight: false
     actions:
-    - label: Ça m'intéresse
-      url: "/contact"
+    - url: "/contact"
+      label: Demander un devis
 menus:
   main:
     title: Home
