@@ -81,9 +81,10 @@ sections:
       de vos études.
     icon: ''
   - title: Responsable produit
-    content: 2 jours d'organisation en moins, c'est 2 jours de tests en plus pour
-      votre équipe. Disposez de toutes les informations des sessions de recherche
-      utilisateur de votre équipe. Systématisez la démarche dans votre équipe.
+    content: 'Disposez vous aussi de toutes les informations des sessions : habituez
+      toute votre équipe à la démarche et systématisez les échanges avec les clients.
+      N''oublions pas que 2 jours d''organisation de gagné par session, c''est 2 jours
+      de tests en plus pour votre produit.'
     icon: ''
   subtitle: ''
 - template: pricingblock
