@@ -81,8 +81,9 @@ sections:
       de vos études.
     icon: ''
   - title: Responsable produit
-    content: Disposez de toutes les informations des sessions de recherche utilisateur
-      de votre équipe. Systématisez la démarche dans votre équipe.
+    content: 2 jours d'organisation en moins, c'est 2 jours de tests en plus pour
+      votre équipe. Disposez de toutes les informations des sessions de recherche
+      utilisateur de votre équipe. Systématisez la démarche dans votre équipe.
     icon: ''
   subtitle: ''
 - template: pricingblock
