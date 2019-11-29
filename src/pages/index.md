@@ -69,7 +69,7 @@ sections:
   bg: white
   type: iconsblock
   section_id: for
-  title: Vous êtes
+  title: Vous êtes...
   iconblocks:
   - title: UX Designers
     content: Ne perdez plus votre temps à organiser vos tests utilisateurs et partagez
