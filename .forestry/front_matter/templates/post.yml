@@ -36,5 +36,10 @@ fields:
   default: post
   config:
     required: true
+- name: author
+  type: include
+  config: {}
+  template: author
+  label: Author
 pages:
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
