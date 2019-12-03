@@ -75,7 +75,7 @@ sections:
   pricingplans:
   - title: Je recrute sur les réseaux
     price: 60€ / participant
-    details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux.
+    details: 'Touchez les 3,4 milliards d''utilisateurs de réseaux sociaux. '
     highlight: false
     actions:
     - label: Ça m'intéresse
