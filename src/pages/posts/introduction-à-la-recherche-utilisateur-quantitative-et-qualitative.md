@@ -49,7 +49,7 @@ Mais tout cela est une autre histoire, qui vous sera racontée dans un autre ép
 
 Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/quantitative-studies-how-many-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
 
-![Graphique représentant le pourcentage de problèmes d'utilisabilité rencontrés en fonction du nombre de testeurs](https://lh4.googleusercontent.com/0aZC_vrvZTHGAQznFPgQJIM5ASXPlEdPkBHX0SLEXMbsKxIhBpd8tM4CtD-x_sA8CR0qLyYNuIX7ChlfoZoFlTfg9MeZnugb42jbZ3lVHDFfIf3HEpjMos0bFg_1BvHKZXAR2hw "Théorie de Jakob Nielsen" =377x226)
+![](https://lh4.googleusercontent.com/0aZC_vrvZTHGAQznFPgQJIM5ASXPlEdPkBHX0SLEXMbsKxIhBpd8tM4CtD-x_sA8CR0qLyYNuIX7ChlfoZoFlTfg9MeZnugb42jbZ3lVHDFfIf3HEpjMos0bFg_1BvHKZXAR2hw =377x226)
 
 ## Deux méthodes bien distinctes...
 
