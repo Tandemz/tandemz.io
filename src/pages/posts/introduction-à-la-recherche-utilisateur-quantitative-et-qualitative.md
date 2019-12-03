@@ -6,7 +6,7 @@ date: 2019-12-02T23:00:00.000+00:00
 thumb_img_path: "/images/Image-discussion.PNG"
 content_img_path: ''
 excerpt: Comment distinguer la recherche qualitative de la recherche quantitative
-  ? Laquelle privilégiez ?
+  ? Laquelle privilégiez ? Ce tout premier article de notre blog vous dira tout !
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
