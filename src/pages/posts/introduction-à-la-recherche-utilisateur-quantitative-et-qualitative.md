@@ -77,9 +77,9 @@ Par exemple, avec les analytiques vous constatez que 60% de vos internautes aban
 
 Autre cas : en entretien avec un participant,vous prenez conscience d’une problématique que vous ne soupçonniez pas et identifiez un besoin pour un nouveau produit permettant de la régler. Celui-là est-il partagé par les autres utilisateurs ? Un sondage vous permettra de le quantifier.
 
-Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du cycle de design itératif illustré par Nielsen Norman Group :
+Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du [cycle de design itératif illustré par Nielsen Norman Group](https://www.nngroup.com/articles/quant-vs-qual/) :
 
-[![](https://lh6.googleusercontent.com/zXVdCaV0bxODGIHqKj3Cpav2PutXwIgO9QYOFk-vRpaLjoner9KdW3TT-tfjHFkBMtAuQtQbDmB3si_GxMzDFwcrap_kMA9yhHPZJKztpjaHlDQc1WOVtl64axf68TsL5arfPu8 =425x334)](https://www.nngroup.com/articles/quant-vs-qual/)
+![](https://lh6.googleusercontent.com/zXVdCaV0bxODGIHqKj3Cpav2PutXwIgO9QYOFk-vRpaLjoner9KdW3TT-tfjHFkBMtAuQtQbDmB3si_GxMzDFwcrap_kMA9yhHPZJKztpjaHlDQc1WOVtl64axf68TsL5arfPu8 =425x334)
 
 Il est tentant de se focaliser sur l’une ou l’autre de ces méthodes - celle sur laquelle on est le plus à l’aise - et de mettre de côté la seconde. Naturellement, chaque direction a ses travers !
 
