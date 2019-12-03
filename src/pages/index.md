@@ -73,7 +73,7 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
-  - title: Recrutement
+  - title: Recrutement sur les réseaux
     price: 60€ / participant
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: false
