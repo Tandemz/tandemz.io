@@ -57,14 +57,7 @@ Vous l’aurez bien compris, le quantitatif et le qualitatif sont deux types de 
 
 Voici un tableau pour résumer les différences (c'est classique, mais efficace ! 😉) :
 
-| --- | --- | --- |
-|  | Qualitatif | Quantitatif |
-| But | DécrireComprendre en profondeur des problèmes, des besoins et des besoins | QuantifierConfirmer ou tester de manière chiffrée des théories, des suppositions |
-| Répond à la question | Pourquoi ? | Quoi ? Combien ? |
-| S’appuie sur | Mots et Expressions | Nombres et Statistiques |
-| Questions | Ouvertes | Fermées |
-| Résultats exprimés en | Mots et Verbatims | Graphiques et Pourcentage |
-| Nombre de répondants | < 10 personnes | > 100 personnes200 personnes conseillé |
+![](/images/Tableau-récapitulatif-quali-quanti.PNG)
 
 Indiscutablement, chaque méthode a ses avantages et ses inconvénients. Il est plus facile de récolter des données quantitatives, mais les données sont **indirectes** : il faut travailler les réponses obtenues pour en ressortir les informations importantes. Au contraire, il est difficile d’obtenir des données qualitatives mais celles-ci sont **directes** : l’analyse se fait sans retravail.
 
