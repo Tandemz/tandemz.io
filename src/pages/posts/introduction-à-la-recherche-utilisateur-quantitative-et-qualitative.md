@@ -49,7 +49,7 @@ Mais tout cela est une autre histoire, qui vous sera racontée dans un autre ép
 
 Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
 
-![](/images/Number-users-testing.png)
+![Graphique représentant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs](/images/Number-users-testing.png "La règle des 5 testeurs pour 85% des problèmes")
 
 ## Deux méthodes bien distinctes...
 
@@ -111,7 +111,7 @@ Pour résumer, il est possible d’évaluer, pour chaque méthode :
 
 Ce qui donne le graphique suivant :
 
-[![](https://lh6.googleusercontent.com/iuJu_6EPmygaBt1OoyMIVAD6Poo13VOCU97Z_hI95maIHn_uycNVaXY7jre35yyWyj4jHPGtSzZtOyNoAQ3CBy-ZWZmoXCtzKfC7ptftCn_O24fjPkliXx67wOpdF6JkqlHYZr4 =602x473)](https://www.nngroup.com/articles/which-ux-research-methods/)
+![](/images/user-research-methods.png)
 
 Pour plus de détails, je vous invite à lire [l’article expliquant le graphique en question](https://www.nngroup.com/articles/which-ux-research-methods/) rédigé par Christian Rorher.
 
