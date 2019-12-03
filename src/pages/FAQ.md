@@ -30,7 +30,7 @@ sections:
       La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
 
       Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
-  - question: Puis-je créer mon propre panel directement sur Tandemz ?
+  - question: Puis-je créer mon propre panel directement sur Tandemz?
     answer: "Oui tout à fait, il est possible de créer votre propre panel directement
       sur la plateforme. Vous définissez les critères spécifiques pour votre panel
       et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce
