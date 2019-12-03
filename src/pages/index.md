@@ -80,7 +80,7 @@ sections:
     actions:
     - label: Ça m'intéresse
       url: "/contact"
-  - title: Je gère mon panel privé
+  - title: Gestion de panel privé
     price: A partir de 150€/mois
     details: Créez votre panel ou générez-le à partir de votre base d'utilisateurs
       existants.
