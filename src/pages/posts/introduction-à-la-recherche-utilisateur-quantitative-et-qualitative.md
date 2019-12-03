@@ -2,10 +2,11 @@
 template: post
 title: Introduction à la recherche utilisateur quantitative et qualitative
 subtitle: Quésaco et laquelle choisir ?
-date: 2019-12-02T23:00:00Z
+date: 2019-12-02T23:00:00.000+00:00
 thumb_img_path: "/images/Image-discussion.PNG"
 content_img_path: ''
-excerpt: ''
+excerpt: Comment distinguer la recherche qualitative de la recherche quantitative
+  ? Laquelle privilégiez ?
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
