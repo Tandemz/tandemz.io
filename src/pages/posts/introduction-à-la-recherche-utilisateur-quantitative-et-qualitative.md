@@ -111,7 +111,7 @@ Pour résumer, il est possible d’évaluer, pour chaque méthode :
 
 Ce qui donne le graphique suivant :
 
-![](/images/user-research-methods.png)
+![Graphique de Rorher sur le positionnement des méthodes de recherche selon les axes Comportement/Attitude et Qualitatif/Quantitatif](/images/user-research-methods.png "Positionnement des méthodes de recherche les unes par rapport aux autres")
 
 Pour plus de détails, je vous invite à lire [l’article expliquant le graphique en question](https://www.nngroup.com/articles/which-ux-research-methods/) rédigé par Christian Rorher.
 
