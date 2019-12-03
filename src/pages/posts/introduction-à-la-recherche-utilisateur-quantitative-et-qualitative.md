@@ -80,6 +80,8 @@ Autre cas : en entretien avec un participant,vous prenez conscience d’une prob
 
 Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du [cycle de design itératif illustré par Nielsen Norman Group](https://www.nngroup.com/articles/quant-vs-qual/) :
 
+![](/images/Cycle-Design-interactif.png)
+
 ![](https://lh6.googleusercontent.com/zXVdCaV0bxODGIHqKj3Cpav2PutXwIgO9QYOFk-vRpaLjoner9KdW3TT-tfjHFkBMtAuQtQbDmB3si_GxMzDFwcrap_kMA9yhHPZJKztpjaHlDQc1WOVtl64axf68TsL5arfPu8 =425x334)
 
 Il est tentant de se focaliser sur l’une ou l’autre de ces méthodes - celle sur laquelle on est le plus à l’aise - et de mettre de côté la seconde. Naturellement, chaque direction a ses travers !
