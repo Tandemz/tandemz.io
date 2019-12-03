@@ -76,51 +76,18 @@ sections:
   - title: "\U0001F4E3Recrutement"
     price: 60€ / participant
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
-    highlight: true
+    highlight: false
     actions:
     - label: Ça m'intéresse
       url: "/contact"
-  - title: "\U0001F331Start-Up"
-    price: A venir
-    details: |-
-      * Jusqu'à 3 collaborateurs
-      * Jusqu'à 3 sessions par mois
-      * Panel jusqu'à 1000 participants
-      * Dashboard de suivi de l'organisation
-      * Intégration calendrier (Google, Outlook, iCal)
-      * Intégration e-mail
-      * Rappels automatiques par mail
+  - title: Création de votre panel
+    price: A partir de 150€/mois
+    details: Créez votre panel ou générez le à partir de votre base d'utilisateurs
+      existants.
     highlight: false
     actions:
     - url: "/contact"
-      label: Suivre cette offre
-  - title: "\U0001F680Scale-Up"
-    price: A venir
-    details: |-
-      * Toute l'offre Pro
-      * Jusqu'à 8 collaborateurs
-      * Jusqu'à 15 sessions / mois
-      * Panel illimité
-      * Questionnaire de qualification avec logique
-      * Envoi de SMS depuis la plateforme
-      * Rappels automatiques par SMS
-    highlight: false
-    actions:
-    - label: Suivre cette offre
-      url: "/contact"
-  - title: "\U0001F3E2Entreprises"
-    price: Sur devis
-    details: |-
-      * Toute l'offre Equipe
-      * Collaborateurs illimités
-      * Sessions illimités
-      * Intégration à votre CRM
-      * Filtres de sélection des participants avancés
-      * Nom de domaine personnalisé
-    highlight: false
-    actions:
-    - url: "/contact"
-      label: Demander un devis
+      label: Voir les prix
 menus:
   main:
     title: Home
