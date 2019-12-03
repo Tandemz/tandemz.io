@@ -73,12 +73,50 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
-  - title: A partir de
-    price: 150€ / mois
+  - title: Recrutement
+    price: 60€ / participant
+    details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
+    highlight: true
+    actions:
+    - label: Ça m'intéresse
+      url: "/contact"
+  - title: Start-Up
+    price: A venir
     details: |-
-      pour recruter des participants parmi vos utilisateurs et constituer votre propre panel
-
-      **+60€ par participant recruté dans les réseaux sociaux**
+      * Jusqu'à 3 collaborateurs
+      * Jusqu'à 3 sessions par mois
+      * Panel jusqu'à 1000 participants
+      * Dashboard de suivi de l'organisation
+      * Intégration calendrier (Google, Outlook, iCal)
+      * Intégration e-mail
+      * Rappels automatiques par mail
+    highlight: false
+    actions:
+    - url: "/contact"
+      label: Suivre cette offre
+  - title: Scale-Up
+    price: A venir
+    details: |-
+      * Toute l'offre Pro
+      * Jusqu'à 8 collaborateurs
+      * Jusqu'à 15 sessions / mois
+      * Panel illimité
+      * Questionnaire de qualification avec logique
+      * Envoi de SMS depuis la plateforme
+      * Rappels automatiques par SMS
+    highlight: false
+    actions:
+    - label: Suivre cette offre
+      url: "/contact"
+  - title: Entreprises
+    price: Sur devis
+    details: |-
+      * Toute l'offre Equipe
+      * Collaborateurs illimités
+      * Sessions illimités
+      * Intégration à votre CRM
+      * Filtres de sélection des participants avancés
+      * Nom de domaine personnalisé
     highlight: false
     actions:
     - url: "/contact"
