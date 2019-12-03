@@ -48,7 +48,7 @@ Mais tout cela est une autre histoire, qui vous sera racontée dans un autre ép
 
 Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/quantitative-studies-how-many-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
 
-![](https://lh4.googleusercontent.com/0aZC_vrvZTHGAQznFPgQJIM5ASXPlEdPkBHX0SLEXMbsKxIhBpd8tM4CtD-x_sA8CR0qLyYNuIX7ChlfoZoFlTfg9MeZnugb42jbZ3lVHDFfIf3HEpjMos0bFg_1BvHKZXAR2hw =377x226)
+![Graphique représentant le pourcentage de problèmes d'utilisabilité rencontrés en fonction du nombre de testeurs](https://lh4.googleusercontent.com/0aZC_vrvZTHGAQznFPgQJIM5ASXPlEdPkBHX0SLEXMbsKxIhBpd8tM4CtD-x_sA8CR0qLyYNuIX7ChlfoZoFlTfg9MeZnugb42jbZ3lVHDFfIf3HEpjMos0bFg_1BvHKZXAR2hw "Théorie de Jakob Nielsen" =377x226)
 
 ## Deux méthodes bien distinctes...
 
@@ -89,7 +89,7 @@ _Ne faire que de la recherche quantitative ?_ Sans compréhension en profondeur 
 
 Recherche qualitative et quantitative ne s’excluent pas mutuellement, ni ne se superposent totalement. Elles sont **complémentaires**. Utilisées en parallèle, elles couvrent l’ensemble des questions se posant pour comprendre les utilisateurs entièrement :
 
-![](https://docs.google.com/drawings/u/0/d/sMHqXIAAZyX1v6JRl3ZcLkA/image?w=346&h=162&rev=77&ac=1&parent=1S3huPTTCCU6N8YJsn0_1iKEM9D3OwMoVrsKeAFhwlaY =346x162)
+!\[\](https://docs.google.com/drawings/u/0/d/sMHqXIAAZyX1v6JRl3ZcLkA/image?w=346&h=162&rev=77&ac=1&parent=1S3huPTTCCU6N8YJsn0_1iKEM9D3OwMoVrsKeAFhwlaY =346x162)
 
 ## Méthode quantitative ou qualitative ? Parfois difficile à dire !
 
