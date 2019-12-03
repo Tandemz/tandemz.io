@@ -80,9 +80,7 @@ Autre cas : en entretien avec un participant,vous prenez conscience d’une prob
 
 Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du [cycle de design itératif illustré par Nielsen Norman Group](https://www.nngroup.com/articles/quant-vs-qual/) :
 
-![](/images/Cycle-Design-interactif.png)
-
-![](https://lh6.googleusercontent.com/zXVdCaV0bxODGIHqKj3Cpav2PutXwIgO9QYOFk-vRpaLjoner9KdW3TT-tfjHFkBMtAuQtQbDmB3si_GxMzDFwcrap_kMA9yhHPZJKztpjaHlDQc1WOVtl64axf68TsL5arfPu8 =425x334)
+![](/images/Cycle-Design-interactif.png "Le cycle du design itératif")
 
 Il est tentant de se focaliser sur l’une ou l’autre de ces méthodes - celle sur laquelle on est le plus à l’aise - et de mettre de côté la seconde. Naturellement, chaque direction a ses travers !
 
@@ -92,9 +90,7 @@ _Ne faire que de la recherche quantitative ?_ Sans compréhension en profondeur 
 
 Recherche qualitative et quantitative ne s’excluent pas mutuellement, ni ne se superposent totalement. Elles sont **complémentaires**. Utilisées en parallèle, elles couvrent l’ensemble des questions se posant pour comprendre les utilisateurs entièrement :
 
-![](https://docs.google.com/drawings/u/0/d/sMHqXIAAZyX1v6JRl3ZcLkA/image?w=346&h=162&rev=77&ac=1&parent=1S3huPTTCCU6N8YJsn0_1iKEM9D3OwMoVrsKeAFhwlaY =346x162)
-
-!\[\](https://docs.google.com/drawings/u/0/d/sMHqXIAAZyX1v6JRl3ZcLkA/image?w=346&h=162&rev=77&ac=1&parent=1S3huPTTCCU6N8YJsn0_1iKEM9D3OwMoVrsKeAFhwlaY =346x162)
+![](https://docs.google.com/drawings/u/0/d/sMHqXIAAZyX1v6JRl3ZcLkA/image?w=346&h=162&rev=77&ac=1&parent=1S3huPTTCCU6N8YJsn0_1iKEM9D3OwMoVrsKeAFhwlaY "La complémentarité de la recherche utilisateur" =346x162)
 
 ## Méthode quantitative ou qualitative ? Parfois difficile à dire !
 
