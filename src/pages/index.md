@@ -73,14 +73,14 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
-  - title: Recrutement sur les réseaux
+  - title: Je recrute sur les réseaux
     price: 60€ / participant
-    details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
+    details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux.
     highlight: false
     actions:
     - label: Ça m'intéresse
       url: "/contact"
-  - title: Gestion de votre panel privé
+  - title: Je gère mon panel privé
     price: A partir de 150€/mois
     details: Créez votre panel ou générez le à partir de votre base d'utilisateurs
       existants.
