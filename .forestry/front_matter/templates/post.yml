@@ -37,9 +37,17 @@ fields:
   config:
     required: true
 - name: author
-  type: include
-  config: {}
-  template: author
-  label: Author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: social-links
+      file: src/data/social.json
+      path: 
+  label: Auteur
+  description: Author of article
 pages:
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
