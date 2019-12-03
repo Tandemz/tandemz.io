@@ -6,7 +6,6 @@ import { safePrefix, markdownify, Link } from '../utils';
 
 export default class HeroBlock extends React.Component {
   render() {
-    console.log('foo');
     return (
       <section
         id={_.get(this.props, 'section.section_id')}

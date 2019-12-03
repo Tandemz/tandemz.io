@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import { Helmet } from 'react-helmet';
 
 import { Layout } from '../components/index';
 import { safePrefix, htmlToReact } from '../utils';
@@ -9,6 +10,40 @@ export default class Post extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
+        <Helmet>
+          <meta
+            name="description"
+            content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+          />
+          <meta
+            name="keywords"
+            content={_.get(this.props, 'pageContext.frontmatter.keywords')}
+          />
+          <meta
+            property="og:title"
+            content={_.get(this.props, 'pageContext.frontmatter.title')}
+          />
+          <meta property="og:type" content="article" />
+          <meta
+            property="og:url"
+            content={safePrefix(
+              _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
+                _.get(this.props, 'pageContext.url'),
+            )}
+          />
+          <meta
+            property="og:description"
+            content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
+          />
+          <meta
+            property="og:image"
+            content={_.get(
+              this.props,
+              'pageContext.frontmatter.content_img_path',
+            )}
+          />
+        </Helmet>
+
         <div className="outer bg-white">
           <div className="inner-medium">
             <article className="post post-full">
