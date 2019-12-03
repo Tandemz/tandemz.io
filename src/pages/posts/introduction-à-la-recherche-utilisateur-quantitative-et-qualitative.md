@@ -4,7 +4,7 @@ title: Introduction à la recherche utilisateur quantitative et qualitative
 subtitle: Quésaco et laquelle choisir ?
 date: 2019-12-02T23:00:00.000+00:00
 thumb_img_path: "/images/Image-discussion.PNG"
-content_img_path: ''
+content_img_path: "/images/Discuss.svg"
 excerpt: Comment distinguer recherche qualitative et recherche quantitative ? Laquelle
   privilégier ? Ce tout premier article de notre blog vous dira tout !
 
@@ -47,9 +47,9 @@ Selon les circonstances de votre projet, en qualitatif vous pouvez utiliser des 
 
 Mais tout cela est une autre histoire, qui vous sera racontée dans un autre épisode. 😉
 
-Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/quantitative-studies-how-many-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
+Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
 
-![](https://lh4.googleusercontent.com/0aZC_vrvZTHGAQznFPgQJIM5ASXPlEdPkBHX0SLEXMbsKxIhBpd8tM4CtD-x_sA8CR0qLyYNuIX7ChlfoZoFlTfg9MeZnugb42jbZ3lVHDFfIf3HEpjMos0bFg_1BvHKZXAR2hw =377x226)
+![](/images/Number-users-testing.png)
 
 ## Deux méthodes bien distinctes...
 
