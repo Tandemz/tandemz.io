@@ -85,8 +85,6 @@ Recherche qualitative et quantitative ne s’excluent pas mutuellement, ni ne se
 
 ![Représentation de la complémentarité de la recherche utilisateur : le qualitatif répond à quoi et le qualitatif au pourquoi. A l'intersection des deux sphères se trouvent le comment, qui est donc adressé par les deux types.](/images/A01 - Différences quanti vs quali.jpg "La complémentarité de la recherche utilisateur")
 
-![blabla](/images/A01 - Différences quanti vs quali (2).png "La complémentarité de la recherche utilisateur")
-
 ## Méthode quantitative ou qualitative ? Parfois difficile à dire !
 
 Cette description qualitatif versus quantitatif est très dualiste. La réalité est plus nuancée. Il existe une grande diversité de méthodes de recherche qui forment tout un **spectre continu** entre le 100% qualitatif et le 100% quantitatif, toutes à un niveau un peu différent. Ce qui veut dire que certaines sont quantitatives mais avec une faible part de qualitatif, et inversement.
