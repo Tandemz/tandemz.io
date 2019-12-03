@@ -37,4 +37,4 @@ fields:
   config:
     required: true
 pages:
-- src/pages/posts/a-venir.md
+- src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md

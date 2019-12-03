@@ -30,7 +30,7 @@ sections:
       La diffusion du lien de l'annonce passant par vous, les participants reçoivent l'information en votre nom. Une fois qu'ils se rendent sur la page décrivant votre session, ils sont effectivement sur la plateforme Tandemz.
 
       Une fois inscrits à une session, les participants reçoivent des mails de validation et de rappels automatiques envoyés depuis l'adresse noreply@tandemz.io.
-  - question: Puis-je créer mon propre panel directement sur Tandemz ?
+  - question: Puis-je créer mon propre panel directement sur Tandemz?
     answer: "Oui tout à fait, il est possible de créer votre propre panel directement
       sur la plateforme. Vous définissez les critères spécifiques pour votre panel
       et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce
@@ -65,9 +65,8 @@ sections:
       Mais n'hésitez pas à nous contacter afin d'échanger avec nous sur votre problématique.
   - question: Avec combien de membres de mon équipe puis-je partager mon compte Tandemz
       ?
-    answer: Un nombre illimité de collaborateurs est autorisé pour votre compte Client
-      car nous souhaitons que vous puissiez partager facilement les informations de
-      vos sessions, avec les équipes produits également par exemple.
+    answer: Le nombre de collaborateurs partageant le compte de votre entreprise varie
+      selon votre offre.
   - question: J'aurais besoin d'être accompagné(e) pour mon étude.
     answer: Nous pouvons vous proposer des prestations complémentaires afin de vous
       accompagner et vous former lors de votre étude, afin que vous soyez de plus

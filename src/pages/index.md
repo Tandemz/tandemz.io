@@ -64,6 +64,7 @@ sections:
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.svg"
     actions: []
+<<<<<<< HEAD
 - template: iconsblock
   component: IconsBlock
   bg: white
@@ -87,6 +88,8 @@ sections:
       doigts de systématiser les tests utilisateurs pour votre produit.
     icon: ''
   subtitle: ''
+=======
+>>>>>>> 58cd4f210a008c08045f07376ad68a465dbc18e3
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -96,13 +99,21 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
-  - title: A partir de
-    price: 100€ / mois
-    details: ''
+  - title: Recrutement sur les réseaux
+    price: 60€ / participant
+    details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: false
     actions:
     - label: Ça m'intéresse
       url: "/contact"
+  - title: Gestion de votre panel privé
+    price: A partir de 150€/mois
+    details: Créez votre panel ou générez le à partir de votre base d'utilisateurs
+      existants.
+    highlight: false
+    actions:
+    - url: "/contact"
+      label: Voir les prix
 menus:
   main:
     title: Home
