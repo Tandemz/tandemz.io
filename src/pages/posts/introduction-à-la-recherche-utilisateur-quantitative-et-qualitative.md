@@ -7,6 +7,9 @@ thumb_img_path: "/images/BlogPostQuantiQuali.png"
 content_img_path: "/images/BlogPostQuantiQuali.png"
 excerpt: Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privilégier
   ? Ce tout premier article de notre blog vous dira tout !
+name: Nicolas Djambazian
+email: nicolas@djambazian.fr
+avatar: "/images/Logo@200.png"
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
