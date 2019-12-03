@@ -83,7 +83,7 @@ _Ne faire que de la recherche quantitative ?_ Sans compréhension en profondeur 
 
 Recherche qualitative et quantitative ne s’excluent pas mutuellement, ni ne se superposent totalement. Elles sont **complémentaires**. Utilisées en parallèle, elles couvrent l’ensemble des questions se posant pour comprendre les utilisateurs entièrement :
 
-![](/images/A01 - Différences quanti vs quali.jpg)
+![Représentation de la complémentarité de la recherche utilisateur : le qualitatif répond à quoi et le qualitatif au pourquoi. A l'intersection des deux sphères se trouvent le comment, qui est donc adressé par les deux types.](/images/A01 - Différences quanti vs quali.jpg "La complémentarité de la recherche utilisateur")
 
 ![blabla](/images/A01 - Différences quanti vs quali (2).png "La complémentarité de la recherche utilisateur")
 
