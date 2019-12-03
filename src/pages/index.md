@@ -73,14 +73,14 @@ sections:
   subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
     toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
   pricingplans:
-  - title: Recrutement
+  - title: "\U0001F4E3Recrutement"
     price: 60€ / participant
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: true
     actions:
     - label: Ça m'intéresse
       url: "/contact"
-  - title: Start-Up
+  - title: "\U0001F331Start-Up"
     price: A venir
     details: |-
       * Jusqu'à 3 collaborateurs
@@ -94,7 +94,7 @@ sections:
     actions:
     - url: "/contact"
       label: Suivre cette offre
-  - title: Scale-Up
+  - title: "\U0001F680Scale-Up"
     price: A venir
     details: |-
       * Toute l'offre Pro
@@ -108,7 +108,7 @@ sections:
     actions:
     - label: Suivre cette offre
       url: "/contact"
-  - title: Entreprises
+  - title: "\U0001F3E2Entreprises"
     price: Sur devis
     details: |-
       * Toute l'offre Equipe
