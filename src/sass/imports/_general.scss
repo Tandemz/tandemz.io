@@ -17,6 +17,12 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.outer {
+  &.bg-white {
+    background: white;
+  }
+}
+
 a {
   border-bottom: 1px solid currentColor;
   color: _palette(primary);
@@ -381,7 +387,7 @@ img {
 
 .post-thumbnail img,
 .post-content img {
-  border-radius: 3px;
+  border-radius: 4px;
 }
 
 /* Heading underline */
@@ -411,6 +417,14 @@ img {
   padding: 0;
   position: absolute !important;
   width: 1px;
+}
+
+.post-content {
+  color: _palette(secondary);
+
+  h2 {
+    margin: 4rem 0 1.5rem;
+  }
 }
 
 /* Clearing floats */
