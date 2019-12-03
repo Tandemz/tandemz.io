@@ -3,7 +3,7 @@ template: post
 title: Introduction à la recherche utilisateur quantitative et qualitative
 subtitle: Quésaco et laquelle choisir ?
 date: 2019-12-02T23:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/Image-discussion.PNG"
 content_img_path: ''
 excerpt: ''
 
