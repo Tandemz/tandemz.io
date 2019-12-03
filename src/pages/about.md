@@ -15,6 +15,6 @@ Alors, pourquoi Tandemz ? Pour nous, il est toujours plus facile de gravir une p
 
 Tandemz sera lancée dans quelques semaines. Nous travaillons d'arrache pied pour faire naître cette toute nouvelle plateforme.
 
-N'hésitez pas nous écrire à contact@tandemz.io si vous avez des questions, si vous souhaitez être ajouté à la Newsletter ou pour toute autre demande.
+N'hésitez pas à nous laisser un message sur [cette page](https://www.tandemz.io/contact/) si vous avez des questions, si vous souhaitez être ajouté à la Newsletter ou pour toute autre demande.
 
 A très bientôt !
