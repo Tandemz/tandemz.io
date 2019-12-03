@@ -82,7 +82,7 @@ sections:
       url: "/contact"
   - title: Je gère mon panel privé
     price: A partir de 150€/mois
-    details: Créez votre panel ou générez le à partir de votre base d'utilisateurs
+    details: Créez votre panel ou générez-le à partir de votre base d'utilisateurs
       existants.
     highlight: false
     actions:
