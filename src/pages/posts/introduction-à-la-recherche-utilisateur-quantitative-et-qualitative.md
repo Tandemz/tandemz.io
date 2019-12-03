@@ -1,7 +1,7 @@
 ---
 template: post
 title: Introduction à la recherche utilisateur quantitative et qualitative
-subtitle: Quésaco et laquelle choisir ?
+subtitle: Ou comment vous convaincre qu'il est impossible de choisir entre les deux
 date: 2019-12-02T23:00:00.000+00:00
 thumb_img_path: "/images/Image-discussion.PNG"
 content_img_path: "/images/Discuss.svg"
