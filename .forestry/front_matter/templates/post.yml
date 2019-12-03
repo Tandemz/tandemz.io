@@ -38,4 +38,3 @@ fields:
     required: true
 pages:
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
-- src/pages/posts/a-venir.md
