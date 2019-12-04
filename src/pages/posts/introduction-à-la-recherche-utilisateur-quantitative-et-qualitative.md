@@ -7,9 +7,6 @@ thumb_img_path: "/images/BlogPostQuantiQuali.png"
 content_img_path: "/images/BlogPostQuantiQuali.png"
 excerpt: Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privilégier
   ? Ce tout premier article de notre blog vous dira tout !
-name: Nicolas Djambazian
-email: nicolas@djambazian.fr
-avatar: "/images/Logo@200.png"
 author: src/data/authors/marinew.json
 
 ---

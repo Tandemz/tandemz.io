@@ -4,10 +4,14 @@ import moment from 'moment-strftime';
 import { Helmet } from 'react-helmet';
 
 import { Layout } from '../components/index';
-import { safePrefix, htmlToReact } from '../utils';
+import { safePrefix, htmlToReact, loadDataRef } from '../utils';
 
 export default class Post extends React.Component {
   render() {
+    const author = loadDataRef(
+      this.props.pageContext,
+      _.get(this.props, 'pageContext.frontmatter.author'),
+    );
     return (
       <Layout {...this.props}>
         <Helmet>
@@ -79,6 +83,19 @@ export default class Post extends React.Component {
                 {htmlToReact(_.get(this.props, 'pageContext.html'))}
               </div>
               <footer className="post-meta">
+                <div>
+                  <img
+                    src={author.avatar}
+                    alt={author.name}
+                    style={{
+                      width: 50,
+                      height: 50,
+                      borderRadius: 25,
+                      display: 'inline-block',
+                    }}
+                  />
+                  {author.name}
+                </div>
                 <time
                   className="published"
                   dateTime={moment(

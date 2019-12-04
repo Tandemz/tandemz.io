@@ -35,6 +35,7 @@ export {
   Social,
   SubscribeForm,
   Layout,
+  ReviewsBlock,
 };
 
 export default {
@@ -55,4 +56,5 @@ export default {
   Social,
   SubscribeForm,
   Layout,
+  ReviewsBlock,
 };

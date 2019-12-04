@@ -39,7 +39,7 @@ export default class StudiesBlock extends React.Component {
                           href={_.get(study, 'url')}
                           className="button"
                           target="_blank"
-                          rel="noopener"
+                          rel="noopener noreferrer"
                         >
                           Je participe
                         </a>
