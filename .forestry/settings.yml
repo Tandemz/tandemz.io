@@ -67,7 +67,6 @@ sections:
 - type: document
   path: src/data/authorss.json
   label: Authorss
-  match: "**/*"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

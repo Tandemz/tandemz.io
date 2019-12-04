@@ -1,0 +1,17 @@
+---
+label: Authorss
+hide_body: true
+fields:
+- type: field_group_list
+  name: Authorss
+  label: Authorss
+  fields:
+  - type: text
+    name: firstName
+    label: firstName
+  - type: text
+    name: lastName
+    label: lastName
+  - type: file
+    name: avatar
+    label: avatar
