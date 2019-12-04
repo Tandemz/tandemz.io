@@ -1,16 +1,31 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import ReactPaginate from 'react-paginate';
 
 import BlogPostLink from './BlogPostLink';
 import { htmlToReact, getPages, Link, safePrefix } from '../../utils';
 
 export default class BlogPostsList extends React.Component {
+  state = { currentPage: 0 };
+
+  handlePageClick = ({ selected }) => {
+    this.setState({ currentPage: selected });
+  };
+
   render() {
     const { posts } = this.props;
 
     const title = _.get(this.props, 'section.title');
     const subtitle = _.get(this.props, 'section.subtitle');
+
+    const itemsPerPage = _.get(this.props, 'section.prePage', 9);
+    const pageCount = Math.ceil(posts.length / itemsPerPage);
+
+    const startItem = this.state.currentPage * itemsPerPage;
+    const endItem = (this.state.currentPage + 1) * itemsPerPage;
+    const postsList = posts.slice(startItem, endItem);
+    console.log(startItem, endItem, postsList.length);
 
     return (
       <section
@@ -29,10 +44,24 @@ export default class BlogPostsList extends React.Component {
         )}
         <div className="inner">
           <div className="post-feed">
-            {_.map(posts, (post, post_idx) => (
+            {_.map(postsList, (post, post_idx) => (
               <BlogPostLink post={post} post_idx={post_idx} />
             ))}
           </div>
+
+          {pageCount > 1 && (
+            <ReactPaginate
+              pageCount={pageCount}
+              pageRangeDisplayed={5}
+              marginPagesDisplayed={2}
+              nextLabel="Suivant"
+              previousLabel="Précédent"
+              onPageChange={this.handlePageClick}
+              containerClassName="pagination"
+              subContainerClassName="pages pagination"
+              activeClassName="active"
+            />
+          )}
         </div>
       </section>
     );

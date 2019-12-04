@@ -1,0 +1,41 @@
+.pagination {
+    display: inline-block;
+    padding: 0;
+    margin: auto;
+
+  li {
+    display: inline-block;
+
+    a {
+      display: inline-block;
+      cursor: pointer;
+
+      color: _palette(primary);
+
+      height: 40px;
+      min-width: 40px;
+      border: 1px solid _palette(border);
+      text-align: center;
+
+      margin-right: 4px;
+      margin-left: 4px;
+
+      text-decoration: none;
+
+      padding: 4px 8px;
+      box-sizing: border-box;
+    }
+    &.active {
+      a {
+        background-color: _palette(primary);
+        color: white;
+      }
+    }
+    &.disabled {
+      opacity: 0.6;
+      a {
+        cursor: auto;
+      }
+    }
+  }
+}
