@@ -11,8 +11,7 @@ export default class RecentsPostsBlock extends React.Component {
       'frontmatter.date',
       'desc',
     );
-    let recent_posts = display_posts;
+    let recent_posts = display_posts.slice(0, 3);
     return <BlogPostsList posts={recent_posts} section={this.props.section} />;
   }
 }
-
