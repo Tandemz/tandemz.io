@@ -28,5 +28,3 @@ fields:
     labelField: firstName
   label: Auteurs
   description: List of the authors of the blog
-pages:
-- src/data/authors.json
