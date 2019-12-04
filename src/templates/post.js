@@ -82,7 +82,7 @@ export default class Post extends React.Component {
               <div className="post-content">
                 {htmlToReact(_.get(this.props, 'pageContext.html'))}
               </div>
-              <footer className="post-meta">
+              <footer className="post-meta separated">
                 <img
                   className="post-avatar"
                   src={author.avatar}

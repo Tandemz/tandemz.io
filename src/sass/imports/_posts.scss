@@ -49,10 +49,13 @@
   line-height: 1.5;
   margin-bottom: 1.66667rem;
   margin-top: 1.66667rem;
-  border-top: 1px solid _palette(border);
-  padding-top: 1.66667rem;
-  display: flex;
-  align-items: center;
+
+  &.separated {
+    border-top: 1px solid _palette(border);
+    padding-top: 1.66667rem;
+    display: flex;
+    align-items: center;
+  }
 
   .post-author {
     color: _palette(secondary);
