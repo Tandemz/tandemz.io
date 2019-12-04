@@ -51,7 +51,7 @@ sections:
   label: Blog
 - type: document
   path: src/pages/blog/index.md
-  label: Page
+  label: Accueil Blog
   templates:
   - blog
 - type: directory
