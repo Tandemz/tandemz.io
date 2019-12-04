@@ -76,13 +76,15 @@ export default class Post extends React.Component {
         <div className="outer bg-white">
           <div className="inner-medium">
             <SectionList sections={before} {...this.props} />
-            <header className="post-header">
-              <SectionList sections={header} {...this.props} />
-            </header>
-            <SectionList sections={content} {...this.props} />
-            <footer className="post-meta separated">
-              <SectionList sections={footer} {...this.props} />
-            </footer>
+            <article>
+              <header className="post-header">
+                <SectionList sections={header} {...this.props} />
+              </header>
+              <SectionList sections={content} {...this.props} />
+              <footer className="post-meta separated">
+                <SectionList sections={footer} {...this.props} />
+              </footer>
+            </article>
             <SectionList sections={after} {...this.props} />
           </div>
         </div>
