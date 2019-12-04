@@ -1,0 +1,17 @@
+{
+  "sections": [
+    {
+      "template": "post-content-section",
+      "component": "PostContentBlock"
+    },
+    {
+      "template": "imageblock",
+      "component": "ImageBlock",
+      "bg": "gray",
+      "type": "imageblock",
+      "title": "The image",
+      "image": "/images/Logo@200.png",
+      "section_id": ""
+    }
+  ]
+}
