@@ -19,7 +19,6 @@ fields:
   type: blocks
   label: sections
   template_types:
-  - social
   - contentblock
   - imageblock
   - postsblock
