@@ -13,11 +13,5 @@ sections:
   title: ''
   section_id: ''
   subtitle: ''
-- template: ctablock
-  component: CtaBlock
-  type: ctablock
-  title: 'Call tto the action '
-  subtitle: subtitre
-  section_id: blog-cta
 
 ---

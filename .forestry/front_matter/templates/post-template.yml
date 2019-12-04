@@ -1,0 +1,11 @@
+---
+label: Post Template
+hide_body: true
+fields:
+- name: sections
+  type: blocks
+  label: sections
+  template_types: []
+  config:
+    min: 
+    max: 
