@@ -64,7 +64,6 @@ sections:
 - type: document
   path: src/data/post_template.json
   label: Post Page Template
-  match: "**/*"
 - type: directory
   path: src/data/authors
   label: Auteurs
