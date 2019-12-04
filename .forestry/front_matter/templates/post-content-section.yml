@@ -1,4 +1,11 @@
 ---
 label: Post Content Section
 hide_body: true
-fields: []
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  hidden: true
+  default: PostContentBlock
