@@ -5,7 +5,9 @@ fields:
 - name: sections
   type: blocks
   label: sections
-  template_types: []
+  template_types:
+  - post-content-section
+  - imageblock
   config:
     min: 
     max: 
