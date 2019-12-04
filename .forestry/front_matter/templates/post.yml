@@ -43,8 +43,8 @@ fields:
     required: true
     options: []
     source:
-      type: documents
-      section: authorss
+      type: pages
+      section: auteurs
       file: src/data/authorss.json
       path: 
   label: Auteur
