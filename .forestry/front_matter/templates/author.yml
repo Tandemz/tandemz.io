@@ -12,3 +12,5 @@ fields:
 - type: file
   name: avatar
   label: Avatar
+pages:
+- src/data/authors/nicolasd.json
