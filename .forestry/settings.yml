@@ -30,11 +30,6 @@ sections:
   templates:
   - pricing
 - type: document
-  path: src/pages/blog/index.md
-  label: Blog
-  templates:
-  - blog
-- type: document
   path: src/pages/contact.md
   label: Contact
   templates:
@@ -47,6 +42,18 @@ sections:
   exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md}"
   templates:
   - page
+- type: document
+  path: src/data/menus.json
+  label: Site Menus
+  templates:
+  - site_menus
+- type: heading
+  label: Blog
+- type: document
+  path: src/pages/blog/index.md
+  label: Page
+  templates:
+  - blog
 - type: directory
   path: src/pages/posts
   label: Post
@@ -55,10 +62,10 @@ sections:
   templates:
   - post
 - type: document
-  path: src/data/menus.json
-  label: Site Menus
-  templates:
-  - site_menus
+  path: src/data/authors.json
+  label: Auteurs
+  match: "**/*"
+  read_only: false
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
