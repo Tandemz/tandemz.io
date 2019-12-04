@@ -43,7 +43,7 @@ fields:
     required: true
     options: []
     source:
-      type: documents
+      type: pages
       section: auteurs
       file: src/data/authors.json
       path: 
