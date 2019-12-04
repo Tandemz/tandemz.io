@@ -1,5 +1,9 @@
 {
   "list": [
-
+    {
+      "firstName": "Nicolas",
+      "lastName": "Djambazian",
+      "avatar": "/images/profil.jpg"
+    }
   ]
 }
