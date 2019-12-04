@@ -10,7 +10,7 @@ sections:
   component: PostsBlock
   bg: gray
   type: postsblock
-  title: Nos articles
+  title: ''
   section_id: ''
   subtitle: ''
 
