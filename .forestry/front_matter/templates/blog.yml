@@ -15,5 +15,18 @@ fields:
   default: blog
   config:
     required: true
+- name: sections
+  type: blocks
+  label: sections
+  template_types:
+  - social
+  - contentblock
+  - imageblock
+  - postsblock
+  - ctablock
+  - heroblock
+  config:
+    min: 
+    max: 
 pages:
 - src/pages/blog/index.md
