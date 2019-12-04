@@ -67,6 +67,8 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: json
+  templates:
+  - author
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
