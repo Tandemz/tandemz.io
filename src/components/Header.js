@@ -4,6 +4,13 @@ import _ from 'lodash';
 import { Link, safePrefix } from '../utils';
 
 export default class Header extends React.Component {
+  logEvent = () => {
+    console.log(this.props);
+    window.gtag('event', 'click', {
+      event_category: 'Request demo',
+      event_label: this.props.pageContext.url,
+    });
+  };
   render() {
     return (
       <header id="masthead" className="site-header outer">
@@ -82,6 +89,7 @@ export default class Header extends React.Component {
                                 <Link
                                   to={safePrefix(_.get(action, 'url'))}
                                   className="button"
+                                  onClick={this.logEvent}
                                 >
                                   {_.get(action, 'label')}
                                 </Link>
