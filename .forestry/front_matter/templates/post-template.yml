@@ -1,4 +1,11 @@
 ---
 label: Post Template
 hide_body: true
-fields: []
+fields:
+- name: sections
+  type: blocks
+  label: sections
+  template_types: []
+  config:
+    min: 
+    max: 
