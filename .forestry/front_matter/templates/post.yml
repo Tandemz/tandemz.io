@@ -38,16 +38,15 @@ fields:
     required: true
 - name: author
   type: select
-  default: []
+  default: 
   config:
-    required: false
+    required: true
     options: []
     source:
       type: documents
-      section: social-links
-      file: src/data/social.json
+      section: auteurs
+      file: src/data/authors.json
       path: 
   label: Auteur
-  description: Author of article
 pages:
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
