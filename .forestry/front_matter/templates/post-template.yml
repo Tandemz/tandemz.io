@@ -2,11 +2,57 @@
 label: Post Template
 hide_body: true
 fields:
-- name: sections
+- name: before
   type: blocks
-  label: sections
+  label: before
   template_types:
   - post-content-section
+  - post-author-section
+  - post-title-section
+  - imageblock
+  config:
+    min: 
+    max: 
+- name: header
+  type: blocks
+  label: header
+  template_types:
+  - post-content-section
+  - post-author-section
+  - post-title-section
+  - imageblock
+  config:
+    min: 
+    max: 
+- name: content
+  type: blocks
+  label: content
+  template_types:
+  - post-content-section
+  - post-author-section
+  - post-title-section
+  - imageblock
+  config:
+    min: 
+    max: 
+- name: footer
+  type: blocks
+  label: footer
+  template_types:
+  - post-content-section
+  - post-author-section
+  - post-title-section
+  - imageblock
+  config:
+    min: 
+    max: 
+- name: after
+  type: blocks
+  label: after
+  template_types:
+  - post-content-section
+  - post-author-section
+  - post-title-section
   - imageblock
   config:
     min: 

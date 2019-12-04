@@ -1,0 +1,11 @@
+---
+label: Post Title Section
+hide_body: true
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  hidden: true
+  default: PostTitleBlock

@@ -17,6 +17,10 @@ import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
 
+import PostContentBlock from './posts/PostContentBlock';
+import PostTitleBlock from './posts/PostTitleBlock';
+import PostAuthorBlock from './posts/PostAuthorBlock';
+
 export {
   ContentBlock,
   ImageBlock,
@@ -36,6 +40,9 @@ export {
   SubscribeForm,
   Layout,
   ReviewsBlock,
+  PostContentBlock,
+  PostTitleBlock,
+  PostAuthorBlock,
 };
 
 export default {
@@ -57,4 +64,7 @@ export default {
   SubscribeForm,
   Layout,
   ReviewsBlock,
+  PostContentBlock,
+  PostTitleBlock,
+  PostAuthorBlock,
 };
