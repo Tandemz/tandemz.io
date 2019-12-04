@@ -1,28 +1,26 @@
 {
-  "before": [],
-  "header": [{
-    "template": "post-title-section",
-    "component": "PostTitleBlock"
-  }],
+  "before": [
+
+  ],
+  "header": [
+    {
+      "template": "post-title-section",
+      "component": "PostTitleBlock"
+    }
+  ],
   "content": [
     {
       "template": "post-content-section",
       "component": "PostContentBlock"
     }
   ],
-  "footer": [{
-    "template": "post-author-section",
-    "component": "PostAuthorBlock"
-  }],
-  "after": [
+  "footer": [
     {
-      "template": "imageblock",
-      "component": "ImageBlock",
-      "bg": "gray",
-      "type": "imageblock",
-      "title": "The image",
-      "image": "/images/Logo@200.png",
-      "section_id": ""
+      "template": "post-author-section",
+      "component": "PostAuthorBlock"
     }
+  ],
+  "after": [
+
   ]
 }
