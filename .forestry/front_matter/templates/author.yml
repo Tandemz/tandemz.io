@@ -13,4 +13,5 @@ fields:
   name: avatar
   label: Avatar
 pages:
+- src/data/authors/marinew.json
 - src/data/authors/nicolasd.json
