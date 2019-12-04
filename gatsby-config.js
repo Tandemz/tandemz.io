@@ -62,11 +62,17 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: 'UA-148496948-1',
+        trackingIds: ['UA-148496948-1'],
+      },
+      gtagConfig: {
+        optimize_id: 'GTM-TXRGZVC',
+        cookie_expires: 0,
+      },
+      pluginConfig: {
         head: true,
-        anonymize: true,
+        respectDNT: true,
       },
     },
   ],
