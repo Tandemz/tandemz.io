@@ -83,29 +83,24 @@ export default class Post extends React.Component {
                 {htmlToReact(_.get(this.props, 'pageContext.html'))}
               </div>
               <footer className="post-meta">
+                <img
+                  className="post-avatar"
+                  src={author.avatar}
+                  alt={author.name}
+                />
                 <div>
-                  <img
-                    src={author.avatar}
-                    alt={author.name}
-                    style={{
-                      width: 50,
-                      height: 50,
-                      borderRadius: 25,
-                      display: 'inline-block',
-                    }}
-                  />
-                  {author.name}
+                  <div className="post-author">{author.name}</div>
+                  <time
+                    className="published"
+                    dateTime={moment(
+                      _.get(this.props, 'pageContext.frontmatter.date'),
+                    ).strftime('%Y-%m-%d %H:%M')}
+                  >
+                    {moment(
+                      _.get(this.props, 'pageContext.frontmatter.date'),
+                    ).strftime('%A, %B %e, %Y')}
+                  </time>
                 </div>
-                <time
-                  className="published"
-                  dateTime={moment(
-                    _.get(this.props, 'pageContext.frontmatter.date'),
-                  ).strftime('%Y-%m-%d %H:%M')}
-                >
-                  {moment(
-                    _.get(this.props, 'pageContext.frontmatter.date'),
-                  ).strftime('%A, %B %e, %Y')}
-                </time>
               </footer>
             </article>
           </div>
