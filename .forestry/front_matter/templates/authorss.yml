@@ -15,3 +15,5 @@ fields:
   - type: file
     name: avatar
     label: avatar
+pages:
+- src/data/authorss.json
