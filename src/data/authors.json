@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "firstName": "Marine",
+      "lastName": "Wolffhugel",
+      "avatar": "/images/marine.jpg"
+    },
+    {
       "firstName": "France",
       "lastName": "Wang",
       "avatar": "/images/france.jpg"
