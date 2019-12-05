@@ -48,5 +48,9 @@ fields:
       file: src/data/authorss.json
       path: 
   label: Auteur
+- name: hashtags
+  type: tag_list
+  default: []
+  label: hashtags
 pages:
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
