@@ -33,6 +33,9 @@ export default class Post extends React.Component {
       'pageContext.site.data.post_template',
       {},
     );
+    const image =
+      _.get(this.props, 'pageContext.frontmatter.social_image') ||
+      _.get(this.props, 'pageContext.frontmatter.content_img_path');
 
     const { before, header, content, after, footer } = template;
 
@@ -47,6 +50,7 @@ export default class Post extends React.Component {
             name="keywords"
             content={_.get(this.props, 'pageContext.frontmatter.keywords')}
           />
+          <meta name="twitter:image" content={image} />
           <meta
             property="og:title"
             content={_.get(this.props, 'pageContext.frontmatter.title')}
@@ -63,13 +67,7 @@ export default class Post extends React.Component {
             property="og:description"
             content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
           />
-          <meta
-            property="og:image"
-            content={_.get(
-              this.props,
-              'pageContext.frontmatter.content_img_path',
-            )}
-          />
+          <meta property="og:image" content={image} />
         </Helmet>
 
         <div className="outer bg-white">
