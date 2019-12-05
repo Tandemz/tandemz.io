@@ -2,17 +2,6 @@
 label: Post Template
 hide_body: true
 fields:
-- name: before
-  type: blocks
-  label: before
-  template_types:
-  - post-content-section
-  - post-author-section
-  - post-title-section
-  - imageblock
-  config:
-    min: 
-    max: 
 - name: header
   type: blocks
   label: header
@@ -38,17 +27,6 @@ fields:
 - name: footer
   type: blocks
   label: footer
-  template_types:
-  - post-content-section
-  - post-author-section
-  - post-title-section
-  - imageblock
-  config:
-    min: 
-    max: 
-- name: after
-  type: blocks
-  label: after
   template_types:
   - post-content-section
   - post-author-section
