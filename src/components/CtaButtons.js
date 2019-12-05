@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Link, safePrefix } from '../utils';
+import { Link, safePrefix, sendEvent } from '../utils';
 
 export default class CtaButtons extends React.Component {
   render() {
@@ -12,6 +12,13 @@ export default class CtaButtons extends React.Component {
             key={action_idx}
             to={safePrefix(_.get(action, 'url'))}
             className="button secondary"
+            onClick={() =>
+              sendEvent(
+                'click',
+                _.get(action, 'label'),
+                _.get(this.props, 'pageContext.url'),
+              )
+            }
           >
             {_.get(action, 'label')}
           </Link>

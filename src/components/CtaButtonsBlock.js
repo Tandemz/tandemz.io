@@ -9,7 +9,7 @@ class CtaButtonsBlock extends React.PureComponent {
     return (
       <div className="cta-button-block">
         {!!title && <h4 className="cta-button-block__title">{title}</h4>}
-        <CtaButtons actions={actions} />
+        <CtaButtons {...this.props} actions={actions} />
       </div>
     );
   }

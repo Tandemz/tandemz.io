@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import classnames from 'classnames';
 
-import { safePrefix, markdownify, Link } from '../utils';
+import { safePrefix, markdownify, Link, sendEvent } from '../utils';
 
 export default class HeroBlock extends React.Component {
   render() {
@@ -40,6 +40,9 @@ export default class HeroBlock extends React.Component {
                         key={action_idx}
                         to={safePrefix(_.get(action, 'url'))}
                         className="button white large"
+                        onClick={() =>
+                          sendEvent('click', 'Contact', _.get(action, 'label'))
+                        }
                       >
                         {_.get(action, 'label')}
                       </Link>
