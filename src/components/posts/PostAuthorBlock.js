@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
+import moment from 'moment';
 
 import { loadDataRef } from '../../utils';
 
@@ -19,10 +19,10 @@ export default class PostAuthorBlock extends React.Component {
             className="published"
             dateTime={moment(
               _.get(this.props, 'pageContext.frontmatter.date'),
-            ).strftime('%Y-%m-%d %H:%M')}
+            ).format()}
           >
-            {moment(_.get(this.props, 'pageContext.frontmatter.date')).strftime(
-              '%A, %B %e, %Y',
+            {moment(_.get(this.props, 'pageContext.frontmatter.date')).format(
+              'LL',
             )}
           </time>
         </div>

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
+import moment from 'moment';
 
 import { Link, safePrefix } from '../../utils';
 
@@ -36,11 +36,9 @@ export default class BlogPostLink extends React.PureComponent {
             <footer className="post-meta">
               <time
                 className="published"
-                dateTime={moment(_.get(post, 'frontmatter.date')).strftime(
-                  '%Y-%m-%d %H:%M',
-                )}
+                dateTime={moment(_.get(post, 'frontmatter.date')).format()}
               >
-                {moment(_.get(post, 'frontmatter.date')).strftime('%B %d, %Y')}
+                {moment(_.get(post, 'frontmatter.date')).format('LL')}
               </time>
             </footer>
           </div>

@@ -1,11 +1,15 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import _ from 'lodash';
+import moment from 'moment';
+import 'moment/locale/fr';
 
 import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
 import '../sass/main.scss';
+
+moment.locale('fr');
 
 const orgaSchema = {
   '@context': 'https://schema.org',
