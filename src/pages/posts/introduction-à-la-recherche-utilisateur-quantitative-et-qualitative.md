@@ -10,7 +10,7 @@ excerpt: Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privi
 author: src/data/authors/marinew.json
 hashtags:
 - tandemz
-social_image: "/images/BlogPostQuantiQuali-1.png"
+social_image: "/images/BlogPostQuantiQuali-2.png"
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
