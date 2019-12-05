@@ -33,9 +33,13 @@ export default class Post extends React.Component {
       'pageContext.site.data.post_template',
       {},
     );
+
     const image =
-      _.get(this.props, 'pageContext.frontmatter.social_image') ||
-      _.get(this.props, 'pageContext.frontmatter.content_img_path');
+      _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
+      safePrefix(
+        _.get(this.props, 'pageContext.frontmatter.social_image') ||
+          _.get(this.props, 'pageContext.frontmatter.content_img_path'),
+      );
 
     const { before, header, content, after, footer } = template;
 
