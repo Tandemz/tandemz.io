@@ -32,6 +32,8 @@ fields:
   - post-author-section
   - post-title-section
   - imageblock
+  - social-share-buttons-section
+  - cta-buttons-section
   config:
     min: 
     max: 
