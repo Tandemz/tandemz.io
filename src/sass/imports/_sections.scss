@@ -739,10 +739,11 @@
 }
 
 .cta-button-block {
-  margin-top: 16px;
+  margin: 2rem 0;
   text-align: center;
 
   .cta-button-block__title {
+    margin-bottom: 1.5rem;
     font-size: 1rem;
     color: _palette(meta);
     font-weight: 400;
@@ -750,7 +751,6 @@
 }
 
 .social-share-buttons {
-  background-color: _palette(bg);
   padding: 16px;
   margin-top: 16px;
 
@@ -761,5 +761,4 @@
   .social-share-buttons__button {
     margin-left: 8px;
   }
-
 }

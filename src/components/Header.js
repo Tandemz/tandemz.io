@@ -82,11 +82,13 @@ export default class Header extends React.Component {
                                 <Link
                                   to={safePrefix(_.get(action, 'url'))}
                                   className="button"
-                                  onClick={sendEvent(
-                                    'click',
-                                    'Request Demo',
-                                    _.get(this.props, 'pageContext.url'),
-                                  )}
+                                  onClick={() =>
+                                    sendEvent(
+                                      'click',
+                                      'request demo',
+                                      _.get(this.props, 'pageContext.url'),
+                                    )
+                                  }
                                 >
                                   {_.get(action, 'label')}
                                 </Link>
