@@ -1,10 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
 import { Helmet } from 'react-helmet';
 
 import components, { Layout } from '../components/index';
-import { safePrefix, htmlToReact, loadDataRef } from '../utils';
+import { safePrefix } from '../utils';
 
 const SectionList = ({ sections, ...props }) => {
   return (
@@ -81,7 +80,7 @@ export default class Post extends React.Component {
                 <SectionList sections={header} {...this.props} />
               </header>
               <SectionList sections={content} {...this.props} />
-              <footer className="post-meta separated">
+              <footer className="post-meta">
                 <SectionList sections={footer} {...this.props} />
               </footer>
             </article>

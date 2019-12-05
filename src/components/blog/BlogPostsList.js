@@ -1,10 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
-import moment from 'moment-strftime';
 import ReactPaginate from 'react-paginate';
 
 import BlogPostLink from './BlogPostLink';
-import { htmlToReact, getPages, Link, safePrefix } from '../../utils';
+import { htmlToReact } from '../../utils';
 
 export default class BlogPostsList extends React.Component {
   state = { currentPage: 0 };

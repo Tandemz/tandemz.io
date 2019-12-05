@@ -737,3 +737,28 @@
     padding-top: 0;
   }
 }
+
+.cta-button-block {
+  margin-top: 16px;
+  text-align: center;
+
+  .cta-button-block__title {
+    font-size: 1rem;
+    color: _palette(meta);
+    font-weight: 400;
+  }
+}
+
+.social-share-buttons {
+  background-color: _palette(bg);
+  padding: 16px;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+  .social-share-buttons__button {
+    margin-left: 8px;
+  }
+
+}

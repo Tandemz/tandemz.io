@@ -50,7 +50,7 @@
   margin-bottom: 1.66667rem;
   margin-top: 1.66667rem;
 
-  &.separated {
+  .author-block {
     border-top: 1px solid _palette(border);
     padding-top: 1.66667rem;
     display: flex;
@@ -70,6 +70,7 @@
     margin-right: 15px;
     width: 60px;
   }
+
 }
 
 /* Post feed */

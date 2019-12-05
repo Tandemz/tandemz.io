@@ -1,9 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import { Helmet } from 'react-helmet';
 
-import { safePrefix, htmlToReact, loadDataRef } from '../../utils';
+import { loadDataRef } from '../../utils';
 
 export default class PostAuthorBlock extends React.Component {
   render() {
@@ -12,7 +11,7 @@ export default class PostAuthorBlock extends React.Component {
       _.get(this.props, 'pageContext.frontmatter.author'),
     );
     return (
-      <React.Fragment>
+      <div className="author-block">
         <img className="post-avatar" src={author.avatar} alt={author.name} />
         <div>
           <div className="post-author">{author.name}</div>
@@ -27,7 +26,7 @@ export default class PostAuthorBlock extends React.Component {
             )}
           </time>
         </div>
-      </React.Fragment>
+      </div>
     );
   }
 }
