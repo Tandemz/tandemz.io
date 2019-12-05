@@ -30,22 +30,18 @@ class SocialShareButtonsBlock extends React.PureComponent {
       shareUrl = window.location.toString();
     }
 
-    const title = _.get(
-      this.props,
-      'section.title',
-      _.get(this.props, 'pageContext.frontmatter.title'),
-    );
+    const title =
+      _.get(this.props, 'section.title') ||
+      _.get(this.props, 'pageContext.frontmatter.title');
 
-    const size = _.get(this.props, 'section.size', 32);
-    const emailBody = _.get(
-      this.props,
-      'section.emailBody',
-      _.get(this.props, 'pageContext.frontmatter.excerpt', ''),
-    );
+    const size = _.get(this.props, 'section.size') || 32;
+    const emailBody =
+      _.get(this.props, 'section.emailBody') ||
+      _.get(this.props, 'pageContext.frontmatter.excerpt', '');
 
     const hashtags = _.get(
       this.props,
-      'pageContext.frontmatter.hashtags'
+      'pageContext.frontmatter.hashtags',
       _.get(this.props, 'section.hashtags', []),
     );
 
