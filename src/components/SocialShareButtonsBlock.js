@@ -26,7 +26,7 @@ class SocialShareButtonsBlock extends React.PureComponent {
       shareUrl =
         _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
         _.get(this.props, 'pageResources.page.path');
-    } else {
+    } else if (typeof window !== `undefined`) {
       shareUrl = window.location.toString();
     }
 
