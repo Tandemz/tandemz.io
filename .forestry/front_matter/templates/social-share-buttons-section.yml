@@ -1,4 +1,44 @@
 ---
 label: Social Share Buttons Section
 hide_body: true
-fields: []
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  default: SocialShareButtonsBlock
+  hidden: true
+- name: shareurl
+  type: text
+  config:
+    required: false
+  label: shareUrl
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: size
+  type: number
+  label: size
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: emailbody
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: emailBody
+- name: hashtags
+  type: tag_list
+  default: []
+  label: hashtags
