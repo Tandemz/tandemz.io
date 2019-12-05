@@ -10,6 +10,12 @@ import Footer from './Footer';
 import '../sass/main.scss';
 
 moment.locale('fr');
+moment.updateLocale('fr', {
+  longDateFormat: {
+    ...moment.localeData('fr').longDateFormat,
+    LL: 'dddd D MMMM YYYY',
+  },
+});
 
 const orgaSchema = {
   '@context': 'https://schema.org',
