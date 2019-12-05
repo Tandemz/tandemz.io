@@ -131,7 +131,6 @@ export default class Body extends React.Component {
           <script className="structured-data-list" type="application/ld+json">
             {JSON.stringify(orgaSchema)}
           </script>
-
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@TandemzUX" />
           <meta name="twitter:creator" content="@TandemzUX" />

@@ -50,6 +50,7 @@ export default class Post extends React.Component {
             name="keywords"
             content={_.get(this.props, 'pageContext.frontmatter.keywords')}
           />
+          <meta name="twitter:card" content="summary_large_image" />
           <meta name="twitter:image" content={image} />
           <meta
             property="og:title"
