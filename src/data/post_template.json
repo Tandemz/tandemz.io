@@ -16,8 +16,22 @@
   ],
   "footer": [
     {
+      "template": "cta-buttons-section",
+      "component": "CtaButtonsBlock",
+      "actions": [
+        {
+          "url": "/",
+          "label": "Venez découvrir Tandemz"
+        }
+      ],
+      "title": ""
+    },
+    {
       "template": "post-author-section",
       "component": "PostAuthorBlock"
+    },
+    {
+      "template": "social-share-buttons-section"
     }
   ],
   "after": [
