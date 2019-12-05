@@ -45,8 +45,8 @@ class SocialShareButtonsBlock extends React.PureComponent {
 
     const hashtags = _.get(
       this.props,
-      'section.hashtags',
-      _.get(this.props, 'pageContext.frontmatter.hashtags', []),
+      'pageContext.frontmatter.hashtags'
+      _.get(this.props, 'section.hashtags', []),
     );
 
     return (
