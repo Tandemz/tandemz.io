@@ -134,7 +134,7 @@ export default class Body extends React.Component {
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@TandemzUX" />
           <meta name="twitter:creator" content="@TandemzUX" />
-          <meta property="fb:app_id" content="113616320048311" />
+          <meta property="fb:app_id" content="428165038128251" />
           <meta property="og:title" content="Tandemz" />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://www.tandemz.io" />
