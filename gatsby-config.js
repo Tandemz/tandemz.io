@@ -66,13 +66,8 @@ module.exports = {
       options: {
         trackingIds: ['UA-148496948-1'],
       },
-      gtagConfig: {
-        optimize_id: 'GTM-TXRGZVC',
-        cookie_expires: 0,
-      },
       pluginConfig: {
         head: true,
-        respectDNT: true,
       },
     },
   ],

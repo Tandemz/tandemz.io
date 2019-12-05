@@ -65,32 +65,6 @@ sections:
           * Messagerie intégrée pour des échanges centralisés
         image: '/images/Illustration - Communication.svg'
         actions: []
-  - template: iconsblock
-    component: IconsBlock
-    bg: white
-    type: iconsblock
-    section_id: for
-    title: Vous êtes...
-    iconblocks:
-      - title: UX Designers
-        content:
-          Ne perdez plus votre temps à organiser vos tests utilisateurs et partagez
-          à votre équipe l'intérêt de votre recherche qualitative. Avec tout le temps
-          que vous aurez gagné, vous relancerez bien une petite session ?
-        icon: ''
-      - title: UX Researchers
-        content:
-          Pourquoi attendre deux semaines pour obtenir vos participants lorsque
-          vous pouvez les recruter en quelques heures? Restez maître de l'organisation
-          de vos études et, avec votre équipe, passez à la vitesse supérieure.
-        icon: ''
-      - title: Responsable produit
-        content:
-          Deux jours d'organisation de gagnés à chaque session pour votre UX, ce
-          sont deux jours de tests supplémentaires pour votre produit. Vous êtes à deux
-          doigts de systématiser les tests utilisateurs pour votre produit.
-        icon: ''
-    subtitle: ''
   - template: pricingblock
     component: PricingBlock
     bg: gray
@@ -101,7 +75,7 @@ sections:
       'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
       toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
     pricingplans:
-      - title: Recrutement sur les réseaux
+      - title: Recherche de participants
         price: 60€ / participant
         details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
         highlight: false
@@ -109,7 +83,7 @@ sections:
           - label: Ça m'intéresse
             url: '/contact'
       - title: Gestion de votre panel privé
-        price: A partir de 150€/mois
+        price: A partir de 150€ / mois
         details:
           Créez votre panel ou générez le à partir de votre base d'utilisateurs
           existants.

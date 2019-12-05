@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Link, safePrefix } from '../utils';
+import { Link, safePrefix, sendEvent } from '../utils';
 
 export default class Header extends React.Component {
   render() {
@@ -82,6 +82,11 @@ export default class Header extends React.Component {
                                 <Link
                                   to={safePrefix(_.get(action, 'url'))}
                                   className="button"
+                                  onClick={sendEvent(
+                                    'click',
+                                    'Request Demo',
+                                    _.get(this.props, 'pageContext.url'),
+                                  )}
                                 >
                                   {_.get(action, 'label')}
                                 </Link>
