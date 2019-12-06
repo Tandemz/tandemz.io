@@ -3,8 +3,8 @@ template: post
 title: Introduction à la recherche utilisateur quantitative et qualitative
 subtitle: ''
 date: 2019-12-02T23:00:00.000+00:00
-thumb_img_path: "/images/BlogPostQuantiQuali.png"
-content_img_path: "/images/BlogPostQuantiQuali.png"
+thumb_img_path: "/images/Couv.jfif"
+content_img_path: "/images/Couverture.jfif"
 excerpt: Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privilégier
   ? Ce tout premier article de notre blog vous dira tout !
 author: src/data/authors/marinew.json
