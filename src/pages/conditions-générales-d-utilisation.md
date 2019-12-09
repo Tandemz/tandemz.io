@@ -3,11 +3,15 @@ template: page
 title: Mentions légales
 subtitle: ''
 img_path: ''
-
+menus:
+  secondary:
+    title: Mentions légales
+    weight: 4
 ---
+
 # Identification
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est édité par la société Tandemz, SAS au capital de xxx€ en cours d’immatriculation. Tandemz est l’unique propriétaire et exploitant de ce site.
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ 'https://www.tandemz.io/') est édité par la société Tandemz, SAS au capital de xxx€ en cours d’immatriculation. Tandemz est l’unique propriétaire et exploitant de ce site.
 
 Directeur de publication : Marine Wolffhugel
 
@@ -29,7 +33,7 @@ Nos CGU sont en cours de rédaction.
 
 # Hébergeur
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est hébergé par Clevercloud SAS, 3 rue de l'Allier, 44000 Nantes, France ([https://www.clever-cloud.com/](https://www.tandemz.io/ "https://www.tandemz.io/") - 03 2 85 52 07 69).
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ 'https://www.tandemz.io/') est hébergé par Clevercloud SAS, 3 rue de l'Allier, 44000 Nantes, France ([https://www.clever-cloud.com/](https://www.tandemz.io/ 'https://www.tandemz.io/') - 03 2 85 52 07 69).
 
 # Données personnelles
 
@@ -45,4 +49,4 @@ Si vous estimez, après nous avoir contactés, que vos droits sur vos données n
 
 # Cookies
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") utilise des cookies. Ceux-ci sont collectées par le serveur dans le seul but d’établir des statistiques sur la manière dont le site est utilisé. Ces informations ne sont pas utilisée à d’autres fins que celle nommée précédemment sans autorisation de la part de l’utilisateur.
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ 'https://www.tandemz.io/') utilise des cookies. Ceux-ci sont collectées par le serveur dans le seul but d’établir des statistiques sur la manière dont le site est utilisé. Ces informations ne sont pas utilisée à d’autres fins que celle nommée précédemment sans autorisation de la part de l’utilisateur.
