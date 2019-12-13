@@ -7,7 +7,7 @@ sections:
   title: Tandemz, le catalyseur de vos tests utilisateurs
   component: HeroBlock
   content: Sur Tandemz, lancez vos études UX en un clin d'oeil. Concentrez-vous enfin
-    sur votre recherche utilisateur
+    sur votre recherche utilisateur.
   image: ''
   actions:
   - label: Ça m'intéresse
