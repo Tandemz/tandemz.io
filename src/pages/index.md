@@ -76,7 +76,8 @@ sections:
       à la vitesse supérieure !
     icon: ''
   - title: Responsable produit
-    content: blablabis
+    content: Soyez sûr que votre produit réponde aux besoins des utilisateurs. Adoptez
+      le réflexe test utilisateur dès la conception !
     icon: ''
   title: Vous êtes...
   section_id: roles
