@@ -24,6 +24,6 @@ Allez, on va vous aider à vous sortir de là (ou pas !) :
 
 ![](/images/flowchart-mamie-ux (1).jpg)
 
-Chers amis UX Designer, pour ne pas complexifier notre illustration, nous avons pris l'exemple d'un UX Designer travaillant sur un site web. Bien sûr, une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voir même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
+Chers amis UX Designer, pour ne pas complexifier notre illustration, nous avons pris l'exemple d'un UX Designer travaillant sur un site web. Bien sûr, une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voire même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
 
 Passez de belles fêtes de fin d’année. On espère que l’année prochaine vous serez (enfin) tranquille ;)
