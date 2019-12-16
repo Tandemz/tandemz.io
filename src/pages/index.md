@@ -73,7 +73,7 @@ sections:
       organisation. Profitez-en pour en faire plus !
     icon: ''
   - title: UX Researcher
-    content: Recrutez seul vos participants en quelques heures. En équipe, passez
+    content: Recrutez tout seul vos participants en quelques heures. En équipe, passez
       à la vitesse supérieure !
     icon: ''
   - title: Responsable produit
