@@ -63,6 +63,18 @@ sections:
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.svg"
     actions: []
+- template: iconsblock
+  component: IconsBlock
+  bg: gray
+  type: iconsblock
+  iconblocks:
+  - title: UX Researcher
+    content: Recrutez vos participants en quelques heures et restez maître de vos
+      études. En équipe, passez à la vitesse supérieure !
+    icon: ''
+  title: Vous êtes...
+  section_id: roles
+  subtitle: ''
 - template: pricingblock
   component: PricingBlock
   bg: gray
