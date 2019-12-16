@@ -16,12 +16,12 @@ Mais Noël, c’est aussi ces longs repas de famille, ces même conversations qu
 
 “Et dis-moi, qu’est-ce que tu m’as dit que tu faisais comme travail déjà ?”
 
-Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Car il faut bien l’avouer, personne n’a jamais vraiment compris votre métier.
+Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Car il faut bien l’avouer, personne dans votre famille n’a jamais vraiment compris votre métier.
 
 Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! Comment commencer ?
 
 Allez, on va vous aider à vous sortir de là (ou pas!) :
 
-![](/images/Comment expliquer votre métier d'UX Designer à votre mamie.png)
+!\[\](/images/Comment expliquer votre métier d'UX Designer à votre mamie.png)
 
 Passez de belles fêtes de fin d’année. On espère que l’année prochaine vous serez (enfin) tranquille ;)
