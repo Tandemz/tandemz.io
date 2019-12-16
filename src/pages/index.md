@@ -75,7 +75,7 @@ sections:
       Profitez-en pour en faire plus !
     icon: ''
   - title: UX Researcher
-    content: Recrutez en autonomie vos participants en quelques heures. En équipe,
+    content: En autonomie, recrutez vos participants en quelques heures. En équipe,
       passez à la vitesse supérieure !
     icon: ''
   - title: Responsable produit
