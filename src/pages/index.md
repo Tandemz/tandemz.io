@@ -84,7 +84,7 @@ sections:
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
       assuré de répondre aux vrais besoins.
     icon: ''
-  title: Vous êtes...
+  title: Un seul outil pour tous
   section_id: roles
   subtitle: ''
 - template: pricingblock
