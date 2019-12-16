@@ -20,10 +20,10 @@ Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Ca
 
 Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! Comment commencer ?
 
-Allez, on va vous aider à vous sortir de là (ou pas!) :
+Allez, on va vous aider à vous sortir de là (ou pas !) :
 
 ![](/images/flowchart-mamie-ux.jpg)
 
-Chers amis UX Designer, nous avons ici fait la simplification que ce métier se résumait uniquement au domaine des sites internet afin de ne pas trop complexifier notre illustration. Bien sûr, il n’en est rien. Une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voir même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le coeur vous en dit !
+Chers amis UX Designer, nous avons ici fait la simplification que ce métier se résumait uniquement au domaine des sites internet afin de ne pas trop complexifier notre illustration. Bien sûr, il n’en est rien. Une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voir même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
 
 Passez de belles fêtes de fin d’année. On espère que l’année prochaine vous serez (enfin) tranquille ;)
