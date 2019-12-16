@@ -72,8 +72,8 @@ sections:
     content: blablabla
     icon: ''
   - title: UX Researcher
-    content: Recrutez vos participants en quelques heures et restez maître de vos
-      études. En équipe, passez à la vitesse supérieure !
+    content: Recrutez seul vos participants en quelques heures. En équipe, passez
+      à la vitesse supérieure !
     icon: ''
   - title: Responsable produit
     content: blablabis
