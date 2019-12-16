@@ -69,8 +69,8 @@ sections:
   type: pricingblock
   section_id: ''
   title: Tarif
-  subtitle: En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
-    toute autonomie. Et hop, votre recherche utilisateur est un réflexe !
+  subtitle: En quelques minutes, lancez vos tests utilisateurs sur Tandemz en toute
+    autonomie. Et hop, la recherche utilisateur est un réflexe !
   pricingplans:
   - title: Recherche de participants
     price: 60€ / participant
