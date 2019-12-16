@@ -73,7 +73,7 @@ sections:
   type: iconsblock
   iconblocks:
   - title: UX Designer
-    content: Animez, analysez et partagez. Ne perdez plus de temps en organisation.
+    content: Animez vos tests, analysez et partagez. Ne perdez plus de temps en organisation.
       Profitez-en pour en faire plus !
     icon: ''
   - title: UX Researcher
