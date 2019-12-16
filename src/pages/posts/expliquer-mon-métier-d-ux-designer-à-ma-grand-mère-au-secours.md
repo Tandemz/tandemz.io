@@ -10,3 +10,18 @@ excerpt: ''
 author: src/data/authors/marinew.json
 
 ---
+Noël approche à grand pas ! D’ici une semaine à peine, vous allez enfin profiter de ses petites joies : le sapin et ses cadeaux, les repas gargantuesques, le feu dans la cheminée, les papillotes et chocolats…
+
+Mais Noël, c’est aussi ces longs repas de famille, ces même conversations qui reviennent inlassablement chaque année. Et vous savez déjà que Mamie, comme tous les ans, posera cette fameuse question fatidique, entre le chapon et la bûche. Question innocente mais qui vous fera trembler.
+
+“Et dis-moi, qu’est-ce que tu m’as dit que tu faisais comme travail déjà ?”
+
+Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Car il faut bien l’avouer, personne n’a jamais vraiment compris votre métier.
+
+Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! Comment commencer ?
+
+Allez, on va vous aider à vous sortir de là (ou pas!) :
+
+![](/images/Comment expliquer votre métier d'UX Designer à votre mamie.png)
+
+Passez de belles fêtes de fin d’année. On espère que l’année prochaine vous serez (enfin) tranquille ;)
