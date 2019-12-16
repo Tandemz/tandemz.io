@@ -69,7 +69,8 @@ sections:
   type: iconsblock
   iconblocks:
   - title: UX Designer
-    content: blablabla
+    content: Animez votre session, analysez et partagez. Ne perdez plus de temps en
+      organisation. Profitez-en pour en faire plus !
     icon: ''
   - title: UX Researcher
     content: Recrutez seul vos participants en quelques heures. En équipe, passez
