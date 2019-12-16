@@ -77,8 +77,8 @@ sections:
       Profitez-en pour en faire plus !
     icon: ''
   - title: UX Researcher
-    content: Recrutez vos participants en quelques heures en toute autonomie. Passez
-      à la vitesse supérieure avec toute votre équipe !
+    content: Recrutez en autonomie vos participants aux études. Passez à la vitesse
+      supérieure avec toute votre équipe !
     icon: ''
   - title: Responsable produit
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
