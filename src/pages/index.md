@@ -82,7 +82,7 @@ sections:
     icon: ''
   - title: Responsable produit
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
-      assuré de répondre aux vrais besoins.
+      assuré de répondre aux vrais besoins des clients.
     icon: ''
   title: Collaborez avec toute votre équipe
   section_id: roles
