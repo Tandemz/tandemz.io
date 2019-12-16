@@ -92,7 +92,7 @@ sections:
   section_id: ''
   title: Tarif
   subtitle: En quelques minutes, lancez vos tests utilisateurs sur Tandemz en toute
-    autonomie. Adoptez le réflexe recherche utilisateur.
+    autonomie et faites de votre recherche utilisateur un réflexe.
   pricingplans:
   - title: Recherche de participants
     price: 60€ / participant
