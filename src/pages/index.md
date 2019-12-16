@@ -68,9 +68,15 @@ sections:
   bg: gray
   type: iconsblock
   iconblocks:
+  - title: UX Designer
+    content: blablabla
+    icon: ''
   - title: UX Researcher
     content: Recrutez vos participants en quelques heures et restez maître de vos
       études. En équipe, passez à la vitesse supérieure !
+    icon: ''
+  - title: Responsable produit
+    content: blablabis
     icon: ''
   title: Vous êtes...
   section_id: roles
