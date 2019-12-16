@@ -10,6 +10,8 @@ sections:
     Sur Tandemz, lancez vos études UX en un clin d’œil. Concentrez-vous enfin sur votre recherche utilisateur.
 
     Sur Tandemz, lancez vos études UX en un clin d’œil. Oubliez l'organisation, concentrez-vous enfin sur votre recherche utilisateur.
+
+    Sur Tandemz, organisez vos études UX en un clin d’œil. Concentrez-vous enfin sur votre recherche utilisateur.
   image: ''
   actions:
   - label: Ça m'intéresse
