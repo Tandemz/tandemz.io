@@ -84,7 +84,7 @@ sections:
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
       assuré de répondre aux besoins de vos clients.
     icon: ''
-  title: Collaborez avec toute votre équipe
+  title: A qui s’adresse Tandemz ?
   section_id: roles
   subtitle: ''
 - template: pricingblock
