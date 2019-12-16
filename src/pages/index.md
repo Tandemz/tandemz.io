@@ -79,8 +79,8 @@ sections:
       passez à la vitesse supérieure !
     icon: ''
   - title: Responsable produit
-    content: Avec toute votre équipe produit, adoptez le réflexe test utilisateur.
-      Soyez assuré de répondre aux vrais besoins.
+    content: Avec votre équipe produit, adoptez le réflexe test utilisateur. Soyez
+      assuré de répondre aux vrais besoins.
     icon: ''
   title: Vous êtes...
   section_id: roles
