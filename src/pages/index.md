@@ -75,11 +75,11 @@ sections:
   - title: UX Researcher
     content: Recrutez vos participants en autonomie. Passez à la vitesse supérieure
       avec toute votre équipe !
-    icon: "/images/Rémy.PNG"
+    icon: "/images/Researcher.svg"
   - title: Responsable produit
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
       assuré de répondre aux besoins de vos clients.
-    icon: "/images/Antoine.PNG"
+    icon: "/images/Manager.svg"
   title: A qui s’adresse Tandemz ?
   section_id: roles
   subtitle: ''
