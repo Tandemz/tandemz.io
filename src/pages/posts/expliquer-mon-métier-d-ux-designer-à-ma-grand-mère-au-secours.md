@@ -18,13 +18,11 @@ Mais Noël, c’est aussi ces longs repas de famille, ces même conversations qu
 
 Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Car il faut bien l’avouer, personne dans votre famille n’a jamais vraiment compris votre métier.
 
-![](/images/flowchart-mamie-ux.jpg)
-
 Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! Comment commencer ?
 
-Allez, on va vous aider à vous sortir de là (ou pas !) :
+Allez, on va (ou pas !) vous aider à vous sortir de là.
 
-![](/images/flowchart-mamie-ux (1).jpg)
+![](/images/flowchart-mamie-ux (1)-2.jpg)
 
 Chers amis UX Designer, pour ne pas complexifier notre illustration, nous avons pris l'exemple d'un UX Designer travaillant sur un site web. Bien sûr, une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voire même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
 
