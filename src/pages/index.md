@@ -71,7 +71,7 @@ sections:
   - title: UX Designer
     content: Ne perdez plus de temps à organiser vos tests. Profitez-en pour en faire
       plus et itérer rapidement sur votre produit !
-    icon: "/images/Marie.PNG"
+    icon: "/images/Designer.svg"
   - title: UX Researcher
     content: Recrutez vos participants en autonomie. Passez à la vitesse supérieure
       avec toute votre équipe !
