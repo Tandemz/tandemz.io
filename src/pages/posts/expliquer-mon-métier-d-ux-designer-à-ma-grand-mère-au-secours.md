@@ -3,7 +3,7 @@ template: post
 hashtags: []
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
-date: 2019-12-15T23:00:00.000+00:00
+date: 2019-12-15T23:00:00Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Soyez prêt pour le repas de famille !
@@ -17,6 +17,8 @@ Mais Noël, c’est aussi ces longs repas de famille, ces même conversations qu
 “Et dis-moi, qu’est-ce que tu m’as dit que tu faisais comme travail déjà ?”
 
 Tous les yeux sont braqués sur vous, vous avalez difficilement votre salive. Car il faut bien l’avouer, personne dans votre famille n’a jamais vraiment compris votre métier.
+
+![](/images/flowchart-mamie-ux.jpg)
 
 Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! Comment commencer ?
 
