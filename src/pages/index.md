@@ -69,7 +69,7 @@ sections:
     actions: []
 - template: iconsblock
   component: IconsBlock
-  bg: gray
+  bg: white
   type: iconsblock
   iconblocks:
   - title: UX Designer
