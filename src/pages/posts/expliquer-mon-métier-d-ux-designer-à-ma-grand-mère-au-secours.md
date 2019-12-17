@@ -3,10 +3,10 @@ template: post
 hashtags: []
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
-date: 2019-12-15T23:00:00Z
+date: 2019-12-15T23:00:00.000+00:00
 thumb_img_path: ''
 content_img_path: ''
-excerpt: Pour être prêt pour le repas de famille !
+excerpt: Soyez prêt pour le repas de famille !
 author: src/data/authors/marinew.json
 
 ---
@@ -22,7 +22,7 @@ Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! C
 
 Allez, on va vous aider à vous sortir de là (ou pas !) :
 
-![](/images/flowchart-mamie-ux (1).jpg)
+![](/images/flowchart-mamie-ux (1)-1.jpg)
 
 Chers amis UX Designer, pour ne pas complexifier notre illustration, nous avons pris l'exemple d'un UX Designer travaillant sur un site web. Bien sûr, une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voire même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
 
