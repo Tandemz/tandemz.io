@@ -22,7 +22,7 @@ Tout le monde est très intrigué, suspendu à vos lèvres. Quel casse-tête ! C
 
 Allez, on va (ou pas !) vous aider à vous sortir de là.
 
-![](/images/Comment expliquer votre métier d'UX Designer à votre mamie.png)
+![](/images/flowchart-mamie-ux.png)
 
 Chers amis UX Designer, pour ne pas complexifier notre illustration, nous avons pris l'exemple d'un UX Designer travaillant sur un site web. Bien sûr, une grande partie d’entre vous travaille certainement sur autre chose : logiciel, application mobile, voire même services ou produits physiques. Nous vous invitons à adapter la phrase de conclusion pour votre propre domaine si le cœur vous en dit !
 
