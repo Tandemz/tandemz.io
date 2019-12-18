@@ -71,15 +71,15 @@ sections:
   - title: UX Designer
     content: Ne perdez plus de temps à organiser vos tests. Profitez-en pour en faire
       plus et itérer rapidement sur votre produit !
-    icon: "/images/Designer.svg"
+    icon: ''
   - title: UX Researcher
     content: Recrutez vos participants en autonomie. Passez à la vitesse supérieure
       avec toute votre équipe !
-    icon: "/images/Researcher.svg"
+    icon: ''
   - title: Responsable produit
     content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
       assuré de répondre aux besoins de vos clients.
-    icon: "/images/Manager.svg"
+    icon: ''
   title: A qui s’adresse Tandemz ?
   section_id: roles
   subtitle: ''
