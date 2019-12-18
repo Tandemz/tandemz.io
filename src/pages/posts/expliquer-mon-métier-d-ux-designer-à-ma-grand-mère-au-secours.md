@@ -9,7 +9,7 @@ thumb_img_path: "/images/snowmen.png"
 content_img_path: ''
 excerpt: Soyez prêt pour le repas de famille !
 author: src/data/authors/marinew.json
-social_image: "/images/flowchart-mamie-ux-court.png"
+social_image: "/images/flowchart-mamie-ux-media.png"
 
 ---
 Noël approche à grand pas ! D’ici une semaine à peine, vous allez enfin profiter de ses petites joies : le sapin et ses cadeaux, les repas gargantuesques, le feu dans la cheminée, les papillotes et chocolats…
