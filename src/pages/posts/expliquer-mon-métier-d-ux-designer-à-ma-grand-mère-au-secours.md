@@ -3,11 +3,12 @@ template: post
 hashtags: []
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
-date: 2019-12-15T23:00:00Z
+date: 2019-12-15T23:00:00.000+00:00
 thumb_img_path: "/images/snowmen.png"
 content_img_path: ''
 excerpt: Soyez prêt pour le repas de famille !
 author: src/data/authors/marinew.json
+social_image: "/images/snowmen.png"
 
 ---
 Noël approche à grand pas ! D’ici une semaine à peine, vous allez enfin profiter de ses petites joies : le sapin et ses cadeaux, les repas gargantuesques, le feu dans la cheminée, les papillotes et chocolats…
