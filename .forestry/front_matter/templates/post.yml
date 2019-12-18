@@ -58,4 +58,5 @@ fields:
   default: []
   label: hashtags
 pages:
+- src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
