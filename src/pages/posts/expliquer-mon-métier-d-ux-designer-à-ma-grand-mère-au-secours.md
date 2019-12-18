@@ -4,8 +4,8 @@ hashtags: []
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
 date: 2019-12-15T23:00:00Z
-thumb_img_path: "/images/jeffrey-wegrzyn-WjqEDAsn_nI-unsplash.jpg"
-content_img_path: "/images/jeffrey-wegrzyn-WjqEDAsn_nI-unsplash.jpg"
+thumb_img_path: "/images/jeffrey-wegrzyn-WjqEDAsn_nI-unsplash-ConvertImage-min.jpg"
+content_img_path: ''
 excerpt: Soyez prêt pour le repas de famille !
 author: src/data/authors/marinew.json
 
