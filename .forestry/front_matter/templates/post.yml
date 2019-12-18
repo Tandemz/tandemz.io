@@ -48,6 +48,11 @@ fields:
       file: src/data/authorss.json
       path: 
   label: Auteur
+- name: social_image
+  type: file
+  config:
+    maxSize: 250
+  label: social image (ratio 2:1)
 - name: hashtags
   type: tag_list
   default: []
