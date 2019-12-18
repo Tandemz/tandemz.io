@@ -35,9 +35,9 @@ export default class IconsBlock extends React.Component {
                           alt="Icon"
                         />
                       )}
-                      <h5 className="iconblock-title">
+                      <h3 className="iconblock-title">
                         {_.get(block, 'title')}
-                      </h5>
+                      </h3>
                       <p>{htmlToReact(_.get(block, 'content'))}</p>
                     </div>
                   </div>
