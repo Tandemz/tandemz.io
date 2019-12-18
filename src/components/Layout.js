@@ -146,6 +146,7 @@ export default class Body extends React.Component {
             )}
           />
           <meta
+            name="image"
             property="og:image"
             content="https://www.tandemz.io/images/Logo@200.png"
           />
