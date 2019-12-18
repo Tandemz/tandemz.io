@@ -7,7 +7,9 @@ subtitle: ''
 date: 2019-12-17T23:00:00Z
 thumb_img_path: "/images/snowmen.png"
 content_img_path: ''
-excerpt: Soyez prêt pour le repas de famille !
+excerpt: Expliquer son métier à sa famille peut se révéler compliqué, surtout lorsqu'on
+  est UX Designer. Ne vous faites plus de soucis. Cette année, ayez toutes les cartes
+  en main pour affronter cette bataille !
 author: src/data/authors/marinew.json
 social_image: "/images/flowchart-mamie-ux-media.png"
 
