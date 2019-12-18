@@ -6,9 +6,8 @@ sections:
   className: overlap-padding
   title: Tandemz, le catalyseur de vos tests utilisateurs
   component: HeroBlock
-  content: Qui a dit que l'organisation de vos études qualitatives devait être compliquée
-    ? Grâce à Tandemz, lancez vos interviews UX et vos tests utilisateurs sans prise
-    de tête.
+  content: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil. Concentrez-vous
+    enfin sur votre recherche utilisateur.
   image: ''
   actions:
   - label: Ça m'intéresse
@@ -64,21 +63,41 @@ sections:
       * Messagerie intégrée pour des échanges centralisés
     image: "/images/Illustration - Communication.svg"
     actions: []
+- template: iconsblock
+  component: IconsBlock
+  bg: white
+  type: iconsblock
+  iconblocks:
+  - title: UX Designer
+    content: Ne perdez plus de temps à organiser vos tests. Profitez-en pour en faire
+      plus et itérer rapidement sur votre produit !
+    icon: "/images/Designer.svg"
+  - title: UX Researcher
+    content: Recrutez vos participants en autonomie. Passez à la vitesse supérieure
+      avec toute votre équipe !
+    icon: "/images/Researcher.svg"
+  - title: Responsable produit
+    content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
+      assuré de répondre aux besoins de vos clients.
+    icon: "/images/Manager.svg"
+  title: A qui s’adresse Tandemz ?
+  section_id: roles
+  subtitle: ''
 - template: pricingblock
   component: PricingBlock
   bg: gray
   type: pricingblock
   section_id: ''
   title: Tarif
-  subtitle: 'En quelques minutes, lancez votre étude UX qualitative sur Tandemz en
-    toute autonomie. Concentrez-vous enfin sur votre recherche utilisateur. '
+  subtitle: En quelques minutes, lancez vos interviews et tests sur Tandemz en toute
+    autonomie. Faites de la recherche utilisateur un réflexe !
   pricingplans:
   - title: Recherche de participants
     price: 60€ / participant
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: false
     actions:
-    - label: Recruter des participants
+    - label: Ça m'intéresse
       url: "/contact"
   - title: Gestion de votre panel privé
     price: A partir de 150€ / mois

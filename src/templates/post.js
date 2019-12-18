@@ -1,9 +1,10 @@
 import React from 'react';
 import _ from 'lodash';
+import moment from 'moment';
 import { Helmet } from 'react-helmet';
 
 import components, { Layout } from '../components/index';
-import { safePrefix } from '../utils';
+import { safePrefix, loadDataRef } from '../utils';
 
 const SectionList = ({ sections, ...props }) => {
   return (
@@ -38,8 +39,14 @@ export default class Post extends React.Component {
       _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
       safePrefix(
         _.get(this.props, 'pageContext.frontmatter.social_image') ||
+          _.get(this.props, 'pageContext.frontmatter.thumb_img_path') ||
           _.get(this.props, 'pageContext.frontmatter.content_img_path'),
       );
+
+    const author = loadDataRef(
+      this.props.pageContext,
+      _.get(this.props, 'pageContext.frontmatter.author'),
+    );
 
     const { before, header, content, after, footer } = template;
 
@@ -72,7 +79,22 @@ export default class Post extends React.Component {
             property="og:description"
             content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
           />
-          <meta property="og:image" content={image} />
+          <meta name="image" property="og:image" content={image} />
+          <meta name="author" content={author.name} />
+          <meta
+            name="article-published_time"
+            property="article:published_time"
+            content={moment(
+              _.get(this.props, 'pageContext.frontmatter.date'),
+            ).format()}
+          />
+          <meta
+            name="publish_date"
+            property="og:publish_date"
+            content={moment(
+              _.get(this.props, 'pageContext.frontmatter.date'),
+            ).format()}
+          />
         </Helmet>
 
         <div className="outer bg-white">
