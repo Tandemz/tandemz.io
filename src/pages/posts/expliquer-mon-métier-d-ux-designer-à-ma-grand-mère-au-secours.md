@@ -7,9 +7,8 @@ subtitle: ''
 date: 2019-12-15T23:00:00.000+00:00
 thumb_img_path: "/images/snowmen.png"
 content_img_path: ''
-excerpt: Expliquer son métier à sa famille peut se révéler compliqué, surtout lorsqu'on
-  est UX Designer. Ne vous faites plus de soucis. Cette année, ayez toutes les cartes
-  en main pour affronter cette bataille !
+excerpt: Expliquer son métier d'UX Designer à sa famille peut se révéler compliqué.
+  Cette année, ayez toutes les cartes en main pour affronter cette bataille !
 author: src/data/authors/marinew.json
 social_image: "/images/flowchart-mamie-ux-media.png"
 
