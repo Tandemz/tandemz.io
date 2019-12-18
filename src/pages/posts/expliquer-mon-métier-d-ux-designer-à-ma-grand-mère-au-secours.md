@@ -1,7 +1,7 @@
 ---
 template: post
 hashtags:
-- "#uxdesign"
+- uxdesign
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
 date: 2019-12-15T23:00:00.000+00:00
