@@ -1,19 +1,21 @@
 ---
 template: post
 hashtags:
-  - uxdesign
+- uxdesign
+- ux
+- designerlife
+- noël
 title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 subtitle: ''
 date: 2019-12-15T23:00:00.000+00:00
-thumb_img_path: '/images/snowmen.png'
+thumb_img_path: "/images/snowmen.png"
 content_img_path: ''
-excerpt:
-  Expliquer son métier d'UX Designer à sa famille peut se révéler compliqué.
+excerpt: Expliquer son métier d'UX Designer à sa famille peut se révéler compliqué.
   Cette année, ayez toutes les cartes en main pour affronter cette bataille !
 author: src/data/authors/marinew.json
-social_image: '/images/flowchart-mamie-ux-media.png'
----
+social_image: "/images/flowchart-mamie-ux-media.png"
 
+---
 Noël approche à grand pas ! D’ici une semaine à peine, vous allez enfin profiter de ses petites joies : le sapin et ses cadeaux, les repas gargantuesques, le feu dans la cheminée, les papillotes et chocolats…
 
 Mais Noël, c’est aussi ces longs repas de famille, ces même conversations qui reviennent inlassablement chaque année. Et vous savez déjà que Mamie, comme tous les ans, posera cette fameuse question fatidique, entre le chapon et la bûche. Question innocente mais qui vous fera trembler.
