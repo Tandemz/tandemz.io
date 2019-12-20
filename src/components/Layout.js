@@ -78,6 +78,11 @@ const websiteSchema = {
 };
 
 export default class Body extends React.Component {
+  componentDidMount() {
+    Weglot.initialize({
+      api_key: 'wg_67fd86c77ab6a28f974dd9686efe3ade5',
+    });
+  }
   render() {
     return (
       <React.Fragment>
@@ -113,24 +118,6 @@ export default class Body extends React.Component {
             href="https://www.tandemz.io/"
             hreflang="x-default"
           />
-          <link
-            rel="icon"
-            href={safePrefix(
-              _.get(this.props, 'pageContext.site.siteMetadata.favicon'),
-            )}
-            type="image/x-icon"
-          />
-          <style>
-            @import
-            url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i&display=swap');
-          </style>
-
-          <script className="structured-data-list" type="application/ld+json">
-            {JSON.stringify(websiteSchema)}
-          </script>
-          <script className="structured-data-list" type="application/ld+json">
-            {JSON.stringify(orgaSchema)}
-          </script>
           <meta name="twitter:card" content="summary" />
           <meta name="twitter:site" content="@TandemzUX" />
           <meta name="twitter:creator" content="@TandemzUX" />
@@ -150,6 +137,28 @@ export default class Body extends React.Component {
             property="og:image"
             content="https://www.tandemz.io/images/Logo@200.png"
           />
+          <link
+            rel="icon"
+            href={safePrefix(
+              _.get(this.props, 'pageContext.site.siteMetadata.favicon'),
+            )}
+            type="image/x-icon"
+          />
+          <style>
+            @import
+            url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i&display=swap');
+          </style>
+
+          <script className="structured-data-list" type="application/ld+json">
+            {JSON.stringify(websiteSchema)}
+          </script>
+          <script className="structured-data-list" type="application/ld+json">
+            {JSON.stringify(orgaSchema)}
+          </script>
+          <script
+            type="text/javascript"
+            src="https://cdn.weglot.com/weglot.min.js"
+          ></script>
         </Helmet>
         <div
           id="page"
