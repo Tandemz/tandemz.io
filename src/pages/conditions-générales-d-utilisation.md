@@ -49,4 +49,4 @@ Si vous estimez, après nous avoir contactés, que vos droits sur vos données n
 
 # Cookies
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") utilise des cookies. Ceux-ci sont collectées par le serveur dans le seul but d’établir des statistiques sur la manière dont le site est utilisé. Ces informations ne sont pas utilisée à d’autres fins que celle nommée précédemment sans autorisation de la part de l’utilisateur.
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") utilise des cookies. Ceux-ci sont collectés par le serveur dans le seul but d’établir des statistiques sur la manière dont le site est utilisé. Ces informations ne sont pas utilisées à d’autres fins que celle nommée précédemment sans autorisation de la part de l’utilisateur.
