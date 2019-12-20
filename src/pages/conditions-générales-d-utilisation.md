@@ -39,7 +39,7 @@ Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.i
 
 Les données personnelles amenées à être traitées par Tandemz vous concernant sont : Prénom, Nom, Entreprise, Email. La communication de ces données est entièrement volontaire.
 
-La finalité du traitement de des données correspond à l’identification des contacts et est strictement réservé à un usage interne à Tandemz. La base légale de ce traitement est le consentement.
+La finalité du traitement de ces données correspond à l’identification des contacts et est strictement réservé à un usage interne à Tandemz. La base légale de ce traitement est le consentement.
 
 Sont destinataires de ces données à caractères personnel les membres de la direction de Tandemz.
 
