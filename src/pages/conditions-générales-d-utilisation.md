@@ -41,7 +41,7 @@ Les données personnelles amenées à être traitées par Tandemz vous concernan
 
 La finalité du traitement de ces données correspond à l’identification des contacts et est strictement réservé à un usage interne à Tandemz. La base légale de ce traitement est le consentement.
 
-Sont destinataires de ces données à caractères personnel les membres de la direction de Tandemz.
+Sont destinataires de ces données à caractère personnel les membres de la direction de Tandemz.
 
 Pour toute question concernant la protection des données personnelles, vous pouvez écrire à [contact@tandemz.io](mailto:contact@tandemz.io). Notamment, tout utilisateur peut demander l’obtention, la modification ou la suppression définitive de ses données personnelles dans notre système.
 
