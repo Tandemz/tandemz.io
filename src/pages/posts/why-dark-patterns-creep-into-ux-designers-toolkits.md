@@ -22,7 +22,6 @@ Typeform’s page creates confusion as the user immediately sees two plans price
 
 _“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. Evil design is the work of regular designers like you and me, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. Evil design is the work of regular designers like you and me, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
 
-  
 This is why, in this article, I will be highlighting the mindsets that make us use Dark Patterns, and giving a couple of tips as to how to avoid them.
 
 ![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")
