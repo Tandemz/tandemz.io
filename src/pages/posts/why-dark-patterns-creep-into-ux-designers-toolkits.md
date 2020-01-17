@@ -42,6 +42,8 @@ This is what can happen when that mindset is brought to an extreme : a fake hair
 
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
+ 
+
 ### **Reason #2 : “All my friends are doing it”**
 
 _Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a Dark Pattern gets so used that it becomes common practice.
