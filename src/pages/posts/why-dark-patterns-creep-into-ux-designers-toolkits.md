@@ -102,10 +102,11 @@ The best UX is mutually beneficial, so aim for that.
 
 There are two underlying questions that can help answer this one:
 
-* Did I remove choice from users ?  
-  Things like an option to decline an offer, a means to leave a page, a way to come back to it.
-* If yes, did I do it because it was convenient for me, or because it was inconvenient to the user?  
-  Or in other words, are you forcing users or are you providing guidance? Reducing cognitive load is fine. Reducing user agency isn’t.
+**Did I remove choice from users ?**  
+Things like an option to decline an offer, a means to leave a page, a way to come back to it.
+
+**If yes, did I do it because it was convenient for me, or because it was inconvenient to the user?**  
+Or in other words, are you forcing users or are you providing guidance? Reducing cognitive load is fine. Reducing user agency isn’t.
 
 #### **Question #4 - What emotions am I creating?**
 
