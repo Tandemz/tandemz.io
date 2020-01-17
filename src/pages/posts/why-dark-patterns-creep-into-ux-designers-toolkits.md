@@ -30,7 +30,7 @@ _Depicted above : evil witches, not evil designers._
 
 ## **Why it’s so easy to be bad**
 
-### **Reason #1 : “Numbers, I want numbers”**
+#### **Reason #1 : “Numbers, I want numbers”**
 
 ![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif)
 
@@ -44,7 +44,7 @@ This is what can happen when that mindset is brought to an extreme : a fake hair
 
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
-### **Reason #2 : “All my friends are doing it”**
+#### **Reason #2 : “All my friends are doing it”**
 
 ![](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif)
 
@@ -68,7 +68,7 @@ We’ve all seen our share of confusing opt-ins...
 
 The ubiquity of these patterns comes from digital product teams’ habit of copying other products’ features and behaviours without questioning them. After all, if everyone is doing it…
 
-### **Reason #3 : “Trust me, I know what my users need”**
+#### **Reason #3 : “Trust me, I know what my users need”**
 
 ![](https://media.giphy.com/media/l41m1a8cuTkchgHfy/giphy.gif)
 
@@ -84,15 +84,15 @@ So as you see, turning to the dark side is an insidious thing. It happens withou
 
 ## **How to stay clean**
 
-To avoid turning to the dark side - even unknowingly - learning to recognise dark patterns is a start, but it's not enough. Designers should adopt a mindset that will never lead them to Dark patterns in the first place. Here are 4 questions that will help you make sure that you steer clear from evil doing.
+To avoid turning to the dark side - even unknowingly - learning to recognise dark patterns is a start, but it's not enough. Designers should adopt a mindset that will never lead them to dark patterns in the first place. Here are 4 questions that will help you make sure that you steer clear from evil doing.
 
-### **Question #1 - Why am I doing this?**
+#### **Question #1 - Why am I doing this?**
 
 Whatever it is we are designing, from the simplest button to the product’s whole user journey, this is the most vital question that should never leave our minds. Why? Why am I working on this? Who am I doing it for? What is the need we’re addressing? If you are drawing inspiration from other products, do the same: ask yourself why they chose this solution, who they did it for.
 
 If you don’t know which users and what needs you are tackling - a real need, not an excuse of a need like “all our users need to know there is a new promotion on our phones”- then tread carefully, for you might just be working against your users’ interest without even knowing it.
 
-### **Question #2 - Who benefits the most from this solution?**
+#### **Question #2 - Who benefits the most from this solution?**
 
 Is it the users or the business? Hint: if it’s one sided, there is probably a problem.
 
@@ -102,7 +102,7 @@ If only the business benefits, then there is a chance your user are getting ripp
 
 The best UX is mutually beneficial, so aim for that.
 
-### **Question #3 - Are my users masters of their experience?**
+#### **Question #3 - Are my users masters of their experience?**
 
 There are two underlying questions that can help answer this one:
 
@@ -112,7 +112,7 @@ Things like an option to decline an offer, a means to leave a page, a way to com
 **If yes, did I do it because it was convenient for me, or because it was inconvenient to the user?**  
 Or in other words, are you forcing users or are you providing guidance? Reducing cognitive load is fine. Reducing user agency isn’t.
 
-### **Question #4 - What emotions am I creating?**
+#### **Question #4 - What emotions am I creating?**
 
 Negative emotions are the product of bad UX design: anger, frustration, stress, even guilt. Make sure you don’t introduce any by asking yourself: how would I feel if I encountered this feature or behaviour?
 
