@@ -80,11 +80,11 @@ For instance, in 2016 Microsoft tricked their users into updating their Windows 
 
 And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a Dark Pattern in their page.
 
-Turning to the Dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
+So as you see, turning to the Dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
 
 ### **How to stay clean**
 
-To avoid turning to the Dark Side - even unknowingly - designers should always answer these 4 questions when they are working on something.
+To avoid turning to the Dark Side - even unknowingly - learning to recognise Dark Patterns is a start, but it's not enough. Designers should adopt a mindset that will never lead them to Dark Patterns in the first place. Here are 4 questions that will help you make sure that you steer clear from evil doing.
 
 #### **Question #1 - Why am I doing this?**
 
