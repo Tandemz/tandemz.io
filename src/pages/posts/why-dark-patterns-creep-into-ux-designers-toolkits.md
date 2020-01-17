@@ -32,7 +32,7 @@ _Depicted above : evil witches, not evil designers._
 
 #### **Reason #1 : “Numbers, I want numbers”**
 
-![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif)
+![Numbers](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif "Numbers")
 
 We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually measure conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
@@ -40,13 +40,13 @@ So when a new feature is shipped, and it is directly improving these KPIs, it be
 
 This is what can happen when that mindset is brought to an extreme : a fake hair is added to the image, so that users might tap or swap on it as they try to remove it.
 
-![](/images/HairyAd.jpeg)
+![HairdyAd](/images/HairyAd.jpeg "HairdyAd")
 
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
 #### **Reason #2 : “All my friends are doing it”**
 
-![](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif)
+![Cliff](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif "Cliff")
 
 _Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a dark pattern gets so used that it becomes common practice.
 
@@ -70,13 +70,13 @@ The ubiquity of these patterns comes from digital product teams’ habit of copy
 
 #### **Reason #3 : “Trust me, I know what my users need”**
 
-![](https://media.giphy.com/media/l41m1a8cuTkchgHfy/giphy.gif)
+![TrustMe](https://media.giphy.com/media/l41m1a8cuTkchgHfy/giphy.gif "TrustMe")
 
 As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value. We constantly have to analyse them in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
 For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch "Bait&Switch") dark pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
-![](/images/Screenshot 2020-01-17 at 15.22.15.png)
+![Win10UpdatePopup](/images/Screenshot 2020-01-17 at 15.22.15.png "Win10UpdatePopup")
 
 And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a dark pattern in their page.
 
@@ -119,5 +119,3 @@ Negative emotions are the product of bad UX design: anger, frustration, stress, 
 Since data is king, keep track of user satisfaction by going through user reviews and sending out surveys. Make it a KPI that you monitor alongside other metrics: show your organisation that you should care about more than just conversion rates.
 
 But most importantly: **talk to your users**. Get out of the building, have interviews and usability testing. Meeting people face to face is the best way to build empathy, to understand exactly what makes them unhappy and why.
-
-![](https://media.giphy.com/media/eiMTD4swX5u83WBwbC/giphy.gif)
