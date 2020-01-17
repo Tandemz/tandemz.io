@@ -14,7 +14,7 @@ social_image: "/images/cover.png"
 ---
 In 2019 I spoke about dark patterns and how to recognize them at a Meetup in Paris. Dark patterns are tricks used in websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
 
-In my talk, I use Typeform’s pricing page as an example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention "PricePrevention") This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
+As I was researching the subject, I came across Typeform’s pricing page, a good example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention "PricePrevention") This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
 
 ![Typeform Pricing](/images/Screenshot 2020-01-17 at 15.14.19.png "Typeform Pricing")
 
@@ -62,7 +62,7 @@ We’ve all seen our share of confusing opt-ins...
 
 ![ButtonsSwapped](/images/Screenshot 2020-01-17 at 15.20.08.png "ButtonsSwapped")
 
-… and invisible unsuscribes
+… and invisible unsubscribes.
 
 ![FindTheUnsuscribe](/images/Screenshot 2020-01-17 at 15.20.42.png "FindTheUnsuscribe")
 
@@ -80,7 +80,7 @@ For instance, in 2016 Microsoft tricked their users into updating their Windows 
 
 And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a dark pattern in their page.
 
-So as you see, turning to the dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
+So as you see, turning to the dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience.
 
 ## **How to stay clean**
 
@@ -92,13 +92,13 @@ Whatever it is we are designing, from the simplest button to the product’s who
 
 If you don’t know which users and what needs you are tackling - a real need, not an excuse of a need like “all our users need to know there is a new promotion on our phones”- then tread carefully, for you might just be working against your users’ interest without even knowing it.
 
-#### **Question #2 - Who benefits the most from this solution?**
+#### **Question #2 - Who benefits from this solution?**
 
 Is it the users or the business? Hint: if it’s one sided, there is probably a problem.
 
 If only the users benefit, then your company is probably losing money along the way - but don’t worry, there is no shortage of people defending the company’s interest.
 
-If only the business benefits, then there is a chance your user are getting ripped off - and it’s your job to prevent that from happening.
+If only the business benefits, then there is a chance your users are getting ripped off - and it’s your job to prevent that from happening.
 
 The best UX is mutually beneficial, so aim for that.
 
@@ -118,4 +118,4 @@ Negative emotions are the product of bad UX design: anger, frustration, stress, 
 
 Since data is king, keep track of user satisfaction by going through user reviews and sending out surveys. Make it a KPI that you monitor alongside other metrics: show your organisation that you should care about more than just conversion rates.
 
-But most importantly: **talk to you users**. Get out of the building, have interviews and usability testing. Meeting people face to face is the best way to build empathy, to understand exactly what makes them unhappy and why.
+But most importantly: **talk to your users**. Get out of the building, have interviews and usability testing. Meeting people face to face is the best way to build empathy, to understand exactly what makes them unhappy and why.
