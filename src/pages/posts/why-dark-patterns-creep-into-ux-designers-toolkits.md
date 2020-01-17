@@ -14,7 +14,7 @@ social_image: "/images/cover.png"
 ---
 In 2019 I spoke about Dark Patterns and how to recognize them at a Meetup in Paris. Dark Patterns are tricks used in websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
 
-In my talk, I use Typeform’s pricing page as an example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention) This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
+In my talk, I use Typeform’s pricing page as an example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention "PricePrevention") This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
 
 ![Typeform Pricing](/images/Screenshot 2020-01-17 at 15.14.19.png "Typeform Pricing")
 
@@ -70,7 +70,7 @@ The ubiquity of these patterns comes from digital product teams’ habit of copy
 
 As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
-For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch) Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
+For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch "Bait&Switch") Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
 ![](/images/Screenshot 2020-01-17 at 15.22.15.png)
 
