@@ -94,9 +94,7 @@ If only the business benefits, then there is a chance your user are getting ripp
 
 The best UX is mutually beneficial, so aim for that.
 
-#### 
-
-**Question #3 - Are my users masters of their experience?**
+#### **Question #3 - Are my users masters of their experience?**
 
 There are two underlying questions that can help answer this one:
 
@@ -105,9 +103,7 @@ There are two underlying questions that can help answer this one:
 * If yes, did I do it because it was convenient for me, or because it was inconvenient to the user?  
   Or in other words, are you forcing users or are you providing guidance? Reducing cognitive load is fine. Reducing user agency isn’t.
 
-#### 
-
-**Question #4 - What emotions am I creating?**
+#### **Question #4 - What emotions am I creating?**
 
 Negative emotions are the product of bad UX design: anger, frustration, stress, even guilt. Make sure you don’t introduce any by asking yourself: how would I feel if I encountered this feature or behaviour?
 
