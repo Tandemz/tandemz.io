@@ -25,7 +25,9 @@ _“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evi
   
 This is why, in this article, I will be highlighting the mindsets that make us use Dark Patterns, and giving a couple of tips as to how to avoid them.
 
-![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")_Depicted above : evil witches, not evil designers._
+![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")
+
+_Depicted above : evil witches, not evil designers._
 
 ## **Why it’s so easy to be bad**
 
@@ -47,7 +49,7 @@ _Don’t make me think_ is a must have on every designer’ bookshelf and for go
 
 We’ve all seen our share of confusing opt-ins...
 
-![Optin](/images/Screenshot 2020-01-17 at 15.18.07.png "Optin")
+![ButtonsSwapped](/images/Screenshot 2020-01-17 at 15.18.07.png "ButtonsSwapped")
 
 … tiresome opt-outs (especially since RGPD is in full swing) ...
 
@@ -65,7 +67,7 @@ The ubiquity of these patterns comes from digital product teams’ habit of copy
 
 ### **Reason #3 : “Trust me, I know what my users need”**
 
-As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
+As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
 For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch) Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
