@@ -72,7 +72,7 @@ The ubiquity of these patterns comes from digital product teams’ habit of copy
 
 ![](https://media.giphy.com/media/l41m1a8cuTkchgHfy/giphy.gif)
 
-As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
+As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value. We constantly have to analyse them in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
 For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch "Bait&Switch") Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
