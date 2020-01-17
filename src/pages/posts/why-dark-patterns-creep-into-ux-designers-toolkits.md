@@ -15,18 +15,20 @@ In 2019 I spoke about Dark Patterns and how to recognize them at a Meetup in Par
 
 In my talk, I use Typeform’s pricing page as an example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention) This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
 
-![TypeformPricing](https://lh4.googleusercontent.com/q6QtWfb0bqnQmRdH2iF1FOdd26N5moG2fTGjh9DIcGHoyVNHePXVzqdkmSTSZsaEG6xtjWtROpp0Tt7Nntzj8qAJgo9NFGHhs2h2IkYJkphpNLKLDVdRjWV8DHvxz1DppjNc7QI "TypeformPricing" =515x265)  
+![Typeform Pricing](/images/Screenshot 2020-01-17 at 15.14.19.png "Typeform Pricing")  
 Typeform’s page creates confusion as the user immediately sees two plans priced identically, and wonders “But, there **has** to be a difference! ”. With a bit of luck, they will see that the Essentials plan is priced monthly, while the Professional plan is priced yearly instead. I remember thinking that it was really sneaky - and also, that I could have been the one who designed that page.
 
 _“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. Evil design is the work of regular designers like you and me, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
 
 This is why, in this article, I will be highlighting the mindsets that make us use Dark Patterns, and giving a couple of tips as to how to avoid them.
 
-![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")_Depicted above : evil witches, not evil designers._
+![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")
 
-### **Why it’s so easy to be bad**
+_Depicted above : evil witches, not evil designers._
 
-#### **Reason #1 : “I want to see numbers”**
+## **Why it’s so easy to be bad**
+
+### **Reason #1 : “I want to see numbers”**
 
 We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually track conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
@@ -34,46 +36,45 @@ So when a new feature is shipped, and it is directly improving these KPIs, it be
 
 This is what can happen when that mindset is brought to an extreme : a fake hair is added to the image, so that users might tap or swap on it as they try to remove it.
 
-![HairyAdd](https://lh5.googleusercontent.com/2BzN-RgyUh1fcrB3BDa3xqDzaoVSDa7NKVBHTJAYGVHMXCxj4fZLvBrhIiQW-gntSXizSFU9G6JCyjmfBvcIEIGmWy0u-NahJOamuujYVG1bNQFpxSk1YCbrNBBoTpaEzGKo4vA "HairyAdd" =250x428)
+![](/images/HairyAd.jpeg)
 
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
-#### **Reason #2 : “All my friends are doing it”**
+### **Reason #2 : “All my friends are doing it”**
 
 _Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a Dark Pattern gets so used that it becomes common practice.
 
 We’ve all seen our share of confusing opt-ins...
 
-![](https://lh6.googleusercontent.com/xvVPSev0OdCNHmq11uMQlPEK9QERW3m1cWWJ7W9rtIGehU4l8GXrH4geNUvNEAGcnFbbMVkt2l4boOrmW6-5OLXsKtqnLTiNY0XAR4znWCjQ6ZgHpljCsZazQr1wxSzT1tu-u2o =162x88)
+![Optin](/images/Screenshot 2020-01-17 at 15.18.07.png "Optin")
 
 … tiresome opt-outs (especially since RGPD is in full swing) ...
 
-![](https://lh4.googleusercontent.com/1fvwnPoJOJQzktNCqYj0UIBIYMnZk95DnWG9JO2j-UDDHeRCbUJgci8J3lj3bz6CsHyQjh_NYCRV_LGLM9xFuy65FZrZrjbSLJiX89e94YogWY3ei8TOKiJ9fdDK_TZxLMlkDpI =397x292)
+![Optout](/images/Screenshot 2020-01-17 at 15.19.27.png "Optout")
 
 … reversed button priorities ...
 
-![](https://lh4.googleusercontent.com/OEVNpvlMrjFgQQrE9TSD6tK1acpghyCh-XfFYrYmmYnnd-eoJ-TLdgxvEWzEzK2gGTHzbAjMgvD67p9F3hlpE3hqXpDlHWUeTVfO4VB5A1xyWpR17NOeeZY5WMfsHi3f0P8tW3I =400x312)
+![ButtonsSwapped](/images/Screenshot 2020-01-17 at 15.20.08.png "ButtonsSwapped")
 
 … and invisible unsuscribes
 
-![](https://lh6.googleusercontent.com/WY7ZOFxwnSEpIOXqFuS_5AzMDRql9DrzlcX_CfFySIhVpkrLDwGhMKEBZoKGPEItjmnvlT81iKpmbbW7g3C3vKClfuoEtrwMIMjeJGflVXuwK6FsjzeQrWqwEcMlv8DNH4dPyh4 =602x193)
+![FindTheUnsuscribe](/images/Screenshot 2020-01-17 at 15.20.42.png "FindTheUnsuscribe")
 
 The ubiquity of these patterns comes from digital product teams’ habit of copying other products’ features and behaviours without questioning them. After all, if everyone is doing it…
 
-#### **Reason #3 : “Trust me, I know what my users need”**
+### **Reason #3 : “Trust me, I know what my users need”**
 
 As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value - things like ”I want a blue button” or “I’d like a search bar here”. We constantly have to analyse user feedback in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
 For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch) Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
-![](https://lh5.googleusercontent.com/2rDPlzRwxxaH4fcA72kUhpKcYwvW_jIIPEEtAfvmUqa1RtnDc94-_XvdE3UdC1aHin3A87t4O574-ZE7phKzu_EMex1i9brHYh9NyQjXJdzShPObagTk-GPjdaP_ZwqLB6MlNFA =602x392)
+![](/images/Screenshot 2020-01-17 at 15.22.15.png)
 
 And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a Dark Pattern in their page.
 
 Turning to the Dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
 
-###   
-**How to stay clean**
+### **How to stay clean**
 
 To avoid turning to the Dark Side - even unknowingly - designers should always answer these 4 questions when they are working on something.
 
@@ -81,7 +82,6 @@ To avoid turning to the Dark Side - even unknowingly - designers should always a
 
 Whatever it is we are designing, from the simplest button to the product’s whole user journey, this is the most vital question that should never leave our minds. Why? Why am I working on this? Who am I doing it for? What is the need we’re addressing? If you are drawing inspiration from other products, do the same: ask yourself why they chose this solution, who they did it for.
 
-  
 If you don’t know which users and what needs you are tackling - a real need, not an excuse of a need like “all our users need to know there is a new promotion on our phones”- then tread carefully, for you might just be working against your users’ interest without even knowing it.
 
 #### **Question #2 - Who benefits the most from this solution?**
@@ -94,7 +94,8 @@ If only the business benefits, then there is a chance your user are getting ripp
 
 The best UX is mutually beneficial, so aim for that.
 
-####   
+#### 
+
 **Question #3 - Are my users masters of their experience?**
 
 There are two underlying questions that can help answer this one:
@@ -104,7 +105,8 @@ There are two underlying questions that can help answer this one:
 * If yes, did I do it because it was convenient for me, or because it was inconvenient to the user?  
   Or in other words, are you forcing users or are you providing guidance? Reducing cognitive load is fine. Reducing user agency isn’t.
 
-####   
+#### 
+
 **Question #4 - What emotions am I creating?**
 
 Negative emotions are the product of bad UX design: anger, frustration, stress, even guilt. Make sure you don’t introduce any by asking yourself: how would I feel if I encountered this feature or behaviour?
