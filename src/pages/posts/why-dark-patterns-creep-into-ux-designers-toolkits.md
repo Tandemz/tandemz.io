@@ -12,7 +12,7 @@ author: src/data/authors/francew.json
 social_image: "/images/cover.png"
 
 ---
-In 2019 I spoke about Dark Patterns and how to recognize them at a Meetup in Paris. Dark Patterns are tricks used in websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
+In 2019 I spoke about dark patterns and how to recognize them at a Meetup in Paris. Dark patterns are tricks used in websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
 
 In my talk, I use Typeform’s pricing page as an example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention "PricePrevention") This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
 
@@ -22,7 +22,7 @@ Typeform’s page creates confusion as the user immediately sees two plans price
 
 _“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. **Evil design is the work of regular designers like you and me**, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
 
-This is why, in this article, I will be highlighting the mindsets that make us use Dark Patterns, and giving a couple of tips as to how to avoid them.
+This is why, in this article, I will be highlighting the mindsets that make us use dark patterns, and giving a couple of tips as to how to avoid them.
 
 ![CacklingWitches](https://media.giphy.com/media/2siCyPNKuSDJK4pk4X/giphy.gif "CacklingWitches")
 
@@ -48,7 +48,7 @@ I am sure that whoever came up with this idea got a big pat on the back for thei
 
 ![](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif)
 
-_Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a Dark Pattern gets so used that it becomes common practice.
+_Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a dark pattern gets so used that it becomes common practice.
 
 We’ve all seen our share of confusing opt-ins...
 
@@ -74,17 +74,17 @@ The ubiquity of these patterns comes from digital product teams’ habit of copy
 
 As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value. We constantly have to analyse them in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
-For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch "Bait&Switch") Dark Pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
+For instance, in 2016 Microsoft tricked their users into updating their Windows version to Windows 10. On their update pop up window, they changed the behaviour of the X button from “Close and reject the update” to “Yes, please update” - a textbook example of the [bait and switch](https://www.darkpatterns.org/types-of-dark-pattern/bait-and-switch "Bait&Switch") dark pattern. When confronted, Microsoft stated: “With the free Windows 10 upgrade offer ending on 29 July, we want to help people upgrade to the best version of Windows.” Microsoft had decided that their users would be happy to have a free and better Windows, and wouldn’t mind not having a say in this.
 
 ![](/images/Screenshot 2020-01-17 at 15.22.15.png)
 
-And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a Dark Pattern in their page.
+And if we go back to my first example of Typeform’s pricing page, I can totally imagine the designers saying “ Our users want to save money. It would be too bad if they didn’t know that the Pro plan can be the same price as the Essentials plan”, and as a result introducing a dark pattern in their page.
 
-So as you see, turning to the Dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
+So as you see, turning to the dark side is an insidious thing. It happens without us noticing it, slowly led there by our habits, our industry standards, and overconfidence. We end up losing sight of what truly makes for a good experience
 
 ### **How to stay clean**
 
-To avoid turning to the Dark Side - even unknowingly - learning to recognise Dark Patterns is a start, but it's not enough. Designers should adopt a mindset that will never lead them to Dark Patterns in the first place. Here are 4 questions that will help you make sure that you steer clear from evil doing.
+To avoid turning to the dark side - even unknowingly - learning to recognise dark patterns is a start, but it's not enough. Designers should adopt a mindset that will never lead them to Dark patterns in the first place. Here are 4 questions that will help you make sure that you steer clear from evil doing.
 
 #### **Question #1 - Why am I doing this?**
 
