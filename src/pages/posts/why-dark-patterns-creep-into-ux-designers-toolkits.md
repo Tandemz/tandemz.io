@@ -34,7 +34,7 @@ _Depicted above : evil witches, not evil designers._
 
 ![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif)
 
-We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually track conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
+We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually measure conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
 So when a new feature is shipped, and it is directly improving these KPIs, it becomes easy to overlook the methods used to get there. Others will most likely only see the results, and say “Good job!”. Isn’t it then so tempting to stop there and believe that it was, indeed, a good job?
 
