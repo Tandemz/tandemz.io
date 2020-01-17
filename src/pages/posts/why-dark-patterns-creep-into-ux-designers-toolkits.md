@@ -1,8 +1,9 @@
 ---
 template: post
 hashtags: []
-title: 'Why dark patterns creep into UX designers’ toolkits '
-subtitle: And how to steer clear of them
+title: Why dark patterns creep into UX designers’ toolkits - and how to steer clear
+  of them
+subtitle: ''
 date: 2020-01-19T23:00:00Z
 thumb_img_path: "/images/cover.png"
 content_img_path: "/images/cover.png"
