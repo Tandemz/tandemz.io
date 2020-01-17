@@ -32,7 +32,7 @@ _Depicted above : evil witches, not evil designers._
 
 ### **Reason #1 : “Numbers, I want numbers”**
 
-![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/200w_d.gif)![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/200w_d.gif)
+![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif)
 
 We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually track conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
@@ -44,9 +44,9 @@ This is what can happen when that mindset is brought to an extreme : a fake hair
 
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
- 
-
 ### **Reason #2 : “All my friends are doing it”**
+
+![](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif)
 
 _Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a Dark Pattern gets so used that it becomes common practice.
 
