@@ -20,7 +20,7 @@ In my talk, I use Typeform’s pricing page as an example of the [Price Preventi
 
 Typeform’s page creates confusion as the user immediately sees two plans priced identically, and wonders “But, there **has** to be a difference! ”. With a bit of luck, they will see that the Essentials plan is priced monthly, while the Professional plan is priced yearly instead. I remember thinking that it was really sneaky - and also, that I could have been the one who designed that page.
 
-_“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. Evil design is the work of regular designers like you and me, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. Evil design is the work of regular designers like you and me, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
+_“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. **Evil design is the work of regular designers like you and me**, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
 
 This is why, in this article, I will be highlighting the mindsets that make us use Dark Patterns, and giving a couple of tips as to how to avoid them.
 
