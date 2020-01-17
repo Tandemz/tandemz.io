@@ -119,3 +119,5 @@ Negative emotions are the product of bad UX design: anger, frustration, stress, 
 Since data is king, keep track of user satisfaction by going through user reviews and sending out surveys. Make it a KPI that you monitor alongside other metrics: show your organisation that you should care about more than just conversion rates.
 
 But most importantly: **talk to your users**. Get out of the building, have interviews and usability testing. Meeting people face to face is the best way to build empathy, to understand exactly what makes them unhappy and why.
+
+![](https://media.giphy.com/media/eiMTD4swX5u83WBwbC/giphy.gif)
