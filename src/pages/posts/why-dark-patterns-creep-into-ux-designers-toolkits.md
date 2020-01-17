@@ -30,7 +30,9 @@ _Depicted above : evil witches, not evil designers._
 
 ## **Why it’s so easy to be bad**
 
-### **Reason #1 : “I want to see numbers”**
+### **Reason #1 : “Numbers, I want numbers”**
+
+![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/200w_d.gif)![](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/200w_d.gif)
 
 We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually track conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
