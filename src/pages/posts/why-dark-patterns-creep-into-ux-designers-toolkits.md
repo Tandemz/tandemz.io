@@ -122,9 +122,12 @@ But most importantly: **talk to your users**. Get out of the building, have inte
 
 ## **Some resources about dark patterns**
 
-* the original website created by Harry Brignull, who coined the term: [https://www.darkpatterns.org](https://www.darkpatterns.org/ "https://www.darkpatterns.org/")
-* an article that gives examples of each dark pattern: [https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/](https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/ "https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/")
-* other examples of dark patterns: [https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c](https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c "https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c")
-* a video on dark patterns by the Nerdwriter, very good intro, plus, that voice ;) [https://youtu.be/kxkrdLI6e6M](https://youtu.be/kxkrdLI6e6M "https://youtu.be/kxkrdLI6e6M")
-* a nuanced article that explains well why not all manipulation is bad (hint: it's again about good UX being mutually beneficial): [https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db](https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db "https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db")
-* a view of dark patterns outside of product design, and its ties  to politics, fake news etc: [https://www.fastcompany.com/3066586/the-year-dark-patterns-won](https://www.fastcompany.com/3066586/the-year-dark-patterns-won "https://www.fastcompany.com/3066586/the-year-dark-patterns-won")
+* The original website created by Harry Brignull, who coined the term:  
+  [https://www.darkpatterns.org](https://www.darkpatterns.org/ "https://www.darkpatterns.org/")
+* An article that gives examples of each dark pattern: [https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/](https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/ "https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/")
+* Other examples of dark patterns:  
+  [https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c](https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c "https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c")
+* A video on dark patterns by the Nerdwriter, very good intro, plus, that voice ;)  
+  [https://youtu.be/kxkrdLI6e6M](https://youtu.be/kxkrdLI6e6M "https://youtu.be/kxkrdLI6e6M")
+* A nuanced article that explains well why not all manipulation is bad (hint: it's again about good UX being mutually beneficial): [https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db](https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db "https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db")
+* A view of dark patterns outside of product design, and its ties  to politics, fake news etc: [https://www.fastcompany.com/3066586/the-year-dark-patterns-won](https://www.fastcompany.com/3066586/the-year-dark-patterns-won "https://www.fastcompany.com/3066586/the-year-dark-patterns-won")
