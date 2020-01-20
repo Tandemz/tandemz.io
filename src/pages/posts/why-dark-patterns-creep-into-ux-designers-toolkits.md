@@ -4,10 +4,11 @@ hashtags: []
 title: Why dark patterns creep into UX designers’ toolkits - and how to steer clear
   of them
 subtitle: ''
-date: 2020-01-19T23:00:00Z
+date: 2020-01-20T13:00:00Z
 thumb_img_path: "/images/cover.png"
 content_img_path: "/images/cover.png"
-excerpt: 'Is evil design the work of '
+excerpt: Are secretely evil designers ruining our user experience with their evil
+  design? Or is the truth more nuanced than that?
 author: src/data/authors/francew.json
 social_image: "/images/cover.png"
 
