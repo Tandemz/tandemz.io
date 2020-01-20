@@ -12,7 +12,7 @@ author: src/data/authors/francew.json
 social_image: "/images/cover.png"
 
 ---
-In 2019 I spoke about dark patterns and how to recognize them at a Meetup in Paris. Dark patterns are tricks used in websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
+In 2019 I spoke about dark patterns and how to recognize them at a Meetup in Paris. Dark patterns are tricks used by websites and apps that make users do things that they didn't mean to, like buying or signing up for something.
 
 As I was researching the subject, I came across Typeform’s pricing page, a good example of the [Price Prevention Comparison pattern.](https://www.darkpatterns.org/types-of-dark-pattern/price-comparison-prevention "PricePrevention") This pattern makes it hard for users to compare prices, products or services, thus preventing them from making informed decisions.
 
@@ -20,7 +20,7 @@ As I was researching the subject, I came across Typeform’s pricing page, a goo
 
 Typeform’s page creates confusion as the user immediately sees two plans priced identically, and wonders “But, there **has** to be a difference! ”. With a bit of luck, they will see that the Essentials plan is priced monthly, while the Professional plan is priced yearly instead. I remember thinking that it was really sneaky - and also, that I could have been the one who designed that page.
 
-_“Wait, aren’t I better than that?”_ I mused. But that’s the thing : evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. **Evil design is the work of regular designers like you and me**, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
+_“Wait, aren’t I better than that?”_ I mused. But that’s the thing: evil design is not the work of evil designers, who cackle as they draw plans to ruin their users’ lives. **Evil design is the work of regular designers like you and I**, who make what they believe is the right decision, aligned with their products’ current goals. After all, isn’t the road to hell paved with good intentions?
 
 This is why, in this article, I will be highlighting the mindsets that make us use dark patterns, and giving a couple of tips as to how to avoid them.
 
@@ -54,7 +54,7 @@ We’ve all seen our share of confusing opt-ins...
 
 ![ButtonsSwapped](/images/Screenshot 2020-01-17 at 15.18.07.png "ButtonsSwapped")
 
-… tiresome opt-outs (especially since RGPD is in full swing) ...
+… tiresome opt-outs (especially since GDPR is in full swing) ...
 
 ![Optout](/images/Screenshot 2020-01-17 at 15.19.27.png "Optout")
 
@@ -88,7 +88,7 @@ To avoid turning to the dark side - even unknowingly - learning to recognise dar
 
 #### **Question #1 - Why am I doing this?**
 
-Whatever it is we are designing, from the simplest button to the product’s whole user journey, this is the most vital question that should never leave our minds. Why? Why am I working on this? Who am I doing it for? What is the need we’re addressing? If you are drawing inspiration from other products, do the same: ask yourself why they chose this solution, who they did it for.
+Whatever it is we are designing, from the simplest button to the products’ entire user journey, this is the most vital question that should never leave our minds. Why? Why am I working on this? Who am I doing it for? What is the need we’re addressing? If you are drawing inspiration from other products, do the same: ask yourself why they chose this solution, who they did it for.
 
 If you don’t know which users and what needs you are tackling - a real need, not an excuse of a need like “all our users need to know there is a new promotion on our phones”- then tread carefully, for you might just be working against your users’ interest without even knowing it.
 
