@@ -17,6 +17,6 @@ command = "./stackbit-build.sh"
 [[headers]]
   for = "/*"
   [headers.values]
-    Access-Control-Allow-Origin = "*.tandemz.io, *.staging.tandemz.io"
+    Access-Control-Allow-Origin = "*.tandemz.io"
     Access-Control-Allow-Methods = "GET"
     
