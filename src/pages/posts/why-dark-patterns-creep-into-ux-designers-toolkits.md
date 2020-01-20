@@ -5,6 +5,8 @@ hashtags:
 - dark patterns
 - design
 - userexperience
+- ux
+- ui
 title: Why dark patterns creep into UX designers’ toolkits - and how to steer clear
   of them
 subtitle: ''
