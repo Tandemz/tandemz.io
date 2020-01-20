@@ -390,6 +390,13 @@ img {
   border-radius: 4px;
 }
 
+.post-content img {
+  width: 85%;
+  display: block;
+  margin: 48px auto;
+  box-shadow: 0 15px 30px 0 rgba(_palette(primary), 0.4);
+}
+
 /* Heading underline */
 .underline {
   position: relative;
@@ -423,7 +430,15 @@ img {
   color: _palette(secondary);
 
   h2 {
-    margin: 4rem 0 1.5rem;
+    margin: 4rem 0 2rem;
+  }
+
+  h3 {
+    margin: 3rem 0 2rem;
+  }
+
+  p {
+    line-height: 1.9rem;
   }
 }
 
