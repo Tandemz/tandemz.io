@@ -122,8 +122,8 @@ But most importantly: **talk to your users**. Get out of the building, have inte
 
 ## **Some resources about dark patterns**
 
-* [https://www.darkpatterns.org](https://www.darkpatterns.org/ "https://www.darkpatterns.org/"):
-* the original website created by Harry Brignull, who coined the term
+* [https://www.darkpatterns.org](https://www.darkpatterns.org/ "https://www.darkpatterns.org/"):  
+  the original website created by Harry Brignull, who coined the term
 * [https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/](https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/ "https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/"):  
   an article that gives examples of each dark pattern
 * [https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c](https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c "https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c"):  
