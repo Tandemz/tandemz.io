@@ -119,3 +119,10 @@ Negative emotions are the product of bad UX design: anger, frustration, stress, 
 Since data is king, keep track of user satisfaction by going through user reviews and sending out surveys. Make it a KPI that you monitor alongside other metrics: show your organisation that you should care about more than just conversion rates.
 
 But most importantly: **talk to your users**. Get out of the building, have interviews and usability testing. Meeting people face to face is the best way to build empathy, to understand exactly what makes them unhappy and why.
+
+## **Some resources about dark patterns**
+
+* [**https://www.darkpatterns.org/**](https://www.darkpatterns.org/ "https://www.darkpatterns.org/") **: the original website created by Harry Brignull, who coined the term.**
+* [https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/](https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/ "https://www.smashingmagazine.com/2018/09/dark-patterns-and-other-design-no-nos-for-mobile/"): an article that gives examples of each dark pattern
+* [https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c](https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c "https://uxdesign.cc/dark-patterns-in-ux-design-7009a83b233c"): other examples of dark patterns
+* [https://youtu.be/kxkrdLI6e6M](https://youtu.be/kxkrdLI6e6M "https://youtu.be/kxkrdLI6e6M"): a video on dark patterns by the Nerdwriter, very good intro, plus, that voice ;)
