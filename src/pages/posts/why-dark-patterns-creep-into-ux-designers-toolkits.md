@@ -130,4 +130,5 @@ But most importantly: **talk to your users**. Get out of the building, have inte
 * A video on dark patterns by the Nerdwriter, very good intro, plus, that voice ;)  
   [https://youtu.be/kxkrdLI6e6M](https://youtu.be/kxkrdLI6e6M "https://youtu.be/kxkrdLI6e6M")
 * A nuanced article that explains well why not all manipulation is bad (hint: it's again about good UX being mutually beneficial): [https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db](https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db "https://medium.com/startupdevhouse/weaponized-design-dark-patterns-in-ux-82f0fda3a4db")
-* A view of dark patterns outside of product design, and its ties  to politics, fake news etc: [https://www.fastcompany.com/3066586/the-year-dark-patterns-won](https://www.fastcompany.com/3066586/the-year-dark-patterns-won "https://www.fastcompany.com/3066586/the-year-dark-patterns-won")
+* A view of dark patterns outside of product design, and its ties  to politics, fake news etc:  
+  [https://www.fastcompany.com/3066586/the-year-dark-patterns-won](https://www.fastcompany.com/3066586/the-year-dark-patterns-won "https://www.fastcompany.com/3066586/the-year-dark-patterns-won")
