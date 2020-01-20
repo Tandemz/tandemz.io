@@ -13,8 +13,8 @@ subtitle: ''
 date: 2020-01-20T13:00:00Z
 thumb_img_path: "/images/cover.png"
 content_img_path: "/images/cover.png"
-excerpt: Are secretely evil designers ruining our user experience with their evil
-  design? Or is the truth more nuanced than that?
+excerpt: 'The good news is: there aren''t secretly evil designers trying to ruin our
+  user experience. The bad news is: all designers are... kinda'
 author: src/data/authors/francew.json
 social_image: "/images/cover.png"
 
