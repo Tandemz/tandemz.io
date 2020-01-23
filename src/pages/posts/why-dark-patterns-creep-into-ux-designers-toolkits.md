@@ -10,7 +10,7 @@ hashtags:
 title: Why dark patterns creep into UX designers’ toolkits - and how to steer clear
   of them
 subtitle: ''
-date: 2020-01-20T13:00:00Z
+date: 2020-01-20T13:00:00.000+00:00
 thumb_img_path: "/images/cover.png"
 content_img_path: "/images/cover.png"
 excerpt: 'The good news is: there aren''t secretly evil designers trying to ruin our
@@ -39,8 +39,6 @@ _Depicted above : evil witches, not evil designers._
 
 #### **Reason #1 : “Numbers, I want numbers”**
 
-![Numbers](https://media.giphy.com/media/3ov9jLrN6z0NbZsGPK/giphy.gif "Numbers")
-
 We live in the age of data. Everything is monitored, tracked, analyzed. In the UX design world, we usually measure conversion rates, engagement rates, retention rates, time spent on a page or task etc. These are the numbers that tell us whether or not the product is performing.
 
 So when a new feature is shipped, and it is directly improving these KPIs, it becomes easy to overlook the methods used to get there. Others will most likely only see the results, and say “Good job!”. Isn’t it then so tempting to stop there and believe that it was, indeed, a good job?
@@ -52,8 +50,6 @@ This is what can happen when that mindset is brought to an extreme : a fake hair
 I am sure that whoever came up with this idea got a big pat on the back for their amazing conversion rate.
 
 #### **Reason #2 : “All my friends are doing it”**
-
-![Cliff](https://media.giphy.com/media/3o7bu3WY4aN5eMezkc/giphy.gif "Cliff")
 
 _Don’t make me think_ is a must have on every designer’ bookshelf and for good reasons. The most intuitive products are the ones that feel familiar. Everyday, thousands of designers draw inspiration from each other’s work, reusing common patterns and features. However, sometimes a dark pattern gets so used that it becomes common practice.
 
@@ -76,8 +72,6 @@ We’ve all seen our share of confusing opt-ins...
 The ubiquity of these patterns comes from digital product teams’ habit of copying other products’ features and behaviours without questioning them. After all, if everyone is doing it…
 
 #### **Reason #3 : “Trust me, I know what my users need”**
-
-![TrustMe](https://media.giphy.com/media/l41m1a8cuTkchgHfy/giphy.gif "TrustMe")
 
 As designers, we aim to solve our users’ problems. But we also know not to take every user feedback at face value. We constantly have to analyse them in order to turn them into relevant, actionable insights and needs. But sometimes we just turn user needs into excuses for bad behaviour.
 
