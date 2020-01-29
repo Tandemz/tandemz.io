@@ -54,6 +54,7 @@ fields:
   - name: coming_soon
     type: boolean
     label: Coming soon
+    hidden: false
   - type: field_group_list
     name: actions
     label: Action Buttons
