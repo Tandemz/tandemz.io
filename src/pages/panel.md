@@ -80,6 +80,12 @@ sections:
     actions:
     - url: "/contact"
       label: Voir les prix
+- template: ctablock
+  component: CtaBlock
+  type: ctablock
+  section_id: ''
+  title: ''
+  subtitle: ''
 menus:
   main:
     title: Gestion de panel

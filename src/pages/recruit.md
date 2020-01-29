@@ -72,6 +72,12 @@ sections:
     actions:
     - label: Ça m'intéresse
       url: "/contact"
+- template: ctablock
+  component: CtaBlock
+  type: ctablock
+  section_id: ''
+  title: ''
+  subtitle: ''
 menus:
   main:
     title: Recrutement
