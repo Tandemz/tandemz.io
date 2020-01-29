@@ -90,6 +90,12 @@ sections:
   title: A qui s’adresse Tandemz ?
   section_id: roles
   subtitle: ''
+- template: ctablock
+  component: CtaBlock
+  type: ctablock
+  section_id: ''
+  title: ''
+  subtitle: ''
 menus:
   main:
     title: Home
