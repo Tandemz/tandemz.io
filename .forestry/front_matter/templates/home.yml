@@ -25,5 +25,6 @@ fields:
     required: true
 pages:
 - src/pages/index.md
+- src/pages/panel.md
 - src/pages/participant.md
 - src/pages/recruit.md
