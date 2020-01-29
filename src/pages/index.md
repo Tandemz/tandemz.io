@@ -37,42 +37,19 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Ciblez vos propres utilisateurs
-    content: |-
-      Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
-
-      * Connexion à vos outils CRM
-      * Import de vos fichiers clients
-      * Création et gestion de votre panel directement sur Tandemz
+  - title: Recrutement de testeurs
+    content: Nous recrutons vos testeurs directement dans les réseaux sociaux. Rapide,
+      fiable.
     image: "/images/Illustration - Connect.svg"
-    actions: []
-  - title: Recrutez des participants sur les réseaux sociaux
-    content: |-
-      Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
-
-      * Publicité dans vos réseaux sociaux favoris
-      * Multidiffusion dans les groupes et sur les plateformes de votre choix
-      * Publications dans vos communautés existantes
+    actions:
+    - label: En savoir plus
+      url: "/recruit"
+  - title: Gérez votre propre panel
+    content: Un super panel à votre disposition
     image: "/images/Illustration - Recruit.svg"
-    actions: []
-  - title: Indiquez vos modalités, Tandemz s'occupe du reste
-    content: |-
-      Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
-
-      * Annonce regroupant toutes les modalités pour le testeur
-      * Intégration à votre calendrier
-      * Réservation de salle automatique
-    image: "/images/Illustration - Calendar.svg"
-    actions: []
-  - title: Simplifiez vos échanges avec les participants
-    content: |-
-      Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
-
-      * Sélection des profils par questionnaire ou par enregistrement
-      * Rappels automatiques
-      * Messagerie intégrée pour des échanges centralisés
-    image: "/images/Illustration - Communication.svg"
-    actions: []
+    actions:
+    - label: En savoir plus
+      url: "/panel"
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
