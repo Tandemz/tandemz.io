@@ -22,11 +22,9 @@ sections:
 - type: document
   path: src/pages/recruit.md
   label: Recrutement
-  match: "**/*"
 - type: document
   path: src/pages/panel.md
   label: Gestion de panel
-  match: "**/*"
 - type: document
   path: src/pages/participant.md
   label: Participants
