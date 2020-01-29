@@ -16,7 +16,7 @@ import ValueBlock from './ValueBlock';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 import Layout from './Layout';
-import CtaButtonsBlock from './CtaButtonsBlock';
+import BlogCtaBlock from './BlogCtaBlock';
 import SocialShareButtonsBlock from './SocialShareButtonsBlock';
 
 import PostContentBlock from './posts/PostContentBlock';
@@ -45,7 +45,7 @@ export {
   PostContentBlock,
   PostTitleBlock,
   PostAuthorBlock,
-  CtaButtonsBlock,
+  BlogCtaBlock,
   SocialShareButtonsBlock,
 };
 
@@ -71,6 +71,6 @@ export default {
   PostContentBlock,
   PostTitleBlock,
   PostAuthorBlock,
-  CtaButtonsBlock,
+  BlogCtaBlock,
   SocialShareButtonsBlock,
 };

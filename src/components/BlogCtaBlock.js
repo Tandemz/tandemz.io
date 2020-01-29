@@ -2,7 +2,7 @@ import * as React from 'react';
 import _ from 'lodash';
 import CtaButtons from './CtaButtons';
 
-class CtaButtonsBlock extends React.PureComponent {
+class BlogCtaBlock extends React.PureComponent {
   render() {
     const { title, actions } = _.get(this.props, 'section', {});
 
@@ -14,4 +14,4 @@ class CtaButtonsBlock extends React.PureComponent {
     );
   }
 }
-export default CtaButtonsBlock;
+export default BlogCtaBlock;
