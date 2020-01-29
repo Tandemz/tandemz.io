@@ -51,6 +51,9 @@ fields:
     name: image
     label: Image
     description: The image of the feature.
+  - name: coming_soon
+    type: boolean
+    label: Coming soon
   - type: field_group_list
     name: actions
     label: Action Buttons
