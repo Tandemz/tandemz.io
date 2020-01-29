@@ -44,12 +44,14 @@ sections:
     actions:
     - label: En savoir plus
       url: "/recruit"
+    coming_soon: false
   - title: Gérez votre propre panel
     content: Un super panel à votre disposition
     image: "/images/Illustration - Recruit.svg"
     actions:
     - label: En savoir plus
       url: "/panel"
+    coming_soon: true
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
