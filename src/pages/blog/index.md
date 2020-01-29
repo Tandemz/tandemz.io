@@ -3,18 +3,17 @@ title: Blog
 menus:
   main:
     title: Blog
-    weight: 2
+    weight: 3
   secondary:
     title: Blog
     weight: 2
 template: blog
 sections:
-- template: postsblock
-  component: PostsBlock
-  bg: gray
-  type: postsblock
-  title: ''
-  section_id: ''
-  subtitle: ''
-
+  - template: postsblock
+    component: PostsBlock
+    bg: gray
+    type: postsblock
+    title: ''
+    section_id: ''
+    subtitle: ''
 ---

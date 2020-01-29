@@ -115,7 +115,7 @@ sections:
             label: Voir les prix
 menus:
   main:
-    title: Home
-    weight: 1
+    title: Gestion de panel
+    weight: 2
 template: home
 ---
