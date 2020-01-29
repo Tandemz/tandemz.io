@@ -2,41 +2,41 @@
 label: Blog CTA
 hide_body: true
 fields:
-  - name: title
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: actions
+  type: field_group_list
+  fields:
+  - name: url
     type: text
-    config:
-      required: false
-    label: Title
-  - name: actions
-    type: field_group_list
-    fields:
-      - name: url
-        type: text
-        config:
-          required: true
-        label: Url
-      - name: label
-        type: text
-        config:
-          required: true
-        label: Label
-    config:
-      min:
-      max:
-      labelField:
-    label: Buttons
-  - name: component
-    type: text
-    config:
-      required: false
-    hidden: true
-    label: component
-    default: BlogCtaBlock
-  - type: text
-    name: type
-    label: Reference Type Name
-    description: Name of the Stackbit object model, used by fields of type reference
-    hidden: true
-    default: blogcta
     config:
       required: true
+    label: Url
+  - name: label
+    type: text
+    config:
+      required: true
+    label: Label
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Buttons
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: component
+  default: BlogCtaBlock
+- type: text
+  name: type
+  label: Reference Type Name
+  description: Name of the Stackbit object model, used by fields of type reference
+  hidden: true
+  default: blogcta
+  config:
+    required: true
