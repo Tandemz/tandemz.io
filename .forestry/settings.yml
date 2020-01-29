@@ -36,10 +36,10 @@ sections:
   - contact
 - type: directory
   path: src/pages
-  label: Page
+  label: Pages
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md}"
+  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md,recruit.md,panel.md}"
   templates:
   - page
 - type: document
