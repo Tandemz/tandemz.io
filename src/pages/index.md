@@ -93,8 +93,8 @@ sections:
 - template: ctablock
   component: CtaBlock
   type: ctablock
-  section_id: ''
-  title: ''
+  section_id: cta
+  title: N'attendez-plus, faites de la recherche utilisateur un réflexe !
   subtitle: ''
 menus:
   main:
