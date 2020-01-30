@@ -12,14 +12,18 @@ export default class IconsBlock extends React.Component {
           'block cell-block bg-' + _.get(this.props, 'section.bg') + ' outer'
         }
       >
-        <div className="block-header inner-small">
-          <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
-          {_.get(this.props, 'section.subtitle') && (
-            <p className="block-subtitle">
-              {htmlToReact(_.get(this.props, 'section.subtitle'))}
-            </p>
-          )}
-        </div>
+        {_.get(this.props, 'section.title') && (
+          <div className="block-header inner-small">
+            <h2 className="block-title">
+              {_.get(this.props, 'section.title')}
+            </h2>
+            {_.get(this.props, 'section.subtitle') && (
+              <p className="block-subtitle">
+                {htmlToReact(_.get(this.props, 'section.subtitle'))}
+              </p>
+            )}
+          </div>
+        )}
         {_.get(this.props, 'section.iconblocks') && (
           <div className="inner">
             <div className="grid">
