@@ -21,10 +21,12 @@ sections:
   subtitle: ''
   iconblocks:
   - title: Recrutement rapide
-    content: Atteignez rapidement les bon participants pour vos études, quelle que
+    content: Atteignez rapidement les bons participants pour vos études, quelle que
       soit votre cible, qu'ils vous connaissent ou non.
     icon: ''
-  - content: ''
+  - content: Connectez vos outils du quotidien et dites au revoir à toutes les petites
+      tâches qui polluent votre quotidien. Concentrez-vous enfin sur votre recherche
+      !
     icon: ''
     title: Organisation simplifiée
   - title: Track
