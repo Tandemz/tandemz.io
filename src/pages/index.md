@@ -3,7 +3,6 @@ sections:
   - type: heroblock
     template: heroblock
     section_id: hero
-    className: overlap-padding
     title: Tandemz, le catalyseur de vos tests utilisateurs
     component: HeroBlock
     content:
