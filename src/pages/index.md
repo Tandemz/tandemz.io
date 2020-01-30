@@ -20,15 +20,16 @@ sections:
   title: ''
   subtitle: ''
   iconblocks:
-  - title: Gain de temps
-    content: ''
-    icon: ''
-  - title: Visibilité
-    content: ''
+  - title: Recrutement rapide
+    content: Atteignez rapidement les bon participants pour vos études, quelle que
+      soit votre cible, qu'ils vous connaissent ou non.
     icon: ''
   - content: ''
     icon: ''
-    title: Qualité
+    title: Organisation simplifiée
+  - title: Track
+    content: ''
+    icon: ''
 - type: featuresblock
   template: featuresblock
   section_id: Features
