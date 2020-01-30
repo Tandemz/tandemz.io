@@ -31,6 +31,9 @@ export default class FeaturesBlock extends React.Component {
                       </div>
                     )}
                     <div className="cell block-content">
+                      {_.get(feature, 'coming_soon') && (
+                        <div className="coming-soon">coming soon</div>
+                      )}
                       <h2 className="block-title">{_.get(feature, 'title')}</h2>
                       <div className="block-copy">
                         {markdownify(_.get(feature, 'content'))}

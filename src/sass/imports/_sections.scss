@@ -63,6 +63,17 @@
   }
 }
 
+.coming-soon {
+  display: inline-block;
+  padding: 4px 12px;
+  background: _palette(red-muted);
+  color: _palette(red-accessible);
+  font-size: 0.75rem;
+  border-radius: 4px;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
 .block-copy {
   li {
     text-align: left;
