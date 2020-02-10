@@ -8,6 +8,7 @@ import { safePrefix } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
 import '../sass/main.scss';
+import '../lib/weglot';
 
 moment.locale('fr');
 moment.updateLocale('fr', {
@@ -78,11 +79,6 @@ const websiteSchema = {
 };
 
 export default class Body extends React.Component {
-  componentDidMount() {
-    Weglot.initialize({
-      api_key: 'wg_67fd86c77ab6a28f974dd9686efe3ade5',
-    });
-  }
   render() {
     return (
       <React.Fragment>
@@ -155,10 +151,6 @@ export default class Body extends React.Component {
           <script className="structured-data-list" type="application/ld+json">
             {JSON.stringify(orgaSchema)}
           </script>
-          <script
-            type="text/javascript"
-            src="https://cdn.weglot.com/weglot.min.js"
-          ></script>
         </Helmet>
         <div
           id="page"
