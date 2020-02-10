@@ -116,6 +116,38 @@ og_image_height: 200
 twitter_card: summary
 metatags: []
 schema_org_data_list:
+- title: Entreprise
+  content: |-
+    {
+       "@context":"https://schema.org",
+       "@type":"Organization",
+       "url":"http://www.tandemz.io",
+       "name":"Tandemz",
+       "email":"contact@tandemz.io",
+       "logo":"https://www.tandemz.io/images/Logo@200.png",
+       "slogan":"Catalyseur de vos tests utilisateurs",
+       "address":{
+          "@type":"PostalAddress",
+          "streetAddress":"33 Rue Censier",
+          "addressCountry":"FRA",
+          "addressLocality":"Paris",
+          "postalCode":"75005"
+       },
+       "location":{
+          "@type":"PostalAddress",
+          "streetAddress":"33 Rue Censier",
+          "addressCountry":"FRA",
+          "addressLocality":"Paris",
+          "postalCode":"75005"
+       },
+       "contactPoint":[
+          {
+             "@type":"ContactPoint",
+             "email":"contact@tandemz.io",
+             "contactType":"customer service"
+          }
+       ]
+    }
 - title: Application web
   content: |-
     {
