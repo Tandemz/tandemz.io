@@ -23,6 +23,11 @@ fields:
   default: home
   config:
     required: true
+- name: seo
+  type: include
+  config: {}
+  template: page-seo
+  label: SEO
 pages:
 - src/pages/index.md
 - src/pages/panel.md
