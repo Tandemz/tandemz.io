@@ -71,6 +71,26 @@ fields:
     required: false
   label: Image Alt
   default: Tandemz Logo
+- name: og_image_width
+  type: number
+  label: Image RS largeur
+  description: Utilisé pour le precaching
+  default: '200'
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+- name: og_image_height
+  type: number
+  label: Image RS hauteur
+  default: '200'
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  description: Utilisé pour le precaching
 - name: twitter_card
   type: select
   default: summary
