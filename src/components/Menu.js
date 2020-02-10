@@ -42,7 +42,7 @@ class Menu extends React.Component {
                       <ul className="sub-menu">
                         {item.items.map(subItem => (
                           <li
-                            key={item.title}
+                            key={subItem.title}
                             className={classnames('sub-menu-item', {
                               'current-sub-menu-item': url === subItem.url,
                             })}

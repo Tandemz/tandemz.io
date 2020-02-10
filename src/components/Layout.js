@@ -9,6 +9,7 @@ import Header from './Header';
 import Footer from './Footer';
 import '../sass/main.scss';
 import '../lib/weglot';
+import { WeglotScript } from '../lib/weglot';
 
 moment.locale('fr');
 moment.updateLocale('fr', {
@@ -151,6 +152,7 @@ export default class Body extends React.Component {
           <script className="structured-data-list" type="application/ld+json">
             {JSON.stringify(orgaSchema)}
           </script>
+          <WeglotScript />
         </Helmet>
         <div
           id="page"
