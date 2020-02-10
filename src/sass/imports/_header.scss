@@ -5,11 +5,10 @@
 .site-header {
   background: #fff;
   color: _palette(secondary);
-  padding-bottom: 1.33333em;
-  padding-top: 1.33333em;
-}
+  height: 88px;
 
-.site-header-inside {
+  padding: 0 4vw;
+
   -ms-flex-align: center;
   -webkit-align-items: center;
   align-items: center;
@@ -58,18 +57,26 @@
     display: inline-block;
     font-size: 16px;
     line-height: 1.5;
-    margin: 0 0 0 30px;
+    position: relative;
 
-    &.current-menu-item {
+    &.current-menu-item > a {
       color: _palette(accent);
       font-weight: 700;
+    }
+
+    &:hover .sub-menu {
+      display: block;
+    }
+
+    & > a:not(.button) {
+      padding: 15px;
+      display: inline-block;
     }
   }
 
   a:not(.button) {
     border: 0;
     color: inherit;
-    display: inline-block;
     text-decoration: none;
 
     &:hover,
@@ -78,12 +85,43 @@
     }
   }
 
+  .sub-menu {
+    display: none;
+    position: absolute;
+    top: 45px;
+    left: 0;
+    padding: 0;
+
+    list-style: none;
+    padding: 0;
+    white-space: nowrap;
+
+    background-color: white;
+    border-radius: 4px;
+    box-shadow: 0 3px 10px 0 rgba(83, 99, 131, 0.1);
+  }
+
+  .sub-menu-item > a{
+    display: block;
+    padding: 15px;
+
+    &:hover,
+    &:focus {
+      color: _palette(meta);
+      background: _palette(bg)
+    }
+
+  }
+  .sub-menu-item.current-sub-menu-item > a {
+    color: _palette(accent);
+  }
+
   .button {
     font-size: 16px;
     padding: 0.25em 15px;
   }
 
-  .menu-button + .menu-button {
+  .menu-button {
     margin-left: 15px;
   }
 }
@@ -156,6 +194,7 @@
     .menu-item {
       display: block;
       margin: 0;
+      padding-left: 0;
 
       &:not(.menu-button) {
         border-bottom: 1px solid _palette(border);
@@ -174,9 +213,23 @@
       }
     }
 
+    .sub-menu {
+      display: block;
+      position: relative;
+      padding: 0;
+      top: 0;
+      left: 0;
+
+      border-radius: 0;
+      box-shadow: none;
+      padding-left: 15px;
+    }
+    .sub-menu-item > a{
+      padding-left: 15px;
+    }
+
     a:not(.button) {
       display: block;
-      padding: 0.83333rem 0;
     }
 
     .button {

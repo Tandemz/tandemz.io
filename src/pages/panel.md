@@ -96,9 +96,9 @@ sections:
   - label: Devenir early adopter
     url: "/contact"
 menus:
-  main:
+  solutions:
     title: Gestion de panel
-    weight: 2
+    weight: 1
 template: home
 
 ---

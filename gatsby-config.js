@@ -59,6 +59,16 @@ module.exports = {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
         menus: require('./src/data/menus.json'),
+        menus: {
+          main: [
+            {
+              identifier: 'solutions',
+              title: 'Solutions',
+              weight: 2,
+              url: '/panel',
+            },
+          ],
+        },
       },
     },
     {

@@ -1,15 +1,15 @@
 import * as React from 'react';
-import { Link, safePrefix, sendEvent } from '../utils';
+import classnames from 'classnames';
 import _ from 'lodash';
+import { Link, safePrefix, sendEvent } from '../utils';
 
 class Menu extends React.Component {
   render() {
-    const { url } = this.props;
+    const { menu, url } = this.props;
 
-    if (!this.props.menu || !url) {
+    if (!menu || !url) {
       return null;
     }
-    const menu = this.props.menu.filter(item => !!item.url && !!item.title);
     const actions =
       this.props.actions &&
       this.props.actions.filter(item => !!item.url && !!item.label);
@@ -28,15 +28,32 @@ class Menu extends React.Component {
             </button>
             <ul className="menu">
               {menu &&
-                _.map(menu, (item, item_idx) => (
+                _.map(menu, item => (
                   <li
-                    key={item_idx}
-                    className={
-                      'menu-item ' +
-                      (url === item.url ? ' current-menu-item' : '')
-                    }
+                    key={item.title}
+                    className={classnames('menu-item', {
+                      'current-menu-item':
+                        url === item.url ||
+                        item.items.some(subItem => url === subItem.url),
+                    })}
                   >
                     <Link to={safePrefix(item.url)}>{item.title}</Link>
+                    {item.items && !!item.items.length && (
+                      <ul className="sub-menu">
+                        {item.items.map(subItem => (
+                          <li
+                            key={item.title}
+                            className={classnames('sub-menu-item', {
+                              'current-sub-menu-item': url === subItem.url,
+                            })}
+                          >
+                            <Link to={safePrefix(subItem.url)}>
+                              {subItem.title}
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
                   </li>
                 ))}
               {actions &&

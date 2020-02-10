@@ -97,7 +97,7 @@ sections:
   - url: "/contact"
     label: Commencer à recruter
 menus:
-  main:
+  solutions:
     title: Recrutement
     weight: 2
 template: home
