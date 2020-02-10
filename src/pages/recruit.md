@@ -5,7 +5,8 @@ sections:
   section_id: hero
   title: Utilisez le plus grand panel mondial
   component: HeroBlock
-  content: Sur Tandemz, nous recrutons parmi les 3,4 M d'utilisateurs des réseaux
+  content: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des réseaux
+    sociaux.
   image: ''
   actions:
   - label: Ça m'intéresse
