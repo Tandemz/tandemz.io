@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { getPages } from '../utils';
-import BlogPostsList from './blog/BlogPostsList';
+import { BlogPostsList } from '../components';
 
 export default class RecentsPostsBlock extends React.Component {
   render() {
@@ -15,4 +15,3 @@ export default class RecentsPostsBlock extends React.Component {
     return <BlogPostsList posts={recent_posts} section={this.props.section} />;
   }
 }
-

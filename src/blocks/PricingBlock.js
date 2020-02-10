@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import { htmlToReact, markdownify } from '../utils';
-import CtaButtons from './CtaButtons';
+import { CtaButtons } from '../components';
 
 export default class PricingBlock extends React.Component {
   render() {

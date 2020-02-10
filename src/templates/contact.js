@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Layout } from '../components/index';
+import { Layout } from '../components';
 import { htmlToReact } from '../utils';
 
 export default class Contact extends React.Component {

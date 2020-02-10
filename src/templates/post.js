@@ -3,14 +3,15 @@ import _ from 'lodash';
 import moment from 'moment';
 import { Helmet } from 'react-helmet';
 
-import components, { Layout } from '../components/index';
+import { Layout } from '../components';
+import * as blocks from '../blocks';
 import { safePrefix, loadDataRef } from '../utils';
 
 const SectionList = ({ sections, ...props }) => {
   return (
     <React.Fragment>
       {_.map(sections, (section, section_idx) => {
-        let GetSectionComponent = components[_.get(section, 'component', '')];
+        let GetSectionComponent = blocks[_.get(section, 'component', '')];
         if (!GetSectionComponent) {
           return null;
         }

@@ -1,6 +1,6 @@
 import * as React from 'react';
 import _ from 'lodash';
-import CtaButtons from './CtaButtons';
+import { CtaButtons } from '../components';
 
 class BlogCtaBlock extends React.PureComponent {
   render() {
