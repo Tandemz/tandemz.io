@@ -33,7 +33,7 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: Features
-  title: Comment ça marche ??
+  title: Comment ça marche ?
   component: FeaturesBlock
   subtitle: ''
   bg: white
