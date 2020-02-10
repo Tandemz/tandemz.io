@@ -33,49 +33,41 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: Features
-  title: ''
+  title: Comment ça marche ?
   component: FeaturesBlock
   subtitle: ''
   bg: white
   featureslist:
-  - title: Ciblez vos propres utilisateurs
+  - title: Définissez vos crières
     content: |-
-      Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
+      Nous verrons ensemble vos critères exacts :
 
-      * Connexion à vos outils CRM
-      * Import de vos fichiers clients
-      * Création et gestion de votre panel directement sur Tandemz
+      * Cible
+      * Date
+      * Modalités
+      * Contrepartie
     image: "/images/Illustration - Connect.svg"
     actions: []
     coming_soon: false
-  - title: Recrutez des participants sur les réseaux sociaux
+  - title: Nous gérons toute l'organisation
     content: |-
-      Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
+      Nous nous occuperons de :
 
-      * Publicité dans vos réseaux sociaux favoris
-      * Multidiffusion dans les groupes et sur les plateformes de votre choix
-      * Publications dans vos communautés existantes
-    image: "/images/Illustration - Recruit.svg"
+      * L'annonce dans les réseaux sociaux
+      * La stratégie d'enchère
+      * Le questionnaire de screening
+      * Le paiement des participants
+    image: "/images/Designer.svg"
     actions: []
     coming_soon: false
-  - title: Indiquez vos modalités, Tandemz s'occupe du reste
-    content: |-
-      Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
-
-      * Annonce regroupant toutes les modalités pour le testeur
-      * Intégration à votre calendrier
-      * Réservation de salle automatique
-    image: "/images/Illustration - Calendar.svg"
+  - title: Suivez l'avancement du recrutement
+    content: Vous pourrez voir en direct l'avancement de votre annonce
+    image: "/images/Capture d’écran 2020-02-10 à 11.49.05.png"
     actions: []
     coming_soon: false
-  - title: Simplifiez vos échanges avec les participants
-    content: |-
-      Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
-
-      * Sélection des profils par questionnaire ou par enregistrement
-      * Rappels automatiques
-      * Messagerie intégrée pour des échanges centralisés
-    image: "/images/Illustration - Communication.svg"
+  - title: Recontrez vos utilisateurs
+    content: C'est à vous de jouer !
+    image: ''
     actions: []
     coming_soon: false
 - template: pricingblock
