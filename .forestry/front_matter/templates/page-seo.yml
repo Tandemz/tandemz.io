@@ -1,4 +1,114 @@
 ---
 label: Page SEO
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+    max: '60'
+  label: Titre
+- name: description
+  type: textarea
+  default: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
+    Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '140'
+  label: Description
+- name: keywords
+  type: text
+  config:
+    required: false
+  label: Mots Clés
+  default: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
+- name: ogtitle
+  type: text
+  config:
+    required: false
+    max: '60'
+  label: Titre partage RS
+  description: Utilise le titre de la page par défaut
+- name: ogdescription
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: '140'
+  label: Description Partage RS
+  description: Utilise la description de la page par défaut
+- name: ogtype
+  type: select
+  default: website
+  config:
+    required: false
+    options:
+    - website
+    - article
+    - profile
+    - book
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de contenu
+- name: ogimage
+  type: file
+  config:
+    maxSize: 250
+  label: Image partage RS
+  default: "/images/Logo@200-1.png"
+- name: ogimagealt
+  type: text
+  config:
+    required: false
+  label: Image Alt
+  default: Tandemz Logo
+- name: metatags
+  type: field_group_list
+  fields:
+  - name: property
+    type: text
+    config:
+      required: true
+    label: Propriété
+  - name: content
+    type: text
+    config:
+      required: true
+    label: Contenu
+  config:
+    min: 
+    max: 
+    labelField: property
+  label: Autres metas
+- name: schema_org_data_list
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: content
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: contenu
+    description: 'format : json'
+  config:
+    min: 
+    max: 
+    labelField: title
+  label: Schema.org Markup
