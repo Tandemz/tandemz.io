@@ -11,6 +11,25 @@ sections:
   actions:
   - label: Ça m'intéresse
     url: "/contact"
+- template: iconsblock
+  component: IconsBlock
+  bg: white
+  type: iconsblock
+  section_id: why-social
+  title: Pourquoi les réseaux sociaux ?
+  iconblocks:
+  - icon: ''
+    title: Plus de 3,4 M de personnes
+    content: Quelque soit vos critères, il existe quelqu'un dans le panel qui corresponde
+  - title: Ciblage pertinent
+    content: Les réseaux sociaux connaissent énormément d'informations sur leurs utilisateurs.
+      Pour pourrez cibler facilement toutes les cibles
+    icon: ''
+  - title: Aucun biais
+    icon: ''
+    content: La plupart de vos participants feront un test pour la premièrre fois.
+      Garanti sans professionnel du test
+  subtitle: ''
 - type: featuresblock
   template: featuresblock
   section_id: Features
