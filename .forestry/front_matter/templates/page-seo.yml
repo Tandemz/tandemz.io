@@ -18,7 +18,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-    max: '140'
+    max: '160'
   label: Description
 - name: keywords
   type: text
@@ -41,7 +41,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-    max: '140'
+    max: '160'
   label: Description Partage RS
   description: Utilise la description de la page par défaut
 - name: ogtype
