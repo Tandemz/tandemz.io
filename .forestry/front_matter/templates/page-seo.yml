@@ -71,6 +71,20 @@ fields:
     required: false
   label: Image Alt
   default: Tandemz Logo
+- name: twitter_card
+  type: select
+  default: summary
+  config:
+    required: false
+    options:
+    - summary
+    - summary_large_image
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type de carte twitter
 - name: metatags
   type: field_group_list
   fields:
