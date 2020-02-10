@@ -46,7 +46,7 @@ sections:
       * Date
       * Modalités
       * Contrepartie
-    image: "/images/Illustration - Connect.svg"
+    image: "/images/Illustration - Recruit-1.svg"
     actions: []
     coming_soon: false
   - title: Nous gérons toute l'organisation
