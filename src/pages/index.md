@@ -102,5 +102,19 @@ menus:
     title: Home
     weight: 1
 template: home
+title: Tandemz, le catalyseur de vos tests utilisateurs.
+description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
+  Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+keywords: ''
+ogtitle: ''
+ogdescription: ''
+ogtype: ''
+ogimage: ''
+ogimagealt: ''
+og_image_width: 
+og_image_height: 
+twitter_card: ''
+metatags: []
+schema_org_data_list: []
 
 ---
