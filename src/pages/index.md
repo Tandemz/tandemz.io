@@ -3,10 +3,10 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Tandemz, le catalyseur de vos tests utilisateurs
+  title: Utilisez le plus grand panel mondial
   component: HeroBlock
-  content: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil. Concentrez-vous
-    enfin sur votre recherche utilisateur.
+  content: Sur Tandemz, nous recrutons parmi les 3,4 M d'utilisateurs des réseaux
+    sociaux.
   image: ''
   actions:
   - label: Commencer à recruter
