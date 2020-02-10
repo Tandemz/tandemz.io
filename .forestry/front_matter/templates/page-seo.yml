@@ -8,6 +8,7 @@ fields:
     required: false
     max: '60'
   label: Titre
+  default: ''
 - name: description
   type: textarea
   default: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
