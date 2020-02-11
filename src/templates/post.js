@@ -80,7 +80,11 @@ export default class Post extends React.Component {
             property="og:description"
             content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
           />
-          <meta name="image" property="og:image" content={image} />
+          <meta property="og:image" name="image" content={image} />
+          <meta
+            property="og:image:alt"
+            content={_.get(this.props, 'pageContext.frontmatter.title')}
+          />
           <meta name="author" content={author.name} />
           <meta
             name="article-published_time"
