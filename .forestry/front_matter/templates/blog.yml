@@ -3,12 +3,6 @@ label: Blog
 hide_body: true
 fields:
 - type: text
-  name: title
-  label: Title
-  description: The title of the page.
-  config:
-    required: true
-- type: text
   name: template
   label: Template
   hidden: true
@@ -27,5 +21,10 @@ fields:
   config:
     min: 
     max: 
+- name: seo
+  type: include
+  config: {}
+  template: page-seo
+  label: SEO
 pages:
 - src/pages/blog/index.md

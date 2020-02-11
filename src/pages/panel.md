@@ -100,5 +100,19 @@ menus:
     title: Gestion de panel
     weight: 1
 template: home
+title: Créez et gérez votre panel avec Tandemz
+description: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil.
+  Concentrez-vous enfin sur votre recherche utilisateur.
+keywords: panel, recrutement, UX, participants
+ogtitle: ''
+ogdescription: ''
+ogtype: website
+ogimage: "/images/Logo@200-1.png"
+ogimagealt: Logo Tandemz
+og_image_width: 200
+og_image_height: 200
+twitter_card: summary
+metatags: []
+schema_org_data_list: []
 
 ---

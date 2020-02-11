@@ -7,6 +7,18 @@ menus:
     title: A propos de nous
     weight: 1
 template: page
+description: Venez découvrir l'équipe Tandemz
+keywords: ''
+ogtitle: ''
+ogdescription: ''
+ogtype: ''
+ogimage: "/images/team_2-1-1.jpg"
+ogimagealt: Equipe Tandemz
+og_image_width: 689
+og_image_height: 344
+twitter_card: summary_large_image
+metatags: []
+schema_org_data_list: []
 
 ---
 Tandemz, c'est aujourd'hui une équipe de trois fondateurs, France, Marine et Nicolas, avec l'idée de réconcilier les entreprises avec leurs utilisateurs en leur permettant d'échanger directement avec eux.

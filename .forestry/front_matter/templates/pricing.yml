@@ -2,12 +2,6 @@
 label: FAQ
 hide_body: true
 fields:
-- type: text
-  name: title
-  label: Title
-  description: The title of the page.
-  config:
-    required: true
 - type: blocks
   name: sections
   label: Sections
@@ -24,5 +18,10 @@ fields:
   default: FAQ
   config:
     required: true
+- name: seo
+  type: include
+  config: {}
+  template: page-seo
+  label: SEO
 pages:
 - src/pages/FAQ.md
