@@ -43,6 +43,11 @@ fields:
       file: src/data/authorss.json
       path: 
   label: Auteur
+- name: keywords
+  type: text
+  config:
+    required: false
+  label: Mots Clés
 - name: ogimage
   type: file
   config:
