@@ -6,7 +6,6 @@ import { Helmet } from 'react-helmet';
 import { Layout } from '../components';
 import * as blocks from '../blocks';
 import { safePrefix, loadDataRef } from '../utils';
-
 const SectionList = ({ sections, ...props }) => {
   return (
     <React.Fragment>
@@ -30,20 +29,17 @@ const SectionList = ({ sections, ...props }) => {
 
 export default class Post extends React.Component {
   render() {
+    const meta = _.get(this.props, 'pageContext.frontmatter') || {};
     const template = _.get(
       this.props,
       'pageContext.site.data.post_template',
       {},
     );
 
-    const image =
-      _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
-      safePrefix(
-        _.get(this.props, 'pageContext.frontmatter.social_image') ||
-          _.get(this.props, 'pageContext.frontmatter.thumb_img_path') ||
-          _.get(this.props, 'pageContext.frontmatter.content_img_path'),
-      );
-
+    const image = safePrefix(
+      meta.ogimage || meta.thumb_img_path || meta.content_img_path,
+      _.get(this.props, 'pageContext.site.siteMetadata.siteUrl'),
+    );
     const author = loadDataRef(
       this.props.pageContext,
       _.get(this.props, 'pageContext.frontmatter.author'),
@@ -54,51 +50,21 @@ export default class Post extends React.Component {
     return (
       <Layout {...this.props}>
         <Helmet>
-          <meta
-            name="description"
-            content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
-          />
-          <meta
-            name="keywords"
-            content={_.get(this.props, 'pageContext.frontmatter.keywords')}
-          />
-          <meta name="twitter:card" content="summary_large_image" />
+          <meta property="og:image" content={image} name="image" />
           <meta name="twitter:image" content={image} />
-          <meta
-            property="og:title"
-            content={_.get(this.props, 'pageContext.frontmatter.title')}
-          />
-          <meta property="og:type" content="article" />
-          <meta
-            property="og:url"
-            content={safePrefix(
-              _.get(this.props, 'pageContext.site.siteMetadata.siteUrl') +
-                _.get(this.props, 'pageContext.url'),
-            )}
-          />
-          <meta
-            property="og:description"
-            content={_.get(this.props, 'pageContext.frontmatter.excerpt')}
-          />
-          <meta property="og:image" name="image" content={image} />
-          <meta
-            property="og:image:alt"
-            content={_.get(this.props, 'pageContext.frontmatter.title')}
-          />
+
           <meta name="author" content={author.name} />
+          <meta name="article:author" content={author.name} />
+
           <meta
             name="article-published_time"
             property="article:published_time"
-            content={moment(
-              _.get(this.props, 'pageContext.frontmatter.date'),
-            ).format()}
+            content={moment(meta.date).format()}
           />
           <meta
             name="publish_date"
             property="og:publish_date"
-            content={moment(
-              _.get(this.props, 'pageContext.frontmatter.date'),
-            ).format()}
+            content={moment(meta.date).format()}
           />
         </Helmet>
 

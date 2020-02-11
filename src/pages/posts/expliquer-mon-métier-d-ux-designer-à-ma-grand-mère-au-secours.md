@@ -13,7 +13,7 @@ content_img_path: ''
 excerpt: Expliquer son métier d'UX Designer à sa famille peut se révéler compliqué.
   Cette année, ayez toutes les cartes en main pour affronter cette bataille !
 author: src/data/authors/marinew.json
-social_image: "/images/flowchart-mamie-ux-media.png"
+ogimage: "/images/flowchart-mamie-ux-media.png"
 
 ---
 Noël approche à grand pas ! D’ici une semaine à peine, vous allez enfin profiter de ses petites joies : le sapin et ses cadeaux, les repas gargantuesques, le feu dans la cheminée, les papillotes et chocolats…

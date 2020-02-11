@@ -16,7 +16,7 @@ content_img_path: "/images/cover.png"
 excerpt: 'The good news is: there aren''t secretly evil designers trying to ruin our
   user experience. The bad news is: all designers are... kinda'
 author: src/data/authors/francew.json
-social_image: "/images/cover.png"
+ogimage: "/images/cover.png"
 
 ---
 In 2019 I spoke about dark patterns and how to recognize them at a Meetup in Paris. Dark patterns are tricks used by websites and apps that make users do things that they didn't mean to, like buying or signing up for something.

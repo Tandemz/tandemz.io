@@ -2,6 +2,11 @@
 import React from 'react';
 let weglotPromise = null;
 
+const weglotOptions = {
+  api_key: 'wg_67fd86c77ab6a28f974dd9686efe3ade5',
+  cache: true,
+};
+
 export const initializeWeglot = () => {
   if (weglotPromise) {
     return weglotPromise;
@@ -15,9 +20,7 @@ export const initializeWeglot = () => {
   // after server side rendering
   if (window.Weglot) {
     console.info('Weglot initialized for preloaded script');
-    window.Weglot.initialize({
-      api_key: 'wg_67fd86c77ab6a28f974dd9686efe3ade5',
-    });
+    window.Weglot.initialize(weglotOptions);
     weglotPromise = Promise.resolve(window.Weglot);
     return weglotPromise;
   }
@@ -31,9 +34,7 @@ export const initializeWeglot = () => {
 
   weglotPromise = new Promise(resolve => {
     script.onload = function() {
-      Weglot.initialize({
-        api_key: 'wg_67fd86c77ab6a28f974dd9686efe3ade5',
-      });
+      Weglot.initialize(weglotOptions);
       console.info('Weglot initialized');
       resolve(Weglot);
     };
