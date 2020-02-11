@@ -40,46 +40,63 @@ export default class Contact extends React.Component {
                     </label>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Nom</label>
+                    <label htmlFor="surname" className="form-label">
+                      Nom
+                    </label>
                     <input
                       type="text"
+                      id="surname"
                       name="surname"
                       className="form-input"
                       required
                     />
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Prénom</label>
+                    <label htmlFor="name" className="form-label">
+                      Prénom
+                    </label>
                     <input
                       type="text"
+                      id="name"
                       name="name"
                       className="form-input"
                       required
                     />
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Entreprise</label>
+                    <label htmlFor="company" className="form-label">
+                      Entreprise
+                    </label>
                     <input
                       type="text"
+                      id="company"
                       name="company"
                       className="form-input"
                       required
                     />
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Adresse email</label>
+                    <label htmlFor="email" className="form-label">
+                      Adresse email
+                    </label>
                     <input
                       type="email"
+                      id="email"
                       name="email"
                       className="form-input"
                       required
                     />
                   </p>
                   <p className="form-row">
-                    <label className="form-label">
+                    <label htmlFor="message" className="form-label">
                       Laissez-nous un message
                     </label>
-                    <textarea name="textarea" rows="5" className="form-input" />
+                    <textarea
+                      id="message"
+                      name="textarea"
+                      rows="5"
+                      className="form-input"
+                    />
                   </p>
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row form-submit">
