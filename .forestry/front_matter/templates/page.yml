@@ -23,6 +23,11 @@ fields:
   default: page
   config:
     required: true
+- name: seo
+  type: include
+  config: {}
+  template: page-seo
+  label: SEO
 pages:
 - src/pages/about.md
 - src/pages/conditions-générales-d-utilisation.md
