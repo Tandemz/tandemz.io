@@ -31,20 +31,6 @@ fields:
   description: The excerpt of the post displayed in the blog feed.
   config:
     max: '160'
-- type: text
-  name: template
-  label: Template
-  hidden: true
-  default: post
-  config:
-    required: true
-- name: twitter_card
-  type: text
-  config:
-    required: false
-  label: twitter_card
-  hidden: true
-  default: summary_large_image
 - name: author
   type: select
   default: 
@@ -66,6 +52,27 @@ fields:
   type: tag_list
   default: []
   label: hashtags
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: post
+  config:
+    required: true
+- name: twitter_card
+  type: text
+  config:
+    required: false
+  label: twitter_card
+  hidden: true
+  default: summary_large_image
+- name: ogtype
+  type: text
+  config:
+    required: false
+  label: ogtype
+  hidden: true
+  default: article
 pages:
 - src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
