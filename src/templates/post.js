@@ -6,6 +6,8 @@ import { Helmet } from 'react-helmet';
 import { Layout } from '../components';
 import * as blocks from '../blocks';
 import { safePrefix, loadDataRef } from '../utils';
+import { generatePostSchemaOrg } from '../utils/generatePostSchemaOrg';
+
 const SectionList = ({ sections, ...props }) => {
   return (
     <React.Fragment>
@@ -40,10 +42,7 @@ export default class Post extends React.Component {
       meta.ogimage || meta.thumb_img_path || meta.content_img_path,
       _.get(this.props, 'pageContext.site.siteMetadata.siteUrl'),
     );
-    const author = loadDataRef(
-      this.props.pageContext,
-      _.get(this.props, 'pageContext.frontmatter.author'),
-    );
+    const author = loadDataRef(this.props.pageContext, meta.author);
 
     const { before, header, content, after, footer } = template;
 
@@ -66,6 +65,13 @@ export default class Post extends React.Component {
             property="og:publish_date"
             content={moment(meta.date).format()}
           />
+          <script
+            className="structured-data-list"
+            type="application/ld+json"
+            key="article"
+          >
+            {generatePostSchemaOrg(this.props.pageContext, { image, author })}
+          </script>
         </Helmet>
 
         <div className="outer bg-white">
