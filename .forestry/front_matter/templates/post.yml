@@ -5,9 +5,9 @@ fields:
 - type: text
   name: title
   label: Title
-  description: The title of the post.
   config:
     required: true
+  description: Si possible < 60 charactères
 - type: text
   name: subtitle
   label: Subtitle
@@ -29,6 +29,8 @@ fields:
   name: excerpt
   label: Excerpt
   description: The excerpt of the post displayed in the blog feed.
+  config:
+    max: '160'
 - type: text
   name: template
   label: Template
@@ -36,6 +38,13 @@ fields:
   default: post
   config:
     required: true
+- name: twitter_card
+  type: text
+  config:
+    required: false
+  label: twitter_card
+  hidden: true
+  default: summary_large_image
 - name: author
   type: select
   default: 
@@ -48,7 +57,7 @@ fields:
       file: src/data/authorss.json
       path: 
   label: Auteur
-- name: social_image
+- name: ogimage
   type: file
   config:
     maxSize: 250
