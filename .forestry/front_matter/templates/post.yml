@@ -48,6 +48,26 @@ fields:
   config:
     maxSize: 250
   label: social image (ratio 2:1)
+- name: og_image_width
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: 'Largeur Social image '
+- name: og_image_height
+  type: number
+  label: Hauteur Social Image
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 - name: hashtags
   type: tag_list
   default: []
