@@ -101,5 +101,19 @@ menus:
     title: Recrutement
     weight: 2
 template: home
+title: Recrutez vos participant avec Tandemz
+description: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des
+  réseaux sociaux.
+keywords: recrutement, participant, UX
+ogtitle: ''
+ogdescription: ''
+ogtype: website
+ogimage: "/images/Logo@200-1.png"
+ogimagealt: Logo Tandemz
+og_image_width: 200
+og_image_height: 200
+twitter_card: summary
+metatags: []
+schema_org_data_list: []
 
 ---
