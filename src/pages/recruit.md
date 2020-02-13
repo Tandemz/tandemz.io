@@ -99,7 +99,7 @@ sections:
 menus:
   solutions:
     title: Recrutement
-    weight: 2
+    weight: 1
 template: home
 title: Recrutez vos participant avec Tandemz
 description: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des

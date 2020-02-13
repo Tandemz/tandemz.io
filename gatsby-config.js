@@ -65,7 +65,7 @@ module.exports = {
               identifier: 'solutions',
               title: 'Solutions',
               weight: 2,
-              url: '/panel',
+              url: '/recruit',
             },
           ],
         },

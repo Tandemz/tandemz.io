@@ -98,7 +98,7 @@ sections:
 menus:
   solutions:
     title: Gestion de panel
-    weight: 1
+    weight: 2
 template: home
 title: Créez et gérez votre panel avec Tandemz
 description: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil.
