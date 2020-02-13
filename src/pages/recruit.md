@@ -18,14 +18,14 @@ sections:
   section_id: why-social
   title: ''
   valueblocks:
-  - icon: ''
+  - icon: "/images/Filter200h.png"
     title: Panel large, ciblage précis
     content: Votre cible parfaite se trouve sûrement parmi les millions d'utilisateurs
       quotidiens des réseaux sociaux.
   - title: Vos études à l'international
     content: Les réseaux sociaux n'ont pas de frontière. Faites votre recherche utilisateur
       avec des participants du monde entier.
-    icon: ''
+    icon: "/images/World200h.png"
   - title: Des participants candides
     icon: ''
     content: Avec un aussi large panel de personnes, vous ne tomberez pas deux fois
