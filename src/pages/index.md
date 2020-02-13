@@ -25,11 +25,11 @@ sections:
     icon: "/images/Fast200h-1.png"
   - content: Passez moins de temps sur de la logistique, et plus de temps à comprendre
       les besoins de vos utilisateur !
-    icon: "/images/Simple200h.png"
+    icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
-    content: Regroupez toutes les données de vos sessions et de vos participants,
-      et ayez enfin une vision globale sur votre processus de recherche.
+    content: Regroupez toutes les données de votre recherche et de vos participants,
+      et ayez enfin une vision globale de vos process.
     icon: "/images/Centralized200h.png"
   value_title_1: ''
   value_content_1: ''

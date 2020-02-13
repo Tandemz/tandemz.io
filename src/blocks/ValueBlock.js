@@ -11,7 +11,7 @@ export default class ValueBlock extends React.Component {
         className={
           'block cell-block value-block bg-' +
           _.get(this.props, 'section.bg') +
-          ' outer'
+          ' outer-medium'
         }
       >
         {_.get(this.props, 'section.title') && (
