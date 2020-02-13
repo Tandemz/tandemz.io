@@ -13,7 +13,7 @@ sections:
     url: "/contact"
 - template: valueblock
   component: ValueBlock
-  bg: white
+  bg: gray
   type: valueblock
   section_id: why-social
   title: ''
