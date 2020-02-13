@@ -22,10 +22,10 @@ sections:
   - title: Recrutement rapide
     content: Atteignez rapidement les bons participants pour vos études, quelle que
       soit votre cible, qu'ils vous connaissent ou non.
-    icon: ''
+    icon: "/images/Fast200h.png"
   - content: Passez moins de temps sur de la logistique, et plus de temps à comprendre
       les besoins de vos utilisateur !
-    icon: ''
+    icon: "/images/Simple200h.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
     content: Regroupez toutes les données de vos sessions et de vos participants,
