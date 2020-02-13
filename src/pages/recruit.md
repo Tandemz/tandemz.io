@@ -5,7 +5,7 @@ sections:
   section_id: hero
   title: Faites du monde entier votre panel
   component: HeroBlock
-  content: Chez Tandemz, nous recrutons vos participants parmi les 3,4 Millions d'utilisateurs
+  content: Chez Tandemz, nous recrutons vos participants parmi les 3,4 milliards d'utilisateurs
     des réseaux sociaux.
   image: ''
   actions:
