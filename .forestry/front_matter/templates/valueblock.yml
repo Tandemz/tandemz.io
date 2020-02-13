@@ -1,11 +1,15 @@
 ---
 label: Value Section
 hide_body: true
-display_field: section_id
+display_field: title
 fields:
 - type: text
   name: section_id
   label: Element ID
+- type: text
+  name: title
+  label: Title
+  description: The title of the section.
 - type: text
   name: component
   label: Component
@@ -24,20 +28,21 @@ fields:
     options:
     - gray
     - white
-- type: text
-  name: value_title_1
-  label: Value Title 1
-- type: textarea
-  name: value_content_1
-  label: Value Content 1
-  description: The text content of the feature.
-- type: text
-  name: value_title_2
-  label: Value Title 2
-- type: textarea
-  name: value_content_2
-  label: Value Content 2
-  description: The text content of the feature.
+- type: field_group_list
+  name: valueblocks
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: text
+    name: content
+    label: Content
+  - type: file
+    name: icon
+    label: Icon
+  config:
+    labelField: title
+  label: Value Blocks
 - type: text
   name: type
   label: Reference Type Name

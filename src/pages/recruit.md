@@ -3,32 +3,33 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Utilisez le plus grand panel mondial
+  title: Faites du monde entier votre panel
   component: HeroBlock
-  content: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des réseaux
-    sociaux.
+  content: Chez Tandemz, nous recrutons vos participants parmi les 3,4 milliards d'utilisateurs
+    des réseaux sociaux.
   image: ''
   actions:
-  - label: Ça m'intéresse
+  - label: Commencer à recruter
     url: "/contact"
-- template: iconsblock
-  component: IconsBlock
-  bg: white
-  type: iconsblock
+- template: valueblock
+  component: ValueBlock
+  bg: gray
+  type: valueblock
   section_id: why-social
-  title: Pourquoi les réseaux sociaux ?
-  iconblocks:
+  title: ''
+  valueblocks:
   - icon: ''
-    title: Plus de 3,4 M de personnes
-    content: Quelque soit vos critères, il existe quelqu'un dans le panel qui corresponde
-  - title: Ciblage pertinent
-    content: Les réseaux sociaux connaissent énormément d'informations sur leurs utilisateurs.
-      Pour pourrez cibler facilement toutes les cibles
+    title: Panel large, ciblage précis
+    content: Votre cible parfaite se trouve sûrement parmi les millions d'utilisateurs
+      quotidiens des réseaux sociaux.
+  - title: Vos études à l'international
+    content: Les réseaux sociaux n'ont pas de frontière. Faites votre recherche utilisateur
+      avec des participants du monde entier.
     icon: ''
-  - title: Aucun biais
+  - title: Des participants candides
     icon: ''
-    content: La plupart de vos participants feront un test pour la premièrre fois.
-      Garanti sans professionnel du test
+    content: Avec un aussi large panel de personnes, vous ne tomberez pas deux fois
+      sur le même utilisateur.
   subtitle: ''
 - type: featuresblock
   template: featuresblock
@@ -99,7 +100,7 @@ sections:
 menus:
   solutions:
     title: Recrutement
-    weight: 1
+    weight: 2
 template: home
 title: Recrutez vos participant avec Tandemz
 description: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des

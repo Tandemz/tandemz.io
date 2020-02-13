@@ -11,26 +11,30 @@ sections:
   actions:
   - label: Commencer à recruter
     url: "/contact"
-- template: iconsblock
-  component: IconsBlock
+- template: valueblock
+  component: ValueBlock
   bg: white
-  type: iconsblock
+  type: valueblock
   section_id: Value
   title: ''
   subtitle: ''
-  iconblocks:
+  valueblocks:
   - title: Recrutement rapide
-    content: Atteignez rapidement les bons participants pour vos études, quelle que
-      soit votre cible, qu'ils vous connaissent ou non.
-    icon: ''
+    content: Atteignez rapidement des participants dans votre cible pour vos études,
+      qu'ils vous connaissent ou non.
+    icon: "/images/Fast200h-1.png"
   - content: Passez moins de temps sur de la logistique, et plus de temps à comprendre
       les besoins de vos utilisateur !
-    icon: ''
+    icon: "/images/Simple200h.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
     content: Regroupez toutes les données de vos sessions et de vos participants,
       et ayez enfin une vision globale sur votre processus de recherche.
-    icon: ''
+    icon: "/images/Centralized200h.png"
+  value_title_1: ''
+  value_content_1: ''
+  value_title_2: ''
+  value_content_2: ''
 - type: featuresblock
   template: featuresblock
   section_id: Features
