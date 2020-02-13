@@ -55,8 +55,7 @@
   }
 }
 
-.features-block,
-.value-block {
+.features-block {
   .block-title {
     font-size: 1.66667rem;
     line-height: 150%;
@@ -201,22 +200,20 @@
 
 /* Value */
 
-.value-block {
-  .block-content {
-    margin-bottom: 2.4rem;
-  }
-
-  .block-content:last-child {
-    margin-bottom: 0;
-  }
+.valueblock-icon {
+  width: 60px;
+  height: auto;
 }
 
-@media only screen and (min-width: 741px) {
-  .value-block {
-    .block-content {
-      margin-bottom: 0;
-    }
-  }
+.valueblock {
+  text-align: left;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.valueblock-title {
+  margin: 1rem 0 1rem 0;
+  font-size: 1.11111rem;
 }
 
 /* Call to Action */
