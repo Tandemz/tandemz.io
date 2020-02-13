@@ -3,13 +3,13 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Utilisez le plus grand panel mondial
+  title: Le monde entier est votre panel
   component: HeroBlock
-  content: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des réseaux
-    sociaux.
+  content: Sur Tandemz, vous recrutez vos participants parmi les 3,4 milliards d'utilisateurs
+    des réseaux sociaux.
   image: ''
   actions:
-  - label: Ça m'intéresse
+  - label: Commencer à recruter
     url: "/contact"
 - template: iconsblock
   component: IconsBlock
@@ -99,7 +99,7 @@ sections:
 menus:
   solutions:
     title: Recrutement
-    weight: 1
+    weight: 2
 template: home
 title: Recrutez vos participant avec Tandemz
 description: Sur Tandemz, nous recrutons parmi les 3,4 Millions d'utilisateurs des
