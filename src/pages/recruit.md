@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Faites du monde votre panel
+  title: Faites du monde entier votre panel
   component: HeroBlock
   content: Chez Tandemz, nous recrutons vos participants parmi les 3,4 Millions d'utilisateurs
     des réseaux sociaux.
