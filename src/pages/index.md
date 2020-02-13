@@ -30,7 +30,7 @@ sections:
   - title: Suivi centralisé
     content: Regroupez toutes les données de vos sessions et de vos participants,
       et ayez enfin une vision globale sur votre processus de recherche.
-    icon: ''
+    icon: "/images/Centralized200h.png"
 - type: featuresblock
   template: featuresblock
   section_id: Features
