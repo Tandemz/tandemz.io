@@ -43,21 +43,21 @@ sections:
     content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**,
       et nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
       adaptée.
-    image: "/images/Illustration - Recruit-1.svg"
+    image: ''
     actions: []
     coming_soon: false
   - title: 2. Visibilité et réactivité
     content: Grâce à votre dashboard personnel, suivez l'avancement en temps réel
       de vos recrutement. Une question, un soucis ? Contactez-nous directement sur
       la plateforme, nous vous répondons dans la minute.
-    image: "/images/Designer.svg"
+    image: ''
     actions: []
     coming_soon: false
   - title: 3. Réalisez vos tests en tout sérénité
     content: 'Sans le poids de la l''organisation logistique, vous pouvez enfin vous
       concentrer sur ce qui compte vraiment : comprendre en profondeur le comportement
       de vos utilisateurs et améliorer vos produits en fonction.'
-    image: "/images/Capture d’écran 2020-02-10 à 11.49.05.png"
+    image: ''
     actions: []
     coming_soon: false
 - template: pricingblock
