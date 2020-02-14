@@ -29,6 +29,7 @@ fields:
   template: page-seo
   label: SEO
 pages:
+- src/pages/Légal/politique-de-confidentialité.md
 - src/pages/about.md
 - src/pages/conditions-générales-d-utilisation.md
 - src/pages/confidentialité-et-protection-des-données.md
