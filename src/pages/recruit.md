@@ -27,7 +27,7 @@ sections:
       avec des participants du monde entier.
     icon: "/images/World200h.png"
   - title: Des participants candides
-    icon: "/images/Like200h.png"
+    icon: "/images/Like200h-1.png"
     content: Avec un aussi large panel de personnes, vous ne tomberez pas deux fois
       sur le même utilisateur.
   subtitle: ''
