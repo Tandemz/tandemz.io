@@ -52,7 +52,7 @@ sections:
     - label: En savoir plus
       url: "/recruit"
     coming_soon: false
-  - title: ''
+  - title: Gérez votre propre panel et parlez simplement avec vos utilisateur !
     content: 'Vos utilisateurs ont certainement beaucoup de choses à vous dire et
       à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre entre vous
       et eux : rencontrer les facilement et rapidement.'
