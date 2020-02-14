@@ -46,10 +46,11 @@ sections:
     image: ''
     actions: []
     coming_soon: false
-  - title: 2. Visibilité et réactivité
-    content: Grâce à votre dashboard personnel, suivez l'avancement en temps réel
-      de vos recrutement. Une question, un soucis ? Contactez-nous directement sur
-      la plateforme, nous vous répondons dans la minute.
+  - title: 2. Nous nous occupons de toute l'organisation
+    content: Grâce à votre dashboard personnel, regardez votre planning se remplir
+      et suivez l'avancement en temps réel de vos recrutement. Une question, un soucis
+      ? Contactez-nous directement sur la plateforme, nous vous répondons dans la
+      minute.
     image: ''
     actions: []
     coming_soon: false
