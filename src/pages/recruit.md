@@ -39,14 +39,10 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Définissez vos crières
-    content: |-
-      Nous verrons ensemble vos critères exacts :
-
-      * Cible
-      * Date
-      * Modalités
-      * Contrepartie
+  - title: 1. Définissez vos crières
+    content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**,
+      et nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
+      adaptée.
     image: "/images/Illustration - Recruit-1.svg"
     actions: []
     coming_soon: false
