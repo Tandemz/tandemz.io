@@ -125,8 +125,6 @@ Quand vous communiquez avec nous, nous collectons les donées relatives à ces c
 
 ## Partage à des tiers
 
-Nous ne partagerons pas vos données personnelles à des tiers sans votre consentement sauf dans les situations décrite ci-dessous.
-
 ### Sous-traitants
 
 Nous pouvons partager vos informations à des sous-traitants que nous avons recruté afin de remplir certaines fonctions à notre compte, pour un des motifs de liste des motifs légitimes poursuivi par Tandemz nécessitant la collecte d'informations personnelles.
@@ -145,6 +143,57 @@ Hubspot | | Nous utilisons hubspot pour le suivi des prospects commercial et des
 Crisp | | Crisp fourni la fenêtre de chat intégré à l'application. Nous l'utilisons pour le suivi des conversation et le support.  
 Facebook pixel | | Nous utilisons un pixel Facebook pour le faire le suivit des personnes ayant cliqué sur un contenu sponsorisé publié pour le recrutement à une session de test.  
 Weglot | | Tandemz utilise Weglot pour gérer les traductions sur le site vitrine [https://tandemz.io](https://tandemz.io)
+
+### Mise en relations
+
+#### Publication d'une session de test
+
+Dans le cadre de l'organisation d'un test plusieurs information du clients  peuvent être rendu publique. Les informations suivantes pourront être visible par les participants lors de leur inscriptions : 
+
+* L'adresse de la société et son nom (si le rendez-vous se fait en physique, pour permettre au participant d'anticiper le temps de trajet)
+* Les créneaux de disponibilité du client
+
+#### Données transmise au client lors de l'inscription à un test
+
+Lors de l'inscription à un tests, les données suivantes du participants peuvent être transmise au client : 
+
+* Prénom
+* La première lettre du nom de famille
+* L'adresse choisi par le participant pour la rencontre
+* Les réponses au questionnaire d'inscriptions au test.
+
+Si le client accepte de rencontrer le participant, seront alors transmis : 
+
+* Le numéro de téléphone, si la rencontre se fait au téléphone
+* L'adresse email
+
+#### Obligations légale et sécurité
+
+Tandemz pourra transmettre vos données personnelles avec des tiers supplémentaires dans les conditions suivantes : 
+
+* Si vous nous donner votre consentement
+* Si nous pensons de bonne fois que la transmission de vos donnés à ces tiers est requise par la loi
+* Pour la sauvegarde des intérêts vitaux de la personne concernée ou d’un tiers
+* Pour protéger la sécurité des Services, se protéger du spam, d'abus ou d'activités malicieuses
+* Pour protéger nos droits, nos propriété ou les droits ou les propriété des personnes utilisant les services de Tandemz.
+
+## Conservation des données personnelles
+
+Toutes les données personnelles que vous renseignez directement (que vous soyez Client, Participant ou Visiteurs) sont conservé pendant 3 ans maximum après la date de dernière activité.
+
+Lors de la suppression, toutes les informations à caractère personnel permettant de vous identifier nominativement sont supprimées définitivement de nos bases de données ; à savoir : vos email, nom, adresse postale, n° de téléphone, entreprise et, le cas échéant, votre IBAN.
+
+Dans le cas des clients, nous supprimons également les informations personnelles permettant l'identification de tous les participants potentiels ajouté par le client qui n'ont pas donné leur consentement pour participer à des tests organisés par d'autre clients.
+
+Vos autres informations de profil comme les informations socio-démographiques, de consommation ou vos activités sur les sites et plateformes sont conservées de manière complètement anonymisée à des fins de recherche scientifique et à des fins statistiques (art. 89, paragraphe 1 et 2 du Règlement général sur la protection des données du 27 avril 2016) ; l’anonymisation de ces données ne permettant plus d’identifier les personnes concernées.
+
+### Demande de suppression
+
+Vous pouvez à tout moment demander la suppression de vos données personnelles, soit dans votre espace membre, soit en nous envoyant un mail à [contact@tandemz.io](mailto://contact@tandemz.io)
+
+Lors d'une demande de suppression nous conserverons malgré toute les données personnelles nécessaire à l'établissement, l'exercice ou à la défense de réclamation en justice ou de litige. Dans, elles seront malgré tout supprimé à la fin des durée de prescription/forclusion applicables.
+
+Nous pouvons également conservée des données si leur suppression nous empêcherait d'effectuer des opérations de fonctionnement essentielles comme la facturation, le calcul de taxes ou la conduite d'audit. Elle seront alors supprimé à la fin des dîtes opérations.
 
 ## Quels sont vos droits ?
 
