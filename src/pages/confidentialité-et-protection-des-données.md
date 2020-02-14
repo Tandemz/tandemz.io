@@ -29,25 +29,136 @@ L'utilisation du site ne nécessite pas la collecte d'informations personnelles.
 
 La manière dont nous collectons vos données dépend des sites, platformes ou services que vous utilisez, ainsi que de l'utilisation que vous en avez.
 
-Ces données peuvent être collectés de trois manières différentes: 
+Ces données peuvent être collectés de deux manières différentes: 
 
 1. **Directement** en tant que client, participant ou visiteur, par la soumission de formulaires sur le site ou les plateformes
-2. **Indirectement de manière automatique** via l'utilisation de technologies automatisés ou via des tiers
-3. **Indirectement** **en tant que sous-traitant** au sens de [l'article 4 de la RGPD](), pour le compte de nos clients. Nous collectons ainsi des données de participants et celles-ci sont soumise au [Contrat de sous-traitance des données personnelles](/contrat-de-sous-traitance-des-données-personnelles/) passé avec le client concerné.  
+2. **Indirectement** via l'utilisation de technologies automatisés ou via des tiers
 
-Tandemz collecte des données sans consentement libre, spécifique, éclairée et univoque sur une base légale d'intérêt légitime pour l'un des objectifs listés ci-dessous.
+Le détail des données collecté et détaillé dans les sous-parties suivante.
 
-Les intérêts légitimes poursuit par Tandemz nécessitant la collecte d'informations personnelles inclus :
+Tandemz collecte des données sans consentement libre, spécifique, éclairée et univoque sur une base légale d'intérêt légitime pour l'un des motifs listés ci-dessous.
+
+Les motif légitimes poursuivi par Tandemz nécessitant la collecte d'informations personnelles inclus :
 
 * Fournir un accès et une utilisation aux services et à aux platformes de Tandemz. Cela inclue l'inscription en tant que participant ou client
-* Délivrer un service au clients, comme la selection de candidats sur des critères démographque
-* Améliorer les services 
+* Délivrer un service au clients, comme la selection de candidats sur des critères démographique
+* Améliorer votre expérience avec les services
+* Comprendre la manière dont vous accédez, interagissez et utilisez les services afin de fournir de nouvelle fonctionnalités, de nouveaux produit ou de nouveaux services, améliorer ceux existant ou analyser l'utilisation de notre service
+* Communiquer avec vous pour l'un des intérêts légitimes dans cette présente liste
+* Fournir un support client par rapport à l'utilisation de nos services
+* Détecter des fraudes, des utilisations illégales ou des failles de sécurités
+* Recevoir ou envoyer des paiements
+* Fournir des informations aux autorités légales et administratives à la demande de ceux-ci
+* A des fin de recherche scientifique comme le développement de nouveaux algorithmes de mise en relation.
 
-## Comment sont partagé vos données à des tiers ?
+### Données collecté auprès des Visiteurs
+
+Lors de leur visite sur un de nos sites ou platformes, nous collectons auprés des visiteurs des information relative à leur utilisation du site. Cela comprends les pages vues, les boutons et les liens cliqués; le temps passé sur le site et le navigateur. Ces données sont collecté de manière anonyme et agrégé.
+
+Si le visiteur envoie le formulaire de contact ou discute avec notre équipe de support, les données suivantes peuvent être aussi collecté : 
+
+* Nom
+* Prénom
+* Adresse Email
+* Messages échangés 
+* Le status en ligne ou hors ligne
+* IP Address
+* Geographic Location, City, Country (guessed from the IP address)
+* Langue préférée
+* Le fuseau horaire
+* Les informations liés à la profession (Poste, Employeur, Adresse professionnelle)
+* Les données déduite des information publiques sur google (Avatar, Twitter/Facebook profile)
+
+Les données collecté auprès des Visiteurs sont enregistrées afin de récolter des métriques sur l'utilisation des sites, platerformes ou services, améliorer les sites, plateformes ou services, de répondre aux demande des visiteurs ou de leurs fournir les documents ou informations demandées.
+
+### Données collecté auprès des Clients
+
+Lors de leur inscription ou de leur utilisation de nos services et plateforme, nous pouvons être en mesure de demander à nos clients des informations personnelles supplémentaire, comme l'adresse email, le nom, l'entreprise ou toute autre information jugé pertinente.
+
+Les données collecté auprès des Clients sont utilisées pour identifier les clients, leur fournir des accès aux platformes, au respect des obligations contractuels de Tandemz, à la facturation, à des fins statistiques d'utilisation des sites, services et plateformes, à l'amélioration des sites, services et plateformes, au support ou pour leur fournir des conseils liés à leur utilisation des plateformes.
+
+Le client est, par contre, responsable de la conformité legislative de la collecte de donnés, de leur traitement ou d'enregistrement lors de la réalisation des tests tels que décrit dans [le contrat de sous-traitance](/contrat-de-sous-traitance-des-données-personnelles/).
+
+### Données collectés auprès des participants
+
+Lors de l'inscription à sa première session, nous collectons auprès des participants l'email, le nom, le prénom et le numéro de téléphone.
+
+Ces informations peuvent être utilisé afin de contacter le participant. Nous utilisons également ces données afin de connaitre ses participations précédentes afin de limiter, ou non, sa participation à des tests.
+
+Nous demandons également à chaque participant des informations supplémentaires, afin de vérifier l'éligibilité d'un candidat à un test selon les critères définis par un client ainsi qu'a la production de statistique. C'est données peuvent inclurent, l'âge, la profession, revenu moyen, le genre, des habitudes consommations, les langues parlées, les équipement numérique possédés, l'aisance avec le numérique ou le système d'exploitation utilisé.
+
+Ces informations sont demandé dans un questionnaire dédié. Si un participant choisi de ne pas répondre à ces questions, il ne pourra être considéré éligible aux tests associés.
+
+Nous pouvons être également amené à demander la majorité d'un participant pour des raisons légale de traitement des données ou de rémunération.
+
+Tandemz peut également utiliser les données collectées auprès des participants pour le paiement, aider le participant sur l'utilisation des sites ou plateformes, construire des statistiques anonyme et agrégé ainsi que tout autre motif légitime.
+
+Enfin, avec votre consentement et pour certains tests seulement, nous collectons des informations relative à la complétion du formulaire de participation à ce test. Ces données sont utilisés afin d'optimiser les publicités permettant de trouver des participant à ce test.
+
+### **Données collecté indirectement**
+
+#### Données de tracking
+
+Tandemz utilise des données indirecte, quand un visiteur arrive sur un des sites ou plateformes pour connaitre sa provenance (comme un autre site, une publicité ou un email). Tandemz utilise ces donnée pour améliorer ses produits ou services.
+
+#### Données depuis les clients
+
+En tant que sous-traitant au sens de [l'article 4 de la RGPD](), pour le compte de nos clients, nous collectons des données de participants potentiels. Ces participants potentiels ont donné leur permission après de nos clients à la transmission de leur données avec nous. Ces données sont soumise au [Contrat de sous-traitance des données personnelles](/contrat-de-sous-traitance-des-données-personnelles/) passé avec le client concerné.  
+
+Nous utilisons ces donnée pour contacté les participants potentiels afin de leur proposer les tests organisé par le client nous ayant fournis ces données uniquement.
+
+Avec le consentement des participants potentiels nous pouvons être amené à les contacté dans le cadre de tests avec d'autres clients.
+
+#### Cookies 
+
+Tandemz utilise des cookies sur ses sites et plateformes. Un cookie est une petite quantité de données, qui contient souvent un identifiant unique et anonyme, envoyée à votre navigateur par un serveur Web et stockée sur le disque dur de votre ordinateur. Les informations collectées grâce à ce cookie peuvent être associées à d'autres cookies que vous possédez sur votre ordinateur et utilisées pour compléter les informations dont nous disposons à votre sujet. Voir la politique relative aux cookies.
+
+Les visiteurs ont la possibilité d'accepter ou de décliner les cookies qui ne sont pas directement nécessaire à l'utilisation des sites et platefromes de Tandemz.
+
+#### Do Not Track
+
+Les sites et platformes de Tandemz répondent au signal Do Not Track ("DNT"). Pour plus d'information sur le paramètre DNT, visitez [https://allaboutdnt.com/](https://allaboutdnt.com/ "https://allaboutdnt.com/")
+
+#### Communications
+
+Quand vous communiquez avec nous, nous collectons les donées relatives à ces communications.
+
+## Partage à des tiers
+
+Nous ne partagerons pas vos données personnelles à des tiers sans votre consentement sauf dans les situations décrite ci-dessous.
+
+### Sous-traitants
+
+Nous pouvons partager vos informations à des sous-traitants que nous avons recruté afin de remplir certaines fonctions à notre compte, pour un des motifs de liste des motifs légitimes poursuivi par Tandemz nécessitant la collecte d'informations personnelles.
+
+La liste exhaustive de ces sous-traitant est la suivante :
+
+Outil | société  | motif  
+\-- | -- | -- | --  
+Clever cloud | | Nous utilisons clever-cloud pour hébergé notre base de données. L'ensemble des données personnelles y sont conservés  
+Netlify | | Tandemz utilise Netlify pour pour l'hébergement du site vitrine [https://tandemz.io](https://tandemz.io "https://tandemz.io")  
+Datadog | | L'ensemble de nos logs sont enregistré sur datadog pour un durée de 2 semaines. Ils nous servent à corriger des bugs et à l'amélioration des sites et plateformes et peuvent contenir des données personnelles.  
+Google Analytics | | Nous utilisons Google Analytics de manière anonymisé et sans transmission de l'IP pour collecter des information relative à l'utilisation du site  
+Sendin blue | | Nous utilisons sendinblue pour l'envoie de mail automatique. G Suite |  | Tandemz utilise Google Suite en tant que office interne pour les emails, agendas, documents et le stockage des fichiers  
+Typeform | | Nous utilisons Typeform pour générer le questionnaire de participation à un tests et collecter les réponses  
+Hubspot | | Nous utilisons hubspot pour le suivi des prospects commercial et des clients  
+Crisp | | Crisp fourni la fenêtre de chat intégré à l'application. Nous l'utilisons pour le suivi des conversation et le support.  
+Facebook pixel | | Nous utilisons un pixel Facebook pour le faire le suivit des personnes ayant cliqué sur un contenu sponsorisé publié pour le recrutement à une session de test.  
+Weglot | | Tandemz utilise Weglot pour gérer les traductions sur le site vitrine [https://tandemz.io](https://tandemz.io)
 
 ## Quels sont vos droits ?
 
-## Contact?
+## Contact
+
+Tandemz, SAS au capital de 2 400 € en cours d’immatriculation. 
+
+Directeur de publication : Marine Wolffhugel
+
+Siège social : 199 avenue de Choisy 75013 Paris
+
+Contact mail : [contact@tandemz.io](mailto:contact@tandemz.io)
+
+Téléphone : 07 83 92 37 88
 
 ***
 
