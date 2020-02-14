@@ -17,3 +17,10 @@ metatags: []
 schema_org_data_list: []
 
 ---
+Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit comment nous traitons les données personnel que vous nous confiez, dans quel objectif.
+
+## Résumé
+
+## Qui sommes-nous ?
+
+Tandemz SAS 199 avenue de Choisy 75013 Paris ("**Tandemz**" ou "**nous**") fournit un site ("**Site**") présentant des contenus, comme les offres de services ("**Service**") de Tandemz, aux visiteurs ("**Visiteur**"). Ces services inclus notamment une plateforme ("**Platforme**") permettant à nos clients ("**Client**") de demander des retours ("**Test**") à des particuliers ou des professionnels ("**Participant**").
