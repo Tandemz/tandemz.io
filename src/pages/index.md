@@ -43,16 +43,19 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Recrutement de testeurs
-    content: Nous recrutons vos testeurs directement dans les réseaux sociaux. Rapide,
-      fiable.
+  - title: Nous recrutons vos testeurs quelque soit votre cible
+    content: 'Notre méthode permet de cibler précisément parmi les 3,4 milliards d''utilisateurs
+      de réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
+      millions d''internautes qui s''y connectent tous les jours ! '
     image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
       url: "/recruit"
     coming_soon: false
-  - title: Gérez votre propre panel
-    content: Un super panel à votre disposition
+  - title: ''
+    content: 'Vos utilisateurs ont certainement beaucoup de choses à vous dire et
+      à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre entre vous
+      et eux : rencontrer les facilement et rapidement.'
     image: "/images/Illustration - Recruit.svg"
     actions:
     - label: En savoir plus
