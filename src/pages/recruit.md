@@ -46,25 +46,18 @@ sections:
     image: "/images/Illustration - Recruit-1.svg"
     actions: []
     coming_soon: false
-  - title: Nous gérons toute l'organisation
-    content: |-
-      Nous nous occuperons de :
-
-      * L'annonce dans les réseaux sociaux
-      * La stratégie d'enchère
-      * Le questionnaire de screening
-      * Le paiement des participants
+  - title: 2. Visibilité et réactivité
+    content: Grâce à votre dashboard personnel, suivez l'avancement en temps réel
+      de vos recrutement. Une question, un soucis ? Contactez-nous directement sur
+      la plateforme, nous vous répondons dans la minute.
     image: "/images/Designer.svg"
     actions: []
     coming_soon: false
-  - title: Suivez l'avancement du recrutement
-    content: Vous pourrez voir en direct l'avancement de votre annonce
+  - title: 3. Réalisez vos tests en tout sérénité
+    content: 'Sans le poids de la l''organisation logistique, vous pouvez enfin vous
+      concentrer sur ce qui compte vraiment : comprendre en profondeur le comportement
+      de vos utilisateurs et améliorer vos produits en fonction.'
     image: "/images/Capture d’écran 2020-02-10 à 11.49.05.png"
-    actions: []
-    coming_soon: false
-  - title: Recontrez vos utilisateurs
-    content: C'est à vous de jouer !
-    image: ''
     actions: []
     coming_soon: false
 - template: pricingblock
