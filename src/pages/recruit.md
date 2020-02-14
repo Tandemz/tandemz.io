@@ -37,7 +37,7 @@ sections:
   title: Comment ça marche ?
   component: FeaturesBlock
   subtitle: ''
-  bg: white
+  bg: gray
   featureslist:
   - title: 1. Définissez vos crières
     content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**,
