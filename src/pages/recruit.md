@@ -51,7 +51,7 @@ sections:
       et suivez l'avancement en temps réel de vos recrutement. Une question, un soucis
       ? Contactez-nous directement sur la plateforme, nous vous répondons dans la
       minute.
-    image: "/images/Illustration - Follow.svg"
+    image: "/images/Illustration - Follow-1.svg"
     actions: []
     coming_soon: false
   - title: 3. Réalisez vos tests en tout sérénité
