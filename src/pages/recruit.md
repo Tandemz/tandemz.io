@@ -43,7 +43,7 @@ sections:
     content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**,
       et nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
       adaptée.
-    image: "/images/Illustration - Criteria.svg"
+    image: "/images/Illustration - Criteria-1.svg"
     actions: []
     coming_soon: false
   - title: 2. Nous nous occupons de toute l'organisation
@@ -51,14 +51,14 @@ sections:
       et suivez l'avancement en temps réel de vos recrutement. Une question, un soucis
       ? Contactez-nous directement sur la plateforme, nous vous répondons dans la
       minute.
-    image: "/images/Illustration - Follow-2.svg"
+    image: "/images/Illustration - Follow-3.svg"
     actions: []
     coming_soon: false
   - title: 3. Réalisez vos tests en tout sérénité
     content: 'Sans le poids de la l''organisation logistique, vous pouvez enfin vous
       concentrer sur ce qui compte vraiment : comprendre en profondeur le comportement
       de vos utilisateurs et améliorer vos produits en fonction.'
-    image: "/images/Illustration - Testing.svg"
+    image: "/images/Illustration - Testing-1.svg"
     actions: []
     coming_soon: false
 - template: pricingblock
