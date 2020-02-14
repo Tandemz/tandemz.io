@@ -33,7 +33,15 @@ Ces données peuvent être collectés de trois manières différentes:
 
 1. **Directement** en tant que client, participant ou visiteur, par la soumission de formulaires sur le site ou les plateformes
 2. **Indirectement de manière automatique** via l'utilisation de technologies automatisés ou via des tiers
-3. **Indirectement** **en tant que sous-traitant** au sens de [l'article 4 de la RGPD](), pour le compte de nos clients 
+3. **Indirectement** **en tant que sous-traitant** au sens de [l'article 4 de la RGPD](), pour le compte de nos clients. Nous collectons ainsi des données de participants et celles-ci sont soumise au [Contrat de sous-traitance des données personnelles](/contrat-de-sous-traitance-des-données-personnelles/) passé avec le client concerné.  
+
+Tandemz collecte des données sans consentement libre, spécifique, éclairée et univoque sur une base légale d'intérêt légitime pour l'un des objectifs listés ci-dessous.
+
+Les intérêts légitimes poursuit par Tandemz nécessitant la collecte d'informations personnelles inclus :
+
+* Fournir un accès et une utilisation aux services et à aux platformes de Tandemz. Cela inclue l'inscription en tant que participant ou client
+* Délivrer un service au clients, comme la selection de candidats sur des critères démographque
+* Améliorer les services 
 
 ## Comment sont partagé vos données à des tiers ?
 
