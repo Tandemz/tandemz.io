@@ -23,8 +23,8 @@ sections:
     content: Atteignez rapidement des participants dans votre cible pour vos études,
       qu'ils vous connaissent ou non.
     icon: "/images/Fast200h-1.png"
-  - content: Passez moins de temps sur de la logistique, et plus de temps à comprendre
-      les besoins de vos utilisateur !
+  - content: Passez moins de temps sur la logistique, et plus de temps à comprendre
+      les besoins de vos utilisateurs !
     icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
