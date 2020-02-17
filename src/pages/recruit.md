@@ -55,9 +55,9 @@ sections:
     actions: []
     coming_soon: false
   - title: 3. Réalisez vos tests en tout sérénité
-    content: 'Sans le poids de la l''organisation logistique, vous pouvez enfin vous
-      concentrer sur ce qui compte vraiment : comprendre en profondeur le comportement
-      de vos utilisateurs et améliorer vos produits en fonction.'
+    content: 'Sans le poids de la logistique, vous pouvez enfin vous concentrer sur
+      ce qui compte vraiment : comprendre en profondeur le comportement de vos utilisateurs
+      et améliorer vos produits en fonction.'
     image: "/images/Illustration - Testing-1.svg"
     actions: []
     coming_soon: false
