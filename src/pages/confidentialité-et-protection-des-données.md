@@ -1,9 +1,9 @@
 ---
 template: page
 title: Politique de Confidentialité
-subtitle: Politique de confidentialité et de protection de données de Tandemz
+subtitle: ''
 img_path: ''
-description: ''
+description: Politique de confidentialité et de protection de données de Tandemz
 keywords: ''
 ogtitle: ''
 ogdescription: ''
@@ -15,6 +15,10 @@ og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
+menus:
+  secondary:
+    title: Confidentialité
+    weight: 4
 
 ---
 Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit comment nous traitons les données personnel que vous nous confiez, dans quel objectif.
