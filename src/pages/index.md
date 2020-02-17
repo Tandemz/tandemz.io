@@ -23,8 +23,8 @@ sections:
     content: Atteignez rapidement des participants dans votre cible pour vos études,
       qu'ils vous connaissent ou non.
     icon: "/images/Fast200h-1.png"
-  - content: Passez moins de temps sur de la logistique, et plus de temps à comprendre
-      les besoins de vos utilisateur !
+  - content: Passez moins de temps sur la logistique, et plus de temps à comprendre
+      les besoins de vos utilisateurs !
     icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
@@ -47,16 +47,16 @@ sections:
     content: 'Notre méthode permet de cibler précisément parmi les 3,4 milliards d''utilisateurs
       de réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
       millions d''internautes qui s''y connectent tous les jours ! '
-    image: "/images/Illustration - Connect.svg"
+    image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
       url: "/recruit"
     coming_soon: false
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateur !
-    content: 'Vos utilisateurs ont certainement beaucoup de choses à vous dire et
-      à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre entre vous
-      et eux : rencontrer les facilement et rapidement.'
-    image: "/images/Illustration - Recruit.svg"
+    content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
+      dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
+      entre vous et eux : rencontrer les facilement et rapidement.'
+    image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
       url: "/panel"
