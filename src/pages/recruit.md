@@ -48,7 +48,7 @@ sections:
     coming_soon: false
   - title: 2. Nous nous occupons de toute l'organisation
     content: Grâce à votre dashboard personnel, regardez votre planning se remplir
-      et suivez l'avancement en temps réel de vos recrutement. Une question, un soucis
+      et suivez l'avancement en temps réel de vos recrutements. Une question, un soucis
       ? Contactez-nous directement sur la plateforme, nous vous répondons dans la
       minute.
     image: "/images/Illustration - Follow-4.svg"
