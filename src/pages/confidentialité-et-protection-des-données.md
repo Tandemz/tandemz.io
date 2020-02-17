@@ -25,7 +25,7 @@ Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette
 
 ## 1. Informations générales
 
-Tandemz SAS 199 avenue de Choisy 75013 Paris ("**Tandemz**", "**nous**" ou "**on**") fournit un site ("**Site**") présentant des contenus, comme les offres de services ("**Service**") de Tandemz, aux visiteurs ("**Visiteur**"). Ces Services inclus notamment une plateforme ("**Plateforme**") permettant à nos clients ("**Client**") de demander des retours ("**Test**") à des particuliers ou des professionnels ("**Participant**").
+Tandemz SAS, domiciliée au 199 Avenue de Choisy, 75013 Paris ("**Tandemz**", "**nous**" ou "**on**") fournit un site ("**Site**") présentant des contenus, comme les offres de services ("**Service**") de Tandemz, aux visiteurs ("**Visiteur**"). Ces Services inclus notamment une plateforme ("**Plateforme**") permettant à nos clients ("**Client**") de demander des retours ("**Test**") à des particuliers ou des professionnels ("**Participant**").
 
 L'utilisation du Site ne nécessite pas la collecte d'informations personnelles. Toutefois, si vous souhaitez utiliser certains Services proposés par Tandemz, comme l'accès à la Plateforme, l'organisation ou la participation à des Tests, la collectes de données à caractère personnelle est obligatoire. Les données personnelles correspondent à toutes données obtenu sur vous comme votre nom, prénom, vos emails, votre adresse, vos comportement d'utilisations ou vos informations à caractère démographique.
 
