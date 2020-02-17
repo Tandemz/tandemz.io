@@ -7,6 +7,18 @@ menus:
   secondary:
     title: Mentions légales
     weight: 4
+description: ''
+keywords: ''
+ogtitle: ''
+ogdescription: ''
+ogtype: ''
+ogimage: ''
+ogimagealt: ''
+og_image_width: 
+og_image_height: 
+twitter_card: ''
+metatags: []
+schema_org_data_list: []
 
 ---
 # Identification
@@ -15,7 +27,7 @@ Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.i
 
 Directeur de publication : Marine Wolffhugel
 
-Siège social : 33 rue Censier 75013 Paris, France
+Siège social : 199 avenue de Choisy 75013 Paris
 
 Contact mail : [contact@tandemz.io](mailto:contact@tandemz.io)
 
