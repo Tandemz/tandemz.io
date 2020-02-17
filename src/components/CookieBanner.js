@@ -3,12 +3,16 @@ import React, { useState } from 'react';
 const STORAGE_KEY = 'TANDEMZ_ACCEPTED_COOKIES';
 
 const CookieBanner = () => {
+  const ssr = typeof localStorage === 'undefined';
+
   const [accepted, setAccepted] = useState(
-    localStorage.getItem(STORAGE_KEY) || false,
+    ssr ? false : localStorage.getItem(STORAGE_KEY) || false,
   );
   const onAccept = () => {
     setAccepted(true);
-    localStorage.setItem(STORAGE_KEY, true);
+    if (!ssr) {
+      localStorage.setItem(STORAGE_KEY, true);
+    }
   };
 
   if (accepted) {
