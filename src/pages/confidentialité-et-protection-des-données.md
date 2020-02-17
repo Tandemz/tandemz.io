@@ -235,7 +235,7 @@ Vous pouvez nous demander, à tous moment, la rectification ou la suppression de
 
 Le droit d’opposition, vous permet de vous opposer au traitement de vos données par Tandemz pour un ou plusieurs motifs de traitement.
 
-Si vous souhaitez ne plus recevoir les mail à caractère marketing (comme la newsletter), un lien est présent à la fin de chaque mail vous permettant de vous desinscrire.
+Si vous souhaitez ne plus recevoir les mail à caractère marketing (comme la newsletter), un lien est présent à la fin de chaque mail vous permettant de vous désinscrire.
 
 ##### **Droit à la portabilité**
 
@@ -270,9 +270,7 @@ SI vous avez des question, des demandes ou des réclamations à propos de Tandem
 
 ### Tandemz, SAS
 
-SAS au capital de 2 400 € en cours d’immatriculation.<br />
-Siège social : 199 avenue de Choisy 75013 Paris<br />
-Contact mail : [contact@tandemz.io](mailto:contact@tandemz.io)<br />
+SAS au capital de 2 400 € en cours d’immatriculation.<br /> Siège social : 199 Avenue de Choisy, 75013 Paris<br /> Contact mail : [contact@tandemz.io](mailto:contact@tandemz.io)<br />
 Téléphone : 07 83 92 37 88
 
 Dernière mise à jour : 17 Fev 2020
