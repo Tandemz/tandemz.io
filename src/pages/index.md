@@ -28,8 +28,8 @@ sections:
     icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
   - title: Suivi centralisé
-    content: Regroupez toutes les données de votre recherche et de vos participants,
-      et ayez enfin une vision globale de vos process.
+    content: Regroupez toutes les données de votre recherche et de vos participants.
+      Ayez enfin une vision globale de vos process.
     icon: "/images/Centralized200h.png"
   value_title_1: ''
   value_content_1: ''
