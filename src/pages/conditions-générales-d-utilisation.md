@@ -45,4 +45,5 @@ Nos CGU sont en cours de rédaction.
 
 # Hébergeur
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est hébergé par Clevercloud SAS, 3 rue de l'Allier, 44000 Nantes, France ([https://www.clever-cloud.com/](https://www.tandemz.io/ "https://www.tandemz.io/") - 03 2 85 52 07 69).
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est hébergé par Netlify, Inc.  
+2325 3rd Street, Suite 215, San Francisco, California 94107 ([https://www.netlify.com](https://www.netlify.com "https://www.netlify.com"))
