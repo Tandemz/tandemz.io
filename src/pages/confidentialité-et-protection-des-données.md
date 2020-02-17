@@ -210,7 +210,7 @@ Vos données personnelles sont enregistrées sur les serveurs de Clever Cloud SA
 
 ## Quels sont vos droits ?
 
-La règlementation sur la protection des données personnelles européenne vous donne les droits suivant sur vos données personnelles et leur traitement par Tandemz :
+La réglementation sur la protection des données personnelles européenne vous donne les droits suivant sur vos données personnelles et leur traitement par Tandemz :
 
 * droit d’accès, de rectification et d’effacement des données
 * droit d’opposition au traitement
@@ -220,7 +220,7 @@ La règlementation sur la protection des données personnelles européenne vous 
 
 Vous pouvez exercer chacun de ces droits à l’adresse suivante :
 
-* soit en écrivant par courrier à Tandemz – 33 rue Sencier, 75018 Paris France
+* soit en écrivant par courrier à Tandemz – 33 rue Censier, 75005 Paris (France)
 * soit en adressant un courrier électronique à l’adresse [contact@tandemz.io](mailto://contact@tandemz.io)
 
 ##### **Droit d’accès**
