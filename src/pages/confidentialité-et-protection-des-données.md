@@ -257,7 +257,7 @@ Toutes les informations collectés et maintenus par Tandemz sont sujettes à cet
 
 ## Délégué à la Protection des Données
 
-Tandemz à désigné un délégué à la protection des données (DPO) tel que requis dans la Réglementation Générale sur la Protection des Données :
+Tandemz a désigné un délégué à la protection des données (DPO) tel que requis dans la Réglementation Générale sur la Protection des Données :
 
 **Nicolas DJAMBAZIAN**
 
@@ -266,7 +266,7 @@ Tandemz à désigné un délégué à la protection des données (DPO) tel que r
 
 ## Contact
 
-SI vous avez des question, des demandes ou des réclamations à propos de Tandemz ou de ces Politiques de confidentialité, vous pouvez nous contacter par email à : [contact@tandemz.io](mailto://contact@tandemz.io)
+Si vous avez des questions, des demandes ou des réclamations à propos de Tandemz ou de ces Politiques de confidentialité, vous pouvez nous contacter par email à : [contact@tandemz.io](mailto://contact@tandemz.io)
 
 ### Tandemz, SAS
 
