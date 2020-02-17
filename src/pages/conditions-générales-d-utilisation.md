@@ -23,7 +23,7 @@ schema_org_data_list: []
 ---
 # Identification
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est édité par la société Tandemz, SAS au capital de xxx€ en cours d’immatriculation. Tandemz est l’unique propriétaire et exploitant de ce site.
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est édité par la société Tandemz, SAS au capital de 2400€ en cours d’immatriculation. Tandemz est l’unique propriétaire et exploitant de ce site.
 
 Directeur de publication : Marine Wolffhugel
 
