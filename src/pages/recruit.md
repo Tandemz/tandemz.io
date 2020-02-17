@@ -87,6 +87,23 @@ sections:
   actions:
   - url: "/contact"
     label: Commencer à recruter
+- template: featuresblock
+  component: FeaturesBlock
+  bg: white
+  type: featuresblock
+  section_id: coming_soon
+  featureslist:
+  - content: Gérez votre panel et rencontrez un mix de vos utilisateurs existants
+      et potentiels en toute autonomie !
+    image: ''
+    coming_soon: true
+    actions:
+    - url: "/panel"
+      label: En savoir plus
+    title: Recrutez vos participants de façon autonome, qu'ils soient vos utilisateurs
+      ou non
+  title: ''
+  subtitle: ''
 menus:
   solutions:
     title: Recrutement
