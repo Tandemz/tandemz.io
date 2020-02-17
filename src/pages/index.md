@@ -43,10 +43,10 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Nous recrutons vos testeurs quelque soit votre cible
-    content: 'Notre méthode permet de cibler précisément parmi les 3,4 milliards d''utilisateurs
-      de réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
-      millions d''internautes qui s''y connectent tous les jours ! '
+  - title: Nous recrutons vos testeurs quelle que soit votre cible
+    content: Notre méthode permet de cibler précisément parmi les 3,4 milliards d'utilisateurs
+      des réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
+      millions d'internautes qui s'y connectent tous les jours !
     image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
