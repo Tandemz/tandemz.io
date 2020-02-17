@@ -25,13 +25,13 @@ Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette
 
 ## 1. Informations générales
 
-Tandemz SAS 199 avenue de Choisy 75013 Paris ("**Tandemz**", "**nous**" ou "**on**") fournit un site ("**Site**") présentant des contenus, comme les offres de services ("**Service**") de Tandemz, aux visiteurs ("**Visiteur**"). Ces Services inclus notamment une plateforme ("**Platforme**") permettant à nos clients ("**Client**") de demander des retours ("**Test**") à des particuliers ou des professionnels ("**Participant**").
+Tandemz SAS 199 avenue de Choisy 75013 Paris ("**Tandemz**", "**nous**" ou "**on**") fournit un site ("**Site**") présentant des contenus, comme les offres de services ("**Service**") de Tandemz, aux visiteurs ("**Visiteur**"). Ces Services inclus notamment une plateforme ("**Plateforme**") permettant à nos clients ("**Client**") de demander des retours ("**Test**") à des particuliers ou des professionnels ("**Participant**").
 
-L'utilisation du Site ne nécessite pas la collecte d'informations personnelles. Toutefois, si vous souhaitez utiliser certains Services proposés par Tandemz, comme l'accès à la Platforme, l'organisation ou la participation à des Tests, la collectes de données à caractère personnelle est obligatoire. Les données personnelles correspondent à toutes données obtenu sur vous comme votre nom, prénom, vos emails, votre adresse, vos comportement d'utilisations ou vos informations à caractère démographique.
+L'utilisation du Site ne nécessite pas la collecte d'informations personnelles. Toutefois, si vous souhaitez utiliser certains Services proposés par Tandemz, comme l'accès à la Plateforme, l'organisation ou la participation à des Tests, la collectes de données à caractère personnelle est obligatoire. Les données personnelles correspondent à toutes données obtenu sur vous comme votre nom, prénom, vos emails, votre adresse, vos comportement d'utilisations ou vos informations à caractère démographique.
 
 ## Comment nous collectons et utilisons vos données ?
 
-La manière dont nous collectons vos données dépend des Sites, Platformes ou Services que vous utilisez, ainsi que de l'utilisation que vous en avez.
+La manière dont nous collectons vos données dépend des Sites, Plateformes ou Services que vous utilisez, ainsi que de l'utilisation que vous en avez.
 
 Ces données peuvent être collectés de deux manières différentes:
 
@@ -44,7 +44,7 @@ Tandemz collecte des données sans consentement libre, spécifique, éclairée e
 
 Les motif légitimes poursuivi par Tandemz nécessitant la collecte d'informations personnelles inclus :
 
-* Fournir un accès et une utilisation aux Services et Platformes de Tandemz. Cela inclue l'inscription en tant que Participant ou Client
+* Fournir un accès et une utilisation aux Services et Plateformes de Tandemz. Cela inclue l'inscription en tant que Participant ou Client
 * Délivrer un service aux Clients, comme la selection de candidats sur des critères démographiques
 * Améliorer votre expérience avec les Services
 * Comprendre la manière dont vous accédez, interagissez et utilisez les Services afin de fournir de nouvelle fonctionnalités, de nouveaux produit ou de nouveaux Services, améliorer ceux existant ou analyser l'utilisation de notre Service
@@ -57,7 +57,7 @@ Les motif légitimes poursuivi par Tandemz nécessitant la collecte d'informatio
 
 ### Données collectées auprès des Visiteurs
 
-Lors de leur visite sur un de nos Sites ou Platformes, nous collectons auprés des Visiteurs des informations relative à leur utilisation des Sites ou Plateformes. Cela comprends les pages vues, les boutons et les liens cliqués; le temps passé sur le site et le navigateur. Ces données sont collectées de manière anonymes et agrégées.
+Lors de leur visite sur un de nos Sites ou Plateformes, nous collectons auprés des Visiteurs des informations relative à leur utilisation des Sites ou Plateformes. Cela comprends les pages vues, les boutons et les liens cliqués; le temps passé sur le site et le navigateur. Ces données sont collectées de manière anonymes et agrégées.
 
 Si le Visiteur envoie le formulaire de contact ou discute avec notre équipe de support, les données suivantes peuvent être aussi collectées :
 
@@ -79,7 +79,7 @@ Les données collectées auprès des Visiteurs sont enregistrées afin de récol
 
 Lors de leur inscription ou de leur utilisation de nos services et plateformes, nous pouvons être en mesure de demander à nos Clients des informations personnelles supplémentaires, comme l'adresse email, le nom, l'entreprise ou toute autre information jugée pertinente.
 
-Les données collectées auprès des Clients sont utilisées pour identifier les clients, leur fournir des accès aux platformes, au respect des obligations contractuels de Tandemz, à la facturation, à des fins statistiques d'utilisation des sites, services et plateformes, à l'amélioration des sites, services et plateformes, au support ou pour leur fournir des conseils liés à leur utilisation des plateformes.
+Les données collectées auprès des Clients sont utilisées pour identifier les clients, leur fournir des accès aux plateformes, au respect des obligations contractuels de Tandemz, à la facturation, à des fins statistiques d'utilisation des sites, services et plateformes, à l'amélioration des sites, services et plateformes, au support ou pour leur fournir des conseils liés à leur utilisation des plateformes.
 
 Le client est, par contre, responsable de la conformité legislative de la collecte de données, de leur traitement ou d'enregistrement lors de la réalisation des tests tels que décrit dans [le contrat de sous-traitance](/contrat-de-sous-traitance-des-données-personnelles/).
 
@@ -99,7 +99,7 @@ Tandemz peut également utiliser les données collectées auprès des participan
 
 Enfin, avec votre consentement et pour certains Tests seulement, nous collectons des informations relative à la complétion du formulaire de participation à ce Test. Ces données sont utilisés afin d'optimiser les publicités permettant de trouver des participant à ce Test.
 
-Si le questionnaire de candidature contient des questions demandant des [informations personnelles sensible](https://www.cnil.fr/fr/definition/donnee-sensible), un consentement explicite supplémentaire sera demandé au Participant pour traiter ces données. Les informations concernées sont la prétendue origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, les données concernant la santé et les données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique. 
+Si le questionnaire de candidature contient des questions demandant des [informations personnelles sensible](https://www.cnil.fr/fr/definition/donnee-sensible), un consentement explicite supplémentaire sera demandé au Participant pour traiter ces données. Les informations concernées sont la prétendue origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, les données concernant la santé et les données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique.
 
 ### **Données collectées indirectement**
 
@@ -123,7 +123,7 @@ Les Visiteurs ont la possibilité d'accepter ou de décliner les cookies qui ne 
 
 #### Do Not Track
 
-Les sites et platformes de Tandemz répondent au signal Do Not Track ("DNT"). Pour plus d'information sur le paramètre DNT, visitez [https://allaboutdnt.com/](https://allaboutdnt.com/ "https://allaboutdnt.com/")
+Les sites et plateformes de Tandemz répondent au signal Do Not Track ("DNT"). Pour plus d'information sur le paramètre DNT, visitez [https://allaboutdnt.com/](https://allaboutdnt.com/ "https://allaboutdnt.com/")
 
 #### Communications
 
@@ -138,7 +138,7 @@ Nous pouvons partager vos informations à des sous-traitants que nous avons recr
 La liste exhaustive de ces sous-traitant est la suivante :
 
 Outil | Société  | Motif  
--- | -- | -- | --  
+\-- | -- | -- | --  
 Clever cloud | Clever Cloud SAS<br />3 rue de l'Allier, 44000 Nantes, France| Nous utilisons clever-cloud pour hébergé notre base de données. L'ensemble des données personnelles y sont conservés<br />[https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms)
 Netlify | Netlify, Inc.<br />2325 3rd Street, Suite 215, San Francisco, California 94107 | Tandemz utilise Netlify pour pour l'hébergement du site vitrine [https://tandemz.io](https://tandemz.io "https://tandemz.io")<br />[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/)
 Datadog | Datadog, Inc.<br />620 8th Avenue, Floor 45, New York, NY 10018 | L'ensemble de nos logs sont enregistré sur datadog pour un durée de 2 semaines. Ils nous servent à corriger des bugs et à l'amélioration des sites et plateformes et peuvent contenir des données personnelles.<br />[https://www.datadoghq.com/legal/privacy/](https://www.datadoghq.com/legal/privacy/)
@@ -225,7 +225,7 @@ Vous pouvez exercer chacun de ces droits à l’adresse suivante :
 
 ##### **Droit d’accès**
 
-Vous pouvez nous demander si possédons des données vous concernant et, le cas échéant, des informations relative à leur traitement.  
+Vous pouvez nous demander si possédons des données vous concernant et, le cas échéant, des informations relative à leur traitement.
 
 ##### **Droit de rectification et droit à l’effacement**
 
