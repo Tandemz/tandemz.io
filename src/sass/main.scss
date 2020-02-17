@@ -16,8 +16,12 @@ $palette: (
   accent: #1c75df,
   accent-alt: #1493ff,
   accent-light: #0cbcff,
-  green: #008946,
-  purple: #7525dc,
+  greenAccessible: #008946,
+  green: #00BD66,
+  greenMuted: #E7FFE8,
+  purpleAccessible: #7525DC,
+  purple: #8D4FF8,
+  purpleMuted: #E8D0FF,
   red-muted: #ffe4d8,
   red-accessible: #dc3a16,
 );
@@ -34,3 +38,4 @@ $palette: (
 @import 'imports/footer';
 @import 'imports/banner';
 @import 'imports/pagination';
+@import 'imports/cookie-banner';

@@ -132,6 +132,12 @@
 
 @supports (position: sticky) or (position: -webkit-sticky) {
   @media only screen and (min-width: 801px) {
+    .site-header-container {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      z-index: 999;
+    }
     .site-header {
       background: #fff;
       position: -webkit-sticky;
