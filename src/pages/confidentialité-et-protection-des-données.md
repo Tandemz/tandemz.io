@@ -21,7 +21,7 @@ menus:
     weight: 4
 
 ---
-Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit comment nous traitons les données personnel que vous nous confiez, dans quel objectif.
+Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit comment nous traitons les données personnelles que vous nous confiez, dans quel objectif.
 
 ## 1. Informations générales
 
