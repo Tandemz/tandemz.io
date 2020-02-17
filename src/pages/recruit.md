@@ -39,9 +39,9 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Définissez vos crières
-    content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**,
-      et nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
+  - title: 1. Définissez vos critères
+    content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**.
+      Nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
       adaptée.
     image: "/images/Illustration - Criteria-1.svg"
     actions: []
