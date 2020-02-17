@@ -47,16 +47,16 @@ sections:
     content: 'Notre méthode permet de cibler précisément parmi les 3,4 milliards d''utilisateurs
       de réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
       millions d''internautes qui s''y connectent tous les jours ! '
-    image: "/images/Illustration - Connect.svg"
+    image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
       url: "/recruit"
     coming_soon: false
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateur !
-    content: 'Vos utilisateurs ont certainement beaucoup de choses à vous dire et
-      à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre entre vous
-      et eux : rencontrer les facilement et rapidement.'
-    image: "/images/Illustration - Recruit.svg"
+    content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
+      dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
+      entre vous et eux : rencontrer les facilement et rapidement.'
+    image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
       url: "/panel"
