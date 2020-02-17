@@ -1,6 +1,6 @@
 ---
 template: page
-title: Confidentialité et protection des données
+title: Politique de Confidentialité
 subtitle: ''
 img_path: ''
 description: ''
@@ -29,7 +29,7 @@ L'utilisation du site ne nécessite pas la collecte d'informations personnelles.
 
 La manière dont nous collectons vos données dépend des sites, platformes ou services que vous utilisez, ainsi que de l'utilisation que vous en avez.
 
-Ces données peuvent être collectés de deux manières différentes: 
+Ces données peuvent être collectés de deux manières différentes:
 
 1. **Directement** en tant que client, participant ou visiteur, par la soumission de formulaires sur le site ou les plateformes
 2. **Indirectement** via l'utilisation de technologies automatisés ou via des tiers
@@ -55,12 +55,12 @@ Les motif légitimes poursuivi par Tandemz nécessitant la collecte d'informatio
 
 Lors de leur visite sur un de nos sites ou platformes, nous collectons auprés des visiteurs des information relative à leur utilisation du site. Cela comprends les pages vues, les boutons et les liens cliqués; le temps passé sur le site et le navigateur. Ces données sont collecté de manière anonyme et agrégé.
 
-Si le visiteur envoie le formulaire de contact ou discute avec notre équipe de support, les données suivantes peuvent être aussi collecté : 
+Si le visiteur envoie le formulaire de contact ou discute avec notre équipe de support, les données suivantes peuvent être aussi collecté :
 
 * Nom
 * Prénom
 * Adresse Email
-* Messages échangés 
+* Messages échangés
 * Le status en ligne ou hors ligne
 * IP Address
 * Geographic Location, City, Country (guessed from the IP address)
@@ -103,13 +103,13 @@ Tandemz utilise des données indirecte, quand un visiteur arrive sur un des site
 
 #### Données depuis les clients
 
-En tant que sous-traitant au sens de [l'article 4 de la RGPD](), pour le compte de nos clients, nous collectons des données de participants potentiels. Ces participants potentiels ont donné leur permission après de nos clients à la transmission de leur données avec nous. Ces données sont soumise au [Contrat de sous-traitance des données personnelles](/contrat-de-sous-traitance-des-données-personnelles/) passé avec le client concerné.  
+En tant que sous-traitant au sens de [l'article 4 de la RGPD](), pour le compte de nos clients, nous collectons des données de participants potentiels. Ces participants potentiels ont donné leur permission après de nos clients à la transmission de leur données avec nous. Ces données sont soumise au [Contrat de sous-traitance des données personnelles](/contrat-de-sous-traitance-des-données-personnelles/) passé avec le client concerné.
 
 Nous utilisons ces donnée pour contacté les participants potentiels afin de leur proposer les tests organisé par le client nous ayant fournis ces données uniquement.
 
 Avec le consentement des participants potentiels nous pouvons être amené à les contacté dans le cadre de tests avec d'autres clients.
 
-#### Cookies 
+#### Cookies
 
 Tandemz utilise des cookies sur ses sites et plateformes. Un cookie est une petite quantité de données, qui contient souvent un identifiant unique et anonyme, envoyée à votre navigateur par un serveur Web et stockée sur le disque dur de votre ordinateur. Les informations collectées grâce à ce cookie peuvent être associées à d'autres cookies que vous possédez sur votre ordinateur et utilisées pour compléter les informations dont nous disposons à votre sujet. Voir la politique relative aux cookies.
 
@@ -148,28 +148,28 @@ Weglot | | Tandemz utilise Weglot pour gérer les traductions sur le site vitri
 
 #### Publication d'une session de test
 
-Dans le cadre de l'organisation d'un test plusieurs information du clients  peuvent être rendu publique. Les informations suivantes pourront être visible par les participants lors de leur inscriptions : 
+Dans le cadre de l'organisation d'un test plusieurs information du clients  peuvent être rendu publique. Les informations suivantes pourront être visible par les participants lors de leur inscriptions :
 
 * L'adresse de la société et son nom (si le rendez-vous se fait en physique, pour permettre au participant d'anticiper le temps de trajet)
 * Les créneaux de disponibilité du client
 
 #### Données transmise au client lors de l'inscription à un test
 
-Lors de l'inscription à un tests, les données suivantes du participants peuvent être transmise au client : 
+Lors de l'inscription à un tests, les données suivantes du participants peuvent être transmise au client :
 
 * Prénom
 * La première lettre du nom de famille
 * L'adresse choisi par le participant pour la rencontre
 * Les réponses au questionnaire d'inscriptions au test.
 
-Si le client accepte de rencontrer le participant, seront alors transmis : 
+Si le client accepte de rencontrer le participant, seront alors transmis :
 
 * Le numéro de téléphone, si la rencontre se fait au téléphone
 * L'adresse email
 
 #### Obligations légale et sécurité
 
-Tandemz pourra transmettre vos données personnelles avec des tiers supplémentaires dans les conditions suivantes : 
+Tandemz pourra transmettre vos données personnelles avec des tiers supplémentaires dans les conditions suivantes :
 
 * Si vous nous donner votre consentement
 * Si nous pensons de bonne fois que la transmission de vos donnés à ces tiers est requise par la loi
@@ -179,7 +179,7 @@ Tandemz pourra transmettre vos données personnelles avec des tiers supplémenta
 
 ## Conservation des données personnelles
 
-Toutes les données personnelles que vous renseignez directement (que vous soyez Client, Participant ou Visiteurs) sont conservé pendant 3 ans maximum après la date de dernière activité.
+Toutes les données personnelles que vous renseignez directement (que vous soyez Client, Participant ou Visiteurs) sont conservé durant une durée résonable après la date de dernière activité.
 
 Lors de la suppression, toutes les informations à caractère personnel permettant de vous identifier nominativement sont supprimées définitivement de nos bases de données ; à savoir : vos email, nom, adresse postale, n° de téléphone, entreprise et, le cas échéant, votre IBAN.
 
@@ -189,19 +189,75 @@ Vos autres informations de profil comme les informations socio-démographiques, 
 
 ### Demande de suppression
 
-Vous pouvez à tout moment demander la suppression de vos données personnelles, soit dans votre espace membre, soit en nous envoyant un mail à [contact@tandemz.io](mailto://contact@tandemz.io)
+Vous pouvez à tout moment demander la suppression de vos données personnelles en nous envoyant un mail à [contact@tandemz.io](mailto://contact@tandemz.io).
 
-Lors d'une demande de suppression nous conserverons malgré toute les données personnelles nécessaire à l'établissement, l'exercice ou à la défense de réclamation en justice ou de litige. Dans, elles seront malgré tout supprimé à la fin des durée de prescription/forclusion applicables.
+Lors d'une demande de suppression nous conserverons malgré toute les données personnelles nécessaire à l'établissement, l'exercice ou à la défense de réclamation en justice ou de litige. Dans ce cas, elles seront malgré tout supprimées à la fin des durées de prescription/forclusion applicables.
 
-Nous pouvons également conservée des données si leur suppression nous empêcherait d'effectuer des opérations de fonctionnement essentielles comme la facturation, le calcul de taxes ou la conduite d'audit. Elle seront alors supprimé à la fin des dîtes opérations.
+Nous pouvons également conserver des données si leur suppression nous empêcherait d'effectuer des opérations de fonctionnement essentielles comme la facturation, le calcul de taxes ou la conduite d'audit. Elles seront alors supprimées à la fin des dîtes opérations.
+
+## Stockage et sécurité
+
+La sécurité de vos données personnelles est importante pour nous. Nous transféront sur internet et enregistrons vos données en appliquant l'état de l'art actuel en terme de sécurité des données.
+
+Vos données personnelles sont enregistrées sur les serveur de Clever Cloud SAS, localisé à Paris en France.
 
 ## Quels sont vos droits ?
 
+La règlementation sur la protection des données personnelles européenne vous donne les droits suivant sur vos données personnelles et leur traitement par Tandemz :
+
+* droit d’accès, de rectification et d’effacement des données
+* droit d’opposition au traitement
+* droit à la limitation du traitement de ces données
+* droit à la portabilité des données
+* droit d’introduire une réclamation auprès d’une autorité de contrôle.
+
+Vous pouvez exercer chacun de ces droits à l’adresse suivante :
+
+* soit en écrivant par courrier à Tandemz – 33 rue Sencier, 75018 Paris France
+* soit en adressant un courrier électronique à l’adresse [contact@tandemz.io](mailto://contact@tandemz.io)
+
+**Droit d’accès**
+
+Vous pouvez nous demander si possedons des données vous concernant et, le cas échéant, des informations relative à leur traitement.  
+
+**Droit de rectification et droit à l’effacement**
+
+Vous pouvez nous demander, à tous moment, la rectification ou la suppression de vos données dans les conditions détaillées dans la partie "Conservation des données personnelles".
+
+**Droit d’opposition**
+
+Le droit d’opposition, vous permet de vous opposer au traitement de vos données par Tandemz pour un ou plusieur motif de traitement.
+
+Si vous souhaitez ne plus recevoir les mail à caractère marketing (comme la newsletter), un lien est présent à la fin de chaque mail vous permettant de vous desinscrire.
+
+**Droit à la portabilité**
+
+Ce droit vous permet de recevoir les données que vous avez communiquées ou de demander à Tandemz de les transmettre à un autre responsable de traitement (autre site par exemple).
+
+## Protection des mineurs
+
+Nous ne collectons pas d'information personnelles de personnes de moins de 18 ans (mineur). Si Tandemz prends connaissance que certaines données collecté concerne des mineurs, celles-ci seront immédiatement supprimées.
+
+## Mise à jours de la Politique de Confidentialité
+
+Toutes les informations collectés et maintenus par Tandemz sont sujètes à cette politique de confidentialité. En cas de modifications sur le contenu de ces politiques de confidentialité, nous vous en informerons par email ou par un message dans les sites et plateformes concernés.
+
+## Délégué à la Protection des Données
+
+Tandemz à désigné un délégué à la protection des données (DPO) tel que requis dans la Reglementation Générale sur la Protection des Données :
+
+**Nicolas DJAMBAZIAN**
+
+* Role : Co-fondateur et CTO
+* Email: nicolasd@tandemz.io
+
 ## Contact
 
-Tandemz, SAS au capital de 2 400 € en cours d’immatriculation. 
+SI vous avez des question, des demandes ou des réclamations à propos de Tandemz ou de ces Politiques de confidentialité, vous pouvez contacter par email à : [contact@tandemz.io](mailto://contact@tandemz.io)
 
-Directeur de publication : Marine Wolffhugel
+### Tandemz, SAS
+
+SAS au capital de 2 400 € en cours d’immatriculation.
 
 Siège social : 199 avenue de Choisy 75013 Paris
 
@@ -209,9 +265,9 @@ Contact mail : [contact@tandemz.io](mailto:contact@tandemz.io)
 
 Téléphone : 07 83 92 37 88
 
-***
+Dernière mise à jour : 17 Fev 2020
 
-Dernière mise à jour : Novembre 2019
+***
 
 Nous vous sommes reconnaissants d'avoir accepté de vous joindre à notre communauté de testeurs. Tandemz propose à ses clients de sélectionner des utilisateurs/testeurs en fonction de leurs préférences de consommateurs concernant des produits/services et des concepts de produits/services.
 
