@@ -8,9 +8,9 @@ import CookieBanner from './CookieBanner';
 export default class Header extends React.Component {
   render() {
     return (
-      <header id="masthead" className="site-header-container">
+      <div className="site-header-container">
         <CookieBanner />
-        <div className="site-header">
+        <header id="masthead" className="site-header">
           <div className="site-branding">
             {_.get(
               this.props,
@@ -44,8 +44,8 @@ export default class Header extends React.Component {
               url={_.get(this.props, 'pageContext.url')}
             />
           )}
-        </div>
-      </header>
+        </header>
+      </div>
     );
   }
 }
