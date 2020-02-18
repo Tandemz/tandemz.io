@@ -81,7 +81,7 @@ sections:
   component: CtaBlock
   type: ctablock
   section_id: recruit_cta
-  title: Recruter des participants à la recherche utilisateur n'est plus difficile.
+  title: Recruter des participants à la recherche utilisateur n'est plus difficile
   subtitle: ''
   actions:
   - url: "/contact"
