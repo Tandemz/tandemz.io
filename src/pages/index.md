@@ -55,7 +55,7 @@ sections:
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
     content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
       dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
-      entre vous et eux : rencontrer les facilement et rapidement.'
+      entre eux et vous : rencontrez-les facilement et rapidement.'
     image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
