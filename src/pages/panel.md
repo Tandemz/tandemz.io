@@ -4,10 +4,11 @@ sections:
   template: heroblock
   section_id: hero
   className: overlap-padding
-  title: Gérez votre propre panel et recrutez parmi vos utilisateurs sur Tandemz
+  title: Gérez votre propre panel d'utilisateurs
   component: HeroBlock
-  content: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil. Concentrez-vous
-    enfin sur votre recherche utilisateur.
+  content: Organisez en un clin d'oeil vos entretiens et tests UX avec vos utilisateurs
+    existants. Gérez votre propre panel en toute autonomie et concentrez-vous enfin
+    sur votre recherche utilisateur.
   image: ''
   actions:
   - label: Tester la bêta gratuitement
