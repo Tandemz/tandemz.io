@@ -26,7 +26,7 @@ export default class Recruitform extends React.Component {
               <div className="post-content">
                 {htmlToReact(_.get(this.props, 'pageContext.html'))}
                 <form
-                  name="recruitform"
+                  name="recruitForm"
                   method="POST"
                   netlifyHoneypot="bot-field"
                   data-netlify="true"
