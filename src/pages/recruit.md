@@ -26,10 +26,10 @@ sections:
     content: Les réseaux sociaux n'ont pas de frontière. Faites votre recherche utilisateur
       avec des participants du monde entier.
     icon: "/images/World200h.png"
-  - title: Des participants candides
+  - title: De tout nouveaux participants
     icon: "/images/Like200h-1.png"
-    content: Avec un aussi large panel de personnes, vous ne tomberez pas deux fois
-      sur le même utilisateur.
+    content: En recrutant dans un panel aussi large, soyez assuré de ne jamais tomber
+      deux fois sur le même utilisateur.
   subtitle: ''
 - type: featuresblock
   template: featuresblock
