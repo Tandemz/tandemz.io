@@ -81,8 +81,7 @@ sections:
   component: CtaBlock
   type: ctablock
   section_id: recruit_cta
-  title: Recruter des participants à la recherche utilisateur n'est pas difficile
-    !
+  title: Recruter des participants à la recherche utilisateur n'est plus difficile
   subtitle: ''
   actions:
   - url: "/contact"
@@ -94,7 +93,7 @@ sections:
   section_id: coming_soon
   featureslist:
   - content: Gérez votre propre panel et mixez vos utilisateurs existants et potentiels
-      lors de vos études !
+      lors de vos études.
     image: ''
     coming_soon: true
     actions:
