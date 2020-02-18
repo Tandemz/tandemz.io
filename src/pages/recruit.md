@@ -75,7 +75,7 @@ sections:
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: false
     actions:
-    - label: Ça m'intéresse
+    - label: Commencer à recruter
       url: "/contact"
 - template: ctablock
   component: CtaBlock
