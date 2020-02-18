@@ -40,7 +40,7 @@ sections:
   bg: white
   featureslist:
   - title: 1. Définissez vos critères
-    content: Donnez-nous vos critères de **dates, de lieux, de méthode et de cible**.
+    content: Indiquez-nous vos critères de **dates, de lieux, de méthode et de cible**.
       Nous établissons la stratégie de recrutement sur les réseaux sociaux la plus
       adaptée.
     image: "/images/Illustration - Criteria-1.svg"
@@ -55,9 +55,9 @@ sections:
     actions: []
     coming_soon: false
   - title: 3. Réalisez vos tests en tout sérénité
-    content: 'Sans le poids de la logistique, vous pouvez enfin vous concentrer sur
-      ce qui compte vraiment : comprendre en profondeur le comportement de vos utilisateurs
-      et améliorer vos produits en fonction.'
+    content: 'Sans logistique à gérer, concentrez-vous sur l''important : comprendre
+      en profondeur le comportement de vos utilisateurs et améliorer vos produits
+      en fonction des résultats.'
     image: "/images/Illustration - Testing-1.svg"
     actions: []
     coming_soon: false
@@ -67,8 +67,8 @@ sections:
   type: pricingblock
   section_id: ''
   title: Tarif
-  subtitle: En quelques minutes, lancez vos interviews et tests sur Tandemz en toute
-    autonomie. Faites de la recherche utilisateur un réflexe !
+  subtitle: En quelques minutes, lancez votre recrutement sur Tandemz. Faites de la
+    recherche utilisateur un réflexe !
   pricingplans:
   - title: Recherche de participants
     price: 60€ / participant
@@ -81,7 +81,7 @@ sections:
   component: CtaBlock
   type: ctablock
   section_id: recruit_cta
-  title: Recruter des participants à la recherche utilisateur n'est plus un cauchemar
+  title: Recruter des participants à la recherche utilisateur n'est pas difficile
     !
   subtitle: ''
   actions:
