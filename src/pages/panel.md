@@ -84,7 +84,7 @@ sections:
     highlight: false
     actions:
     - url: "/contact"
-      label: Rejoindre la béta gratuite
+      label: Tester la bêta gratuitement
 - template: ctablock
   component: CtaBlock
   type: ctablock
