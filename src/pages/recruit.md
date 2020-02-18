@@ -93,15 +93,14 @@ sections:
   type: featuresblock
   section_id: coming_soon
   featureslist:
-  - content: Gérez votre panel et rencontrez un mix de vos utilisateurs existants
-      et potentiels en toute autonomie !
+  - content: Gérez votre propre panel et mixez vos utilisateurs existants et potentiels
+      lors de vos études !
     image: ''
     coming_soon: true
     actions:
     - url: "/panel"
       label: En savoir plus
-    title: Recrutez vos participants de façon autonome, qu'ils soient vos utilisateurs
-      ou non
+    title: Organisez vos sessions et vos recrutements en toute autonomie !
   title: ''
   subtitle: ''
 menus:
