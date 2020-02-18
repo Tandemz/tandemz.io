@@ -10,7 +10,7 @@ sections:
   image: ''
   actions:
   - label: Commencer à recruter
-    url: "/contact"
+    url: "/recruitform"
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -61,20 +61,6 @@ sections:
     - label: En savoir plus
       url: "/panel"
     coming_soon: true
-- template: reviewsblock
-  component: ReviewsBlock
-  bg: gray
-  type: reviewsblock
-  title: Nos early adopters
-  reviews:
-  - author: La faireparterie
-    avatar: ''
-    content: Ouais !
-  - author: UX republic
-    content: Trop bien
-    avatar: ''
-  section_id: ''
-  subtitle: ''
 - template: iconsblock
   component: IconsBlock
   bg: white
@@ -102,7 +88,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Commencer à recruter
-    url: "/contact"
+    url: "/recruitform"
   subtitle: ''
 menus:
   main:
