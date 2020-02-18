@@ -99,11 +99,12 @@ menus:
     weight: 2
 template: home
 title: Créez et gérez votre panel avec Tandemz
-description: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil.
-  Concentrez-vous enfin sur votre recherche utilisateur.
-keywords: panel, recrutement, UX, participants
-ogtitle: ''
-ogdescription: ''
+description: Grâce à notre plateforme, organisez en un clin d'oeil vos entretiens
+  et tests UX avec vos utilisateurs existant.
+keywords: panel, recrutement, UX, participants, user research, interviews, tests utilisateurs
+ogtitle: " Créez et gérez votre panel avec Tandemz"
+ogdescription: Grâce à notre plateforme, organisez en un clin d'oeil vos entretiens
+  et tests UX avec vos utilisateurs existant.
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
 ogimagealt: Logo Tandemz
