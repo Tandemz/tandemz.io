@@ -41,7 +41,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="surname" className="form-label">
-                      Nom
+                      Nom *
                     </label>
                     <input
                       type="text"
@@ -53,7 +53,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="name" className="form-label">
-                      Prénom
+                      Prénom *
                     </label>
                     <input
                       type="text"
@@ -65,7 +65,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="company" className="form-label">
-                      Entreprise
+                      Entreprise *
                     </label>
                     <input
                       type="text"
@@ -77,7 +77,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="email" className="form-label">
-                      Adresse email
+                      Adresse email *
                     </label>
                     <input
                       type="email"

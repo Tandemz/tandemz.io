@@ -124,7 +124,7 @@ export default class Recruitform extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="criteria" className="form-label">
-                      Décrivez votre ou vos cibles de participants *
+                      Décrivez votre ou vos cible(s) de participants *
                     </label>
                     <textarea
                       id="criteria"
