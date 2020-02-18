@@ -299,11 +299,11 @@ models:
         name: menus
         label: Contact Menus
         description: Which menus should this page show up in
-  recruit-now:
+  recruitform:
     type: page
     label: Recruit Form
     template: recruitform
-    file: recruit-now.md
+    file: recruitform.md
     singleInstance: true
     fields:
       - type: string

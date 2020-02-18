@@ -1,0 +1,27 @@
+---
+label: Recruit Now
+hide_body: false
+fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title of the page.
+    config:
+      required: true
+  - type: text
+    name: template
+    label: Template
+    hidden: false
+    default: contact
+    config:
+      required: true
+  - type: text
+    name: subtitle
+    label: Subtitle
+    description: The text shown below the page title.
+  - type: file
+    name: img_path
+    label: Image
+    description: The image shown below the page title.
+pages:
+  - src/pages/recruitform.md
