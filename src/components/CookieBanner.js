@@ -6,7 +6,7 @@ const CookieBanner = () => {
   const ssr = typeof localStorage === 'undefined';
 
   const [accepted, setAccepted] = useState(
-    ssr ? false : localStorage.getItem(STORAGE_KEY) || false,
+    ssr ? true : localStorage.getItem(STORAGE_KEY) || false,
   );
   const onAccept = () => {
     setAccepted(true);
