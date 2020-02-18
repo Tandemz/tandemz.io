@@ -57,14 +57,12 @@ sections:
     image: "/images/Illustration - Communication.svg"
     actions: []
     coming_soon: true
-  - title: Compléter votre session en recrutant des participants directement sur les
-      réseaux sociaux
+  - title: Complétez votre recrutement avec des participants externes à votre panel
     content: |-
-      Le testeur parfait se trouve certainement parmi les 3,4 milliards d’utilisateurs des réseaux sociaux. Définissez les critères de vos participants, Tandemz cible les plus pertinents là où ils se trouvent :
+      Vous voulez en plus interroger des personnes avec un regard neuf sur votre produit ? Tandemz complète votre recrutement en ciblant vos utilisateurs potentiels là où ils se trouvent :
 
       * Publicité dans vos réseaux sociaux favoris
       * Multidiffusion dans les groupes et sur les plateformes de votre choix
-      * Publications dans vos communautés existantes
     image: "/images/Illustration - Recruit.svg"
     actions: []
     coming_soon: true
@@ -79,8 +77,7 @@ sections:
   pricingplans:
   - title: Gestion de votre panel privé
     price: A partir de 150€ / mois
-    details: Créez votre panel ou générez le à partir de votre base d'utilisateurs
-      existants.
+    details: Créez votre panel ou importez-le depuis votre base d'utilisateurs existante.
     highlight: false
     actions:
     - url: "/contact"
