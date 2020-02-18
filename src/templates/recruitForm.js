@@ -4,7 +4,7 @@ import _ from 'lodash';
 import { Layout } from '../components';
 import { htmlToReact } from '../utils';
 
-export default class RecruitForm extends React.Component {
+export default class Recruitform extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
@@ -26,7 +26,7 @@ export default class RecruitForm extends React.Component {
               <div className="post-content">
                 {htmlToReact(_.get(this.props, 'pageContext.html'))}
                 <form
-                  name="recruitForm"
+                  name="recruitform"
                   method="POST"
                   netlifyHoneypot="bot-field"
                   data-netlify="true"
