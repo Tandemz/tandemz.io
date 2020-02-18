@@ -92,7 +92,7 @@ sections:
   type: featuresblock
   section_id: coming_soon
   featureslist:
-  - content: Gérez votre propre panel et mixez vos utilisateurs existants et potentiels
+  - content: Gérez votre propre panel et mixez utilisateurs existants et potentiels
       lors de vos études.
     image: ''
     coming_soon: true
