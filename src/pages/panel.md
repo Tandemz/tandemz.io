@@ -93,7 +93,7 @@ sections:
     early adopters '
   subtitle: ''
   actions:
-  - label: Devenir early adopter
+  - label: Tester la bêta gratuitement
     url: "/contact"
 menus:
   solutions:
