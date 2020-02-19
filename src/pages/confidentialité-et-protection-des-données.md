@@ -20,6 +20,8 @@ menus:
   secondary:
     title: Confidentialité
     weight: 4
+legal: true
+updatedAt: 2020-02-19T17:00:00Z
 
 ---
 Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit pourquoi et comment nous traitons les données personnelles que vous nous confiez.

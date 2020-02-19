@@ -8,6 +8,23 @@ fields:
   description: The title of the page
   config:
     required: true
+- name: legal
+  type: boolean
+  label: Page légale ?
+  default: false
+- name: updatedAt
+  type: datetime
+  label: Date de dernière modification
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+  showOnly:
+    value: true
+    field: legal
 - type: text
   name: subtitle
   label: Subtitle
