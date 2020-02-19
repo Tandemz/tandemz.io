@@ -25,6 +25,14 @@ fields:
   showOnly:
     value: true
     field: legal
+- name: legal_name
+  type: text
+  config:
+    required: true
+  label: Nom du document legal
+  showOnly:
+    field: legal
+    value: true
 - type: text
   name: subtitle
   label: Subtitle
