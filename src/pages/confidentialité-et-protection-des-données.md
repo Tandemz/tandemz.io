@@ -15,7 +15,6 @@ og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
-legal: true
 menus:
   secondary:
     title: Confidentialité
