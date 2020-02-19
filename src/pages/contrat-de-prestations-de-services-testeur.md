@@ -3,6 +3,21 @@ template: page
 title: Contrat de prestations de services testeur
 subtitle: ''
 img_path: ''
+legal: true
+updatedAt: 2019-12-31T23:00:00Z
+legal_name: cgu-participant
+description: ''
+keywords: ''
+ogtitle: ''
+ogdescription: ''
+ogtype: ''
+ogimage: ''
+ogimagealt: ''
+og_image_width: 
+og_image_height: 
+twitter_card: ''
+metatags: []
+schema_org_data_list: []
 
 ---
 _Entre,_
