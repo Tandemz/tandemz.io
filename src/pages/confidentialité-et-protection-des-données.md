@@ -89,11 +89,13 @@ Lors de l'inscription à sa première session, nous collectons auprès des parti
 
 Ces informations peuvent être utilisées afin de contacter le participant. Nous utilisons également ces données pour connaître ses participations précédentes afin de limiter, ou non, sa participation à des Tests.
 
-Nous demandons également à chaque Participant des informations supplémentaires, afin de vérifier l'éligibilité d'un candidat à un test selon les critères définis par un Client ainsi qu'à la production de statistique. Ces données peuvent inclurent l'âge, la profession, le revenu moyen, le genre, les habitudes de consommation, les langues parlées, les équipements numériques possédés, l'aisance avec le numérique ou le système d'exploitation utilisé.
+Nous demandons également à chaque Participant des informations supplémentaires, afin de vérifier l'éligibilité d'un candidat à un Test selon les critères définis par un Client ainsi qu'à la production de statistique. Ces données peuvent inclurent l'âge, la profession, le revenu moyen, le genre, les habitudes de consommation, les langues parlées, les équipements numériques possédés, l'aisance avec le numérique ou le système d'exploitation utilisé.
 
 Ces informations sont demandées dans un questionnaire dédié. Si un Participant choisi de ne pas répondre à ces questions, il ne pourra pas être considéré éligible aux Tests associés.
 
 Nous pouvons être également amenés à vérifier la majorité d'un participant pour des raisons légales de traitement des données ou de rémunération.
+
+Enfin, si le participant déclare une volonté de participer à d’autres Tests que celui ou ceux pour lequel il répond au questionnaire d’inscription, nous collecterons alors auprès de lui des informations démographiques supplémentaires tel que la tranche d'âge, la profession ou la catégorie sociale et professionnelle. Ces informations sont facultatives mais ne pas les renseigner réduis les chances de se faire proposer d’autres Tests.
 
 Tandemz peut également utiliser les données collectées auprès des participants pour le paiement, pour aider le participant sur l'utilisation des Sites ou Plateformes, pour construire des statistiques anonymes et agrégées ainsi que pour tout autre motif légitime.
 
@@ -140,7 +142,7 @@ La liste exhaustive de ces sous-traitants est la suivante :
 Outil | Société | Motif
 -- | -- | -- | --
 Clever Cloud | Clever Cloud SAS<br />3 rue de l'Allier, 44000 Nantes, France| Nous utilisons Clever-Cloud pour héberger notre base de données. L'ensemble des données personnelles y sont conservées.<br />[https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms")
-Netlify | Netlify, Inc.<br />2325 3rd Street, Suite 215, San Francisco, California 94107 | Tandemz utilise Netlify pour l'hébergement du site vitrine[ ](https://tandemz.io)[https://tandemz.io](https://tandemz.io "https://tandemz.io").<br />[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
+Netlify | Netlify, Inc.<br />2325 3rd Street, Suite 215, San Francisco, California 94107 | Tandemz utilise Netlify pour l'hébergement du site vitrine (https://tandemz.io "https://tandemz.io").<br />[https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
 Datadog | Datadog, Inc.<br />620 8th Avenue, Floor 45, New York, NY 10018 | L'ensemble de nos logs sont enregistrés sur datadog pour un durée de 2 semaines. Ils nous servent à corriger des bugs et à l'amélioration des Sites et Plateformes. Ils peuvent contenir des données personnelles.<br />[https://www.datadoghq.com/legal/privacy/](https://www.datadoghq.com/legal/privacy/ "https://www.datadoghq.com/legal/privacy/")
 Google Analytics | Google Dublin<br />Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande | Nous utilisons Google Analytics de manière anonymisée et sans transmission de l'IP pour collecter des informations relatives à l'utilisation du site.<br />[https://policies.google.com/privacy](https://policies.google.com/privacy "https://policies.google.com/privacy")
 Sendin blue | Sendinblue<br />sis 55 rue d’Amsterdam, 75008 Paris | Nous utilisons Sendin blue pour l'envoi de mails automatiques.<br /> [https://fr.sendinblue.com/legal/privacypolicy/](https://fr.sendinblue.com/legal/privacypolicy/ "https://fr.sendinblue.com/legal/privacypolicy/")
