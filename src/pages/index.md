@@ -61,6 +61,19 @@ sections:
     - label: En savoir plus
       url: "/panel"
     coming_soon: true
+- template: reviewsblock
+  component: ReviewsBlock
+  bg: white
+  type: reviewsblock
+  title: Rejoignez nos early adopters
+  reviews:
+  - author: La faireparterie
+    content: Grâce à Tandemz, nous avons pu cibler et discuter avec des groupes de
+      personne difficilement accessibles jusqu'ici. C'est tellement précieux pour
+      mieux comprendre notre cible et développer des produits qui cartonnent
+    avatar: ''
+  section_id: ''
+  subtitle: ''
 - template: iconsblock
   component: IconsBlock
   bg: white
