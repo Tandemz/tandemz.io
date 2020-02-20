@@ -28,11 +28,13 @@ exports.onCreatePage = ({ page }) => {
   return exists(dir)
     .then(isDirExist => {
       if (!isDirExist) {
+        console.log('Data dir created');
         return mkdir(dir);
       }
       return;
     })
     .then(() => {
+      console.log(`Creating file : ${file}`);
       return writeFile(file, JSON.stringify(frontmatter));
     })
     .catch(e => {
