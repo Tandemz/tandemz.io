@@ -4,7 +4,7 @@ title: Contrat de prestations de services testeur
 subtitle: ''
 img_path: ''
 legal: true
-updatedAt: 2019-12-31T23:00:00Z
+updatedAt: 2020-01-01T12:00:00Z
 legal_name: cgu-participant
 description: ''
 keywords: ''
