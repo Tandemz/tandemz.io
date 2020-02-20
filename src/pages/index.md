@@ -63,7 +63,7 @@ sections:
     coming_soon: true
 - template: reviewsblock
   component: ReviewsBlock
-  bg: white
+  bg: gray
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:
