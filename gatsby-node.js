@@ -2,8 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const { promisify } = require('util');
 
-const exists = promisify(fs.exists);
-const mkdir = promisify(fs.mkdir);
 const writeFile = promisify(fs.writeFile);
 
 /**
@@ -25,19 +23,20 @@ exports.onCreatePage = ({ page }) => {
   const updatedAt = new Date(frontmatter.updatedAt);
   const file = path.join(dir, `${frontmatter.legal_name}.json`);
 
-  return exists(dir)
-    .then(isDirExist => {
-      if (!isDirExist) {
-        console.log('Data dir created');
-        return mkdir(dir);
-      }
-      return;
-    })
-    .then(() => {
-      console.log(`Creating file : ${file}`);
-      return writeFile(file, JSON.stringify(frontmatter));
-    })
-    .catch(e => {
-      console.error(e);
-    });
+  try {
+    const isDirExist = fs.existsSync(dir);
+    if (!isDirExist) {
+      fs.mkdirSync(dir);
+      console.log('Data dir created');
+    }
+  } catch (e) {
+    console.error(e);
+  }
+
+  return writeFile(file, JSON.stringify(frontmatter)).then(
+    () => {
+      console.log(`File created : ${file}`);
+    },
+    e => console.error(e),
+  );
 };
