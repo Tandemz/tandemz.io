@@ -35,7 +35,7 @@ Il ne peut utiliser un matériel pouvant être contraire aux restrictions ci des
 
 ## 2. Informations des tiers
 
-Le Site peut contenir des liens vers d’autres sites Web qui ne sont pas en maintenance par Tandemz ou qui contiennent des informations sur de produits ou services tiers. Tandemz ne vérifie pas les pratiques juridiques, commerciales, les informations ou autres de ces tiers qui sont indépendants de Testapic et ne donne aucune garantie en leur nom.
+Le Site peut contenir des liens vers d’autres sites Web qui ne sont pas en maintenance par Tandemz ou qui contiennent des informations sur de produits ou services tiers. Tandemz ne vérifie pas les pratiques juridiques, commerciales, les informations ou autres de ces tiers qui sont indépendants de Tandemz et ne donne aucune garantie en leur nom.
 
 La mise à disposition de tout lien ou le renvoi vers tout lien tiers ne sera jamais synonyme de la prise en charge de la responsabilité de ces tiers par Tandemz sur les contenus de ces sites tiers. Nous vous conseillons de faire preuve de prudence lorsque vous quittez notre Site et nous vous demandons de prendre connaissance des déclarations de confidentialité, d’utilisation de chacun des sites Web que vous consultez sous votre responsabilité. Les données contenues sur notre Site ne le sont seulement qu’à titre d’information. Les vues et opinions exprimées sur notre Site ne sont pas nécessairement celles de Tandemz et chaque utilisateur doit garder son libre arbitre.
 
