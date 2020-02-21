@@ -17,7 +17,7 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 legal: true
-updatedAt: 2020-02-19T23:00:00Z
+updatedAt: 2020-02-21T09:15:00Z
 legal_name: cgu-client
 
 ---
