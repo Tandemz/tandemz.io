@@ -71,7 +71,7 @@ sections:
     content: Grâce à Tandemz, nous avons pu cibler et discuter avec des groupes de
       personne difficilement accessibles jusqu'ici. C'est tellement précieux pour
       mieux comprendre notre cible et développer des produits qui cartonnent
-    avatar: ''
+    avatar: "/images/FR-logo_faireparterie_small.png"
   section_id: ''
   subtitle: ''
 - template: iconsblock
