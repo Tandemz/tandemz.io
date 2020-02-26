@@ -7,6 +7,16 @@ const weglotOptions = {
   cache: true,
 };
 
+const init = () => {
+  weglotPromise = new Promise(resolve => {
+    setTimeout(() => {
+      window.Weglot.initialize(weglotOptions);
+      resolve(window.Weglot);
+    }, 500);
+  });
+  return weglotPromise;
+};
+
 export const initializeWeglot = () => {
   if (weglotPromise) {
     return weglotPromise;
@@ -20,9 +30,7 @@ export const initializeWeglot = () => {
   // after server side rendering
   if (window.Weglot) {
     console.info('Weglot initialized for preloaded script');
-    window.Weglot.initialize(weglotOptions);
-    weglotPromise = Promise.resolve(window.Weglot);
-    return weglotPromise;
+    return init();
   }
 
   // for local dev
@@ -32,14 +40,11 @@ export const initializeWeglot = () => {
   script.setAttribute('src', 'https://cdn.weglot.com/weglot.min.js');
   body.appendChild(script);
 
-  weglotPromise = new Promise(resolve => {
-    script.onload = function() {
-      Weglot.initialize(weglotOptions);
-      console.info('Weglot initialized');
-      resolve(Weglot);
-    };
-  });
-  return weglotPromise;
+  script.onload = function() {
+    init();
+    console.info('Weglot initialized');
+  };
+  return Promise.resolve();
 };
 
 export const WeglotScript = () => {
