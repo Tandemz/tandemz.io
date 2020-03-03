@@ -3,7 +3,7 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: 'Marine Crespel et Arthur Boulanger : quelle place pour la recherche utilisateur
+title: 'Marine Crespel & Arthur Boulanger : quelle place pour la recherche utilisateur
   chez Evaneos ?'
 subtitle: 'Interview d''UX : premier épisode'
 date: 2020-03-03T23:00:00Z
