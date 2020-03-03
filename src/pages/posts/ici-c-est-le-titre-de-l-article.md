@@ -3,7 +3,8 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: Ici c'est le titre de l'article
+title: 'Marine Crespel et Arthur Boulanger : quelle place pour la recherche utilisateur
+  chez Evaneos ?'
 subtitle: 'Interview d''UX : premier épisode'
 date: 2020-03-03T23:00:00Z
 thumb_img_path: ''
@@ -44,9 +45,7 @@ Et en même temps, comme l’a dit Marine, il faut aussi servir les objectifs de
 
 **Quels sont les différents challenges actuels de l’équipe design d’Evaneos et comment vous organisez-vous pour les atteindre ?**
 
-A : Il y en a beaucoup et c’est cela qui nous motive au quotidien dans l’équipe !.
-
-Un premier challenge qu’on se fixe pour les 6 mois à venir est de rendre plus cohérent les interfaces à destination des voyageurs et des agents) en déployant progressivement notre Design System.
+A : Il y en a beaucoup et c’est cela qui nous motive au quotidien dans l’équipe ! Un premier challenge qu’on se fixe pour les 6 mois à venir est de rendre plus cohérent les interfaces à destination des voyageurs et des agents) en déployant progressivement notre Design System.
 
 Ensuite, on a un énorme challenge sur la recherche utilisateur. On veut aller beaucoup plus loin, même si on en a toujours fait depuis le début d’Evaneos. L’étape suivante est de l’internationaliser et de la passer à plus grande échelle. Tous nos projets clés doivent être nourris en amont avec de la recherche utilisateur très poussée, avec des utilisateurs pas seulement français mais provenant de tous les marchés sur lesquels on opère (pays germanophones et nordiques, Etats-Unis, Royaume-Uni, Espagne, Italie et France).
 
@@ -70,7 +69,7 @@ M : Je pense même à une certaine équipe où des développeurs eux-mêmes mèn
 
 A : Notamment pour les tests dans les locaux avec les agents : toutes les personnes de l’équipe vont participer - développeurs, product manager, designers. Les designers vont préparer les protocoles et briefer sur la façon de mener le test. Chez Evaneos, les employés sont très impliqués et vont énormément chercher à répondre aux besoins des utilisateurs.
 
-**Quelle vision pour la recherche utilisateur souhaitez-vous mettre en place chez Evaneos ?**
+**Quelle vision pour la recherche utilisateur souhaitez-vous mettre en place au sein d'Evaneos ?**
 
 A : Il y a 3 dimensions sur lesquelles nous voulons avancer. Tout d’abord, l’internationalisation, que l’on a un déjà évoquée un peu plus tôt.
 
