@@ -23,6 +23,10 @@ Evaneos attache une grand importance à intégrer le voyageur au centre de la co
 
 Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et Head of User Experience chez Evaneos, nous dévoilent la place de l’expérience utilisateur dans cette start-up française.
 
+![](/images/Marine (1).png)
+
+![](/images/Arthur.png)
+
 **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
 
 M : A la suite d’un BTS Communication visuelle (LISAA Nantes) orienté print (graphisme éditorial tel que les campagnes publicitaires, les affiches, les illustrations), j’ai suivi une première licence professionnelle à l’IUT de Bobigny en graphisme web (webdesign et code) puis une seconde licence à Gobelins l’Ecole de l’image en expérience utilisateur mobile. J’ai ensuite commencé par quelques expériences en agence et en freelance pour appréhender différents projets, ça me semblait plus simple. C’était très créatif mais j’étais frustrée de voir le projet repris par d’autres personnes ou parfois même mourir par absence de suivi. A un moment donné, j’ai voulu accompagner un projet au fur et à mesure des années, l’aider à grandir et en être fière plutôt que d’en lancer plusieurs avec un investissement moindre. Donc je me suis orientée vers du Product Design et j’ai intégré Evaneos, une entreprise avec un produit. Aujourd’hui chez Evaneos je m’occupe de la partie Inspiration du site web, destinée aux voyageurs qui ne savent pas encore où aller pour les orienter vers des destinations. Au niveau de l’expertise en design, je travaille sur la partie UI, c’est-à-dire m’occuper du Design System \[NDLR : l’ensemble des éléments qui forment le langage visuel d’un produit\] qui est en en place sur le site et sur toute la partie B2C.
