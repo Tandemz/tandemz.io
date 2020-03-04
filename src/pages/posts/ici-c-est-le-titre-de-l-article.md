@@ -25,7 +25,7 @@ Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et H
 
 ![](/images/Frame 159 (1).png)
 
-### **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
+## **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
 
 **M :** A la suite d’un BTS Communication visuelle (LISAA Nantes) orienté print (graphisme éditorial tel que les campagnes publicitaires, les affiches, les illustrations), j’ai suivi une première licence professionnelle à l’IUT de Bobigny en graphisme web (webdesign et code) puis une seconde licence à Gobelins l’Ecole de l’image en expérience utilisateur mobile. J’ai ensuite commencé par quelques expériences en agence et en freelance pour appréhender différents projets, ça me semblait plus simple. C’était très créatif mais j’étais frustrée de voir le projet repris par d’autres personnes ou parfois même mourir par absence de suivi. A un moment donné, j’ai voulu accompagner un projet au fur et à mesure des années, l’aider à grandir et en être fière plutôt que d’en lancer plusieurs avec un investissement moindre. Donc je me suis orientée vers du Product Design et j’ai intégré Evaneos, une entreprise avec un produit. Aujourd’hui chez Evaneos je m’occupe de la partie Inspiration du site web, destinée aux voyageurs qui ne savent pas encore où aller pour les orienter vers des destinations. Au niveau de l’expertise en design, je travaille sur la partie UI, c’est-à-dire m’occuper du Design System \[NDLR : l’ensemble des éléments qui forment le langage visuel d’un produit\] qui est en en place sur le site et sur toute la partie B2C.
 
@@ -33,7 +33,7 @@ Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et H
 
 J’ai rejoint Evaneos il y a 8 ans maintenant pour structurer toute la partie design, conception et gestion de projet. Nous étions une petite dizaine à ce moment là. J’ai grandi avec Evaneos. A un moment, il a fallu créer cette expertise produit au sens large donc on a recruté. Aujourd’hui on a une équipe de 4 Product Designers, un Head of UX et 6 Product Managers. On a même un directeur produit au Codir.
 
-**Quelle serait votre définition de l’UX, dans votre travail ?**
+## **Quelle serait votre définition de l’UX, dans votre travail ?**
 
 **M :** Mon métier a une grosse part d’empathie. Il faut comprendre la personne qui utilise notre produit puis lui proposer une solution qui va correspondre à la fois à ce qu’il attend et en même temps à la vision de l’entreprise .
 
@@ -45,7 +45,7 @@ De façon plus générale, nous devons faire preuve d’empathie tout au long de
 
 Et en même temps, comme l’a dit Marine, il faut aussi servir les objectifs de l’entreprise. Si on prend le cas des voyageurs Evaneos, on peut observer de nombreux “pain points” à résoudre tout au long de leur expérience. Mais on doit prioriser et focaliser sur ceux allant dans le sens de notre mission, à savoir “Free people’s curiosity for the unknown” (Libérez la curiosité des voyageurs pour l’inconnu) et les objectifs annuels de l’entreprise.
 
-**Quels sont les différents challenges actuels de l’équipe design d’Evaneos et comment vous organisez-vous pour les atteindre ?**
+## **Quels sont les différents challenges actuels de l’équipe design d’Evaneos et comment vous organisez-vous pour les atteindre ?**
 
 **A :** Il y en a beaucoup et c’est cela qui nous motive au quotidien dans l’équipe ! Un premier challenge qu’on se fixe pour les 6 mois à venir est de rendre plus cohérent les interfaces à destination des voyageurs et des agents) en déployant progressivement notre Design System.
 
@@ -55,7 +55,7 @@ Un autre objectif de l’équipe design dans les mois à venir est de faire conv
 
 **M :** Les challenges dont parle Arthur sont les objectifs transverses de l’équipe UX. Chaque designer est également rattaché à une équipe pluridisciplinaire ayant des projets spécifiques, et possède donc des objectifs liés à ces projets. Pour ma part, je travaille sur la partie Inspiration du voyageur et donc, le premier challenge est d’attirer des personnes sur le site, de leur donner une valeur ajoutée à le consulter. Pour cela, je définis avec le Product Manager les objectifs du projet puis je travaille à la conception. Elle sera partagée avec les autres designers pour s’aligner sur la cohérence de l’ensemble du site. Puis commence la phase de développement. Bien sûr, il y a beaucoup de partage avec tous les autres métiers pour expliquer ce qu’on va faire et pour que tout le monde soit aligné sur la vision du projet.
 
-**Comment s’intègre la recherche utilisateur dans tous ces projets et comment procédez-vous ?**
+## **Comment s’intègre la recherche utilisateur dans tous ces projets et comment procédez-vous ?**
 
 **M :** Aujourd’hui on n’a pas de process bien défini pour la recherche utilisateur. A chaque interrogation qu’on a, on réfléchit à quel moyen serait le plus efficace pour y répondre. Parfois, on passe par des tests utilisateurs enregistrés en vidéo. On a une plateforme qui sélectionne les bons voyageurs et qui nous envoie les vidéos une fois les tests réalisés. Avec les ambassadeurs français d’Evaneos qui viennent dans les locaux, on fait soit des interviews en physique pour échanger sur les besoins globaux soit des tests utilisateurs. Enfin, pour de petites hypothèses, on va faire des tests avec des personnes qu’on connaît, sur des prototypes animés, pour plus d’interactions.
 
@@ -71,7 +71,7 @@ Les designers ont des objectifs de recherche utilisateur dans leur fiche de post
 
 **A :** Notamment pour les tests dans les locaux avec les agents : toutes les personnes de l’équipe vont participer - développeurs, product manager, designers. Les designers vont préparer les protocoles et briefer sur la façon de mener le test. Chez Evaneos, les employés sont très impliqués et vont énormément chercher à répondre aux besoins des utilisateurs.
 
-**Quelle vision pour la recherche utilisateur souhaitez-vous mettre en place au sein d'Evaneos ?**
+## **Quelle vision pour la recherche utilisateur souhaitez-vous mettre en place au sein d'Evaneos ?**
 
 **A :** Il y a 3 dimensions sur lesquelles nous voulons avancer. Tout d’abord, l’internationalisation, que l’on a un déjà évoquée un peu plus tôt.
 
@@ -91,7 +91,7 @@ Dans la vision idéale aussi, il faut faire converger les approches quali et qua
 
 **M :** La seule chose compliquée était la prise en main de l’outil par des nouvelles personnes. Mais une fois habitués, ils ont pu récupérer des avis de vrais utilisateurs externes. Ca va à l’encontre de leur démarche habituelle, avec des échanges sans fin sur leur expertise métier. C’est une première étape pour eux d’accepter de prendre en compte les avis des utilisateurs dans leur réflexion. Ce n’est pas évident, ce n’est pas forcément dans leur logique métier. C’était ce que je voulais qu’ils comprennent.
 
-**Avec le recul, quel conseil vous donneriez-vous en début de carrière ?**
+## **Avec le recul, quel conseil vous donneriez-vous en début de carrière ?**
 
 **A :** Mon conseil serait plus à destination de ceux qui évoluent en milieu de start-up : quand la start-up fonctionne, ça peut aller très vite et on peut se faire emporter par le flot. Établissez une routine, par exemple tous les mois, pour vous recentrer sur les raisons qui font que vous voulez aller travailler le matin, sur ce qui vous anime dans votre métier, ce que vous voulez apporter. L’important est de rester en phase avec vos envies et de ne pas se laisser embarquer dans des voies que vous ne vouliez pas forcément. Il faut toujours prendre du recul sur ce qu’on fait.
 
