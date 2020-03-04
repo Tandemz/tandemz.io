@@ -3,8 +3,8 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: 'Marine Crespel & Arthur Boulanger : quelle place pour la recherche utilisateur
-  chez Evaneos ?'
+title: Comment Evaneos accélère sa recherche utilisateur par Marine Crespel et Arthur
+  Boulanger
 subtitle: ''
 date: 2020-03-03T23:00:00Z
 thumb_img_path: ''
@@ -23,7 +23,7 @@ Evaneos attache une grand importance à intégrer le voyageur au centre de la co
 
 Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et Head of User Experience chez Evaneos, nous dévoilent la place de l’expérience utilisateur dans cette start-up française.
 
-![](/images/Frame 159.png)
+![](/images/Frame 159 (1).png)
 
 **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
 
