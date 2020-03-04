@@ -17,13 +17,13 @@ og_image_width:
 og_image_height: 
 
 ---
-![](/images/Marine-Arthur.png)![](/images/Marine-Arthur-jpg.jpg)Créée en 2009, Evaneos redessine le secteur du tourisme depuis 11 ans en proposant à tous les amoureux du voyage de se créer un voyage sur mesure directement en lien avec des agences locales. Elle compte aujourd’hui plus de 220 salariés et se place leader sur le marché européen du tourisme en ligne.
+Créée en 2009, Evaneos redessine le secteur du tourisme depuis 11 ans en proposant à tous les amoureux du voyage de se créer un voyage sur mesure directement en lien avec des agences locales. Elle compte aujourd’hui plus de 220 salariés et se place leader sur le marché européen du tourisme en ligne.
 
 Evaneos attache une grand importance à intégrer le voyageur au centre de la conception produit. Nous avons voulu commencer ce premier épisode de notre série d’interviews par cette belle réussite, notamment en terme d’expérience utilisateur.
 
 Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et Head of User Experience chez Evaneos, nous dévoilent la place de l’expérience utilisateur dans cette start-up française.
 
-![](/images/Frame 159 (1).png)
+![](/images/Marine-Arthur-jpg-1.jpg)
 
 ## **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
 
