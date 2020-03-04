@@ -17,7 +17,7 @@ og_image_width:
 og_image_height: 
 
 ---
-Créée en 2009, Evaneos redessine le secteur du tourisme depuis 11 ans en proposant à tous les amoureux du voyage de se créer un voyage sur mesure directement en lien avec des agences locales. Elle compte aujourd’hui plus de 220 salariés et se place leader sur le marché européen du tourisme en ligne.
+![](/images/Marine-Arthur.png)![](/images/Marine-Arthur-jpg.jpg)Créée en 2009, Evaneos redessine le secteur du tourisme depuis 11 ans en proposant à tous les amoureux du voyage de se créer un voyage sur mesure directement en lien avec des agences locales. Elle compte aujourd’hui plus de 220 salariés et se place leader sur le marché européen du tourisme en ligne.
 
 Evaneos attache une grand importance à intégrer le voyageur au centre de la conception produit. Nous avons voulu commencer ce premier épisode de notre série d’interviews par cette belle réussite, notamment en terme d’expérience utilisateur.
 
