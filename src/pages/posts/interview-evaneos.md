@@ -1,21 +1,27 @@
 ---
-hashtags: []
+hashtags:
+- uxdesign
+- userexperience
+- userresearch
+- evaneos
+- designteam
+- startup
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: Comment Evaneos accélère sa recherche utilisateur, entretien avec Marine Crespel
   et Arthur Boulanger
 subtitle: ''
-date: 2020-03-03T23:00:00Z
-thumb_img_path: ''
-content_img_path: ''
+date: 2020-03-03T23:00:00.000+00:00
+thumb_img_path: "/images/InterviewEvaneos.png"
+content_img_path: "/images/InterviewEvaneos-1.png"
 excerpt: Nous avons rencontré Marine Crespel et Arthur Boulanger d'Evaneos qui nous
   expliquent comment se construit l'expérience utilisateur chez Evaneos.
 author: src/data/authors/marinew.json
-keywords: ''
-ogimage: ''
-og_image_width: 
-og_image_height: 
+keywords: UX, recherche utilisateur, Evaneos, design team, startup
+ogimage: "/images/InterviewEvaneosx2-1.png"
+og_image_width: 750
+og_image_height: 375
 
 ---
 Créée en 2009, Evaneos redessine le secteur du tourisme depuis 11 ans en proposant à tous les amoureux du voyage de se créer un voyage sur mesure directement en lien avec des agences locales. Elle compte aujourd’hui plus de 220 salariés et se place leader sur le marché européen du tourisme en ligne.
