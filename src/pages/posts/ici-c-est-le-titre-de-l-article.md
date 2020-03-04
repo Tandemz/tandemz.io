@@ -9,7 +9,8 @@ subtitle: ''
 date: 2020-03-03T23:00:00Z
 thumb_img_path: ''
 content_img_path: ''
-excerpt: ''
+excerpt: Nous avons rencontré Marine Crespel et Arthur Boulanger d'Evaneos qui nous
+  expliquent comment se construit l'expérience utilisateur chez Evaneos.
 author: src/data/authors/marinew.json
 keywords: ''
 ogimage: ''
