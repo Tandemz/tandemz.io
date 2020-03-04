@@ -3,8 +3,8 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: Comment Evaneos accélère sa recherche utilisateur par Marine Crespel et Arthur
-  Boulanger
+title: Comment Evaneos accélère sa recherche utilisateur, entretien avec Marine Crespel
+  et Arthur Boulanger
 subtitle: ''
 date: 2020-03-03T23:00:00Z
 thumb_img_path: ''
