@@ -23,7 +23,7 @@ Evaneos attache une grand importance à intégrer le voyageur au centre de la co
 
 Marine Crespel et Arthur Boulanger, respectivement Product Designer/Lead UI et Head of User Experience chez Evaneos, nous dévoilent la place de l’expérience utilisateur dans cette start-up française.
 
-![](/images/Group 158.png)
+![](/images/Frame 159.png)
 
 **Commençons par détailler un peu vos parcours et comprendre comment vous êtes arrivés à votre poste actuel.**
 
