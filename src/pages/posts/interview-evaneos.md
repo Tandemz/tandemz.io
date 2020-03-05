@@ -12,7 +12,7 @@ ogtype: article
 title: Comment Evaneos accélère sa recherche utilisateur, entretien avec Marine Crespel
   et Arthur Boulanger
 subtitle: ''
-date: 2020-03-03T23:00:00.000+00:00
+date: 2020-03-04T23:00:00Z
 thumb_img_path: "/images/InterviewEvaneos.png"
 content_img_path: "/images/InterviewEvaneos-1.png"
 excerpt: Nous avons rencontré Marine Crespel et Arthur Boulanger d'Evaneos qui nous
