@@ -81,8 +81,8 @@ sections:
     details: Créez votre panel ou importez-le depuis votre base d'utilisateurs existante.
     highlight: false
     actions:
-    - url: "/contact"
-      label: Tester la bêta gratuitement
+    - url: https://app.tandemz.io
+      label: Rejoindre la bêta gratuite
 - template: ctablock
   component: CtaBlock
   type: ctablock
