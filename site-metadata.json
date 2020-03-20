@@ -10,8 +10,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Demander une démo",
-          "url": "/contact"
+          "label": "Rejoindre la beta gratuite",
+          "url": "https://app.tandemz.io"
         }
       ]
     }
