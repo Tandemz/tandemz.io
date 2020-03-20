@@ -11,7 +11,7 @@ sections:
     sur votre recherche utilisateur.
   image: ''
   actions:
-  - label: Rejoindre la beta gratuite
+  - label: Rejoindre la beta
     url: https://app.tandemz.io
 - template: imageblock
   component: ImageBlock
@@ -82,7 +82,7 @@ sections:
     highlight: false
     actions:
     - url: https://app.tandemz.io
-      label: Rejoindre la bêta gratuite
+      label: Rejoindre la bêta (gratuite)
 - template: ctablock
   component: CtaBlock
   type: ctablock
