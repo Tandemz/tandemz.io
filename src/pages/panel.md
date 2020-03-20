@@ -11,8 +11,8 @@ sections:
     sur votre recherche utilisateur.
   image: ''
   actions:
-  - label: Tester la bêta gratuitement
-    url: "/contact"
+  - label: Rejoindre la beta gratuite
+    url: https://app.tandemz.io
 - template: imageblock
   component: ImageBlock
   bg: white
@@ -91,8 +91,8 @@ sections:
     early adopters '
   subtitle: ''
   actions:
-  - label: Tester la bêta gratuitement
-    url: "/contact"
+  - label: Rejoindre la bêta gratuite
+    url: https://app.tandemz.io
 menus:
   solutions:
     title: Gestion de panel
