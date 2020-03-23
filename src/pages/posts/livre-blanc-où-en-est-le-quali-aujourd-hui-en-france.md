@@ -1,20 +1,25 @@
 ---
-hashtags: []
+hashtags:
+- uxdesign
+- userexperience
+- userresearch
+- ux
+- qualitatif
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: 'Livre blanc : où en est le quali aujourd''hui en France ?'
 subtitle: ''
-date: 2020-03-17T23:00:00Z
+date: 2020-03-17T23:00:00.000+00:00
 thumb_img_path: "/images/Livre blanc-1.png"
 content_img_path: ''
 excerpt: Quelles pratiques pour le qualitatif en France aujourd’hui ? Quelles perspectives
   d’évolution, quels problèmes rencontrés ? Découvrez-le dans notre livre blanc
 author: src/data/authors/marinew.json
-keywords: ''
-ogimage: ''
-og_image_width: 
-og_image_height: 
+keywords: UX, recherche utilisateur, qualitatif
+ogimage: "/images/Livre blanc.png"
+og_image_width: 750
+og_image_height: 375
 
 ---
 L'équipe Tandemz est allée à la rencontre d'une soixantaine de professionnels pour comprendre comment les études qualitatives sont menées dans leur quotidien ! Leurs difficultés, leurs solutions, leurs perspectives pour le futur, leurs méthodologies, nous avons analysé toutes ces pratiques pour en ressortir des apprentissages, que nous vous dévoilons dans ce livre blanc :
