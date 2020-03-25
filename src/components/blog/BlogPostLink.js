@@ -9,7 +9,7 @@ export default class BlogPostLink extends React.PureComponent {
     const { post, post_idx } = this.props;
     return (
       <article key={post_idx} className="post post-card">
-        <div className="post-card-inside">
+        <div className="post-card-inside no-translate">
           {_.get(post, 'frontmatter.thumb_img_path') && (
             <Link
               className="post-card-thumbnail"
