@@ -21,11 +21,9 @@ metatags: []
 schema_org_data_list: []
 
 ---
-# Contrat de prestation de service recrutement
-
 ## 1. Général
 
-Les conditions générales (CG) s’appliquent à tous les accords entre Tandemz SAS (Tandemz) et le client. Tandemz se réserve le droit de modifier le contrat de prestation à tout moment et sans préavis. La dernière version des CG peut se trouver en ligne sur [https://www.tandemz.io/contrat-de-prestation-de-service-recrutement/](https://www.tandemz.io/contrat-de-prestation-de-service-recrutement/ "https://www.tandemz.io/contrat-de-prestation-de-service-recrutement/").
+Les conditions générales (CG) s’appliquent à tous les accords entre Tandemz SAS (Tandemz) et le client. Tandemz se réserve le droit de modifier le contrat de prestation à tout moment et sans préavis. La dernière version des CG peut se trouver en ligne sur [https://www.tandemz.io/contrat-de-prestation-de-services-recrutement/](https://www.tandemz.io/contrat-de-prestation-de-services-recrutement/ "https://www.tandemz.io/contrat-de-prestation-de-services-recrutement/").
 
 ## 2. Sujet de l’accord
 
