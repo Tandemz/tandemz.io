@@ -11,8 +11,8 @@ og_image_width: 200
 og_image_height: 200
 twitter_card: summary
 title: Contrat de prestation de services recrutement
-legal: false
-legal_name: ''
+legal: true
+legal_name: cgv-client
 subtitle: ''
 img_path: ''
 ogtitle: ''
