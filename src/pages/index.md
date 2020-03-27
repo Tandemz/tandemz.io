@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Tandemz, le catalyseur de vos tests utilisateurs
+  title: Tandemz - le catalyseur de vos tests utilisateurs
   component: HeroBlock
   content: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil. Concentrez-vous
     enfin sur votre recherche utilisateur.
