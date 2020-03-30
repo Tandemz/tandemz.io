@@ -24,6 +24,7 @@ sections:
   featureslist:
   - title: 1. Répondez à quelques questions
     content: Un court questionnaire nous permettra d'en savoir un peu plus sur vous.
+      Les questions sont très simples et différentes pour chaque étude.
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
