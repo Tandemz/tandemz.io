@@ -13,7 +13,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
-    url: https://docs.google.com/forms/d/e/1FAIpQLSeBvzkb-9mk4qgJ_lkaE5RipILUEjOlItPjYRDwGWcfk6GVUg/viewform
+    url: https://tandemz.typeform.com/to/WDAoqF
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
