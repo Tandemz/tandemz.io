@@ -54,7 +54,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Je participe
-    url: https://docs.google.com/forms/d/e/1FAIpQLSeBvzkb-9mk4qgJ_lkaE5RipILUEjOlItPjYRDwGWcfk6GVUg/viewform
+    url: https://tandemz.typeform.com/to/WDAoqF
   subtitle: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
