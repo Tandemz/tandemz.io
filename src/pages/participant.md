@@ -41,7 +41,7 @@ sections:
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
-  - title: 3. Recevez votre rémunération
+  - title: 4. Recevez votre rémunération
     content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
