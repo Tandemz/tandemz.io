@@ -5,7 +5,8 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: Les challenges de l'équipe UX/UI de Bouygues Telecom, racontés par Solène Saguez
+title: Du cycle en V à l’agitilité, ce qui a changé pour les designers UX/UI de Bouygues,
+  par Solène Saguez
 subtitle: ''
 date: 2020-04-21T22:00:00Z
 thumb_img_path: ''
