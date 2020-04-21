@@ -5,8 +5,8 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: Du cycle en V à l’agitilité, ce qui a changé pour les designers UX/UI de Bouygues,
-  par Solène Saguez
+title: 'L’UX chez Bouygues Télécom : du cycle en V à l’agilité, entretien avec Solène
+  Saguez'
 subtitle: ''
 date: 2020-04-21T22:00:00Z
 thumb_img_path: ''
