@@ -9,13 +9,13 @@ title: 'L’UX chez Bouygues Télécom : du cycle en V à l’agilité, entretie
   Saguez'
 subtitle: ''
 date: 2020-04-21T22:00:00Z
-thumb_img_path: "/images/InterviewSolene.png"
-content_img_path: ''
+thumb_img_path: "/images/InterviewSolene (1).png"
+content_img_path: "/images/InterviewSolene (1).png"
 excerpt: Mise en place de l'agilité, intégration de la recherche utilisateur, Solène
   Saguez nous livre les challenges de son équipe au sein du groupe Bouygues Telecom.
 author: src/data/authors/marinew.json
 keywords: ''
-ogimage: ''
+ogimage: "/images/InterviewSolene (1).png"
 
 ---
 Après une première interview consacrée à la start-up Evaneos, nous nous sommes intéressés à la façon dont l’UX Design était intégré cette fois-ci dans des grands groupes. Nous avons rencontré Solène Saguez, Manager UX chez Bouygues Telecom, l’un des plus grands opérateurs de téléphonie française et comptant aujourd’hui plus de 8000 employés. Ses produits digitaux sont nombreux, son marché est rapide et concurrentiel. Solène nous raconte les challenges quotidiens de son équipe UX/UI dans cet environnement.
