@@ -1,7 +1,12 @@
 ---
-og_image_width: 0
-og_image_height: 0
-hashtags: []
+og_image_width: 750
+og_image_height: 375
+hashtags:
+- uxdesign
+- userexperience
+- userresearch
+- bouyguestelecom
+- designteam
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -14,7 +19,7 @@ content_img_path: ''
 excerpt: Mise en place de l'agilité, intégration de la recherche utilisateur, Solène
   Saguez nous livre les challenges de son équipe au sein du groupe Bouygues Telecom.
 author: src/data/authors/marinew.json
-keywords: ''
+keywords: UX, recherche utilisateur, Bouygues Telecom, design team, UX/UI
 ogimage: "/images/InterviewSolene (1).png"
 
 ---
