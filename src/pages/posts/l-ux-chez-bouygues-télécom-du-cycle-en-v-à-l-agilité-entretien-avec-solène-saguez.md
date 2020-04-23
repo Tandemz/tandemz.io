@@ -10,7 +10,7 @@ hashtags:
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: 'L’UX chez Bouygues Télécom : du cycle en V à l’agilité, entretien avec Solène
+title: 'L’UX chez Bouygues Telecom : du cycle en V à l’agilité, entretien avec Solène
   Saguez'
 subtitle: ''
 date: 2020-04-21T22:00:00Z
@@ -29,7 +29,7 @@ Après une première interview consacrée à la start-up Evaneos, nous nous somm
 
 ## **Commençons par détailler un peu ton parcours et comprendre comment tu es arrivée à ton poste actuel de Manager UX.**
 
-J’ai commencé par une école d’arts graphiques suivie d’un BTS communication visuelle, tous deux orientés print (c’était les prémices du graphisme à cette époque) puis une license d’arts appliqués.
+J’ai commencé par une école d’arts graphiques suivie d’un BTS communication visuelle, tous deux orientés print puis une license d’arts appliqués.
 
 Ensuite, je me suis lancée en freelance et très vite je me suis rendue compte que je n’arrivais pas à accompagner mes clients de bout en bout, particulièrement dans le digital. Donc un an après, j’ai repris un Master Direction Artistique Numérique pour apprendre toutes les notions du web et les principes du design appliqués au digital.
 
@@ -49,7 +49,7 @@ D’une part, nos projets étaient en cycle en V. Le chef de projet échangeait 
 
 D'autres part, Bouygues Telecom a aussi pris conscience de l’intérêt l’agilité pour gagner en efficacité et en rapidité sur le marché. Notre secteur d’activité est réactif, nos produits doivent avancer rapidement et répondre aux besoins de nos utilisateurs.
 
-Donc il y a eu cette réflexion sur le déploiement de l’agilité chez Bouygues Telecom qui a mis quelques mois à se mettre en place. Il y a eu des ateliers, les équipes ont été intégrées à la réflexion. De là est venu le découpage en features teams (NDLR : équipe dédiée au développement d’une fonctionnalité et regroupant toutes les disciplines nécessaires, en mode projet). Chaque feature team est pluridisciplinaire, avec 2-3 développeurs, un UX/UI intégré, un PO, un web analyst, un proxy PO. Actuellement, 3 features teams ont vu le jour (initialement 1 feature team existait déjà sur l'application mobile) mais la volonté c’est que l’entièreté des équipes produit passent en agile d’ici la fin de l’année 2020. J’ai fait le pari de mettre les UX directement dans les équipes pour qu’ils soient physiquement avec les PO et développeurs, au plus proche des problématiques et du produit.
+Donc il y a eu cette réflexion sur le déploiement de l’agilité chez Bouygues Telecom qui a mis quelques mois à se mettre en place. Il y a eu des ateliers, les équipes ont été intégrées à la réflexion. De là est venu le découpage en features teams (NDLR : équipe dédiée au développement d’une fonctionnalité et regroupant toutes les disciplines nécessaires, en mode projet). Chaque feature team est pluridisciplinaire, avec 2-3 développeurs, un UX/UI intégré, un PO, un web analyst, un proxy PO. Actuellement, 3 nouvelles features teams ont vu le jour (initialement d'autres feature teams existaient déjà dont une sur l'application mobile) mais la volonté c’est que l’entièreté des équipes produit passent en agile d’ici la fin de l’année 2020. J’ai fait le pari de mettre les UX directement dans les équipes pour qu’ils soient physiquement avec les PO et développeurs, au plus proche des problématiques et du produit.
 
 Pour l’instant, aucun regret : on se rend compte qu’il y a beaucoup plus de communication avec les développeurs, moins de frustration et plus de cohésion. Et surtout un sentiment de responsabilité sur son sujet. Avant, les UX Designers recevaient un sujet, ils le livraient et c’était fini. Maintenant, nous pouvons parler de Product Designer, avec une vraie implication dans le parcours, dans l’expérience proposée. Chacun a son rôle à jouer dans l’amélioration de l’expérience utilisateur.
 
