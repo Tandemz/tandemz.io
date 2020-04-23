@@ -14,7 +14,7 @@ title: 'L’UX chez Bouygues Telecom : du cycle en V à l’agilité, entretien 
   Saguez'
 subtitle: ''
 date: 2020-04-21T22:00:00Z
-thumb_img_path: "/images/InterviewSolene (1).png"
+thumb_img_path: "/images/InterviewSolene.png"
 content_img_path: ''
 excerpt: Mise en place de l'agilité, intégration de la recherche utilisateur, Solène
   Saguez nous livre les challenges de son équipe au sein du groupe Bouygues Telecom.
