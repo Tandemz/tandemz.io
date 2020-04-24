@@ -107,7 +107,7 @@ menus:
     title: Recrutement
     weight: 2
 template: home
-title: Recrutez vos participant avec Tandemz
+title: Recrutez vos participants avec Tandemz
 description: Nous recrutons vos participants à la recherche utilisateur parmi les
   3,4 Millions d'utilisateurs des réseaux sociaux.
 keywords: recrutement, participants, UX, recherche utilisateur, interviews, tests
