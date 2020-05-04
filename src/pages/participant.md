@@ -13,7 +13,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
-    url: https://docs.google.com/forms/d/e/1FAIpQLSeBvzkb-9mk4qgJ_lkaE5RipILUEjOlItPjYRDwGWcfk6GVUg/viewform
+    url: https://tandemz.typeform.com/to/WDAoqF
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
@@ -41,7 +41,7 @@ sections:
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
-  - title: 3. Recevez votre rémunération
+  - title: 4. Recevez votre rémunération
     content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
@@ -54,7 +54,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Je participe
-    url: https://docs.google.com/forms/d/e/1FAIpQLSeBvzkb-9mk4qgJ_lkaE5RipILUEjOlItPjYRDwGWcfk6GVUg/viewform
+    url: https://tandemz.typeform.com/to/WDAoqF
   subtitle: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
