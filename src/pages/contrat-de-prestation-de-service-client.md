@@ -17,7 +17,7 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 legal: true
-updatedAt: 2020-02-21T09:15:00Z
+updatedAt: 2020-02-21T09:15:00.000+00:00
 legal_name: cgu-client
 
 ---
@@ -45,7 +45,7 @@ Dans le cadre d’un effort de prospection, Tandemz pourra offrir ou organiser d
 
 ## 4. Relations avec Tandemz
 
-A l’exception de vos donnés personnelles (nom, prénom, adresse précise, email), aucune confidentialité ou réserve de publicité ne sera apportée à toute information ou tout élément que vous envoyez à Tandemz sous forme de courrier électronique ou autrement, y compris toutes les données, questions, commentaires, suggestions ou autres, deviendront publiques et de dénomination commune, et seront traités comme tels.
+A l’exception de vos données personnelles (nom, prénom, adresse précise, email), aucune confidentialité ou réserve de publicité ne sera apportée à toute information ou tout élément que vous envoyez à Tandemz sous forme de courrier électronique ou autrement, y compris toutes les données, questions, commentaires, suggestions ou autres, deviendront publiques et de dénomination commune, et seront traités comme tels.
 
 Sauf dans la mesure ou les informations reçues seraient explicitement couvertes par notre Politique de confidentialité des données, tout ce que vous transmettez ou affichez peut être utilisé librement par Tandemz ou ses sociétés affiliées ou ses partenaires, y compris, sans toutefois s’y limiter, par reproduction, divulgation, transmission, publication et diffusion. De plus, Tandemz peut à son gré utiliser toute idée, tout concept, tout savoir-faire ou toute technique qui serait incluse dans n’importe quelle communication envoyée par vous vers notre Site sans qu’il y ait rétribution ou avantage autre que ceux contractuellement définis. L’utilisation pourra être à toute fin, y compris, entre autre, pour le développement, la modification, la fabrication et la commercialisation de produits et services Tandemz à l’aide des dites informations recueillies.
 
@@ -85,6 +85,6 @@ La société Tandemz SAS au capital de 2 400 € et dont le siège social est si
 
 Pour toute question concernant les présentes ou ces conditions, contactez-nous, ou écrivez-nous à l’adresse :  
 Société Tandemz  
-199 avenue de Choisy   
+199 avenue de Choisy  
 75013 Paris  
 FRANCE
