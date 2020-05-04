@@ -19,11 +19,14 @@ og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
+legal: false
+updatedAt: 
+legal_name: ''
 
 ---
 # Identification
 
-Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est édité par la société Tandemz, SAS au capital de 2400€ en cours d’immatriculation. Tandemz est l’unique propriétaire et exploitant de ce site.
+Le site [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") est édité par la société Tandemz, SAS au capital de 2400€. Tandemz est l’unique propriétaire et exploitant de ce site.
 
 Directeur de publication : Marine Wolffhugel
 
@@ -35,9 +38,9 @@ Téléphone : 07 83 92 37 88
 
 # Activité commerciale
 
-SIRET : en cours d’immatriculation
+SIRET : 88189618700013
 
-RCS : en cours d’immatriculation
+RCS : Paris B 881 896 187
 
 Nos CGV sont en cours de rédaction. En cas d’achat sur notre site, nous vous ferons pour l’instant signer un contrat correspondant.
 
