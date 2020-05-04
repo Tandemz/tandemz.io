@@ -1,5 +1,5 @@
 ---
-title: Blog de Tandemz
+title: Notre blog
 menus:
   main:
     title: Blog
