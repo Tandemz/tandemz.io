@@ -11,7 +11,7 @@ const Head = props => {
   const meta = _.get(props, 'pageContext.frontmatter') || {};
   const siteMeta = _.get(props, 'pageContext.site.siteMetadata') || {};
 
-  const title =       meta.title || siteMeta.title;
+  const title =       meta.full_title || meta.title || siteMeta.title;
   const description = meta.description || meta.excerpt || siteMeta.description;
   const keywords =    meta.keywords || siteMeta.keywords;
 

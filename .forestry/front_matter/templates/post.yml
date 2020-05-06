@@ -2,105 +2,105 @@
 label: Post
 hide_body: false
 fields:
-- type: text
-  name: title
-  label: Title
-  config:
+  - type: text
+    name: title
+    label: Title (url)
+    config:
+      required: true
+    description: Si possible < 60 caractères, servira pour l'url de la page (pas de caractères spéciaux ni d'accents!)
+  - type: text
+    name: full_title
+    label: Full Title
+    description: Titre complet de l'article.
+  - type: datetime
+    name: date
+    label: Date
+    config:
+      required: true
+  - type: file
+    name: thumb_img_path
+    label: Featured Image
+    description: The image shown in the blog feed.
+  - type: file
+    name: content_img_path
+    label: Alternative Featured Image
+    description: The image shown in the single post.
+  - type: text
+    name: excerpt
+    label: Excerpt
+    description: The excerpt of the post displayed in the blog feed.
+    config:
+      max: '160'
+  - name: author
+    type: select
+    default:
+    config:
+      required: true
+      options: []
+      source:
+        type: pages
+        section: auteurs
+        file: src/data/authorss.json
+        path:
+    label: Auteur
+  - name: keywords
+    type: text
+    config:
+      required: false
+    label: Mots Clés
+  - name: ogimage
+    type: file
+    config:
+      maxSize: 250
+    label: social image (ratio 2:1)
+  - name: og_image_width
+    type: number
+    description: ''
+    default: 0
     required: true
-  description: Si possible < 60 charactères
-- type: text
-  name: subtitle
-  label: Subtitle
-  description: The text shown just below the post title.
-- type: datetime
-  name: date
-  label: Date
-  config:
+    config:
+      min:
+      max:
+      step:
+    label: 'Largeur Social image '
+  - name: og_image_height
+    type: number
+    label: Hauteur Social Image
+    description: ''
+    default: 0
     required: true
-- type: file
-  name: thumb_img_path
-  label: Featured Image
-  description: The image shown in the blog feed.
-- type: file
-  name: content_img_path
-  label: Alternative Featured Image
-  description: The image shown in the single post.
-- type: text
-  name: excerpt
-  label: Excerpt
-  description: The excerpt of the post displayed in the blog feed.
-  config:
-    max: '160'
-- name: author
-  type: select
-  default: 
-  config:
-    required: true
-    options: []
-    source:
-      type: pages
-      section: auteurs
-      file: src/data/authorss.json
-      path: 
-  label: Auteur
-- name: keywords
-  type: text
-  config:
-    required: false
-  label: Mots Clés
-- name: ogimage
-  type: file
-  config:
-    maxSize: 250
-  label: social image (ratio 2:1)
-- name: og_image_width
-  type: number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  label: 'Largeur Social image '
-- name: og_image_height
-  type: number
-  label: Hauteur Social Image
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-- name: hashtags
-  type: tag_list
-  default: []
-  label: hashtags
-- type: text
-  name: template
-  label: Template
-  hidden: true
-  default: post
-  config:
-    required: true
-- name: twitter_card
-  type: text
-  config:
-    required: false
-  label: twitter_card
-  hidden: true
-  default: summary_large_image
-- name: ogtype
-  type: text
-  config:
-    required: false
-  label: ogtype
-  hidden: true
-  default: article
+    config:
+      min:
+      max:
+      step:
+  - name: hashtags
+    type: tag_list
+    default: []
+    label: hashtags
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: post
+    config:
+      required: true
+  - name: twitter_card
+    type: text
+    config:
+      required: false
+    label: twitter_card
+    hidden: true
+    default: summary_large_image
+  - name: ogtype
+    type: text
+    config:
+      required: false
+    label: ogtype
+    hidden: true
+    default: article
 pages:
-- src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
-- src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
-- src/pages/posts/l-ux-chez-bouygues-télécom-du-cycle-en-v-à-l-agilité-entretien-avec-solène-saguez.md
-- src/pages/posts/livre-blanc-où-en-est-le-quali-aujourd-hui-en-france.md
-- src/pages/posts/why-dark-patterns-creep-into-ux-designers-toolkits.md
+  - src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
+  - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
+  - src/pages/posts/l-ux-chez-bouygues-télécom-du-cycle-en-v-à-l-agilité-entretien-avec-solène-saguez.md
+  - src/pages/posts/livre-blanc-où-en-est-le-quali-aujourd-hui-en-france.md
+  - src/pages/posts/why-dark-patterns-creep-into-ux-designers-toolkits.md

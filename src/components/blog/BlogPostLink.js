@@ -26,7 +26,7 @@ export default class BlogPostLink extends React.PureComponent {
             <header className="post-header">
               <h3 className="post-title">
                 <Link to={safePrefix(_.get(post, 'url'))} rel="bookmark">
-                  {_.get(post, 'frontmatter.title')}
+                  {_.get(post, 'frontmatter.full_title')}
                 </Link>
               </h3>
             </header>
