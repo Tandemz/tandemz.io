@@ -5,7 +5,7 @@ hashtags: []
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: comment et combien remunerer participants ux research
+title: comment combien remunerer participants ux research
 full_title: Comment - et combien - rémunérer les participants à la recherche utilisateur
   ?
 date: 2020-05-05T22:00:00Z
