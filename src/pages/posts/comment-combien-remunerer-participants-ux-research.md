@@ -98,13 +98,13 @@ C’est **la** question que nos clients nous posent le plus souvent ! **Trop don
 * **L’accessibilité de votre cible :** à quel point votre cible est-elle représentée dans la démographie générale ? En effet, plus le montant est élevé, plus la proportion de personnes intéressées va croître. Par conséquent, pour viser une population restreinte, augmenter le montant augmentera vos chances que votre cible se trouve parmi les personnes intéressées. Par exemple, si vous cherchez des personnes ayant récemment voyagé en Australie, et que c’est une destination choisie par seulement 0,5% des voyageurs français, augmenter le montant de la contrepartie vous aidera à les convertir.
 * **Le niveau d’effort que demande votre test utilisateur ou votre interview :** la durée de votre entretien, la nécessité de se déplacer ou non, la difficulté des tâches que vous allez demander, sont autant de facteurs à considérer.
 
-|  | Modéré, en physique | Modéré, à distance | Non modéré* |
+Pour vous simplifier la tâche, nous avons compilé une grille de montants minimums et idéaux selon ces différents critères. Modulez-les en fonction de votre connaissance de votre cible et de votre marché, mais **gardez en tête que plus vous baissez le montant, plus votre recrutement sera difficile** - et vous augmenterez sensiblement la proportion de personnes qui ne répondent que par appât du gain, sans réelle considération pour votre étude !
+
+|  | Modéré, en physique | Modéré, à distance | Non modéré |
 | --- | --- | --- | --- |
 | Cible B2C accessible | min : 40€ / h </br>idéal : 60€ / h | min : 25€ / h </br>idéal : 40€ / h | min: 15€ / h</br>idéal : 30€ / h |
 | Cible B2C peu accessible | min : 60€ / h </br> idéal : 80€ / h | min : 30€ / h</br>idéal : 60€ / h | min: 15€ / h</br>idéal : 40€ / h |
 | Cible B2B (cible professionnelle) - à moduler en fonction du TJM de la cible | à partir de 200€ / h | à partir de 100€ / h | à partir de 60€ / h |
-
-Pour vous simplifier la tâche, nous avons compilé une grille de montants minimums et idéaux selon ces différents critères. Modulez-les en fonction de votre connaissance de votre cible et de votre marché, mais **gardez en tête que plus vous baissez le montant, plus votre recrutement sera difficile** - et vous augmenterez sensiblement la proportion de personnes qui ne répondent que par appât du gain, sans réelle considération pour votre étude !
 
 ## J’ai déterminé comment indemniser mes participants. Et maintenant ?
 
