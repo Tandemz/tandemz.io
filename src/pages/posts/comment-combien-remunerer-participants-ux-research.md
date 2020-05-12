@@ -61,7 +61,7 @@ Par exemple, un cadeau, un accès premium gratuit pendant quelques mois, une rem
 |---|---|
 |Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs|Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas|
 |**Utiliser quand...**|**A éviter si...**|
-|vous voulez parler à vos utilisateurs déjà convaincus / aux "fans" de votre marque / à votre communauté engagée|vous voulez attirer les utilisateurs de vos concurrents / les utilisateurs qui vous ont quitté </br> Si vous voulez rester anonyme pendant le recrutement|
+|Vous voulez parler à vos utilisateurs déjà convaincus / aux "fans" de votre marque / à votre communauté engagée|Vous voulez attirer les utilisateurs de vos concurrents / les utilisateurs qui vous ont quitté </br> Si vous voulez rester anonyme pendant le recrutement|
 
 ### **La loterie**
 
@@ -83,14 +83,14 @@ Par exemple, une promesse de don à une association / ONG / cause de votre choix
 |**Utiliser quand...**|**A éviter si...**|
 |Quand votre cible est peu sensible au gain personnel</br>Quand vous ciblez des personnes sensibles à une certaine cause|Si vous visez un public très large|
 
-Vous avez ainsi deux possibilités :
+Vous avez ainsi deux possibilités pour prendre compte du biais de sélection lorsque vous choisissez votre format d'indemnisation :
 
-* profiter du biais de sélection induit par une des formes de contrepartie pour viser votre cible au plus près : après tout, **en qualitatif, on ne recherche pas un échantillon représentatif de la population générale, mais quelques personnes correspondant à un profil particulier.** Par exemple, si vous voulez surtout interviewer des personnes qui aiment la cuisine, proposer un set de couteaux de cuisine vous évitera d’attirer trop de profils qui sont complètement à côté de votre cible.
-* faire varier le choix de la forme de contrepartie pour compenser les biais de sélection introduits. Le plus commun est par exemple d’à la fois inviter vos utilisateurs existants en leur proposant quelques mois gratuits sur votre produit, tout en recrutant des personnes qui ne vous connaissent pas ou moins avec comme contrepartie une somme monétaire fixe.
+* en profiter pour viser votre cible au plus près : après tout, **en qualitatif, on ne recherche pas un échantillon représentatif de la population générale, mais quelques personnes correspondant à un profil particulier.** Par exemple, si vous voulez surtout interviewer des personnes qui aiment la cuisine, proposer un set de couteaux de cuisine vous évitera d’attirer trop de profils qui sont complètement à côté de votre cible.
+* faire varier les formats de contrepartie pour compenser les biais introduits. Le plus commun est par exemple d’à la fois inviter vos utilisateurs existants en leur proposant quelques mois gratuits sur votre produit, tout en recrutant des personnes qui ne vous connaissent pas ou moins avec comme contrepartie une somme monétaire fixe.
 
 ## Dans le cas du monétaire, combien donner ?
 
-C’est **la** question que nos clients nous posent le plus souvent ! Trop donner, c’est risquer d’exploser son budget pour rien. Trop peu donner, c’est risquer de mal recruter. Alors comment déterminer le bon montant ?
+C’est **la** question que nos clients nous posent le plus souvent ! **Trop donner, c’est risquer d’exploser son budget pour rien. Trop peu donner, c’est risquer de mal recruter.** Alors comment déterminer le bon montant ?
 
 3 critères principaux vont avoir un impact sur le montant :
 
