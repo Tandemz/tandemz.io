@@ -70,6 +70,7 @@ Si vous n'avez pas le budget pour donner une contrepartie intéressante vis-à-v
 
 un cadeau, un accès premium gratuit pendant quelques mois, une remise à faire valoir sur votre site...
 
+|---|---|
 |**Avantages**|**Inconvénients**|
 |Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs|Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas|
 |**Utiliser quand...**|**A éviter si...**|
