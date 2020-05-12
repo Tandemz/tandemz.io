@@ -440,6 +440,11 @@ img {
   p {
     line-height: 1.9rem;
   }
+
+  td {
+    max-width: 250px;
+    font-size: 12px;
+  }
 }
 
 /* Clearing floats */
