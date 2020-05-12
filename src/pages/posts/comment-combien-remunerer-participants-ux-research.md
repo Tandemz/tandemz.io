@@ -37,7 +37,7 @@ La bonne nouvelle, pour ceux qui ont peu de budget, c’est que **la contreparti
 
 Gardez aussi en tête que selon le mode de contrepartie que vous choisissez, vous pouvez rendre l’accès à certains profils plus difficile - c’est d’ailleurs le sujet du paragraphe suivant !
 
-## **Choix de la contrepartie et biais de sélection**
+## Choix de la contrepartie et biais de sélection
 
 Malheureusement, le choix de la contrepartie va attirer différents types de profils, ce qui crée un biais de sélection. C’est pourquoi ce choix est crucial, cela vous permettra d’en tenir compte, à défaut de pouvoir l’éviter.
 
