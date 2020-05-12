@@ -60,7 +60,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/panel"
-    coming_soon: true
+    coming_soon: false
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
