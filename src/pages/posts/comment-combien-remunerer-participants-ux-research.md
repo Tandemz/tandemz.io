@@ -43,46 +43,45 @@ Malheureusement, le choix de la contrepartie va attirer différents types de pro
 
 De manière générale, 4 types d’indemnisation sont communément pratiquées. Nous allons vous récapituler les avantages et inconvénients de chaque type de contrepartie (ces apprentissages sont eux-même principalement tirés de [ces résultats de recherche](https://www.researchgate.net/publication/304825204_You_Get_Who_You_Pay_for_The_Impact_of_Incentives_on_Participation_Bias)) :
 
-### La contrepartie monétaire
+### **La contrepartie monétaire**
 
-**Définition :** virement, chèques cadeaux Amazon ou multi-enseignes…
+Par exemple, un virement, des chèques cadeaux Amazon ou multi-enseignes…
 
-#### Avantages :
+|**Avantages**|**Inconvénients**|
+|---|---|
+|Votre étude reste plus facilement anonyme</br>Le plus versatile, généralement considéré comme le plus efficace|Attire plus facilement des personnes en besoin d'argent (étudiants, retraités...)</br>Le budget est proportionnel au nombre de participants, donc vite cher|
+|**Utiliser quand...**|**A éviter si...**|
+|Votre cible est large</br>Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs|En soi, toujours un bon choix, mais si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas)|
 
-* Votre étude reste plus facilement anonyme
-* Le plus versatile, généralement considéré comme le plus efficace
+### **La contrepartie en nature**
 
-#### Inconvénients :
-
-* Attire plus facilement des personnes en besoin d'argent (étudiants, retraités...)
-* Le budget est proportionnel au nombre de participants, donc vite cher
-
-#### Utiliser quand :
-
-* Votre cible est large
-* Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs
-
-#### A éviter si :
-
-Si vous n'avez pas le budget pour donner une contrepartie intéressante vis-à-vis de votre cible. Si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas).
-
-### La contrepartie en nature
-
-un cadeau, un accès premium gratuit pendant quelques mois, une remise à faire valoir sur votre site...
+Par exemple, un cadeau, un accès premium gratuit pendant quelques mois, une remise à faire valoir sur votre site...
 
 |**Avantages**|**Inconvénients**|
 |---|---|
 |Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs|Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas|
 |**Utiliser quand...**|**A éviter si...**|
-|Votre cible est large</br>Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs|En soi, toujours un bon choix, mais si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas)|
+|vous voulez parler à vos utilisateurs déjà convaincus / aux "fans" de votre marque / à votre communauté engagée|vous voulez attirer les utilisateurs de vos concurrents / les utilisateurs qui vous ont quitté </br> Si vous voulez rester anonyme pendant le recrutement|
 
-### La loterie
+### **La loterie**
 
-tirer au sort un ou plusieurs participants pour gagner un lot d’une grosse valeur, monétaire ou en nature
+Il s'agit souvent de tirer au sort un ou plusieurs participants pour gagner un lot d’une grosse valeur, monétaire ou en nature
 
-### Le don
+|**Avantages**|**Inconvénients**|
+|---|---|
+|Pour un budget plus faible, vous pouvez promettre une plus grosse somme / un plus gros cadeau|Le gain n'étant pas systématique, n'attirera pas les profils moins joueurs et avec une certaine aversion du risque|
+|**Utiliser quand...**|**A éviter si...**|
+|Sur des tests à grosse échelle et demandant peu d'investissement (études quanti ou non modérées de moins de 20min par exemple)|Si vous savez que vos utilisateurs cibles ont une aversion au risque</br>Si votre recherche utilisateur demande beaucoup de temps / d'énergie au participant|
 
-à une association (de leur choix ou du vôtre)
+### **Le don**
+
+Par exemple, une promesse de don à une association / ONG / cause de votre choix, ou un montant fixe que vous reversez au nom de vos participants aux organismes de leur choix.
+
+|**Avantages**|**Inconvénients**|
+|---|---|
+|Positif pour votre image et pour celle des participants</br>Même un petit montant par don peut suffir pour motiver les participants|Attire surtout les personnes sensibles à la cause de la ou les associations / ONG choisies </br> Pas adapté à tous les projets|
+|**Utiliser quand...**|**A éviter si...**|
+|Quand votre cible est peu sensible au gain personnel</br>Quand vous ciblez des personnes sensibles à une certaine cause|Si vous visez un public très large|
 
 Vous avez ainsi deux possibilités :
 
