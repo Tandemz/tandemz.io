@@ -20,7 +20,7 @@ ogimage: ''
 ---
 _Si vous lisez cet article, c’est que vous savez déjà ce qu’est la recherche utilisateur, que vous souhaitez en faire ou que vous en faites déjà. Si ce n’est pas le cas, je vous invite à lire_ [_cet article_](/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative "Introduction à la recherche quali et quanti") _avant ;)_
 
-Quand on prépare une session de tests utilisateurs ou d’interviews, il ne suffit pas de savoir où trouver les bonnes personnes avec les bons profils - il faut aussi savoir comment les faire venir ! Cela pose toujours beaucoup de questions : faut-il les rémunérer ? A quelle hauteur ? Est-ce que cela ne crée pas d’emblée un biais dans la sélection ? Il y a de quoi s’arracher les cheveux. Mais plus pour longtemps, grâce à ce guide que nous avons compilé avec amour pour nos clients, et que nous vous partageons aujourd’hui !
+Quand on prépare une session de tests utilisateurs ou d’interviews, il ne suffit pas de savoir où trouver les bonnes personnes avec les bons profils - il faut aussi savoir comment les faire venir ! Cela pose toujours beaucoup de questions : faut-il les rémunérer ? A quelle hauteur ? Est-ce que cela ne crée pas d’emblée un biais dans la sélection ? Il y a de quoi s’arracher les cheveux. Mais plus pour longtemps, grâce à ce guide que nous avons compilé avec amour pour nos clients, et que nous vous partageons aujourd’hui!
 
 ## Faut-il proposer une indemnisation aux participants ?
 
@@ -82,6 +82,8 @@ Par exemple, une promesse de don à une association / ONG / cause de votre choix
 | Positif pour votre image et pour celle des participants</br>Même un petit montant par don peut suffir pour motiver les participants | Attire surtout les personnes sensibles à la cause de la ou les associations / ONG choisies </br> Pas adapté à tous les projets |
 | Utiliser quand... | A éviter si... |
 | Quand votre cible est peu sensible au gain personnel</br>Quand vous ciblez des personnes sensibles à une certaine cause | Si vous visez un public très large |
+
+### **Comment gérer le biais de sélection ?**
 
 Vous avez ainsi deux possibilités pour prendre compte du biais de sélection lorsque vous choisissez votre format d'indemnisation :
 
