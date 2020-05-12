@@ -100,7 +100,6 @@ fields:
   hidden: true
   default: article
 pages:
-- src/pages/posts/comment-et-combien-remunerer-participants-ux-research.md
 - src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
 - src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
 - src/pages/posts/l-ux-chez-bouygues-télécom-du-cycle-en-v-à-l-agilité-entretien-avec-solène-saguez.md
