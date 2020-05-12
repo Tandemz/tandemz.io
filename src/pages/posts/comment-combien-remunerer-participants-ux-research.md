@@ -27,7 +27,7 @@ ogimage: "/images/IncentiveIsThanks.jpg"
 ---
 _Si vous lisez cet article, c’est que vous savez déjà ce qu’est la recherche utilisateur, que vous souhaitez en faire ou que vous en faites déjà. Si ce n’est pas le cas, je vous invite à lire_ [_cet article_](/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative "Introduction à la recherche quali et quanti") _avant ;)_
 
-Quand on prépare une session de tests utilisateurs ou d’interviews, il ne suffit pas de savoir où trouver les bonnes personnes avec les bons profils - il faut aussi savoir comment les faire venir ! Cela pose toujours beaucoup de questions : faut-il les rémunérer ? A quelle hauteur ? Est-ce que cela ne crée pas d’emblée un biais dans la sélection ? Il y a de quoi s’arracher les cheveux. Mais plus pour longtemps, grâce à ce guide que nous avons compilé avec amour pour nos clients, et que nous vous partageons aujourd’hui!
+Quand on prépare une session de tests utilisateurs ou d’interviews, il ne suffit pas de savoir où trouver les bonnes personnes avec les bons profils - il faut aussi savoir comment les faire venir ! Cela pose toujours beaucoup de questions : faut-il les rémunérer ? A quelle hauteur ? Est-ce que cela ne crée pas d’emblée un biais dans la sélection ? Il y a de quoi s’arracher les cheveux. Mais plus pour longtemps, grâce à ce guide que nous avons compilé avec amour pour nos clients, et que nous vous partageons aujourd’hui !
 
 ## Faut-il proposer une indemnisation aux participants ?
 
@@ -42,7 +42,7 @@ En effet, les études montrent que le taux de réponses et de participation est 
 
 La bonne nouvelle, pour ceux qui ont peu de budget, c’est que **la contrepartie n’a pas forcément besoin d’être monétaire.** Vous pouvez offrir des goodies, un produit en avant-première, des remises sur vos services… Tout en restant réaliste sur l’attrait que peuvent avoir ces éléments en nature !
 
-Gardez aussi en tête que selon le mode de contrepartie que vous choisissez, vous pouvez rendre l’accès à certains profils plus difficile - c’est d’ailleurs le sujet du paragraphe suivant !
+Gardez aussi en tête que selon le mode de contrepartie que vous choisissez, vous pouvez rendre l’accès à certains profils plus difficile - c’est d’ailleurs le sujet du paragraphe suivant!
 
 ## Choix de la contrepartie et biais de sélection
 
