@@ -70,6 +70,11 @@ Si vous n'avez pas le budget pour donner une contrepartie intéressante vis-à-v
 
 un cadeau, un accès premium gratuit pendant quelques mois, une remise à faire valoir sur votre site...
 
+|**Avantages**|**Inconvénients**|
+|Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs|Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas|
+|**Utiliser quand...**|**A éviter si...**|
+|Votre cible est large</br>Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs|En soi, toujours un bon choix, mais si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas)|
+
 ### La loterie
 
 tirer au sort un ou plusieurs participants pour gagner un lot d’une grosse valeur, monétaire ou en nature
