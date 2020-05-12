@@ -1,7 +1,13 @@
 ---
 og_image_width: 0
 og_image_height: 0
-hashtags: []
+hashtags:
+- uxresearch
+- incentive
+- research partcipants
+- contrepartie utilisateur
+- recrutement testeur
+- user tests
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -9,13 +15,14 @@ title: comment combien remunerer participants ux research
 full_title: Comment - et combien - rémunérer les participants à la recherche utilisateur
   ?
 date: 2020-05-05T22:00:00.000+00:00
-thumb_img_path: ''
+thumb_img_path: "/images/IncentiveIsThanks.jpg"
 content_img_path: ''
 excerpt: Grâce à notre guide, spécial recherche utilisateur qualitative, faites le
   bon choix de contrepartie pour trouver les bons profils de participants !
 author: src/data/authors/francew.json
-keywords: ''
-ogimage: ''
+keywords: incentive, contrepartie, recherche utilisateur, ux research, test utilisateur,
+  interview, testeur, participant, recrutement participant
+ogimage: "/images/IncentiveIsThanks.jpg"
 
 ---
 _Si vous lisez cet article, c’est que vous savez déjà ce qu’est la recherche utilisateur, que vous souhaitez en faire ou que vous en faites déjà. Si ce n’est pas le cas, je vous invite à lire_ [_cet article_](/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative "Introduction à la recherche quali et quanti") _avant ;)_
