@@ -16,7 +16,7 @@ full_title: Comment - et combien - rémunérer les participants à la recherche 
   ?
 date: 2020-05-05T22:00:00.000+00:00
 thumb_img_path: "/images/IncentiveIsThanks.jpg"
-content_img_path: ''
+content_img_path: "/images/IncentiveIsThanks.jpg"
 excerpt: Grâce à notre guide, spécial recherche utilisateur qualitative, faites le
   bon choix de contrepartie pour trouver les bons profils de participants !
 author: src/data/authors/francew.json
