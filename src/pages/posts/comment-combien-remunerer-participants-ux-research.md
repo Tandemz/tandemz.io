@@ -57,7 +57,7 @@ Par exemple, un virement, des chèques cadeaux Amazon ou multi-enseignes…
 | Avantages | Inconvénients |
 | --- | --- |
 | Votre étude reste plus facilement anonyme</br>Le plus versatile, généralement considéré comme le plus efficace | Attire plus facilement des personnes en besoin d'argent (étudiants, retraités...)</br>Le budget est proportionnel au nombre de participants, donc vite cher |
-| Utiliser quand... | A éviter si... |
+| **Utiliser quand...** | **A éviter si...** |
 | Votre cible est large</br>Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs | En soi, toujours un bon choix, mais si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas) |
 
 ### **La contrepartie en nature**
@@ -67,7 +67,7 @@ Par exemple, un cadeau, un accès premium gratuit pendant quelques mois, une rem
 | Avantages | Inconvénients |
 | --- | --- |
 | Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs | Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas |
-| Utiliser quand... | A éviter si... |
+| **Utiliser quand...** | **A éviter si...** |
 | Vous voulez parler à vos utilisateurs déjà convaincus / aux "fans" de votre marque / à votre communauté engagée | Vous voulez attirer les utilisateurs de vos concurrents / les utilisateurs qui vous ont quitté </br> Si vous voulez rester anonyme pendant le recrutement |
 
 ### **La loterie**
@@ -77,7 +77,7 @@ Il s'agit souvent de tirer au sort un ou plusieurs participants pour gagner un l
 | Avantages | Inconvénients |
 | --- | --- |
 | Pour un budget plus faible, vous pouvez promettre une plus grosse somme / un plus gros cadeau | Le gain n'étant pas systématique, n'attirera pas les profils moins joueurs et avec une certaine aversion du risque |
-| Utiliser quand... | A éviter si... |
+| **Utiliser quand...** | **A éviter si...** |
 | Sur des tests à grosse échelle et demandant peu d'investissement (études quanti ou non modérées de moins de 20min par exemple) | Si vous savez que vos utilisateurs cibles ont une aversion au risque</br>Si votre recherche utilisateur demande beaucoup de temps / d'énergie au participant |
 
 ### **Le don**
@@ -87,7 +87,7 @@ Par exemple, une promesse de don à une association / ONG / cause de votre choix
 | Avantages | Inconvénients |
 | --- | --- |
 | Positif pour votre image et pour celle des participants</br>Même un petit montant par don peut suffir pour motiver les participants | Attire surtout les personnes sensibles à la cause de la ou les associations / ONG choisies </br> Pas adapté à tous les projets |
-| Utiliser quand... | A éviter si... |
+| **Utiliser quand...** | **A éviter si...** |
 | Quand votre cible est peu sensible au gain personnel</br>Quand vous ciblez des personnes sensibles à une certaine cause | Si vous visez un public très large |
 
 ### **Comment gérer le biais de sélection ?**
