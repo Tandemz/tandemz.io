@@ -20,6 +20,7 @@ keywords: UX, recherche utilisateur, qualitatif
 ogimage: "/images/Livre blanc.png"
 og_image_width: 750
 og_image_height: 375
+full_title: 'Livre blanc : où en est le quali aujourd''hui en France ?'
 
 ---
 L'équipe Tandemz est allée à la rencontre d'une soixantaine de professionnels pour comprendre comment les études qualitatives sont menées dans leur quotidien ! Leurs difficultés, leurs solutions, leurs perspectives pour le futur, leurs méthodologies, nous avons analysé toutes ces pratiques pour en ressortir des apprentissages, que nous vous dévoilons dans ce livre blanc :
