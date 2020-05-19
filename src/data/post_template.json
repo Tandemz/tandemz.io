@@ -32,17 +32,6 @@
       "with_socials": true
     },
     {
-      "template": "social-share-buttons-section",
-      "component": "SocialShareButtonsBlock",
-      "hashtags": [
-
-      ],
-      "shareurl": "",
-      "title": "",
-      "size": null,
-      "emailbody": ""
-    },
-    {
       "template": "newsletter",
       "component": "NewsLetterBlock"
     }
