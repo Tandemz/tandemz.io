@@ -28,7 +28,8 @@
     },
     {
       "template": "post-author-section",
-      "component": "PostAuthorBlock"
+      "component": "PostAuthorBlock",
+      "with_socials": true
     },
     {
       "template": "social-share-buttons-section",
