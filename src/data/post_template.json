@@ -1,5 +1,7 @@
 {
-  "before": [],
+  "before": [
+
+  ],
   "header": [
     {
       "template": "post-title-section",
@@ -26,17 +28,26 @@
     },
     {
       "template": "post-author-section",
-      "component": "PostAuthorBlock"
+      "component": "PostAuthorBlock",
+      "with_socials": true
     },
     {
       "template": "social-share-buttons-section",
       "component": "SocialShareButtonsBlock",
-      "hashtags": [],
+      "hashtags": [
+
+      ],
       "shareurl": "",
       "title": "",
       "size": null,
       "emailbody": ""
+    },
+    {
+      "template": "newsletter",
+      "component": "NewsLetterBlock"
     }
   ],
-  "after": []
+  "after": [
+
+  ]
 }

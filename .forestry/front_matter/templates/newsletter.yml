@@ -1,0 +1,11 @@
+---
+label: Newsletter Section
+hide_body: true
+fields:
+- name: component
+  type: text
+  config:
+    required: true
+  label: component
+  hidden: true
+  default: NewsLetterBlock
