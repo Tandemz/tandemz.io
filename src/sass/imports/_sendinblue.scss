@@ -1,0 +1,106 @@
+
+.sib-form {
+  margin-top: 64px;
+
+  .sib-form-message-panel {
+
+    display: none;
+    margin-bottom: 16px;
+
+    &#success-message {
+      color: _palette(greenAccessible);
+      background: _palette(greenMuted);
+    }
+    &#error-message {
+      color: _palette(redAccessible);
+      background: _palette(redMuted);
+    }
+
+    &.sib-form-message-panel--active {
+      display: block;
+    }
+
+    .sib-form-message-panel__text {
+      display: flex;
+      height: 56px;
+
+      align-items: center;
+      justify-content: center;
+    }
+
+    .sib-icon {
+      margin-right: 16px;
+    }
+
+  }
+
+  #sib-container {
+
+    h4 {
+      text-align: center;
+      margin-bottom: 32px;
+    }
+
+    .entry__specification {
+      font-size: 14px;
+      font-weight: 400;
+      color: _palette(meta);
+      margin-top: 8px;
+      display: block;
+      a {
+        color: _palette(meta);
+      }
+    }
+
+    .entry__error {
+      font-size: 14px;
+      font-weight: 400;
+      color: _palette(redAccessible);
+    }
+
+    .sib-input-line {
+      display: flex;
+      justify-content: center;
+    }
+
+    .sib-form-block__button {
+      margin-left: 24px;
+    }
+    .sib-input {
+      flex: 1;
+    }
+  }
+
+  .progress-indicator__icon,
+  .sib-icon {
+    height: 24px;
+    width: 24px;
+    fill: currentColor;
+  }
+
+  .sib-form-block__button {
+    position: relative;
+    min-width: 130px;
+  }
+
+  .progress-indicator__icon {
+    color: white;
+    transform:rotate(0deg);
+    animation: spin 1s linear infinite;
+  }
+
+
+  .input--hidden,
+  .sib-hide-loader-icon {
+    display: none;
+  }
+
+  .sib-form-block__button-disabled {
+    opacity: 0.5;
+    .sib-button-text {
+      display: none;
+    }
+  }
+
+}
+@keyframes spin { 100% { transform:rotate(360deg); } }

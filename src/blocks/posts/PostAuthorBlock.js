@@ -3,6 +3,7 @@ import _ from 'lodash';
 import moment from 'moment';
 
 import { loadDataRef } from '../../utils';
+import { SocialShareButtonsBlock } from '..';
 
 export default class PostAuthorBlock extends React.Component {
   render() {
@@ -10,6 +11,8 @@ export default class PostAuthorBlock extends React.Component {
       this.props.pageContext,
       _.get(this.props, 'pageContext.frontmatter.author'),
     );
+    const withSocials = !!_.get(this.props, 'section.with_socials');
+
     return (
       <div className="author-block">
         <img className="post-avatar" src={author.avatar} alt={author.name} />
@@ -26,6 +29,8 @@ export default class PostAuthorBlock extends React.Component {
             )}
           </time>
         </div>
+        <div className="spacer" />
+        {withSocials && <SocialShareButtonsBlock {...this.props} />}
       </div>
     );
   }

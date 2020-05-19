@@ -10,6 +10,7 @@ $font: (
 $palette: (
   primary: #536383,
   secondary: #192948,
+  tertiary: #9AA8BD,
   meta: #536383,
   border: #dbe0e5,
   bg: #f7f9fb,
@@ -24,6 +25,8 @@ $palette: (
   purpleMuted: #E8D0FF,
   red-muted: #ffe4d8,
   red-accessible: #dc3a16,
+  redMuted: #ffe4d8,
+  redAccessible: #dc3a16,
 );
 
 @import 'imports/functions';
@@ -39,3 +42,4 @@ $palette: (
 @import 'imports/banner';
 @import 'imports/pagination';
 @import 'imports/cookie-banner';
+@import 'imports/sendinblue';

@@ -45,6 +45,7 @@ export default class Post extends React.Component {
     const author = loadDataRef(this.props.pageContext, meta.author);
 
     const { before, header, content, after, footer } = template;
+    console.log(template);
 
     return (
       <Layout {...this.props}>

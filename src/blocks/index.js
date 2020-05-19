@@ -13,4 +13,5 @@ export { default as ReviewsBlock } from './ReviewsBlock';
 export { default as SocialShareButtonsBlock } from './SocialShareButtonsBlock';
 export { default as StudiesBlock } from './StudiesBlock';
 export { default as ValueBlock } from './ValueBlock';
+export { default as NewsLetterBlock } from './NewsLetterBlock';
 export * from './posts';
