@@ -5,7 +5,7 @@ let loaded = false;
 export const initializeSendinblue = () => {
   //
   // during server side rendering
-  if (typeof window === 'undefined' || !window.document) {
+  if (typeof window === 'undefined' || !window.document || loaded) {
     return;
   }
 
@@ -18,6 +18,7 @@ export const initializeSendinblue = () => {
     'https://sibforms.com/forms/end-form/build/main.js',
   );
   body.appendChild(script);
+  loaded = true;
 
   return;
 };
