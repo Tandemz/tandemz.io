@@ -1,5 +1,5 @@
 ---
-label: newsletter
+label: Newsletter Section
 hide_body: true
 fields:
 - name: component
