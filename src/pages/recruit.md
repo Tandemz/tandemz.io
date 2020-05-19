@@ -54,7 +54,7 @@ sections:
     image: "/images/Illustration - Follow-4.svg"
     actions: []
     coming_soon: false
-  - title: 3. Réalisez vos tests en tout sérénité
+  - title: 3. Réalisez vos tests en toute sérénité
     content: 'Sans logistique à gérer, concentrez-vous sur l''important : comprendre
       en profondeur le comportement de vos utilisateurs et améliorer vos produits
       en fonction des résultats.'
