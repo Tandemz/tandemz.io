@@ -9,3 +9,6 @@ fields:
   label: component
   hidden: true
   default: PostAuthorBlock
+- name: with_socials
+  type: boolean
+  label: Inclure les réseaux sociaux
