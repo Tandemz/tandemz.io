@@ -147,7 +147,7 @@ Vous êtes un peu perdu(e) dans toutes ces méthodes et ne savez plus laquelle c
 
 | Méthode | Permet de tester | Budget | Quand l’utiliser |
 | --- | --- | --- | --- |
-| Tests utilisateurs | Comportement | $ (DIY)</br>$$ (test non modéré via une plateforme) $$$$ (test réalisé en laboratoire) | Phase de test et d’implémentation |
+| Tests utilisateurs | Comportement | $ (DIY)</br>$$ (test non modéré via une plateforme)</br>$$$$ (test réalisé en laboratoire) | Phase de test et d’implémentation |
 | Entretiens utilisateurs | Attitude | $$-$$$ | Phase de recherche exploratoire |
 | Guerilla test | Comportement | $ | Phase de test et d’implémentation |
 | Atelier de co-conception | Attitude | $$-$$$ | Phase d’idéation |
