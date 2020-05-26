@@ -58,6 +58,8 @@ Chaque étape a sa ou ses méthodes préférée(s) :
 
 ## Le test utilisateur
 
+![](/images/headway-5qgiuubxkwm-unsplash.jpg)
+
 Un test utilisateur, ou mieux nommé test d’utilisabilité, vous permet de **tester votre produit ou service en conditions réelles** avec un participant. Pour cela, vous demandez à ce participant de réaliser certaines tâches sur votre site ou application et **observez sa façon de s’en servir et ses difficultés d’utilisation**.
 
 Il s’agit d’évaluer votre produit et à quel point il répond aux besoins des utilisateurs. En général, un test d’utilisabilité vous permet de valider une ou plusieurs hypothèse(s), de confirmer le choix d’une solution.
@@ -76,6 +78,8 @@ Le budget associé à une session de test utilisateur évolue dans une fourchett
 
 ## L’entretien utilisateur
 
+![](/images/christina-wocintechchat-com-lq1t-8ms5py-unsplash.jpg)
+
 L’entretien utilisateur consiste en une **simple discussion avec le participant**, au cours de laquelle on lui pose des questions ouvertes pour le faire parler sur ses habitudes, ses besoins, sa façon d’appréhender un problème ou bien encore son processus d’adoption d’une solution. Tous les sujets peuvent être évoqués, il s’agit pour la personne qui mène l’entretien de creuser un sujet ou une problématique particulière (identifiés en amont).
 
 Il s’agit là aussi d’une méthode qualitative très utilisée en UX, particulièrement en **recherche exploratoire**, pour déterminer la ou les problématiques des utilisateurs.
@@ -89,6 +93,8 @@ Le budget d’un entretien utilisateur sera également très variable, comme pou
 
 ## Le guerilla test
 
+![](/images/maranda-vandergriff-7aakzdil4vg-unsplash.jpg)
+
 Le guerilla test consiste à se rendre dans un endroit public passant (le hall d’une gare ou un café par exemple) et **faire tester rapidement un prototype/un produit/une fonctionnalité** aux gens ayant un peu de temps. Un échange avec un participant dure environ **dix à quinze minutes** (par exemple, une équipe que nous connaissons se rend à l’arrêt de tramway le plus proche et a pour habitude de faire des sessions de guerilla test de 7 minutes top chrono car c’est le temps d’attente entre deux tramways !). Il faut bien sûr oser aborder les passants mais la majorité des gens vous répondront positivement pour peu qu’ils soient en train d’attendre.
 
 Cette méthode de recherche qualitative est très **rapide à mettre en oeuvre** : elle demande une préparation sur la (ou les hypothèses) à tester, les tâches et le prototype, mais pas d’organisation logistique (lieux, participants) : il vous suffit de vous rendre à l’endroit passant le plus proche et le tour est joué !
@@ -98,6 +104,8 @@ Au niveau du budget, cela ne vous coûtera rien. Si vous avez tout de même un p
 C’est en réalité une méthode de recherche à la **limite entre qualitatif et quantitatif** : qualitatif car les temps d’échanges sont relativement courts et qu’une session de guerilla test permet de rencontrer beaucoup de participants différents, mais qualitatif également car il y a tout de même un échange direct avec le participant, permettant de creuser avec lui certains points et s'attacher au “pourquoi”. Gardez tout de même en tête que le temps passé avec la personne est très court, vous n’irez donc pas en profondeur dans le sujet. Utilisez cette technique pour valider quelques hypothèses très simples (comme une nouvelle petite fonctionnalité).
 
 ## L’atelier de co-conception
+
+![](/images/austin-distel-wd1lrb9oeeo-unsplash.jpg)
 
 Lors d’un atelier de co-conception, on invite plusieurs participants (généralement entre 5 et 8) à **participer à la conception du produit**. En groupe, les participants réfléchissent à des solutions à leurs besoins sur des thématiques précises, définies par l’animateur.
 
@@ -109,6 +117,8 @@ L’animation d’un atelier de co-conception peut s’avérer délicate : il fa
 
 ## L’observation
 
+![](/images/jeshoots-com-2vd8lihdnw-unsplash.jpg)
+
 L’observation consiste, comme son nom l’indique, à **observer** les comportements des utilisateurs et leur façon d'interagir avec le produit dans leur environnement naturel. Contrairement à un entretien utilisateur ou à un test utilisateur, on ne cherche pas à guider le participant par une consigne ou des questions. L’objectif est de le **laisser se comporter naturellement, sans interactions** avec vous, et de l’observer.
 
 Cette méthode qualitative permet d’identifier les besoins et les problèmes des utilisateurs, ainsi que leurs attente, ce qui en fait une méthode de recherche particulièrement adaptée en **recherche exploratoire**.
@@ -116,6 +126,8 @@ Cette méthode qualitative permet d’identifier les besoins et les problèmes d
 Suivant les cas, elle peut être compliquée à mettre en oeuvre car il n’est pas toujours évident d’obtenir le droit de suivre un participant sur son lieu de travail ou chez lui. Cela dépend beaucoup de votre cible et du domaine dans lequel vous évoluez. En contrepartie, les résultats obtenus sont très enrichissants car cette méthode vous permet d'étudier le **comportement des utilisateurs** dans leur univers habituel.
 
 ## Le Focus Group
+
+![](/images/you-x-ventures-6awftplgace-unsplash.jpg)
 
 Durant un Focus Group, quelques participants (entre 5 et 8 en général) sont invités à **discuter, en groupe**, d’un sujet, de leurs problématiques en rapport avec ce thème et de réfléchir ensemble à des solutions éventuelles. Un animateur les guide pendant ces 2 ou 3h d’échanges et d’exercices.
 
@@ -125,11 +137,15 @@ Lors du recrutement, attachez-vous à composer des groupes hétérogènes repré
 
 ## Le journal de bord
 
+![](/images/thought-catalog-505eectw54k-unsplash.jpg)
+
 Les participants sont invités à utiliser un produit ou un service sur une **longue période** (plusieurs semaines) et à **consigner ou enregistrer dans un journal de bord** leurs impressions, les résultats ou tout autre information nécessaire pour l’étude. Ce journal peut être sous forme d’un véritable carnet de bord ou par caméra par exemple.
 
 Ce type de recherche qualitative est utilisé lors de **tests sur version expérimentale**. C’est une technique très coûteuse, d’une part car il vaut faudra recruter les participants et très probablement les dédommager mais également car elle s’avère très chronophage : il vous faudra prendre du temps avec chacun des participants pour les accompagner, récolter les données, les trier et les analyser. Mais les retours obtenus sont particulièrement qualitatifs car vous suivez l’utilisation d’un produit ou d’un service sur du long terme.
 
 ## Les avis et retours client spontanés
+
+![](/images/markus-winkler-fraiqhkcc0-unsplash.jpg)
 
 Une méthode de recherche qualitative simple consiste à **étudier et analyser les retours directs des clients** sur son produit ou son service.
 
