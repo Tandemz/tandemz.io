@@ -12,8 +12,8 @@ ogtype: article
 title: methode-recherche-utilisateur-qualitative
 full_title: 8 méthodes de recherche utilisateur qualitative à connaître
 date: 2020-05-26T22:00:00Z
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/david-travis-wc6mj0krzgw-unsplash.jpg"
+content_img_path: "/images/david-travis-wc6mj0krzgw-unsplash.jpg"
 excerpt: Quelles sont les principales méthodes pour faire de la recherche utilisateur
   qualitative ? Quand les employer, quel budget prévoir ? Cet article vous dit tout
   !
@@ -52,7 +52,7 @@ Le processus de conception est découpé en 4 étapes qui alternent phase explor
 
 Chaque étape a sa ou ses méthodes préférée(s) :
 
-![](https://lh5.googleusercontent.com/UvexpYO-sEftPWgx3mIiOnR3WcdmCMCZil76E1waiX3zjo8ucNCju5dA5OVFBe1MJvDJ5-h6H4K0xjI4zjuSVWgpJdHmrS7mYs5XT1fvY7g7i0h8RUeBWpD14eRipvZkATpF3Kc "Les méthodes qualitatives les plus répandues pour chaque phase d'un projet de conception" =602x293)
+![](/images/methodes-qualitatives.png "Les méthodes qualitatives les plus répandues pour chaque phase d'un projet de conception")
 
 # Tour d’horizon des différentes méthodes de recherche qualitative
 
