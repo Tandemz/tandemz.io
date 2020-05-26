@@ -15,7 +15,8 @@ date: 2020-05-26T22:00:00Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Quelles sont les principales méthodes pour faire de la recherche utilisateur
-  qualitative ? Quand les employer et quel budget prévoir ?
+  qualitative ? Quand les employer, quel budget prévoir ? Cet article vous dit tout
+  !
 author: src/data/authors/marinew.json
 keywords: UX, recherche utilisateur qualitative, méthode de recherche qualitative,
   design team, UX/UI
