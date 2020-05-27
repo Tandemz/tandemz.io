@@ -25,11 +25,11 @@ ogimage: ''
 ---
 Vous souvenez-vous quand je vous ai parlé dans un article précédent [des différences entre la recherche qualitative et la recherche quantitative](https://www.tandemz.io/posts/introduction-%C3%A0-la-recherche-utilisateur-quantitative-et-qualitative/) ? Nous avions alors vu que, bien que différentes, elles sont complémentaires. Aujourd’hui, rentrons un peu plus en détail sur le qualitatif. Quelles sont les différentes méthodes de recherche qualitative et comment choisir laquelle utiliser pour son projet ? Regardons cela ensemble…
 
-# Un petit rappel sur la recherche qualitative
+## Un petit rappel sur la recherche qualitative
 
 En recherche qualitative, on cherche à échanger, rencontrer ou observer directement avec un **petit nombre de personnes**. L’objectif est de se concentrer sur le “**pourquoi**”, de chercher à comprendre en profondeur les besoins ou problèmes des utilisateurs. Pour cela les questions posées sont ouvertes et l’on s’attache aux émotions. Le résultat sera exprimé sous forme de mots, de phrases et non de chiffres. Les échanges avec les utilisateurs sont généralement longs (par exemple, il est courant de réaliser des entretiens d’une heure).
 
-# Avec qui réalise-t-on des études qualitatives ?
+## Avec qui réalise-t-on des études qualitatives ?
 
 Tout dépend de la méthode et de ce que vous cherchez à savoir ! Vous pouvez choisir de mener une session de recherche qualitative :
 
@@ -39,7 +39,7 @@ Tout dépend de la méthode et de ce que vous cherchez à savoir ! Vous pouvez c
 
 Les équipes qui initient une démarche utilisateur se concentrent d’abord sur les clients, éventuellement leurs prospects. Lorsqu’elles vont aller plus loin dans la démarche, elles intègrent de la recherche sur des externes. Cela leur permet notamment de prendre de l’avance par rapport à la concurrence.
 
-# Des méthodes pour chaque étape d’un projet
+## Des méthodes pour chaque étape d’un projet
 
 L’objectif de la recherche utilisateur va dépendre de l’étape du projet dans laquelle vous vous situez :
 
@@ -52,13 +52,13 @@ Le processus de conception est découpé en 4 étapes qui alternent phase explor
 
 Chaque étape a sa ou ses méthodes préférée(s) :
 
-![](/images/methodes-qualitatives.png "Les méthodes qualitatives les plus répandues pour chaque phase d'un projet de conception")
+![schéma en double-diamant présentant les différentes méthodes de recherche utilisateur à utiliser pour chaque étape du projet de conception](/images/methodes-qualitatives.png "Les méthodes qualitatives les plus répandues pour chaque phase d'un projet de conception")
 
-# Tour d’horizon des différentes méthodes de recherche qualitative
+## Tour d’horizon des différentes méthodes de recherche qualitative
 
-## Le test utilisateur
+### Le test utilisateur
 
-![](/images/headway-5qgiuubxkwm-unsplash.jpg)
+![illustration d'un test utilisateur sur ordinateur](/images/headway-5qgiuubxkwm-unsplash.jpg "Test utilisateur")
 
 Un test utilisateur, ou mieux nommé test d’utilisabilité, vous permet de **tester votre produit ou service en conditions réelles** avec un participant. Pour cela, vous demandez à ce participant de réaliser certaines tâches sur votre site ou application et **observez sa façon de s’en servir et ses difficultés d’utilisation**.
 
@@ -76,9 +76,9 @@ Le budget associé à une session de test utilisateur évolue dans une fourchett
 * Une salle spéciale de test demande un budget plus important (compter environ 600€ la journée) et présente l’avantage de permettre à d’autres personnes d’assister au test de manière cachée (derrière une vitre sans teint) pour ne pas perturber le participant.
 * Un recrutement de participants auprès d’un panel externe vous coûtera environ 100 à 150€ par participant en B2C (dédommagement inclus) et vous assure de rencontrer des participants neutres. En recrutant auprès de vos utilisateurs ou de vos connaissances, les retours présentent un biais dû à l’intérêt des participants pour votre produit ou pour vous. Pensez néanmoins toujours à prévoir un dédommagement, pour les remercier du temps passé (pour plus d’informations, [notre article précédent sur le montant des contreparties](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/) vous dira tout).
 
-## L’entretien utilisateur
+### L’entretien utilisateur
 
-![](/images/christina-wocintechchat-com-lq1t-8ms5py-unsplash.jpg)
+![illustration d'un entretien utilisateur](/images/christina-wocintechchat-com-lq1t-8ms5py-unsplash.jpg "entretien utilisateur")
 
 L’entretien utilisateur consiste en une **simple discussion avec le participant**, au cours de laquelle on lui pose des questions ouvertes pour le faire parler sur ses habitudes, ses besoins, sa façon d’appréhender un problème ou bien encore son processus d’adoption d’une solution. Tous les sujets peuvent être évoqués, il s’agit pour la personne qui mène l’entretien de creuser un sujet ou une problématique particulière (identifiés en amont).
 
@@ -91,9 +91,9 @@ Tout comme le test utilisateur, l’entretien utilisateur peut être réalisé :
 
 Le budget d’un entretien utilisateur sera également très variable, comme pour un test utilisateur, selon la qualité finale que vous souhaitez obtenir (dépendant du lieu, de la contrepartie éventuelle pour le participant, du type de participant rencontré, etc…). Veillez à prévoir là aussi un dédommagement pour vos participants. En agence, les prestations tout compris pour une session de 6 entretiens utilisateurs commencent à partir de 2500€.
 
-## Le guerilla test
+### Le guerilla test
 
-![](/images/maranda-vandergriff-7aakzdil4vg-unsplash.jpg)
+![illustration d'un guerilla test au café](/images/maranda-vandergriff-7aakzdil4vg-unsplash.jpg "guerilla test")
 
 Le guerilla test consiste à se rendre dans un endroit public passant (le hall d’une gare ou un café par exemple) et **faire tester rapidement un prototype/un produit/une fonctionnalité** aux gens ayant un peu de temps. Un échange avec un participant dure environ **dix à quinze minutes** (par exemple, une équipe que nous connaissons se rend à l’arrêt de tramway le plus proche et a pour habitude de faire des sessions de guerilla test de 7 minutes top chrono car c’est le temps d’attente entre deux tramways !). Il faut bien sûr oser aborder les passants mais la majorité des gens vous répondront positivement pour peu qu’ils soient en train d’attendre.
 
@@ -103,9 +103,9 @@ Au niveau du budget, cela ne vous coûtera rien. Si vous avez tout de même un p
 
 C’est en réalité une méthode de recherche à la **limite entre qualitatif et quantitatif** : qualitatif car les temps d’échanges sont relativement courts et qu’une session de guerilla test permet de rencontrer beaucoup de participants différents, mais qualitatif également car il y a tout de même un échange direct avec le participant, permettant de creuser avec lui certains points et s'attacher au “pourquoi”. Gardez tout de même en tête que le temps passé avec la personne est très court, vous n’irez donc pas en profondeur dans le sujet. Utilisez cette technique pour valider quelques hypothèses très simples (comme une nouvelle petite fonctionnalité).
 
-## L’atelier de co-conception
+### L’atelier de co-conception
 
-![](/images/austin-distel-wd1lrb9oeeo-unsplash.jpg)
+![illustration d'un atelier de co-conception](/images/austin-distel-wd1lrb9oeeo-unsplash.jpg "Atelier de co-conception")
 
 Lors d’un atelier de co-conception, on invite plusieurs participants (généralement entre 5 et 8) à **participer à la conception du produit**. En groupe, les participants réfléchissent à des solutions à leurs besoins sur des thématiques précises, définies par l’animateur.
 
@@ -115,9 +115,9 @@ C’est un méthode qui **demande de la logistique et de l’anticipation** : s�
 
 L’animation d’un atelier de co-conception peut s’avérer délicate : il faut savoir impliquer les différents participants, distribuer la parole équitablement, conserver la trame définie tout en restant le plus neutre possible. Sans habitude, nous vous conseillons de vous faire aider par un animateur spécialisé. En retour, vous ressortirez d’un tel atelier avec beaucoup de pistes différentes - cela vous assure de ne pas vous enfermer dans une solution inadaptée aux besoins des utilisateurs.
 
-## L’observation
+### L’observation
 
-![](/images/jeshoots-com-2vd8lihdnw-unsplash.jpg)
+![Illustration de l'observation](/images/jeshoots-com-2vd8lihdnw-unsplash.jpg "Observation")
 
 L’observation consiste, comme son nom l’indique, à **observer** les comportements des utilisateurs et leur façon d'interagir avec le produit dans leur environnement naturel. Contrairement à un entretien utilisateur ou à un test utilisateur, on ne cherche pas à guider le participant par une consigne ou des questions. L’objectif est de le **laisser se comporter naturellement, sans interactions** avec vous, et de l’observer.
 
@@ -125,9 +125,9 @@ Cette méthode qualitative permet d’identifier les besoins et les problèmes d
 
 Suivant les cas, elle peut être compliquée à mettre en oeuvre car il n’est pas toujours évident d’obtenir le droit de suivre un participant sur son lieu de travail ou chez lui. Cela dépend beaucoup de votre cible et du domaine dans lequel vous évoluez. En contrepartie, les résultats obtenus sont très enrichissants car cette méthode vous permet d'étudier le **comportement des utilisateurs** dans leur univers habituel.
 
-## Le Focus Group
+### Le Focus Group
 
-![](/images/you-x-ventures-6awftplgace-unsplash.jpg)
+![illustration d'un focus group](/images/you-x-ventures-6awftplgace-unsplash.jpg "Focus Group")
 
 Durant un Focus Group, quelques participants (entre 5 et 8 en général) sont invités à **discuter, en groupe**, d’un sujet, de leurs problématiques en rapport avec ce thème et de réfléchir ensemble à des solutions éventuelles. Un animateur les guide pendant ces 2 ou 3h d’échanges et d’exercices.
 
@@ -135,17 +135,17 @@ Cette méthode qualitative s’est particulièrement développée pour les étud
 
 Lors du recrutement, attachez-vous à composer des groupes hétérogènes représentant votre cible au plus proche de la réalité : vous pourrez observer les différences de besoins et de priorités entre les uns et les autres. Comme l’atelier de co-conception, un Focus Group peut être complexe à organiser (logistique) et à animer. Mieux vaut passer par un organisme spécialisé même si cela peut être coûteux : le temps que vous gagnerez le revaudra. Comptez pour cela un budget minimum de 4000€.
 
-## Le journal de bord
+### Le journal de bord
 
-![](/images/thought-catalog-505eectw54k-unsplash.jpg)
+![Illustration d'un journal de bord](/images/thought-catalog-505eectw54k-unsplash.jpg "Journal de bord")
 
 Les participants sont invités à utiliser un produit ou un service sur une **longue période** (plusieurs semaines) et à **consigner ou enregistrer dans un journal de bord** leurs impressions, les résultats ou tout autre information nécessaire pour l’étude. Ce journal peut être sous forme d’un véritable carnet de bord ou par caméra par exemple.
 
 Ce type de recherche qualitative est utilisé lors de **tests sur version expérimentale**. C’est une technique très coûteuse, d’une part car il vaut faudra recruter les participants et très probablement les dédommager mais également car elle s’avère très chronophage : il vous faudra prendre du temps avec chacun des participants pour les accompagner, récolter les données, les trier et les analyser. Mais les retours obtenus sont particulièrement qualitatifs car vous suivez l’utilisation d’un produit ou d’un service sur du long terme.
 
-## Les avis et retours client spontanés
+### Les avis et retours client spontanés
 
-![](/images/markus-winkler-fraiqhkcc0-unsplash.jpg)
+![Illustration des avis et retours clients spontanés](/images/markus-winkler-fraiqhkcc0-unsplash.jpg "avis et retours clients spontanés")
 
 Une méthode de recherche qualitative simple consiste à **étudier et analyser les retours directs des clients** sur son produit ou son service.
 
@@ -157,7 +157,7 @@ Cette méthode est la première étape si vous souhaitez mettre en place une dé
 
 Il existe encore bien d’autres méthodes, notamment décrites dans [cet article de Nielsen Norman Group sur les différentes méthodes de recherche utilisateur](https://www.nngroup.com/articles/which-ux-research-methods/). Notamment, certaines méthodes sont à la limite entre le quantitatif et le qualitatif, comme le suivi de l’oeil ou le tri des cartes par exemple. J’ai choisi de ne pas vous le présenter dans cet article mais n’hésitez pas à vous renseigner à leur sujet.
 
-# Conclusion : récapitulatif des méthodes qualitatives
+## Conclusion : récapitulatif des méthodes qualitatives
 
 Vous êtes un peu perdu(e) dans toutes ces méthodes et ne savez plus laquelle choisir ? Pas de panique, voici un petit résumé des principales techniques :
 
