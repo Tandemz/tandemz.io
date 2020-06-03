@@ -20,7 +20,7 @@ menus:
     title: Confidentialité
     weight: 4
 legal: true
-updatedAt: 2020-02-20T10:00:00Z
+updatedAt: 2020-06-03T18:48:00Z
 legal_name: privacy-policy
 
 ---
@@ -234,7 +234,6 @@ La liste exhaustive de ces sous-traitants est la suivante :
 | Hubspot | HubSpot, Inc.<br />25 First Street, 2nd Floor, Cambridge, MA 02141 USA | Nous utilisons Hubspot pour le suivi des prospects commerciaux et des clients.<br />https://legal.hubspot.com/privacy-policy |
 | Crisp | Crisp IM SARL<br />2 Boulevard de Launay, 44100 Nantes, France | Crisp fournit la fenêtre de chat intégré à l'application. Nous l'utilisons pour le suivi des conversations et le support.<br />https://crisp.chat/fr/privacy/ |
 | Facebook pixel | Facebook Ireland Ltd.<br />4 Grand Canal Square Grand Canal Harbour Dublin 2 Ireland | Nous utilisons un pixel Facebook pour faire le suivi des personnes ayant cliqué sur un contenu sponsorisé publié pour le recrutement à une session de Test.<br />https://www.facebook.com/policy.php |
-| Weglot | Weglot SAS<br />138 rue Pierre Joigneaux. 92270 Bois-Colombes | Tandemz utilise Weglot pour gérer les traductions sur le site vitrine https://tandemz.io.<br />https://weglot.com/terms/ |
 
 ### **Mise en relation Client - Participant**
 
