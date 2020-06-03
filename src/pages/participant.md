@@ -30,14 +30,14 @@ sections:
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
-    image_alt: ''
+    image_alt: Femme mise en évidence dans un site web
   - title: 2. Convenons d'un rendez-vous
     content: Si votre profil convient et que vous êtes disponible aux horaires de
       l'étude, nous vous proposons des créneaux pour réaliser la rencontre.
     image: "/images/Choose.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Femme choisissant des pages suspendues
   - title: 3. Participez à la rencontre
     content: Votre tandem vous transmet les informations. Il ne vous reste plus qu'à
       vous présenter au rendez-vous et suivre le déroulé de la rencontre. On ne recherche
@@ -45,14 +45,14 @@ sections:
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Deux personnes qui discutent
   - title: 4. Recevez votre rémunération
     content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Femme recevant de l'argent
 - type: ctablock
   template: ctablock
   section_id: call-to-action
@@ -61,7 +61,7 @@ sections:
   actions:
   - label: Je participe
     url: https://tandemz.typeform.com/to/WDAoqF
-    title: ''
+    title: Questionnaire d'inscription au panel Tandemz
   subtitle: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
