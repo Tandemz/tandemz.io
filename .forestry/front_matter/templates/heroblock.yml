@@ -34,7 +34,7 @@ fields:
   name: image
   label: Image
   description: The image of the section.
-- name: imageAlt
+- name: image_alt
   type: text
   config:
     required: false
