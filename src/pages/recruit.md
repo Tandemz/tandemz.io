@@ -51,7 +51,7 @@ sections:
     image: "/images/Illustration - Criteria-1.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Femme mise en évidence sur un site web
   - title: 2. Nous nous occupons de toute l'organisation
     content: Grâce à votre dashboard personnel, regardez votre planning se remplir
       et suivez l'avancement en temps réel de vos recrutements. Une question, un soucis
@@ -60,7 +60,7 @@ sections:
     image: "/images/Illustration - Follow-4.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Femme devans un ordinateur gérant des rendez-vous
   - title: 3. Réalisez vos tests en toute sérénité
     content: 'Sans logistique à gérer, concentrez-vous sur l''important : comprendre
       en profondeur le comportement de vos utilisateurs et améliorer vos produits
@@ -68,7 +68,7 @@ sections:
     image: "/images/Illustration - Testing-1.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Personnes discutant autour d'une application
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -85,7 +85,7 @@ sections:
     actions:
     - label: Commencer à recruter
       url: "/recruitform/"
-      title: ''
+      title: Formulaire de recrutement sur les réseaux sociaux
 - template: ctablock
   component: CtaBlock
   type: ctablock
@@ -95,7 +95,7 @@ sections:
   actions:
   - url: "/recruitform/"
     label: Commencer à recruter
-    title: ''
+    title: Formulaire de recrutement sur les réseaux sociaux
 - template: featuresblock
   component: FeaturesBlock
   bg: white
@@ -109,9 +109,9 @@ sections:
     actions:
     - url: "/panel/"
       label: En savoir plus
-      title: ''
+      title: Recrutement dans son panel privé
     title: Organisez vos sessions et vos recrutements en toute autonomie !
-    image_alt: ''
+    image_alt: Capture d'écran de la liste des sessions de Tandemz
   title: ''
   subtitle: ''
 menus:
