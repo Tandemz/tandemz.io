@@ -62,15 +62,22 @@
   }
 }
 
-.coming-soon {
+.feature-flag {
   display: inline-block;
   padding: 4px 12px;
-  background: _palette(red-muted);
-  color: _palette(red-accessible);
   font-size: 0.75rem;
   border-radius: 4px;
   font-weight: 700;
   margin-bottom: 8px;
+
+  &.feature-flag--coming-soon {
+    color: _palette(redAccessible);
+    background: _palette(redMuted);
+  }
+  &.feature-flag--beta {
+    color: _palette(purpleAccessible);
+    background: _palette(purpleMuted);
+  }
 }
 
 .block-copy {

@@ -33,7 +33,14 @@ export default class FeaturesBlock extends React.Component {
                     )}
                     <div className="cell block-content">
                       {_.get(feature, 'coming_soon') && (
-                        <div className="coming-soon">coming soon</div>
+                        <div className="feature-flag feature-flag--coming-soon">
+                          coming soon
+                        </div>
+                      )}
+                      {_.get(feature, 'is_beta') && (
+                        <div className="feature-flag feature-flag--beta">
+                          Beta
+                        </div>
                       )}
                       <h2 className="block-title">{_.get(feature, 'title')}</h2>
                       <div className="block-copy">
