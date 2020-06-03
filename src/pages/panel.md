@@ -22,6 +22,7 @@ sections:
   image: "/images/Entreprises - Liste des Annonces.svg"
   section_id: Image
   title: Organisez vos interviews et tests utilisateurs en quelques clics
+  image_alt: Capture d'écran de la liste des sessions Tandemz
 - type: featuresblock
   template: featuresblock
   section_id: Features
@@ -40,7 +41,8 @@ sections:
     image: "/images/Illustration - Calendar.svg"
     actions: []
     coming_soon: false
-    image_alt: ''
+    image_alt: Capture d'écran de la gestion des créneaux et des formats de rencontre
+      Tandemz
   - title: Toutes les informations de vos participants au même endroit
     content: |-
       Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
@@ -51,7 +53,7 @@ sections:
     image: "/images/Illustration - Connect.svg"
     actions: []
     coming_soon: true
-    image_alt: ''
+    image_alt: Profils de participants venant de plusieurs sources
   - title: Simplifiez vos échanges avec les participants
     content: |-
       Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
@@ -62,7 +64,7 @@ sections:
     image: "/images/Illustration - Communication.svg"
     actions: []
     coming_soon: true
-    image_alt: ''
+    image_alt: Captures d'écran de rappels et de messageries
   - title: Complétez votre recrutement avec des participants externes à votre panel
     content: |-
       Vous voulez en plus interroger des personnes avec un regard neuf sur votre produit ? Tandemz complète votre recrutement en ciblant vos utilisateurs potentiels là où ils se trouvent :
@@ -72,7 +74,8 @@ sections:
     image: "/images/Illustration - Recruit.svg"
     actions: []
     coming_soon: true
-    image_alt: ''
+    image_alt: Capture d'écran de la définission de la cible avec des icons de réseaux
+      sociaux
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -89,7 +92,7 @@ sections:
     actions:
     - url: https://app.tandemz.io
       label: Rejoindre la bêta (gratuite)
-      title: ''
+      title: Beta de l'application Tandemz
 - template: ctablock
   component: CtaBlock
   type: ctablock
@@ -100,7 +103,7 @@ sections:
   actions:
   - label: Rejoindre la bêta gratuite
     url: https://app.tandemz.io
-    title: ''
+    title: Beta de l'application Tandemz
 menus:
   solutions:
     title: Gestion de panel
