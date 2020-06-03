@@ -133,6 +133,11 @@ schema_org_data_list:
        "email":"contact@tandemz.io",
        "logo":"https://www.tandemz.io/images/Logo@200.png",
        "slogan":"Catalyseur de vos tests utilisateurs",
+       "sameAs" : [
+           "https://www.facebook.com/TandemzUX/",
+           "https://twitter.com/TandemzUX",
+           "https://www.linkedin.com/company/tandemz/"
+        ],
        "address":{
           "@type":"PostalAddress",
           "streetAddress":"33 Rue Censier",
