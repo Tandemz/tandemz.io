@@ -1,7 +1,7 @@
 ---
 template: post
-title: Introduction à la recherche utilisateur quantitative et qualitative
-full_title: introduction recherche utilisateur quantitative qualitative
+title: introduction recherche utilisateur quantitative qualitative
+full_title: Introduction à la recherche utilisateur quantitative et qualitative
 date: 2019-12-02T23:00:00.000+00:00
 thumb_img_path: "/images/Couv-compresse-ConvertImage.jpg"
 content_img_path: "/images/Couv-compresse-ConvertImage.jpg"
