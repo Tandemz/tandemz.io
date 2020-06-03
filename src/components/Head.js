@@ -15,7 +15,7 @@ const Head = props => {
   const description = meta.description || meta.excerpt || siteMeta.description;
   const keywords =    meta.keywords || siteMeta.keywords;
 
-  const defaultImg = 'https://www.tandemz.io/images/Logo@200.png';
+  const defaultImg = '/images/Logo@200.png';
   const image = meta.ogimage ? safePrefix(meta.ogimage, siteMeta.siteUrl) : defaultImg;
   const imageAlt = meta.ogimagealt ? meta.ogtitle : (
     meta.ogimage ? title : 'Tandemz Logo'
@@ -54,6 +54,8 @@ const Head = props => {
       <meta name="twitter:site"    content="@TandemzUX" />
       <meta name="twitter:creator" content="@TandemzUX" />
       <meta name="twitter:image"   content={image} />
+      <meta name="twitter:title"       content={meta.ogtitle || title} />
+      <meta name="twitter:description" content={meta.ogdescription || description} />
       <meta property="fb:app_id"   content="428165038128251" />
 
       <link rel="icon" href={safePrefix(siteMeta.favicon)} type="image/x-icon" />
