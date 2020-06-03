@@ -31,7 +31,7 @@ sections:
       les besoins de vos utilisateurs !
     icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
-    icon_alt: ''
+    icon_alt: Éléments organisés
   - title: Suivi centralisé
     content: Regroupez toutes les données de votre recherche et de vos participants.
       Ayez enfin une vision globale de vos process.
