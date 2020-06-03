@@ -1,19 +1,23 @@
 ---
 template: post
 title: Introduction à la recherche utilisateur quantitative et qualitative
-full_title: Introduction à la recherche utilisateur quantitative et qualitative
+full_title: introduction recherche utilisateur quantitative qualitative
 date: 2019-12-02T23:00:00.000+00:00
-thumb_img_path: '/images/Couv-compresse-ConvertImage.jpg'
-content_img_path: '/images/Couv-compresse-ConvertImage.jpg'
-excerpt:
-  Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privilégier
+thumb_img_path: "/images/Couv-compresse-ConvertImage.jpg"
+content_img_path: "/images/Couv-compresse-ConvertImage.jpg"
+excerpt: Qu'est-ce que la recherche qualitative et quantitative ? Laquelle privilégier
   ? Ce tout premier article de notre blog vous dira tout !
 author: src/data/authors/marinew.json
 hashtags:
-  - tandemz
-ogimage: '/images/Couv-compresse-ConvertImage.jpg'
----
+- tandemz
+ogimage: "/images/Couv-compresse-ConvertImage.jpg"
+keywords: ''
+og_image_width: 
+og_image_height: 
+twitter_card: ''
+ogtype: ''
 
+---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
 
 Pour améliorer votre produit et son UX - que ce soit pour augmenter votre taux de conversion, générer de meilleurs avis ou éviter de répondre toujours à la même question au support - vous avez besoin de comprendre vos utilisateurs et la façon dont ils s’en servent. Vous disposez pour cela de tout un arsenal de techniques différentes qui peuvent être regroupées en deux grandes catégories : la recherche qualitative et la recherche quantitative. Petit tour d’horizon de ces méthodes :
