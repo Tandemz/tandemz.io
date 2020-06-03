@@ -59,6 +59,7 @@ sections:
       url: "/recruit/"
       title: ''
     coming_soon: false
+    image_alt: Femme mise en évidence dans un site web
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
     content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
       dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
@@ -69,6 +70,7 @@ sections:
       url: "/panel/"
       title: ''
     coming_soon: false
+    image_alt: ''
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
