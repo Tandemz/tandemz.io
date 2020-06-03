@@ -15,6 +15,7 @@ export default function (_url, prefix) {
     console.log('CALLED WITH PREFIX');
     console.log('url', url);
     console.log('path', path);
+    console.log('prefix', prefix);
     console.log('res', `${prefix}${path}`);
     console.log('with simple prefix', withPrefix(url));
 
