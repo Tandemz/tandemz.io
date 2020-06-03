@@ -2,7 +2,7 @@ const { withPrefix } = require('gatsby');
 const { templateCompute } = require('./template');
 const _ = require('lodash');
 
-export default function (_url, prefix) {
+export default function (_url, absolute) {
   const url = templateCompute(_url, {
     APP_URL: process.env.GATSBY_APP_URL || '/',
   });
@@ -10,16 +10,9 @@ export default function (_url, prefix) {
   if (_.startsWith(url, '#') || _.startsWith(url, 'http')) {
     return url;
   }
-  const path = withPrefix(url, process.env.GATSBY_APP_URL);
-  if (prefix) {
-    console.log('CALLED WITH PREFIX');
-    console.log('url', url);
-    console.log('path', path);
-    console.log('prefix', prefix);
-    console.log('res', `${prefix}${path}`);
-    console.log('with simple prefix', withPrefix(url));
-
-    return `${prefix}${path}`;
+  if (absolute) {
+    return withPrefix(url, process.env.GATSBY_APP_URL);
   }
-  return path;
+
+  return withPrefix(url);
 }

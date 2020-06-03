@@ -16,12 +16,12 @@ const Head = props => {
   const keywords =    meta.keywords || siteMeta.keywords;
 
   const defaultImg = '/images/Logo@200.png';
-  const image = meta.ogimage ? safePrefix(meta.ogimage, siteMeta.siteUrl) : defaultImg;
+  const image = meta.ogimage ? safePrefix(meta.ogimage, true) : defaultImg;
   const imageAlt = meta.ogimagealt ? meta.ogtitle : (
     meta.ogimage ? title : 'Tandemz Logo'
   );
 
-  const url = safePrefix(_.get(props, 'pageContext.url'), siteMeta.siteUrl);
+  const url = safePrefix(_.get(props, 'pageContext.url'), true);
 
   return (
     <Helmet>
