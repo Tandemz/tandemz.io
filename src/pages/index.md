@@ -115,7 +115,7 @@ sections:
   actions:
   - label: Commencer à recruter
     url: "/recruitform/"
-    title: ''
+    title: Formulaire de Recrutement sur les réseaux sociaux
   subtitle: ''
 menus:
   main:
