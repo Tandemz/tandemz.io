@@ -12,6 +12,12 @@ export default function (_url, prefix) {
   }
   const path = withPrefix(url, process.env.GATSBY_APP_URL);
   if (prefix) {
+    console.log('CALLED WITH PREFIX');
+    console.log('url', url);
+    console.log('path', path);
+    console.log('res', `${prefix}${path}`);
+    console.log('with simple prefix', withPrefix(url));
+
     return `${prefix}${path}`;
   }
   return path;
