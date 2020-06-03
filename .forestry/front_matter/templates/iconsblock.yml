@@ -44,6 +44,11 @@ fields:
   - type: file
     name: icon
     label: Icon
+  - name: icon_alt
+    type: text
+    config:
+      required: false
+    label: Icon alt
   config:
     labelField: title
   label: Icon Blocks
