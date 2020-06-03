@@ -68,7 +68,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/panel/"
-      title: Page explicative du panel privé
+      title: Gestion de panels privés
     coming_soon: false
     image_alt: Profils d'utilisateur venant de plusieurs sources
 - template: reviewsblock
