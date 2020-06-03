@@ -22,6 +22,11 @@ fields:
   name: image
   label: Image
   description: The image of the section.
+- name: image_alt
+  type: text
+  config:
+    required: false
+  label: Image alt
 - type: select
   name: bg
   label: Background
