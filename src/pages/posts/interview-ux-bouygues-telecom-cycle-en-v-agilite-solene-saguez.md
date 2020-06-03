@@ -10,9 +10,7 @@ hashtags:
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title:
-  'L’UX chez Bouygues Telecom : du cycle en V à l’agilité, entretien avec Solène
-  Saguez'
+title: Interview UX Bouygues Telecom cycle en V agilite Solene Saguez
 full_title:
   'L’UX chez Bouygues Telecom : du cycle en V à l’agilité, entretien avec Solène
   Saguez'

@@ -8,7 +8,7 @@ hashtags:
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: 'Livre blanc : où en est le quali aujourd''hui en France ?'
+title: Livre blanc etat etude qualitative en France
 subtitle: ''
 date: 2020-03-17T23:00:00.000+00:00
 thumb_img_path: "/images/Livre blanc-1.png"
