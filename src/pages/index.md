@@ -57,7 +57,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/recruit/"
-      title: ''
+      title: Page recrutement de panel privé
     coming_soon: false
     image_alt: Femme mise en évidence dans un site web
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
