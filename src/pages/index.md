@@ -70,7 +70,7 @@ sections:
       url: "/panel/"
       title: Gestion de panels privés
     coming_soon: false
-    image_alt: Profils d'utilisateur venant de plusieurs sources
+    image_alt: Profils d'utilisateurs venant de plusieurs sources
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
