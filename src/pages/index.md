@@ -72,7 +72,7 @@ sections:
       title: Gestion de panels privés
     coming_soon: false
     image_alt: Profils d'utilisateurs venant de plusieurs sources
-    is_beta: true
+    is_beta: false
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
