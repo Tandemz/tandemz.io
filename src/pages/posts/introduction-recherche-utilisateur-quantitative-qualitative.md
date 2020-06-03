@@ -39,7 +39,7 @@ Dans votre palette de méthodes pour vos études quantitatives, vous pouvez entr
 
 Le choix de l’une ou l’autre technique dépend notamment de l’étape du projet. Je ne vous en dis pas plus, vous saurez tout dans un prochain article, c’est promis 😃 !
 
-La taille de réponses à collecter dépend beaucoup de l’étude en question : il faut prendre en compte la taille de la population cible, de la marge d’erreur ou encore du niveau de confiance. [Cet article de SurveyMonkey permet de déterminer la taille adaptée](https://fr.surveymonkey.com/mp/sample-size/) pour votre propre étude quantitative ou bien vous pouvez vous pencher sur[ la méthode très détaillée décrite par Testapic](https://www.testapic.com/informations-pratiques/actualites/best-practices/comment-confiance-resultats-pourquoi-faire-tests-quantitatifs-minimum-100-personnes/). Toutefois, un nombre communément admis est généralement de 200 réponses.
+La taille de réponses à collecter dépend beaucoup de l’étude en question : il faut prendre en compte la taille de la population cible, de la marge d’erreur ou encore du niveau de confiance. [Cet article de SurveyMonkey permet de déterminer la taille adaptée](https://fr.surveymonkey.com/mp/sample-size/ "Taille de l’échantillon de sondage") pour votre propre étude quantitative ou bien vous pouvez vous pencher sur[ la méthode très détaillée décrite par Testapic](https://www.testapic.com/informations-pratiques/actualites/best-practices/comment-confiance-resultats-pourquoi-faire-tests-quantitatifs-minimum-100-personnes/ "Pourquoi faire des tests quantitatifs avec un minimum de 100 personnes ?"). Toutefois, un nombre communément admis est généralement de 200 réponses.
 
 ## Le qualitatif joue sur les mots
 
@@ -56,7 +56,7 @@ Selon les circonstances de votre projet, en qualitatif vous pouvez utiliser des 
 
 Mais tout cela est une autre histoire, qui vous sera racontée dans un autre épisode. 😉
 
-Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
+Pour déterminer le nombre de testeurs à rencontrer lors d’un test d’utilisabilité, il est courant d’appliquer le concept énoncé par Jakob Nielsen selon lequel "5 utilisateurs suffisent pour trouver 85 % des problèmes". [Cet article explicite la théorie de Nielsen](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/ "Why You Only Need to Test with 5 Users"), en donnant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs, pour un même persona (c’est-à-dire des personnes utilisant l’application ou le produit de la même façon) :
 
 ![Graphique représentant le pourcentage de problèmes d’utilisabilité rencontrés en fonction du nombre de testeurs](/images/Number-users-testing.png "La règle des 5 testeurs pour 85% des problèmes")
 
@@ -80,9 +80,9 @@ Par exemple, avec les analytiques vous constatez que 60% de vos internautes aban
 
 Autre cas : en entretien avec un participant,vous prenez conscience d’une problématique que vous ne soupçonniez pas et identifiez un besoin pour un nouveau produit permettant de la régler. Celui-là est-il partagé par les autres utilisateurs ? Un sondage vous permettra de le quantifier.
 
-Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du [cycle de design itératif illustré par Nielsen Norman Group](https://www.nngroup.com/articles/quant-vs-qual/) :
+Qualitatif et quantitatif **s’entraînent l’un et l’autre** et forment une spirale de recherche, à l’instar du [cycle de design itératif illustré par Nielsen Norman Group](https://www.nngroup.com/articles/quant-vs-qual/ "Quantitative vs. Qualitative Usability Testing") :
 
-![](/images/Cycle-Design-interactif.png "Le cycle du design itératif")
+![Le cycle du design itératif](/images/Cycle-Design-interactif.png "Le cycle du design itératif")
 
 Il est tentant de se focaliser sur l’une ou l’autre de ces méthodes - celle sur laquelle on est le plus à l’aise - et de mettre de côté la seconde. Naturellement, chaque direction a ses travers !
 
@@ -115,7 +115,7 @@ Ce qui donne le graphique suivant :
 
 ![Graphique de Rorher sur le positionnement des méthodes de recherche selon les axes Comportement/Attitude et Qualitatif/Quantitatif](/images/user-research-methods.png "Positionnement des méthodes de recherche les unes par rapport aux autres")
 
-Pour plus de détails, je vous invite à lire [l’article expliquant le graphique en question](https://www.nngroup.com/articles/which-ux-research-methods/) rédigé par Christian Rorher.
+Pour plus de détails, je vous invite à lire [l’article expliquant le graphique en question](https://www.nngroup.com/articles/which-ux-research-methods/ "When to Use Which User-Experience Research Methods") rédigé par Christian Rorher.
 
 ## Conclusion
 

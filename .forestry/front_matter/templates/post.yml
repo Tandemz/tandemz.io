@@ -100,9 +100,5 @@ fields:
   hidden: true
   default: article
 pages:
-- src/pages/posts/expliquer-mon-métier-d-ux-designer-à-ma-grand-mère-au-secours.md
-- src/pages/posts/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative.md
-- src/pages/posts/l-ux-chez-bouygues-télécom-du-cycle-en-v-à-l-agilité-entretien-avec-solène-saguez.md
-- src/pages/posts/livre-blanc-où-en-est-le-quali-aujourd-hui-en-france.md
 - src/pages/posts/methode-recherche-utilisateur-qualitative.md
 - src/pages/posts/why-dark-patterns-creep-into-ux-designers-toolkits.md
