@@ -10,6 +10,9 @@ fields:
   name: title
   label: Title
   description: The title of the section.
+- name: title_level_one
+  type: boolean
+  label: Titre de niveau 1
 - type: text
   name: component
   label: Component
