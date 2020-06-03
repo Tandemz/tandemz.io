@@ -13,6 +13,7 @@ sections:
     url: "/recruitform/"
     title: Formulaire de recrutement de participants
   imageAlt: ''
+  image_alt: ''
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -25,14 +26,17 @@ sections:
     content: Atteignez rapidement des participants dans votre cible pour vos études,
       qu'ils vous connaissent ou non.
     icon: "/images/Fast200h-1.png"
+    icon_alt: Fléches avance rapide rouges
   - content: Passez moins de temps sur la logistique, et plus de temps à comprendre
       les besoins de vos utilisateurs !
     icon: "/images/Simple200h-1.png"
     title: Organisation simplifiée
+    icon_alt: ''
   - title: Suivi centralisé
     content: Regroupez toutes les données de votre recherche et de vos participants.
       Ayez enfin une vision globale de vos process.
     icon: "/images/Centralized200h.png"
+    icon_alt: ''
   value_title_1: ''
   value_content_1: ''
   value_title_2: ''
