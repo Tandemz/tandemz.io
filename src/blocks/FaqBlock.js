@@ -14,9 +14,15 @@ export default class FaqBlock extends React.Component {
       >
         <div className="inner-small">
           <div className="block-header">
-            <h1 className="block-title">
-              {_.get(this.props, 'section.title')}
-            </h1>
+            {_.get(this.props, 'section.title_level_one') ? (
+              <h1 className="block-title">
+                {_.get(this.props, 'section.title')}
+              </h1>
+            ) : (
+              <h2 className="block-title">
+                {_.get(this.props, 'section.title')}
+              </h2>
+            )}
             {_.get(this.props, 'section.subtitle') && (
               <p className="block-subtitle">
                 {htmlToReact(_.get(this.props, 'section.subtitle'))}
