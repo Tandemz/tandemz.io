@@ -11,7 +11,8 @@
       "actions": [
         {
           "label": "Rejoindre la beta",
-          "url": "https://app.tandemz.io"
+          "url": "https://app.tandemz.io",
+          "title": "Beta de l'application Tandemz"
         }
       ]
     }
