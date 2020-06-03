@@ -3,10 +3,10 @@ publish = "public"
 command = "./stackbit-build.sh"
 
 [context.staging]
-  environment = { GATSBY_APP_URL = "http://app.staging.tandemz.io", GATSBY_API_URL = "http://api.staging.tandemz.io" }
+  environment = { GATSBY_APP_URL = "https://staging.tandemz.io" }
 
 [context.production]
-  environment = { GATSBY_APP_URL = "https://app.tandemz.io", GATSBY_API_URL = "https://api.tandemz.io" }
+  environment = { GATSBY_APP_URL = "https://www.tandemz.io" }
 
 [[redirects]]
   from = "/index.html"
