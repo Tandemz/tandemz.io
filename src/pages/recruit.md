@@ -10,7 +10,7 @@ sections:
   image: ''
   actions:
   - label: Commencer à recruter
-    url: "/recruitform"
+    url: "/recruitform/"
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -76,7 +76,7 @@ sections:
     highlight: false
     actions:
     - label: Commencer à recruter
-      url: "/recruitform"
+      url: "/recruitform/"
 - template: ctablock
   component: CtaBlock
   type: ctablock
@@ -84,7 +84,7 @@ sections:
   title: Recruter des participants à la recherche utilisateur n'est plus difficile
   subtitle: ''
   actions:
-  - url: "/recruitform"
+  - url: "/recruitform/"
     label: Commencer à recruter
 - template: featuresblock
   component: FeaturesBlock
@@ -97,7 +97,7 @@ sections:
     image: "/images/Entreprises - Liste des Annonces.svg"
     coming_soon: true
     actions:
-    - url: "/panel"
+    - url: "/panel/"
       label: En savoir plus
     title: Organisez vos sessions et vos recrutements en toute autonomie !
   title: ''

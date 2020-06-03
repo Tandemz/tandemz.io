@@ -10,7 +10,7 @@ sections:
   image: ''
   actions:
   - label: Commencer à recruter
-    url: "/recruitform"
+    url: "/recruitform/"
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -50,7 +50,7 @@ sections:
     image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
-      url: "/recruit"
+      url: "/recruit/"
     coming_soon: false
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
     content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
@@ -59,7 +59,7 @@ sections:
     image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
-      url: "/panel"
+      url: "/panel/"
     coming_soon: false
 - template: reviewsblock
   component: ReviewsBlock
@@ -101,7 +101,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Commencer à recruter
-    url: "/recruitform"
+    url: "/recruitform/"
   subtitle: ''
 menus:
   main:
