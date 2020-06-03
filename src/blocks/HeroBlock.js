@@ -20,7 +20,7 @@ export default class HeroBlock extends React.Component {
               <div className="cell hero-preview">
                 <img
                   src={safePrefix(_.get(this.props, 'section.image'))}
-                  alt={_.get(this.props, 'section.title')}
+                  alt={_.get(this.props, 'section.image_alt')}
                 />
               </div>
             )}
@@ -40,6 +40,7 @@ export default class HeroBlock extends React.Component {
                         key={action_idx}
                         to={safePrefix(_.get(action, 'url'))}
                         className="button white large"
+                        title={_.get(action, 'title')}
                         onClick={() =>
                           sendEvent('click', 'Contact', _.get(action, 'label'))
                         }

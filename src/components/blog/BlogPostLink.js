@@ -14,6 +14,7 @@ export default class BlogPostLink extends React.PureComponent {
             <Link
               className="post-card-thumbnail"
               to={safePrefix(_.get(post, 'url'))}
+              title={_.get(post, 'frontmatter.full_title')}
             >
               <img
                 className="thumbnail"

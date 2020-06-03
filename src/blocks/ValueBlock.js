@@ -38,7 +38,8 @@ export default class ValueBlock extends React.Component {
                         <img
                           className="valueblock-icon"
                           src={safePrefix(_.get(block, 'icon'))}
-                          alt="Icon"
+                          alt={_.get(block, 'icon_alt')}
+                          title={_.get(block, 'icon_alt')}
                         />
                       )}
                       <h3 className="valueblock-title">

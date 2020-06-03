@@ -17,7 +17,7 @@ export default class Header extends React.Component {
               'pageContext.site.siteMetadata.header.logo_img',
             ) && (
               <p className="site-logo">
-                <Link to={safePrefix('/')}>
+                <Link to={safePrefix('/')} title="Retour à l'accueil">
                   <img
                     src={safePrefix(
                       _.get(
@@ -25,7 +25,7 @@ export default class Header extends React.Component {
                         'pageContext.site.siteMetadata.header.logo_img',
                       ),
                     )}
-                    alt="Logo"
+                    alt="Logo de Tandemz"
                   />
                 </Link>
               </p>

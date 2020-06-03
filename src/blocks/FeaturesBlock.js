@@ -26,7 +26,8 @@ export default class FeaturesBlock extends React.Component {
                       <div className="cell block-preview">
                         <img
                           src={safePrefix(_.get(feature, 'image'))}
-                          alt={_.get(feature, 'title')}
+                          alt={_.get(feature, 'image_alt')}
+                          title={_.get(feature, 'image_alt')}
                         />
                       </div>
                     )}

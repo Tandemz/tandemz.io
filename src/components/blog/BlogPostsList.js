@@ -24,7 +24,6 @@ export default class BlogPostsList extends React.Component {
     const startItem = this.state.currentPage * itemsPerPage;
     const endItem = (this.state.currentPage + 1) * itemsPerPage;
     const postsList = posts.slice(startItem, endItem);
-    console.log(startItem, endItem, postsList.length);
 
     return (
       <section

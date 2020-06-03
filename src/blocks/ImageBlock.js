@@ -18,7 +18,8 @@ export default class ImageBlock extends React.Component {
               <div className="block-overlap">
                 <img
                   src={safePrefix(_.get(this.props, 'section.image'))}
-                  alt={_.get(this.props, 'section.title')}
+                  alt={_.get(this.props, 'section.image_alt')}
+                  title={_.get(this.props, 'section.image_alt')}
                 />
               </div>
             )}

@@ -12,6 +12,7 @@ export default class CtaButtons extends React.Component {
             key={action_idx}
             to={safePrefix(_.get(action, 'url'))}
             className="button secondary"
+            title={_.get(action, 'title')}
             onClick={() =>
               sendEvent(
                 'click',

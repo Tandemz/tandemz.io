@@ -18,7 +18,7 @@ export default class Footer extends React.Component {
                   'pageContext.site.siteMetadata.footer.logo_img',
                 ) ? (
                   <p className="site-logo">
-                    <Link to={safePrefix('/')}>
+                    <Link to={safePrefix('/')} title="Retour à l'accueil">
                       <img
                         src={safePrefix(
                           _.get(
@@ -26,13 +26,19 @@ export default class Footer extends React.Component {
                             'pageContext.site.siteMetadata.footer.logo_img',
                           ),
                         )}
-                        alt="Logo"
+                        alt="Logo de Tandemz"
                       />
                     </Link>
                   </p>
                 ) : (
                   <p className="site-title">
-                    <Link to={safePrefix('/')}>
+                    <Link
+                      to={safePrefix('/')}
+                      title={_.get(
+                        this.props,
+                        'pageContext.site.siteMetadata.header.title',
+                      )}
+                    >
                       {_.get(
                         this.props,
                         'pageContext.site.siteMetadata.header.title',
@@ -80,7 +86,10 @@ export default class Footer extends React.Component {
                               _.get(this.props, 'pageContext.menus.secondary'),
                               (item, item_idx) => (
                                 <li key={item_idx}>
-                                  <Link to={safePrefix(_.get(item, 'url'))}>
+                                  <Link
+                                    to={safePrefix(_.get(item, 'url'))}
+                                    title={_.get(item, 'title')}
+                                  >
                                     {_.get(item, 'title')}
                                   </Link>
                                 </li>
@@ -148,6 +157,7 @@ export default class Footer extends React.Component {
                 <React.Fragment key={link_idx}>
                   <Link
                     key={link_idx}
+                    title={_.get(link, 'text')}
                     to={_.get(link, 'url')}
                     {...(_.get(link, 'new_window')
                       ? { target: '_blank', rel: 'noopener' }

@@ -36,7 +36,8 @@ export default class IconsBlock extends React.Component {
                         <img
                           className="iconblock-icon"
                           src={safePrefix(_.get(block, 'icon'))}
-                          alt="Icon"
+                          alt={_.get(block, 'icon_alt')}
+                          title={_.get(block, 'icon_alt')}
                         />
                       )}
                       <h3 className="iconblock-title">

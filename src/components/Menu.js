@@ -12,7 +12,7 @@ class Menu extends React.Component {
     }
     const actions =
       this.props.actions &&
-      this.props.actions.filter(item => !!item.url && !!item.label);
+      this.props.actions.filter((item) => !!item.url && !!item.label);
 
     return (
       <React.Fragment>
@@ -28,26 +28,31 @@ class Menu extends React.Component {
             </button>
             <ul className="menu">
               {menu &&
-                _.map(menu, item => (
+                _.map(menu, (item) => (
                   <li
                     key={item.title}
                     className={classnames('menu-item', {
                       'current-menu-item':
                         url === item.url ||
-                        item.items.some(subItem => url === subItem.url),
+                        item.items.some((subItem) => url === subItem.url),
                     })}
                   >
-                    <Link to={safePrefix(item.url)}>{item.title}</Link>
+                    <Link to={safePrefix(item.url)} title={item.title}>
+                      {item.title}
+                    </Link>
                     {item.items && !!item.items.length && (
                       <ul className="sub-menu">
-                        {item.items.map(subItem => (
+                        {item.items.map((subItem) => (
                           <li
                             key={subItem.title}
                             className={classnames('sub-menu-item', {
                               'current-sub-menu-item': url === subItem.url,
                             })}
                           >
-                            <Link to={safePrefix(subItem.url)}>
+                            <Link
+                              to={safePrefix(subItem.url)}
+                              title={subItem.title}
+                            >
                               {subItem.title}
                             </Link>
                           </li>
@@ -63,6 +68,7 @@ class Menu extends React.Component {
                       to={safePrefix(action.url)}
                       className="button"
                       onClick={() => sendEvent('click', 'request demo', url)}
+                      title={action.title}
                     >
                       {action.label}
                     </Link>
