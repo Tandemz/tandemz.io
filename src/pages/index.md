@@ -136,7 +136,8 @@ schema_org_data_list:
        "sameAs" : [
            "https://www.facebook.com/TandemzUX/",
            "https://twitter.com/TandemzUX",
-           "https://www.linkedin.com/company/tandemz/"
+           "https://www.linkedin.com/company/tandemz/",
+           "https://www.instagram.com/tandemz_ux/"
         ],
        "address":{
           "@type":"PostalAddress",
