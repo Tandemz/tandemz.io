@@ -56,6 +56,9 @@ fields:
     config:
       required: false
     label: Image alt
+  - name: is_beta
+    type: boolean
+    label: Beta
   - name: coming_soon
     type: boolean
     label: Coming soon
