@@ -51,6 +51,11 @@ fields:
     name: image
     label: Image
     description: The image of the feature.
+  - name: image_alt
+    type: text
+    config:
+      required: false
+    label: Image alt
   - name: coming_soon
     type: boolean
     label: Coming soon
