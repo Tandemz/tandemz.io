@@ -36,7 +36,7 @@ sections:
     content: Regroupez toutes les données de votre recherche et de vos participants.
       Ayez enfin une vision globale de vos process.
     icon: "/images/Centralized200h.png"
-    icon_alt: ''
+    icon_alt: Rond bleu central
   value_title_1: ''
   value_content_1: ''
   value_title_2: ''
