@@ -39,6 +39,7 @@ const Head = props => {
       <meta property="og:description" content={meta.ogdescription || description} />
       <meta property="og:type"        content={meta.ogtype || 'website'} />
       <meta property="og:url"         content={url} />
+      <meta property="og:site_name"   content="Tandemz" />
 
       <meta property="og:image"        content={image} name="image" />
       <meta property="og:image:alt"    content={imageAlt} />
