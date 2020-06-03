@@ -60,6 +60,7 @@ sections:
       title: Recrutement de participants sur les réseaux sociaux
     coming_soon: false
     image_alt: Femme mise en évidence dans un site web
+    is_beta: false
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
     content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
       dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
@@ -71,6 +72,7 @@ sections:
       title: Gestion de panels privés
     coming_soon: false
     image_alt: Profils d'utilisateurs venant de plusieurs sources
+    is_beta: true
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
