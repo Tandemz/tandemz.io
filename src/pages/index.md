@@ -11,6 +11,8 @@ sections:
   actions:
   - label: Commencer à recruter
     url: "/recruitform/"
+    title: Formulaire de recrutement de participants
+  imageAlt: ''
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -51,6 +53,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/recruit/"
+      title: ''
     coming_soon: false
   - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
     content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
@@ -60,6 +63,7 @@ sections:
     actions:
     - label: En savoir plus
       url: "/panel/"
+      title: ''
     coming_soon: false
 - template: reviewsblock
   component: ReviewsBlock
@@ -102,6 +106,7 @@ sections:
   actions:
   - label: Commencer à recruter
     url: "/recruitform/"
+    title: ''
   subtitle: ''
 menus:
   main:
