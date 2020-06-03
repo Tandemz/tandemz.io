@@ -12,3 +12,8 @@ fields:
 - type: text
   name: url
   label: Button URL
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
