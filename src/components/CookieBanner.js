@@ -21,7 +21,12 @@ const CookieBanner = () => {
 
   return (
     <div className="cookie-banner">
-      <p>🍪 Nous utilisons des cookies pour améliorer votre expérience.</p>
+      <p>
+        <span role="img" aria-label="Cookie">
+          🍪
+        </span>{' '}
+        Nous utilisons des cookies pour améliorer votre expérience.
+      </p>
       <div className="cookie-banner__button-container">
         <a href="/confidentialité-et-protection-des-données">En savoir plus</a>
         <button onClick={onAccept}>J'ai compris</button>

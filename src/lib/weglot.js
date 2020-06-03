@@ -1,4 +1,3 @@
-/* global Weglot */
 import React from 'react';
 let weglotPromise = null;
 
@@ -8,7 +7,7 @@ const weglotOptions = {
 };
 
 const init = () => {
-  weglotPromise = new Promise(resolve => {
+  weglotPromise = new Promise((resolve) => {
     setTimeout(() => {
       window.Weglot.initialize(weglotOptions);
       resolve(window.Weglot);
@@ -40,7 +39,7 @@ export const initializeWeglot = () => {
   script.setAttribute('src', 'https://cdn.weglot.com/weglot.min.js');
   body.appendChild(script);
 
-  script.onload = function() {
+  script.onload = function () {
     init();
     console.info('Weglot initialized');
   };

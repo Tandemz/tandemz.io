@@ -1,6 +1,4 @@
 import * as React from 'react';
-import _ from 'lodash';
-import { CtaButtons } from '../components';
 import { SendinblueScript } from '../lib/sendinblue';
 
 class NewsLetterBlock extends React.PureComponent {
@@ -86,8 +84,11 @@ class NewsLetterBlock extends React.PureComponent {
                       </div>
                     </div>
 
-                    <label className="entry__error entry__error--primary"></label>
-                    <label className="entry__specification">
+                    <label
+                      className="entry__error entry__error--primary"
+                      for="EMAIL"
+                    ></label>
+                    <label className="entry__specification" for="EMAIL">
                       Voir{' '}
                       <a href="/confidentialité-et-protection-des-données/">
                         la politique de confidentialité
