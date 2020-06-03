@@ -70,7 +70,7 @@ sections:
       url: "/panel/"
       title: ''
     coming_soon: false
-    image_alt: ''
+    image_alt: Profils d'utilisateur venant de plusieurs sources
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
