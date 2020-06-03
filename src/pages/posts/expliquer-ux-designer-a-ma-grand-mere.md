@@ -5,7 +5,7 @@ hashtags:
   - ux
   - designerlife
   - noël
-title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
+title: expliquer ux designer a ma grand-mere
 full_title: Expliquer mon métier d’UX Designer à ma grand-mère ? Au secours !
 date: 2019-12-15T23:00:00.000+00:00
 thumb_img_path: '/images/snowmen.png'
