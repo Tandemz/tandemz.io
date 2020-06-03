@@ -34,6 +34,11 @@ fields:
   name: image
   label: Image
   description: The image of the section.
+- name: alt
+  type: text
+  config:
+    required: false
+  label: alt
 - type: field_group_list
   name: actions
   label: Action Buttons
