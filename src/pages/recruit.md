@@ -11,6 +11,8 @@ sections:
   actions:
   - label: Commencer à recruter
     url: "/recruitform/"
+    title: Formulaire de recrutement sur les réseaux sociaux
+  image_alt: ''
 - template: valueblock
   component: ValueBlock
   bg: white
@@ -22,14 +24,17 @@ sections:
     title: Panel large, ciblage précis
     content: Votre cible parfaite se trouve sûrement parmi les millions d'utilisateurs
       quotidiens des réseaux sociaux.
+    icon_alt: Entonnoir violet
   - title: Vos études à l'international
     content: Les réseaux sociaux n'ont pas de frontière. Faites votre recherche utilisateur
       avec des participants du monde entier.
     icon: "/images/World200h.png"
+    icon_alt: Globe vert
   - title: De tout nouveaux participants
     icon: "/images/Like200h-1.png"
     content: En recrutant dans un panel aussi large, soyez assuré de ne jamais tomber
       deux fois sur le même utilisateur.
+    icon_alt: Pouce vers le haut rouge
   subtitle: ''
 - type: featuresblock
   template: featuresblock
@@ -46,6 +51,7 @@ sections:
     image: "/images/Illustration - Criteria-1.svg"
     actions: []
     coming_soon: false
+    image_alt: ''
   - title: 2. Nous nous occupons de toute l'organisation
     content: Grâce à votre dashboard personnel, regardez votre planning se remplir
       et suivez l'avancement en temps réel de vos recrutements. Une question, un soucis
@@ -54,6 +60,7 @@ sections:
     image: "/images/Illustration - Follow-4.svg"
     actions: []
     coming_soon: false
+    image_alt: ''
   - title: 3. Réalisez vos tests en toute sérénité
     content: 'Sans logistique à gérer, concentrez-vous sur l''important : comprendre
       en profondeur le comportement de vos utilisateurs et améliorer vos produits
@@ -61,6 +68,7 @@ sections:
     image: "/images/Illustration - Testing-1.svg"
     actions: []
     coming_soon: false
+    image_alt: ''
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -77,6 +85,7 @@ sections:
     actions:
     - label: Commencer à recruter
       url: "/recruitform/"
+      title: ''
 - template: ctablock
   component: CtaBlock
   type: ctablock
@@ -86,6 +95,7 @@ sections:
   actions:
   - url: "/recruitform/"
     label: Commencer à recruter
+    title: ''
 - template: featuresblock
   component: FeaturesBlock
   bg: white
@@ -99,7 +109,9 @@ sections:
     actions:
     - url: "/panel/"
       label: En savoir plus
+      title: ''
     title: Organisez vos sessions et vos recrutements en toute autonomie !
+    image_alt: ''
   title: ''
   subtitle: ''
 menus:
