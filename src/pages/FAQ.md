@@ -76,6 +76,7 @@ sections:
       En ce qui concerne le prix, tout dépend de l'offre qui vous concerne. Nous vous invitons à vous rendre dans la section "Tarif" pour prendre connaissance du prix de nos offres.
 
       Vos factures sont mises à disposition dans votre espace client, directement sur la plateforme. Les modes de règlement acceptés sont la CB, le virement bancaire et le chèque.
+  title_level_one: true
 - type: faqblock
   template: faqblock
   section_id: faq
@@ -129,6 +130,7 @@ sections:
     answer: Il n'est pas possible de vivre exclusivement des récompenses obtenues
       sur Tandemz. Le nombre de rencontres auxquelles vous pouvez participer est bloqué
       au-delà d'une certaine limite.
+  title_level_one: false
 menus:
   main:
     title: FAQ
