@@ -184,7 +184,34 @@ sections:
   title: Créer et gérer une session
   faqitems:
   - question: Comment créer une session ?
-    answer: ''
+    answer: "Cliquez sur \"Nouvelle session\" (ou \"Créer une session si c'est votre
+      première !) puis renseignez les informations de votre session (avec une * celles
+      obligatoires) :\n\n###### Paramètres de l'annonce\n\n* __Titre de la session*__
+      : il s'agit du titre qui s'affiche dans les mails et dans la page d'inscription
+      pour les participants.\n* __Description*__ :\n* **Contrepartie** : indiquez
+      ce que le dédommagement que vous proposez au participant. Si vous n'offrez pas
+      de dédommagement, laissez le champ libre.\n\n###### Cible de participants\n\n*
+      __Nombre de participants*__ : nombre de personnes que vous recherchez pour votre
+      étude.\n* **Origine des participants** : vous pouvez choisir de recruter vos
+      participants dans votre panel, hors de votre panel (chez Tandemz), dans les
+      deux ou dans aucun des deux. \n\n  Si vous optez pour le recrutement hors de
+      votre panel, indiquez-nous les critères que vous recherchez. Nous vous recontacterons
+      dans les plus brefs délais.\n\n  Si vous optez pour le recrutement dans votre
+      panel, vous pouvez alors éditer la liste des personnes qui seront notifiées
+      lors de la publication de l'annonce en incluant / excluant des tags ou en les
+      décochant manuellement dans \"Voir / modifier la liste des destinataires\" et
+      personnaliser le mail qui leur sera envoyé.\n\n  Si vous ne souhaitez pas envoyer
+      d'invitation tout de suite ou simplement transmettre le lien de l'étude à des
+      personnes externes, ne sélectionnez rien et passez à la suite !\n\n###### Formats
+      et disponibilités\n\n* __Durée d'une rencontre*__ : le temps de l'étude pour
+      le participant\n* __Intervalle minimum*__ : la durée de la pause entre deux
+      créneaux possibles\n* __Créneaux*__ : choisissez l'heure et la date de vos disponibilités
+      pour la session. Vous devez indiquer au moins autant de créneau qu'il y a de
+      participants recherchés.\n* __Format de rencontre*__ : choisissez la ou les
+      modalités de l'étude ainsi que les éventuelles instructions. Si vous en sélectionnez
+      plusieurs, le choix sera laissé au participant lors de son inscription.\n\nPrévisualisez
+      votre annonce. Tout vous semble bon ? Alors publiez. Les invitations aux participants
+      de votre panel sélectionnés seront envoyées à cet instant."
   - question: Comment suivre l'avancement de ma session ?
     answer: "En cliquant sur votre session, vous disposez de deux onglets : \n\n*
       **Overview** : consultez ici vos différents créneaux confirmés ou non, passés
