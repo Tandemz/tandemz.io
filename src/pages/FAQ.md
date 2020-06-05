@@ -226,12 +226,14 @@ sections:
 
       * **Suivi des participants** : gérez ici vos recrutements.
   - question: Quels sont les différents statuts des sessions ?
-    answer: "Une session dispose d'un statut, qui peut être : \n\n* **BROUILLON**
-      : la session n'est pas encore publiée, donc pas encore visible aux participants.\n*
-      **EN COURS** : la session a été publiée et est en cours. Le nombre de participants
-      demandé n'est pas encore atteint et il reste des créneaux disponibles dans le
-      futur.\n* **TERMINÉE** : le nombre de participants demandé est atteint ou il
-      n'y a plus de créneaux disponibles dans le futur."
+    answer: |-
+      Une session dispose d'un statut, qui peut être :
+
+      * **BROUILLON** : la session n'est pas encore publiée, donc pas encore visible aux participants.
+      * **EN COURS** : la session a été publiée et est en cours. Le nombre de participants demandé n'est pas encore atteint et il reste des créneaux disponibles dans le futur.
+      * **TERMINÉE** : le nombre de participants demandé est atteint ou il n'y a plus de créneaux disponibles dans le futur.
+
+      Ces status sont mis à jour automatiquement, vous n'avez rien besoin de faire.
   title_level_one: false
   subtitle: ''
 menus:
