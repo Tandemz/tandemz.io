@@ -144,11 +144,11 @@ sections:
 
       Votre session est déjà créée ?
 
-      Dans votre onglet "Panel", sélectionnez les participants que vous souhaitez inviter à votre session. Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur un tag, sur un pays, etc...) :
+      Dans votre onglet "Panel", **sélectionnez les participants** que vous souhaitez inviter à votre session. Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur un tag, sur un pays, etc...) :
 
       ![](/images/champ-recherche.png)
 
-      Une fois vos participants sélectionnés, choisissez "Inviter à une session" (en bas à droite), cliquez sur la session à laquelle vous souhaitez les inviter puis sur "Inviter". Une modale apparaît vous permettant de rédiger un texte personnalisé qui sera inséré dans le mail d'invitation à vos participants. Validez? Vos participants ont été invités. Vous les retrouverez dans la colonne "Contactés" de votre tableau de suivi des participants de la session.
+      Une fois vos participants sélectionnés, choisissez "**Inviter à une session**" (en bas à droite), cliquez sur l**a session à laquelle vous souhaitez les inviter** puis sur "Inviter". Une modale apparaît vous permettant de rédiger un **texte personnalisé** qui sera inséré dans le mail d'invitation à vos participants. Validez? Vos participants ont été invités. Vous les retrouverez dans la colonne "Contactés" de votre tableau de suivi des participants de la session.
 
       Votre session n'apparaît pas dans la liste des sessions ? C'est probablement qu'elle n'est pas encore publiée. Seules les sessions actives s'affichent. En cas de problèmes, contactez-nous par tchat ou par mail à contact@tandemz.io.
   - question: Comment ajouter des personnes à mon panel
