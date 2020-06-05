@@ -1,5 +1,5 @@
 ---
-title: FAQ - Tandemz
+title: Aide en ligne
 sections:
 - template: faqblock
   component: FaqBlock
@@ -119,7 +119,7 @@ menus:
     title: FAQ
     weight: 4
 template: pricing
-description: Foire aux questions de Tandemz
+description: toutes les questions sur l'utilisation de Tandemz
 keywords: ''
 ogtitle: ''
 ogdescription: ''
