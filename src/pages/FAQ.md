@@ -138,6 +138,18 @@ sections:
   section_id: faqpanel
   title: Créer et gérer son panel
   faqitems:
+  - question: A quoi correspondent les tags et comment les utiliser ?
+    answer: "Les tags vous permettent de personnaliser entièrement votre panel : vous
+      pouvez en créer autant que vous voulez et les affecter ensuite aux participants.\n\nPour
+      créer un tag, vous pouvez : \n\n* soit ouvrir la fenêtre d'ajout d'un nouveau
+      participant (Ajouter > Nouveau Participant). Dans le champ \"Tags\", tapez vos
+      tags et appuyez sur \"Entrée\". Vos tags sont créés !\n* soit ouvrir la fenêtre
+      de paramétrage du lien d’inscription (Ajouter > Lien d'inscription public >
+      Paramètres du formulaire). Dans le champ \"Tags\", tapez vos tags et appuyez
+      sur \"Entrée\". Vos tags sont créés !\n\nPour filtrer votre panel sur un tag
+      en particulier, tapez le tag dans le champ de recherche : \n\n![](/images/champ-recherche.png)\n\nPour
+      modifier / supprimer l'un de vos tags, contactez notre support par tchat ou
+      à contact@tandemz.io."
   - question: Comment ajouter des personnes à mon panel
     answer: "Dans l'onglet \"Panel\" de votre espace, vous disposez de 3 manières
       d'ajouter des participants à votre panel : \n\n![](/images/ajout.png)\n\n* Ajouter
