@@ -90,6 +90,8 @@ sections:
       * __Format de rencontre*__ : choisissez la ou les modalités de l'étude ainsi que les éventuelles instructions. Si vous en sélectionnez plusieurs, le choix sera laissé au participant lors de son inscription.
 
       Prévisualisez votre annonce. Tout vous semble bon ? Alors publiez. Les invitations aux participants de votre panel sélectionnés seront envoyées à cet instant.
+
+      Vous avez besoin d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io.
   - question: Comment suivre l'avancement de ma session ?
     answer: |-
       En cliquant sur votre session, vous disposez de deux onglets :
