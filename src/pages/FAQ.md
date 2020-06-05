@@ -213,13 +213,18 @@ sections:
       votre annonce. Tout vous semble bon ? Alors publiez. Les invitations aux participants
       de votre panel sélectionnés seront envoyées à cet instant."
   - question: Comment suivre l'avancement de ma session ?
-    answer: "En cliquant sur votre session, vous disposez de deux onglets : \n\n*
-      **Overview** : consultez ici vos différents créneaux confirmés ou non, passés
-      ou futur. \n\n  Pour chaque participant, vous avez la possibilité d'annuler
-      sa participation en cliquant sur le menu de paramètres à droite de sa ligne.\n\n
-      \ Vous retrouvez en haut à droite de votre écran le lien d'inscription à la
-      session, le mode édition de la session (crayon) et la prévisualisation :\n\n![](/images/overview.png)\n\n*
-      **Suivi des participants** : gérer ici vos recrutements."
+    answer: |-
+      En cliquant sur votre session, vous disposez de deux onglets :
+
+      * **Overview** : consultez ici vos différents créneaux confirmés ou non, passés ou futur.
+
+        Pour chaque participant, vous avez la possibilité d'annuler sa participation en cliquant sur le menu de paramètres à droite de sa ligne.
+
+        Vous retrouvez en haut à droite de votre écran le lien d'inscription à la session, le mode édition de la session (crayon) et la prévisualisation :
+
+      ![](/images/overview.png)
+
+      * **Suivi des participants** : gérez ici vos recrutements.
   - question: Quels sont les différents statuts des sessions ?
     answer: "Une session dispose d'un statut, qui peut être : \n\n* **BROUILLON**
       : la session n'est pas encore publiée, donc pas encore visible aux participants.\n*
