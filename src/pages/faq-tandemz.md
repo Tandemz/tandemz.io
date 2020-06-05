@@ -93,23 +93,24 @@ sections:
 
       Vous avez besoin d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io.
   - question: Comment suivre l'avancement de ma session ?
-    answer: "En cliquant sur votre session, vous disposez de deux onglets :\n\n######
-      Overview\n\nConsultez ici vos différents créneaux confirmés ou non, passés ou
-      futur.\n\nPour chaque participant, vous avez la possibilité d'annuler sa participation
-      en cliquant sur le menu de paramètres à droite de sa ligne.\n\nVous retrouvez
-      en haut à droite de votre écran le lien d'inscription à la session, le mode
-      édition de la session (crayon) et la prévisualisation :\n\n![](/images/overview.png)\n\n######
-      Suivi des participants\n\nGérez ici vos recrutements dans ce tableau à colonnes
-      :\n\n* **Contactés** : personnes que vous avez invitées à votre session mais
-      n’ayant pas encore répondu. \n* **A traiter** : personnes ayant répondu au questionnaire
-      de sélection de votre annonce. Cliquez sur la carte pour voir le détail de leurs
-      réponses. Vous devez choisir de leur proposer un créneau ou bien d'écarter leur
-      profil en cliquant sur les boutons correspondants. Vous pouvez également faire
-      glisser les cartes dans la colonne correspondante à votre choix.\n* **Rdv proposés**
-      : personnes à qui vous avez proposé un créneau (uniquement dans le cas d'annonces
-      avec un questionnaire de sélection).\n* **Rdv planifiés** : dès qu'une personne
-      s'inscrit à un créneau, elle apparaît dans cette colonne. Si votre annonce ne
-      possède pas de questionnaire de sélection, les participants passeront donc automatiquement
+    answer: "En cliquant sur votre session, vous disposez de deux onglets : Overview
+      et Suivi des participants.\n\n###### Overview\n\nConsultez ici vos différents
+      créneaux confirmés ou non, passés ou futur.\n\nPour chaque participant, vous
+      avez la possibilité d'annuler sa participation en cliquant sur le menu de paramètres
+      à droite de sa ligne.\n\nVous retrouvez en haut à droite de votre écran le lien
+      d'inscription à la session, le mode édition de la session (crayon) et la prévisualisation
+      :\n\n![](/images/overview.png)\n\n###### Suivi des participants\n\nGérez ici
+      vos recrutements dans ce tableau à colonnes :\n\n* **Contactés** : personnes
+      que vous avez invitées à votre session mais n’ayant pas encore répondu. \n*
+      **A traiter** : personnes ayant répondu au questionnaire de sélection de votre
+      annonce. Cliquez sur la carte pour voir le détail de leurs réponses. Vous devez
+      choisir de leur proposer un créneau ou bien d'écarter leur profil en cliquant
+      sur les boutons correspondants. Vous pouvez également faire glisser les cartes
+      dans la colonne correspondante à votre choix.\n* **Rdv proposés** : personnes
+      à qui vous avez proposé un créneau (uniquement dans le cas d'annonces avec un
+      questionnaire de sélection).\n* **Rdv planifiés** : dès qu'une personne s'inscrit
+      à un créneau, elle apparaît dans cette colonne. Si votre annonce ne possède
+      pas de questionnaire de sélection, les participants passeront donc automatiquement
       de la colonne Contactés à la colonne Rdv planifiés.\n* **Rdv passés** : les
       personnes que vous avez déjà rencontrées apparaissent automatiquement dans cette
       colonne. Cliquez sur la carte : vous pouvez indiquer la personne comme rémunérée
