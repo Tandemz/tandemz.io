@@ -119,7 +119,7 @@ menus:
     title: FAQ
     weight: 4
 template: pricing
-description: toutes les questions sur l'utilisation de Tandemz
+description: Toutes les questions sur l'utilisation de Tandemz
 keywords: ''
 ogtitle: ''
 ogdescription: ''
