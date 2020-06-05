@@ -174,6 +174,26 @@ sections:
       ou à contact@tandemz.io."
   title_level_one: false
   subtitle: ''
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  section_id: faqsession
+  title: Créer et gérer une session
+  faqitems:
+  - question: Quels sont les différents statuts des sessions ?
+    answer: "Une session dispose d'un statut, qui peut être : \n\n* **BROUILLON**
+      : la session n'est pas encore publiée, donc pas encore visible aux participants.\n*
+      **EN COURS** : la session a été publiée et est en cours. Le nombre de participants
+      demandé n'est pas encore atteint et il reste des créneaux disponibles dans le
+      futur.\n* **TERMINÉE** : le nombre de participants demandé est atteint ou il
+      n'y a plus de créneaux disponibles dans le futur."
+  - question: Comment suivre l'avancement de ma session ?
+    answer: ''
+  - question: Comment créer une session ?
+    answer: ''
+  title_level_one: false
+  subtitle: ''
 menus:
   main:
     title: FAQ
