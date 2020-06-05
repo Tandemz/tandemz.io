@@ -147,13 +147,14 @@ sections:
       d'inscription public à vos participants** : vous n'avez qu'à copier le lien
       fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter,
       ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs
-      données.\n\n  En cliquant sur \"Paramètres du formulaire\", personnalisez la
-      page d'inscription en lui donnant un titre, un logo, puis en choisissant les
-      données que les participants devront renseigner. Choisissez les tags qui seront
-      visibles aux participants dans la liste déroulante (ils pourront alors se les
-      affecter).\n\n* **Télécharger un CSV avec les données de vos participants**
-      : cette fonctionnalité n'est pas encore disponible aux clients mais notre équipe
-      peut vous aider sur ce sujet ! Contactez-nous par tchat ou à contact@tandemz.io"
+      données.\n\n  Pour paramétrer la page d'inscription : \n\n  1- Cliquez sur \"Paramètres
+      du formulaire\"\n\n  2- Choisissez un titre, un logo, et les données que les
+      participants devront renseigner. Choisissez les tags qui seront visibles aux
+      participants dans la liste déroulante (ils pourront alors se les affecter).\n\n
+      \ 3- Cliquez sur \"Enregistrer\".\n\n* **Télécharger un CSV avec les données
+      de vos participants** : cette fonctionnalité n'est pas encore disponible aux
+      clients mais notre équipe peut vous aider sur ce sujet ! Contactez-nous par
+      tchat ou à contact@tandemz.io"
   - question: Comment inviter mes participants à une session ?
     answer: "Votre session n'est pas encore créée ? Regardez [\"Comment créer ma session
       ?\"](#faqsession).\n\nVotre session est déjà créée ?\n\nDans votre onglet \"Panel\",
