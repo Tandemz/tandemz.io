@@ -25,4 +25,4 @@ fields:
   label: SEO
 pages:
 - src/pages/FAQ.md
-- src/pages/faq-tandemz.md
+- src/pages/aide-en-ligne.md
