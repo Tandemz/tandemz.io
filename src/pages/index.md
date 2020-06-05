@@ -133,7 +133,7 @@ ogdescription: Lancez vos interviews UX et vos tests utilisateurs sans prise de 
   Automatisez toute l'organisation de vos tests et la gestion de votre panel.
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
-ogimagealt: Logo Tandme
+ogimagealt: Logo Tandemz
 og_image_width: 200
 og_image_height: 200
 twitter_card: summary
