@@ -181,6 +181,16 @@ sections:
   section_id: faqsession
   title: Créer et gérer une session
   faqitems:
+  - question: Comment créer une session ?
+    answer: ''
+  - question: Comment suivre l'avancement de ma session ?
+    answer: "En cliquant sur votre session, vous disposez de deux onglets : \n\n*
+      **Overview** : consultez ici vos différents créneaux confirmés ou non, passés
+      ou futur. \n\n  Pour chaque participant, vous avez la possibilité d'annuler
+      sa participation en cliquant sur le menu de paramètres à droite de sa ligne.\n\n
+      \ Vous retrouvez en haut à droite de votre écran le lien d'inscription à la
+      session, le mode édition de la session (crayon) et la prévisualisation :\n\n![](/images/overview.png)\n\n*
+      **Suivi des participants** : gérer ici vos recrutements."
   - question: Quels sont les différents statuts des sessions ?
     answer: "Une session dispose d'un statut, qui peut être : \n\n* **BROUILLON**
       : la session n'est pas encore publiée, donc pas encore visible aux participants.\n*
@@ -188,10 +198,6 @@ sections:
       demandé n'est pas encore atteint et il reste des créneaux disponibles dans le
       futur.\n* **TERMINÉE** : le nombre de participants demandé est atteint ou il
       n'y a plus de créneaux disponibles dans le futur."
-  - question: Comment suivre l'avancement de ma session ?
-    answer: ''
-  - question: Comment créer une session ?
-    answer: ''
   title_level_one: false
   subtitle: ''
 menus:
