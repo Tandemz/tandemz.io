@@ -155,7 +155,7 @@ sections:
       * **Télécharger un CSV avec les données de vos participants** : cette fonctionnalité n'est pas encore disponible aux clients mais notre équipe peut vous aider sur ce sujet ! Contactez-nous par tchat ou à contact@tandemz.io
   - question: Comment inviter mes participants à une session ?
     answer: |-
-      Votre session n'est pas encore créée ? Regardez cet article.
+      Votre session n'est pas encore créée ? Regardez ["Comment créer ma session ?"](#faqsession).
 
       Votre session est déjà créée ?
 
