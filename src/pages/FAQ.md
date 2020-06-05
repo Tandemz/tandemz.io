@@ -155,18 +155,20 @@ sections:
       encore disponible aux clients mais notre équipe peut vous aider sur ce sujet
       ! Contactez-nous par tchat ou à contact@tandemz.io"
   - question: Comment inviter mes participants à une session ?
-    answer: |-
-      Votre session n'est pas encore créée ? Regardez ["Comment créer ma session ?"](#faqsession).
-
-      Votre session est déjà créée ?
-
-      Dans votre onglet "Panel", **sélectionnez les participants** que vous souhaitez inviter à votre session. Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur un tag, sur un pays, etc...) :
-
-      ![](/images/champ-recherche.png)
-
-      Une fois vos participants sélectionnés, choisissez "**Inviter à une session**" (en bas à droite), cliquez sur l**a session à laquelle vous souhaitez les inviter** puis sur "Inviter". Une modale apparaît vous permettant de rédiger un **texte personnalisé** qui sera inséré dans le mail d'invitation à vos participants. Validez? Vos participants ont été invités. Vous les retrouverez dans la colonne "Contactés" de votre tableau de suivi des participants de la session.
-
-      Votre session n'apparaît pas dans la liste des sessions ? C'est probablement qu'elle n'est pas encore publiée. Seules les sessions actives s'affichent. En cas de problèmes, contactez-nous par tchat ou par mail à contact@tandemz.io.
+    answer: "Votre session n'est pas encore créée ? Regardez [\"Comment créer ma session
+      ?\"](#faqsession).\n\nVotre session est déjà créée ?\n\nDans votre onglet \"Panel\",
+      **sélectionnez les participants** que vous souhaitez inviter à votre session.
+      Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur
+      un tag, sur un pays, etc...) :\n\n![](/images/champ-recherche.png)\n\nUne fois
+      vos participants sélectionnés :\n\n1- Choisissez \"**Inviter à une session**\"
+      (en bas à droite).\n\n2- Sélectionnez l**a session à laquelle vous souhaitez
+      les inviter** puis sur \"Inviter\". Votre session n'apparaît pas dans la liste
+      des sessions ? C'est probablement qu'elle n'est pas encore publiée. Seules les
+      sessions actives s'affichent.\n\n3- Une modale apparaît vous permettant de rédiger
+      un **texte personnalisé** qui sera inséré dans le mail d'invitation à vos participants.
+      \n\n4- Validez. \n\nVos participants ont été invités. Vous les retrouverez dans
+      la colonne \"Contactés\" de votre tableau de suivi des participants de la session.\n\nEn
+      cas de problèmes, contactez-nous par tchat ou par mail à contact@tandemz.io."
   - question: A quoi correspondent les tags et comment les utiliser ?
     answer: "Les tags vous permettent de **personnaliser entièrement votre panel**
       : vous pouvez en créer autant que vous voulez et les affecter ensuite aux participants.\n\nPour
