@@ -138,17 +138,22 @@ sections:
   section_id: faqpanel
   title: Créer et gérer son panel
   faqitems:
-  - question: Comment ajouter des personnes à mon panel
-    answer: |-
-      Dans l'onglet "Panel" de votre espace, ajoutez des participants à votre panel selon la méthode qui vous convient le mieux :
-
-      ![](/images/ajout.png)
-
-      * **Ajouter les participants manuellement** : en cliquant sur "Nouveau participant", vous pouvez ensuite remplir les champs que vous voulez et cliquez sur "Enregistrer". Seuls le prénom et l'email sont obligatoires.
-
-      * **Transmettre un lien d'inscription public à vos participants** : vous n'avez qu'à copier le lien fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter, ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs données. En cliquant sur "Paramètres du formulaire", personnalisez la page d'inscription en lui donnant un titre, un logo, puis en choisissant les données que les participants devront renseigner. Choisissez les tags qui seront visibles aux participants dans la liste déroulante (ils pourront alors se les affecter).
-
-      * **Télécharger un CSV avec les données de vos participants** : cette fonctionnalité n'est pas encore disponible aux clients mais notre équipe peut vous aider sur ce sujet ! Contactez-nous par tchat ou à contact@tandemz.io
+  - question: Comment ajouter des personnes à mon panel ?
+    answer: "Dans l'onglet \"Panel\" de votre espace, ajoutez des participants à votre
+      panel selon la méthode qui vous convient le mieux :\n\n![](/images/ajout.png)\n\n*
+      **Ajouter les participants manuellement** : en cliquant sur \"Nouveau participant\",
+      vous pouvez ensuite remplir les champs que vous voulez et cliquez sur \"Enregistrer\".
+      Seuls le prénom et l'email sont obligatoires.\n\n* **Transmettre un lien d'inscription
+      public à vos participants** : vous n'avez qu'à copier le lien fourni et le transmettre
+      à votre communauté (sur vos réseaux sociaux, par Newsletter, ou autre...). Les
+      participants s'inscrivent d'eux-mêmes et renseignent leurs données. \n\n  En
+      cliquant sur \"Paramètres du formulaire\", personnalisez la page d'inscription
+      en lui donnant un titre, un logo, puis en choisissant les données que les participants
+      devront renseigner. Choisissez les tags qui seront visibles aux participants
+      dans la liste déroulante (ils pourront alors se les affecter).\n\n* **Télécharger
+      un CSV avec les données de vos participants** : cette fonctionnalité n'est pas
+      encore disponible aux clients mais notre équipe peut vous aider sur ce sujet
+      ! Contactez-nous par tchat ou à contact@tandemz.io"
   - question: Comment inviter mes participants à une session ?
     answer: |-
       Votre session n'est pas encore créée ? Regardez ["Comment créer ma session ?"](#faqsession).
