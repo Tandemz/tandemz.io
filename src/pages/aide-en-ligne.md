@@ -9,37 +9,51 @@ sections:
   title: Créer et gérer son panel
   faqitems:
   - question: Comment ajouter des personnes à mon panel ?
-    answer: "Dans l'onglet \"Panel\" de votre espace, ajoutez des participants à votre
-      panel selon la méthode qui vous convient le mieux :\n\n![](/images/ajout.png)\n\n*
-      **Ajouter les participants manuellement** : \n\n  1- Cliquez sur \"Nouveau participant\"\n\n
-      \ 2- Remplissez les champs que vous voulez. Seuls le prénom et l'email sont
-      obligatoires.\n\n  3- Cliquez sur \"Enregistrer\".\n\n* **Transmettre un lien
-      d'inscription public à vos participants** : vous n'avez qu'à copier le lien
-      fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter,
-      ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs
-      données.\n\n  Pour paramétrer la page d'inscription : \n\n  1- Cliquez sur \"Paramètres
-      du formulaire\"\n\n  2- Choisissez un titre, un logo, et les données que les
-      participants devront renseigner. Choisissez les tags qui seront visibles aux
-      participants dans la liste déroulante (ils pourront alors se les affecter).\n\n
-      \ 3- Cliquez sur \"Enregistrer\".\n\n* **Télécharger un CSV avec les données
-      de vos participants** : cette fonctionnalité n'est pas encore disponible aux
-      clients mais notre équipe peut vous aider sur ce sujet ! Contactez-nous par
-      tchat ou à contact@tandemz.io"
+    answer: |-
+      Dans l'onglet "Panel" de votre espace, ajoutez des participants à votre panel selon la méthode qui vous convient le mieux :
+
+      ![](/images/ajout.png)
+
+      * **Ajouter les participants manuellement** :
+
+        1- Cliquez sur "Nouveau participant"
+
+        2- Remplissez les champs que vous voulez. Seuls le prénom et l'email sont obligatoires.
+
+        3- Cliquez sur "Enregistrer".
+      * **Transmettre un lien d'inscription public à vos participants** : vous n'avez qu'à copier le lien fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter, ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs données.
+
+        Pour paramétrer la page d'inscription :
+
+        1- Cliquez sur "Paramètres du formulaire"
+
+        2- Choisissez un titre, un logo, et les données que les participants devront renseigner. Choisissez les tags qui seront visibles aux participants dans la liste déroulante (ils pourront alors se les affecter).
+
+        3- Cliquez sur "Enregistrer".
+      * **Télécharger un CSV avec les données de vos participants** : cette fonctionnalité n'est pas encore disponible aux clients mais notre équipe peut vous aider sur ce sujet ! Contactez-nous par tchat ou à contact@tandemz.io
   - question: Comment inviter mes participants à une session ?
-    answer: "Votre session n'est pas encore créée ? Regardez [\"Comment créer ma session
-      ?\"](#faqsession).\n\nVotre session est déjà créée ?\n\nDans votre onglet \"Panel\",
-      **sélectionnez les participants** que vous souhaitez inviter à votre session.
-      Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur
-      un tag, sur un pays, etc...) :\n\n![](/images/champ-recherche.png)\n\nUne fois
-      vos participants sélectionnés :\n\n1- Choisissez \"**Inviter à une session**\"
-      (en bas à droite).\n\n2- Sélectionnez l**a session à laquelle vous souhaitez
-      les inviter** puis sur \"Inviter\". Votre session n'apparaît pas dans la liste
-      des sessions ? C'est probablement qu'elle n'est pas encore publiée. Seules les
-      sessions actives s'affichent.\n\n3- Une modale apparaît vous permettant de rédiger
-      un **texte personnalisé** qui sera inséré dans le mail d'invitation à vos participants.
-      \n\n4- Validez. \n\nVos participants ont été invités. Vous les retrouverez dans
-      la colonne \"Contactés\" de votre tableau de suivi des participants de la session.\n\nEn
-      cas de problèmes, contactez-nous par tchat ou par mail à contact@tandemz.io."
+    answer: |-
+      Votre session n'est pas encore créée ? Regardez ["Comment créer ma session ?"](#faqsession).
+
+      Votre session est déjà créée ?
+
+      Dans votre onglet "Panel", **sélectionnez les participants** que vous souhaitez inviter à votre session. Vous pouvez utiliser le champ de recherche pour filtrer vos participants (sur un tag, sur un pays, etc...) :
+
+      ![](/images/champ-recherche.png)
+
+      Une fois vos participants sélectionnés :
+
+      1- Choisissez "**Inviter à une session**" (en bas à droite).
+
+      2- Sélectionnez l**a session à laquelle vous souhaitez les inviter** puis sur "Inviter". Votre session n'apparaît pas dans la liste des sessions ? C'est probablement qu'elle n'est pas encore publiée. Seules les sessions actives s'affichent.
+
+      3- Une modale apparaît vous permettant de rédiger un **texte personnalisé** qui sera inséré dans le mail d'invitation à vos participants.
+
+      4- Validez.
+
+      Vos participants ont été invités. Vous les retrouverez dans la colonne "Contactés" de votre tableau de suivi des participants de la session.
+
+      En cas de problèmes, contactez-nous par tchat ou par mail à contact@tandemz.io.
   - question: A quoi correspondent les tags et comment les utiliser ?
     answer: "Les tags vous permettent de **personnaliser entièrement votre panel**
       : vous pouvez en créer autant que vous voulez et les affecter ensuite aux participants.\n\nPour
@@ -124,7 +138,7 @@ sections:
       * **EN COURS** : la session a été publiée et est en cours. Le nombre de participants demandé n'est pas encore atteint et il reste des créneaux disponibles dans le futur.
       * **TERMINÉE** : le nombre de participants demandé est atteint ou il n'y a plus de créneaux disponibles dans le futur.
 
-      Ces status sont mis à jour automatiquement, vous n'avez rien besoin de faire.
+      Ces statuts sont mis à jour automatiquement, vous n'avez rien besoin de faire.
   title_level_one: false
   subtitle: ''
 menus:
