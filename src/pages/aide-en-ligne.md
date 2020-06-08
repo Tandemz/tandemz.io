@@ -145,6 +145,27 @@ sections:
       Ces statuts sont mis à jour automatiquement, vous n'avez rien besoin de faire.
   title_level_one: false
   subtitle: ''
+- template: faqblock
+  component: FaqBlock
+  bg: gray
+  type: faqblock
+  section_id: faqparticipant
+  title: Pour mes participants
+  faqitems:
+  - question: Mes participants peuvent-ils voir/modifier leurs données ?
+    answer: "Non car vos participants n'ont pas de compte sur la plateforme Tandemz.
+      Ils peuvent seulement : \n\n* soumettre le formulaire d'inscription pour rejoindre
+      votre panel privé\n* s'inscrire à une session lorsque vous les invitez\n* re-programmer
+      et/ou annuler leur rendez-vous (une fois inscrits à l'une de vos sessions)\n\nSi
+      un participant ne souhaite plus faire partie d'un panel, il contacte directement
+      le support Tandemz qui s'occupe d'effacer ses données (après avoir prévenu le
+      propriétaire de son panel bien sûr)."
+  - question: Comment mes participants s'inscrivent-ils à une session ?
+    answer: blabla
+  - answer: blabla
+    question: Quelles notifications reçoivent mes participants ?
+  title_level_one: false
+  subtitle: ''
 menus:
   main:
     title: FAQ
