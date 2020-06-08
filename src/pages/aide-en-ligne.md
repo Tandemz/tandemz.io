@@ -165,7 +165,7 @@ sections:
       * Information de l'annulation d'un créneau, lorsque l'organisateur de la session annule son créneau.
       * Rappel automatique la veille de son rendez-vous.
 
-      De plus, si votre session a une étape de validation intermédiaire (par un questionnaire de sélection par exemple), le participant reçoit les notifications mails suivantes :
+      De plus, si votre session a une **étape de validation intermédiaire** (par un questionnaire de sélection par exemple), le participant reçoit les notifications mails suivantes :
 
       * Confirmation de soumission du questionnaire, une fois qu'il a complété sa candidature.
       * Indication que sa participation est validée et proposition de créneaux lorsque l'organisateur choisit "Proposer un créneau".
