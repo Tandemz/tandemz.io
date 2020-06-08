@@ -192,7 +192,7 @@ sections:
 
       * Confirmation de soumission du questionnaire, une fois qu'il a complété sa candidature.
       * Indication que sa participation est validée et proposition de créneaux lorsque l'organisateur choisit "Proposer un créneau".
-    question: Quelles notifications reçoivent mes participants ?
+    question: Quelles notifications mes participants reçoivent-ils ?
   - question: Mes participants peuvent-ils voir ou modifier leurs données ?
     answer: |-
       Non car vos participants n'ont pas de compte sur la plateforme Tandemz. Ils peuvent seulement :
