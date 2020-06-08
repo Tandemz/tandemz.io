@@ -131,9 +131,27 @@ sections:
       si vous lui avez versé son dédommagement, ou bien indiquer qu'elle n'est pas
       venue."
   - question: Comment arrêter le recrutement d'une session ?
-    answer: blabla
+    answer: "Finalement, le nombre de participants que vous avez déjà rencontrés vous
+      convient ?\n\nIl vous suffit de modifier le nombre de participants recherchés
+      dans l'édition de votre session : \n\n1- Rentrez dans votre session\n\n2- Rendez-vous
+      dans le menu d'édition de la session (crayon dans le menu supérieur) :\n\n![](/images/overview.png)\n\n3-
+      Dans \"Cible de participants\", modifiez le nombre de participants recherchés\n\n4-
+      Sauvegardez."
   - question: Comment annuler une session programmée ?
-    answer: blabla
+    answer: "Il n'est pas possible d'annuler une session dans Tandemz. Cependant,
+      une session active peut être rendue \"Terminée\" si vous ne souhaitez pas la
+      poursuivre. \n\nSi votre session a déjà des rendez-vous de programmés, vous
+      devez tout d'abord annuler chaque rendez-vous. Pour cela : \n\n1- Rendez-vous
+      dans l'onglet Overview de votre session.\n\n2- Cliquez sur le menu à droite
+      de chaque participant puis sur Annuler.\n\n![](/images/annuler.png)\n\n3- Renseignez
+      un motif à indiquer au participant dans le mail qu'il va recevoir, puis annulez
+      le créneau.\n\nUne fois tous les créneaux futurs annulés, modifiez votre session
+      en vous rendant dans l'édition de la session (crayon du menu supérieur) : \n\n![](/images/overview.png)\n\nUne
+      fois dans l'édition, modifiez au choix : \n\n* Dans \"Cible de participants\",
+      le nombre de participants recherchés à 0.\n* Dans \"Formats et disponibilités\",
+      supprimez tous les créneaux futurs.\n\nSauvegardez. Votre session aura désormais
+      le statut \"Terminée\" et ne seras plus accessible à l'inscription pour les
+      participants."
   - question: Quels sont les différents statuts des sessions ?
     answer: |-
       Une session dispose d'un statut, qui peut être :
@@ -175,7 +193,7 @@ sections:
       * Confirmation de soumission du questionnaire, une fois qu'il a complété sa candidature.
       * Indication que sa participation est validée et proposition de créneaux lorsque l'organisateur choisit "Proposer un créneau".
     question: Quelles notifications reçoivent mes participants ?
-  - question: Mes participants peuvent-ils voir/modifier leurs données ?
+  - question: Mes participants peuvent-ils voir ou modifier leurs données ?
     answer: |-
       Non car vos participants n'ont pas de compte sur la plateforme Tandemz. Ils peuvent seulement :
 
