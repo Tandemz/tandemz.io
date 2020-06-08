@@ -171,13 +171,14 @@ sections:
       * Indication que sa participation est validée et proposition de créneaux lorsque l'organisateur choisit "Proposer un créneau".
     question: Quelles notifications reçoivent mes participants ?
   - question: Mes participants peuvent-ils voir/modifier leurs données ?
-    answer: "Non car vos participants n'ont pas de compte sur la plateforme Tandemz.
-      Ils peuvent seulement : \n\n* soumettre le formulaire d'inscription pour rejoindre
-      votre panel privé\n* s'inscrire à une session lorsque vous les invitez\n* re-programmer
-      et/ou annuler leur rendez-vous (une fois inscrits à l'une de vos sessions)\n\nSi
-      un participant ne souhaite plus faire partie d'un panel, il contacte directement
-      le support Tandemz qui s'occupe d'effacer ses données (après avoir prévenu le
-      propriétaire de son panel bien sûr)."
+    answer: |-
+      Non car vos participants n'ont pas de compte sur la plateforme Tandemz. Ils peuvent seulement :
+
+      * **soumettre le formulaire d'inscription** pour rejoindre votre panel privé
+      * **s'inscrire à une session** lorsque vous les invitez
+      * **re-programmer et/ou annuler leur rendez-vous** (une fois inscrits à l'une de vos sessions)
+
+      Si un participant ne souhaite plus faire partie d'un panel, il contacte directement le support Tandemz qui s'occupe d'effacer ses données (après avoir prévenu le propriétaire de son panel bien sûr).
   title_level_one: false
   subtitle: ''
 menus:
