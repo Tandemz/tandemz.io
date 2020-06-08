@@ -152,6 +152,24 @@ sections:
   section_id: faqparticipant
   title: Pour mes participants
   faqitems:
+  - question: Comment mes participants s'inscrivent-ils à une session ?
+    answer: blabla
+  - answer: |-
+      Vos participants reçoivent des notifications **par mail uniquement**, aux événements suivants :
+
+      * Confirmation d'inscription à un panel privé, lorsqu'il complète le formulaire d'inscription public.
+      * Invitation à une session
+      * Confirmation de la prise de rendez-vous, lorsqu'il a choisi un créneau.
+      * Confirmation de la re-programmation d'un rendez-vous, lorsqu'il a changé son créneau.
+      * Confirmation de l'annulation d'un créneau, lorsqu'il annule de lui-même.
+      * Information de l'annulation d'un créneau, lorsque l'organisateur de la session annule son créneau.
+      * Rappel automatique la veille de son rendez-vous.
+
+      De plus, si votre session a une étape de validation intermédiaire (par un questionnaire de sélection par exemple), le participant reçoit les notifications mails suivantes :
+
+      * Confirmation de soumission du questionnaire, une fois qu'il a complété sa candidature.
+      * Indication que sa participation est validée et proposition de créneaux lorsque l'organisateur choisit "Proposer un créneau".
+    question: Quelles notifications reçoivent mes participants ?
   - question: Mes participants peuvent-ils voir/modifier leurs données ?
     answer: "Non car vos participants n'ont pas de compte sur la plateforme Tandemz.
       Ils peuvent seulement : \n\n* soumettre le formulaire d'inscription pour rejoindre
@@ -160,10 +178,6 @@ sections:
       un participant ne souhaite plus faire partie d'un panel, il contacte directement
       le support Tandemz qui s'occupe d'effacer ses données (après avoir prévenu le
       propriétaire de son panel bien sûr)."
-  - question: Comment mes participants s'inscrivent-ils à une session ?
-    answer: blabla
-  - answer: blabla
-    question: Quelles notifications reçoivent mes participants ?
   title_level_one: false
   subtitle: ''
 menus:
