@@ -13,7 +13,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
-    url: https://tandemz.typeform.com/to/WDAoqF
+    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
     title: Formulaire d'inscription au panel Tandemz
   image_alt: Personnes discutant autour d'une application
 - type: featuresblock
@@ -64,7 +64,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Je participe
-    url: https://tandemz.typeform.com/to/WDAoqF
+    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
     title: Questionnaire d'inscription au panel Tandemz
   subtitle: ''
 - template: faqblock
