@@ -153,7 +153,12 @@ sections:
   title: Pour mes participants
   faqitems:
   - question: Comment mes participants s'inscrivent-ils à une session ?
-    answer: blabla
+    answer: |-
+      Lorsque vous les invitez à une session ou que vous leur proposez un créneau, vos participants reçoivent une **notification mail**, contenant un lien vers votre annonce.
+
+      Sur cette annonce, ils peuvent **s'inscrire en autonomie** en choisissant un des formats que vous avez sélectionné et un des créneaux que vous avez listé. L'organisateur de la session est **notifié par mail** dès que le participant valide son rendez-vous.
+
+      Suite à son inscription, il reçoit un mail de confirmation depuis lequel il peut, si besoin, **changer ou annuler son créneau**. L'organisateur de la session est alors notifié par mail.
   - answer: |-
       Vos participants reçoivent des notifications **par mail uniquement**, aux événements suivants :
 
