@@ -130,6 +130,10 @@ sections:
       colonne. Cliquez sur la carte : vous pouvez indiquer la personne comme rémunérée
       si vous lui avez versé son dédommagement, ou bien indiquer qu'elle n'est pas
       venue."
+  - question: Comment arrêter le recrutement d'une session ?
+    answer: blabla
+  - question: Comment annuler une session programmée ?
+    answer: blabla
   - question: Quels sont les différents statuts des sessions ?
     answer: |-
       Une session dispose d'un statut, qui peut être :
