@@ -79,6 +79,11 @@ sections:
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:
+  - author: Ferpection
+    content: La plateforme est simple et se prend en main très rapidement. Le service
+      est fiable est fiable et Tandemz nous permet d'atteindre rapidement nos cibles
+      à l'international.
+    avatar: ''
   - author: La faireparterie
     content: Grâce à Tandemz, nous avons pu cibler et discuter avec des groupes de
       personne difficilement accessibles jusqu'ici. C'est tellement précieux pour
