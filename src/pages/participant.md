@@ -57,16 +57,6 @@ sections:
     coming_soon: false
     image_alt: Femme recevant de l'argent
     is_beta: false
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: Participez à vos premières rencontres !
-  component: CtaBlock
-  actions:
-  - label: Je participe
-    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
-    title: Questionnaire d'inscription au panel Tandemz
-  subtitle: ''
 - template: faqblock
   component: FaqBlock
   bg: gray
@@ -125,6 +115,16 @@ sections:
       études ? Ecrivez-nous par mail à contact@tandemz.io en nous indiquant "Désinscription
       du panel" en sujet : nous effacerons vos données dans les plus brefs délais.'
   title_level_one: false
+- type: ctablock
+  template: ctablock
+  section_id: call-to-action
+  title: Participez à vos premières rencontres !
+  component: CtaBlock
+  actions:
+  - label: Je participe
+    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
+    title: Questionnaire d'inscription au panel Tandemz
+  subtitle: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
   leurs futurs produits. Testez leurs nouveautés, discutez et partagez avec elles.
