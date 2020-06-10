@@ -25,7 +25,7 @@ sections:
       url: https://app.tandemz.io
       title: Créez un compte sur Tandemz
   - title: Premium
-    price: Comming Soon
+    price: Coming Soon
     details: |-
       * Toutes les fonctionnalités de la Beta
       * Importez votre base client dans votre panel
