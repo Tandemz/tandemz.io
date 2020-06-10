@@ -44,6 +44,8 @@ sections:
   content: Juste un test de contenu qu'on peut ajouter à la fin
   image: ''
   actions: []
+- template: newsletter
+  component: NewsLetterBlock
 ogtitle: ''
 ogdescription: ''
 ogtype: ''
