@@ -5,6 +5,10 @@ admin_path: static/admin
 webhook_url: https://api.stackbit.com/project/5d833248eee8550011997b7e/webhook/forestry
 sections:
 - type: document
+  path: src/pages/pricing.md
+  label: Pricing
+  match: "**/*"
+- type: document
   path: site-metadata.json
   label: Global Site Config
   templates:
