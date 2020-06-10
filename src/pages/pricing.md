@@ -14,7 +14,7 @@ sections:
   subtitle: Organisez gratuitemet vos entretiens et tests UX en un clin d'oeil.
   pricingplans:
   - title: Beta
-    price: "0"
+    price: Gratuit
     details: |-
       * Gestion de votre panel privé jusqu'à 1000 participants
       * Nombre illimité de sessions
