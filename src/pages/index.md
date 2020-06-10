@@ -9,9 +9,9 @@ sections:
     enfin sur votre recherche utilisateur.
   image: ''
   actions:
-  - label: Commencer à recruter
-    url: "/recruitform/"
-    title: Formulaire de recrutement de participants
+  - label: Rejoindre la beta
+    url: https://app.tandemz.io
+    title: Créer un compte sur Tandemz
   imageAlt: ''
   image_alt: ''
 - template: valueblock
