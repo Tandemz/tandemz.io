@@ -120,9 +120,9 @@ sections:
   title: Faites de la recherche utilisateur un réflexe
   component: CtaBlock
   actions:
-  - label: Commencer à recruter
-    url: "/recruitform/"
-    title: Formulaire de Recrutement sur les réseaux sociaux
+  - label: Rejoindre la beta
+    url: https://app.tandemz.io/
+    title: Créez un compte sur Tandemz
   subtitle: ''
 menus:
   main:
