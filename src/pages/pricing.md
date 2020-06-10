@@ -39,9 +39,9 @@ sections:
   component: ContentBlock
   bg: gray
   type: contentblock
-  section_id: ''
-  title: ''
-  content: ''
+  section_id: content
+  title: Test
+  content: Juste un test de contenu qu'on peut ajouter à la fin
   image: ''
   actions: []
 ogtitle: ''
