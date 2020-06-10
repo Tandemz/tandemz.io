@@ -32,28 +32,36 @@ sections:
   bg: white
   featureslist:
   - title: Indiquez vos modalités, Tandemz s'occupe du reste
-    content: |-
-      Quelle que soit l'étude UX - test utilisateur, focus group ou interview - finis les explications et les allers-retours pour décider d'un rendez-vous. Laissez vos participants choisir parmi vos disponibilités.
-
-      * Annonce regroupant toutes les modalités pour le testeur
-      * Intégration à votre calendrier
-      * Réservation de salle automatique
+    content: Quelle que soit l'étude UX - test utilisateur, focus group ou interview
+      - finis les explications et les allers-retours pour décider d'un rendez-vous.
+      Laissez vos participants choisir parmi vos disponibilités.
     image: "/images/Illustration - Calendar.svg"
     actions: []
     coming_soon: false
     image_alt: Capture d'écran de la gestion des créneaux et des formats de rencontre
       Tandemz
+    is_beta: true
+  - title: Complétez votre recrutement avec des participants externes à votre panel
+    content: Vous voulez en plus interroger des personnes avec un regard neuf sur
+      votre produit ? Tandemz complète votre recrutement en ciblant vos utilisateurs
+      potentiels là où ils se trouvent.
+    image: "/images/Illustration - Recruit.svg"
+    actions: []
+    coming_soon: false
+    image_alt: Capture d'écran de la définission de la cible avec des icons de réseaux
+      sociaux
+    is_beta: true
   - title: Toutes les informations de vos participants au même endroit
     content: |-
       Établissez les critères qui vous sont utiles et regroupez toutes les informations de vos utilisateurs sur Tandemz, quelle que soit leur source. Partagez votre panel avec toute votre équipe UX.
 
-      * Connexion à vos outils CRM
       * Import de vos fichiers clients
       * Création et gestion de votre panel directement sur Tandemz
     image: "/images/Illustration - Connect.svg"
     actions: []
-    coming_soon: true
+    coming_soon: false
     image_alt: Profils de participants venant de plusieurs sources
+    is_beta: true
   - title: Simplifiez vos échanges avec les participants
     content: |-
       Intervenez uniquement quand c'est nécessaire, laissez le reste à Tandemz !
@@ -65,17 +73,7 @@ sections:
     actions: []
     coming_soon: true
     image_alt: Captures d'écran de rappels et de messageries
-  - title: Complétez votre recrutement avec des participants externes à votre panel
-    content: |-
-      Vous voulez en plus interroger des personnes avec un regard neuf sur votre produit ? Tandemz complète votre recrutement en ciblant vos utilisateurs potentiels là où ils se trouvent :
-
-      * Publicité dans vos réseaux sociaux favoris
-      * Multidiffusion dans les groupes et sur les plateformes de votre choix
-    image: "/images/Illustration - Recruit.svg"
-    actions: []
-    coming_soon: true
-    image_alt: Capture d'écran de la définission de la cible avec des icons de réseaux
-      sociaux
+    is_beta: false
 - template: pricingblock
   component: PricingBlock
   bg: gray
