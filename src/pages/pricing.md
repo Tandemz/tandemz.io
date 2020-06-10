@@ -46,6 +46,16 @@ sections:
   actions: []
 - template: newsletter
   component: NewsLetterBlock
+- template: ctablock
+  component: CtaBlock
+  type: ctablock
+  section_id: cta
+  title: Faites de la recherche utilisateur un réflexe
+  actions:
+  - label: Rejoindre la Beta
+    url: https://app.tandemz.io
+    title: Créez un compte sur Tandemz
+  subtitle: ''
 ogtitle: ''
 ogdescription: ''
 ogtype: ''
