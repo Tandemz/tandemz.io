@@ -11,7 +11,7 @@ sections:
   actions:
   - label: Rejoindre la beta
     url: https://app.tandemz.io
-    title: Créer un compte sur Tandemz
+    title: Créez un compte sur Tandemz
   imageAlt: ''
   image_alt: ''
 - template: valueblock
