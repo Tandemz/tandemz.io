@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: static/admin
+admin_path: ''
 webhook_url: https://api.stackbit.com/project/5d833248eee8550011997b7e/webhook/forestry
 sections:
 - type: document
@@ -38,7 +38,6 @@ sections:
 - type: document
   path: src/pages/pricing.md
   label: Pricing
-  match: "**/*"
 - type: directory
   path: src/pages
   label: Pages
