@@ -205,9 +205,9 @@ sections:
   title_level_one: false
   subtitle: ''
 menus:
-  main:
-    title: FAQ
-    weight: 4
+  secondary:
+    title: Aide en ligne
+    weight: 5
 template: pricing
 description: Toutes les questions sur l'utilisation de Tandemz
 keywords: ''
