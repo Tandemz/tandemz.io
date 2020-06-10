@@ -4,9 +4,9 @@ title: Mentions légales
 subtitle: ''
 img_path: ''
 menus:
-  secondary:
+  legal:
     title: Mentions légales
-    weight: 4
+    weight: 1
 description: ''
 keywords: ''
 ogtitle: ''

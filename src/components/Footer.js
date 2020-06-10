@@ -58,63 +58,82 @@ export default class Footer extends React.Component {
                   </p>
                 )}
               </div>
-              {((_.get(this.props, 'pageContext.menus.secondary') &&
-                _.get(
-                  this.props,
-                  'pageContext.site.siteMetadata.footer.has_nav',
-                )) ||
-                _.get(
-                  this.props,
-                  'pageContext.site.siteMetadata.footer.has_social',
-                )) && (
-                <nav className="widget footer-navigation">
-                  <div className="footer-nav-inside">
-                    {_.get(this.props, 'pageContext.menus.secondary') &&
-                      _.get(
-                        this.props,
-                        'pageContext.site.siteMetadata.footer.has_nav',
-                      ) && (
-                        <div className="secondary-nav">
-                          <h3 className="widget-title">
-                            {_.get(
-                              this.props,
-                              'pageContext.site.siteMetadata.footer.nav_title',
-                            )}
-                          </h3>
-                          <ul className="secondary-menu">
-                            {_.map(
-                              _.get(this.props, 'pageContext.menus.secondary'),
-                              (item, item_idx) => (
-                                <li key={item_idx}>
-                                  <Link
-                                    to={safePrefix(_.get(item, 'url'))}
-                                    title={_.get(item, 'title')}
-                                  >
-                                    {_.get(item, 'title')}
-                                  </Link>
-                                </li>
-                              ),
-                            )}
-                          </ul>
-                        </div>
-                      )}
-                    {_.get(
+              <nav className="widget footer-navigation">
+                <div className="footer-nav-inside">
+                  {_.get(this.props, 'pageContext.menus.secondary') &&
+                    _.get(
                       this.props,
-                      'pageContext.site.siteMetadata.footer.has_social',
+                      'pageContext.site.siteMetadata.footer.has_nav',
                     ) && (
-                      <div className="social-nav">
+                      <div className="secondary-nav">
                         <h3 className="widget-title">
                           {_.get(
                             this.props,
-                            'pageContext.site.siteMetadata.footer.social_title',
+                            'pageContext.site.siteMetadata.footer.nav_title',
                           )}
                         </h3>
-                        <Social {...this.props} />
+                        <ul className="secondary-menu">
+                          {_.map(
+                            _.get(this.props, 'pageContext.menus.secondary'),
+                            (item, item_idx) => (
+                              <li key={item_idx}>
+                                <Link
+                                  to={safePrefix(_.get(item, 'url'))}
+                                  title={_.get(item, 'title')}
+                                >
+                                  {_.get(item, 'title')}
+                                </Link>
+                              </li>
+                            ),
+                          )}
+                        </ul>
                       </div>
                     )}
-                  </div>
-                </nav>
-              )}
+                  {_.get(this.props, 'pageContext.menus.legal') &&
+                    _.get(
+                      this.props,
+                      'pageContext.site.siteMetadata.footer.has_nav',
+                    ) && (
+                      <div className="legal-nav">
+                        <h3 className="widget-title">
+                          {_.get(
+                            this.props,
+                            'pageContext.site.siteMetadata.footer.legal_title',
+                          )}
+                        </h3>
+                        <ul className="legal-menu">
+                          {_.map(
+                            _.get(this.props, 'pageContext.menus.legal'),
+                            (item, item_idx) => (
+                              <li key={item_idx}>
+                                <Link
+                                  to={safePrefix(_.get(item, 'url'))}
+                                  title={_.get(item, 'title')}
+                                >
+                                  {_.get(item, 'title')}
+                                </Link>
+                              </li>
+                            ),
+                          )}
+                        </ul>
+                      </div>
+                    )}
+                  {_.get(
+                    this.props,
+                    'pageContext.site.siteMetadata.footer.has_social',
+                  ) && (
+                    <div className="social-nav">
+                      <h3 className="widget-title">
+                        {_.get(
+                          this.props,
+                          'pageContext.site.siteMetadata.footer.social_title',
+                        )}
+                      </h3>
+                      <Social {...this.props} />
+                    </div>
+                  )}
+                </div>
+              </nav>
               {_.get(
                 this.props,
                 'pageContext.site.siteMetadata.footer.has_subscribe',

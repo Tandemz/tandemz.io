@@ -70,6 +70,7 @@
   }
 }
 
+.legal-nav,
 .secondary-nav,
 .social-nav {
   box-sizing: border-box;
@@ -103,6 +104,13 @@
   text-align: center;
 }
 
+
+.footer-navigation {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+}
+
 @media only screen and (max-width: 800px) {
   .footer-branding {
     -webkit-flex: 0 0 100%;
@@ -110,7 +118,6 @@
     flex: 0 0 100%;
   }
 
-  .footer-navigation,
   .footer-subscribe {
     -webkit-flex: 0 0 50%;
     -ms-flex: 0 0 50%;

@@ -9,7 +9,7 @@ ogimagealt: Tandemz Logo
 og_image_width: 200
 og_image_height: 200
 twitter_card: summary
-title: Contrat de prestation de service client
+title: Conditions générales d'utilisation
 subtitle: ''
 img_path: ''
 ogtitle: ''
@@ -19,6 +19,10 @@ schema_org_data_list: []
 legal: true
 updatedAt: 2020-02-21T09:15:00.000+00:00
 legal_name: cgu-client
+menus:
+  legal:
+    title: CGU
+    weight: 2
 
 ---
 Vous avez eu accès à notre site et vous l’utilisez. Les présentes conditions règlent les modalités d’utilisation de notre site. Le simple fait d’utiliser ce site vous engage à en respecter les conditions d’utilisation.

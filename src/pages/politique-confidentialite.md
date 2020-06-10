@@ -16,9 +16,9 @@ twitter_card: ''
 metatags: []
 schema_org_data_list: []
 menus:
-  secondary:
-    title: Confidentialité
-    weight: 4
+  legal:
+    title: Politique de confidentialité
+    weight: 3
 legal: true
 updatedAt: 2020-06-03T18:48:00Z
 legal_name: privacy-policy
