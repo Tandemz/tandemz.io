@@ -74,23 +74,6 @@ sections:
     coming_soon: true
     image_alt: Captures d'écran de rappels et de messageries
     is_beta: false
-- template: pricingblock
-  component: PricingBlock
-  bg: gray
-  type: pricingblock
-  section_id: ''
-  title: Tarif
-  subtitle: En quelques minutes, lancez vos interviews et tests sur Tandemz en toute
-    autonomie. Faites de la recherche utilisateur un réflexe !
-  pricingplans:
-  - title: Gestion de votre panel privé
-    price: A partir de 150€ / mois
-    details: Créez votre panel ou importez-le depuis votre base d'utilisateurs existante.
-    highlight: false
-    actions:
-    - url: https://app.tandemz.io
-      label: Rejoindre la bêta (gratuite)
-      title: Beta de l'application Tandemz
 - template: ctablock
   component: CtaBlock
   type: ctablock
