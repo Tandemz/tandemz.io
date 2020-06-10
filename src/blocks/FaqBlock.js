@@ -12,7 +12,7 @@ export default class FaqBlock extends React.Component {
           'block faq-block bg-' + _.get(this.props, 'section.bg') + ' outer'
         }
       >
-        <div className="inner-small">
+        <div className="inner-medium">
           <div className="block-header">
             {_.get(this.props, 'section.title_level_one') ? (
               <h1 className="block-title">

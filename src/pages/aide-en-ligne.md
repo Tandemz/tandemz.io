@@ -66,7 +66,7 @@ sections:
       en particulier, tapez le tag dans le champ de recherche : \n\n![](/images/champ-recherche.png)\n\nPour
       **modifier / supprimer l'un de vos tags**, contactez notre support par tchat
       ou à contact@tandemz.io."
-  title_level_one: false
+  title_level_one: true
   subtitle: ''
 - template: faqblock
   component: FaqBlock
