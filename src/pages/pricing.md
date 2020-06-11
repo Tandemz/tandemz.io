@@ -11,7 +11,7 @@ sections:
   type: pricingblock
   section_id: pricing
   title: Pricing
-  subtitle: Organisez gratuitemet vos entretiens et tests UX en un clin d'oeil.
+  subtitle: Organisez gratuitement vos entretiens et tests UX en un clin d'oeil.
   pricingplans:
   - title: Beta
     price: Gratuit
