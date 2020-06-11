@@ -8,20 +8,22 @@ export default class Pricing extends React.Component {
   render() {
     return (
       <Layout {...this.props}>
-        {_.map(
-          _.get(this.props, 'pageContext.frontmatter.sections'),
-          (section, section_idx) => {
-            let GetSectionComponent = blocks[_.get(section, 'component')];
-            return (
-              <GetSectionComponent
-                key={section_idx}
-                {...this.props}
-                section={section}
-                site={this.props.pageContext.site}
-              />
-            );
-          },
-        )}
+        <div className="pricing-page">
+          {_.map(
+            _.get(this.props, 'pageContext.frontmatter.sections'),
+            (section, section_idx) => {
+              let GetSectionComponent = blocks[_.get(section, 'component')];
+              return (
+                <GetSectionComponent
+                  key={section_idx}
+                  {...this.props}
+                  section={section}
+                  site={this.props.pageContext.site}
+                />
+              );
+            },
+          )}
+        </div>
       </Layout>
     );
   }

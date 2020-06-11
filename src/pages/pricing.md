@@ -40,7 +40,7 @@ sections:
     highlight: false
     actions:
     - label: Tenez-moi au courant
-      url: "/contact/"
+      url: "#newsletter"
       title: Contacter Tandemz
 - template: contentblock
   component: ContentBlock
