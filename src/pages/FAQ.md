@@ -68,7 +68,7 @@ sections:
 menus:
   main:
     title: FAQ
-    weight: 4
+    weight: 5
 template: pricing
 description: Foire aux questions de Tandemz
 keywords: ''

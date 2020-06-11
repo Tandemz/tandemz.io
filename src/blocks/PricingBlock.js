@@ -23,15 +23,14 @@ export default class PricingBlock extends React.Component {
         </div>
         {_.get(this.props, 'section.pricingplans') && (
           <div className="inner">
-            <div className="grid">
+            <div className="pricing-grid">
               {_.map(
                 _.get(this.props, 'section.pricingplans'),
                 (plan, plan_idx) => (
                   <div
                     key={plan_idx}
                     className={
-                      'cell plan' +
-                      (_.get(plan, 'highlight') ? ' highlight' : '')
+                      'plan' + (_.get(plan, 'highlight') ? ' highlight' : '')
                     }
                   >
                     <div className="plan-inside">
