@@ -31,7 +31,7 @@ sections:
     highlight: true
     actions:
     - label: Commencer à recruter
-      url: https://staging.tandemz.io/recruitform/
+      url: "/recruitform/"
       title: Formulaire de recrutement
   - title: Gestion de panel Beta
     price: Gratuit
