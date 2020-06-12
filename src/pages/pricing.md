@@ -18,9 +18,22 @@ sections:
   type: pricingblock
   section_id: pricing
   title: Tarifs
-  subtitle: Organisez gratuitement vos entretiens et tests UX en un clin d'oeil.
+  subtitle: Organisez vos entretiens et tests UX en un clin d'oeil.
   pricingplans:
-  - title: Beta
+  - title: Recherche de participants
+    price: 60€/participant (hors contrepartie)
+    details: |-
+      * Recrutement clé en main
+      * Gestion de la contrepartie
+      * Rappel pour les participants
+      * Sélection selon vos critères
+      * Sans restriction géographique
+    highlight: true
+    actions:
+    - label: Commencer à recruter
+      url: https://staging.tandemz.io/recruitform/
+      title: Formulaire de recrutement
+  - title: Gestion de panel Beta
     price: Gratuit
     details: |-
       * Gestion de votre panel privé jusqu'à 1000 participants
@@ -34,7 +47,7 @@ sections:
     - label: Rejoindre la beta
       url: https://app.tandemz.io
       title: Créez un compte sur Tandemz
-  - title: Premium
+  - title: Gestion de panel Premium
     price: Abonnement à venir
     details: |-
       * Toutes les fonctionnalités de la Beta
@@ -49,15 +62,33 @@ sections:
     - label: Tenez-moi au courant
       url: "#newsletter"
       title: Contacter Tandemz
-- template: contentblock
-  component: ContentBlock
+- template: faqblock
+  component: FaqBlock
   bg: gray
-  type: contentblock
-  section_id: content
-  title: Test
-  content: Juste un test de contenu qu'on peut ajouter à la fin
-  image: ''
-  actions: []
+  type: faqblock
+  section_id: faqpricing
+  title: Des doutes ou des questions ?
+  faqitems:
+  - answer: |-
+      Pour le recrutement de participant dans le panel Tandemz, nous pouvons nous charger du paiement de la contrepartie (en cartes cadeaux multi-enseignes).
+
+      Pour la gestion de votre propre panel et l'organisation de session auprès de vos beta-testeurs, il n'est pas encore possible de payer la contrepartie aux participants directement dans Tandemz.
+    question: Puis-je payer la contrepartie aux participants directement dans Tandemz
+      ?
+  - answer: Non, vous ne payez que les participants qui sont effectivement venus à
+      votre session.
+    question: Un participant qui ne vient pas est-il facturé ?
+  - question: Comment se font les règlements ?
+    answer: |-
+      Pour les prestations de recrutement clé en main, nous vous adressons une facture une fois la prestation terminée. Vous disposez alors d'un mois pour la régler.
+
+      Pour l'abonnement Premium, vous pourrez enregistrer votre carte bancaire directement sur votre compte, le prélèvement aura lieu tous les mois.
+  - question: Quand sera disponible la version Premium ?
+    answer: Nos développements sont toujours en cours. La version Premium sortira
+      à l'automne si tout va bien. Inscrivez-vous à la Newsletter pour être tenu au
+      courant de la sortie !
+  title_level_one: false
+  subtitle: ''
 - template: newsletter
   component: NewsLetterBlock
 - template: ctablock
