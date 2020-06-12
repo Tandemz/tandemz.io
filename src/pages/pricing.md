@@ -6,10 +6,10 @@ description: La beta de Tandemz est entièrement gratuite. Un abonnement sera pr
 keywords: pricings, prix, Trandemz, abonnement, tarifs
 menus:
   main:
-    title: Pricing
+    title: Tarifs
     weight: 4
   secondary:
-    title: Pricing
+    title: Tarifs
     weight: 3
 sections:
 - template: pricingblock
