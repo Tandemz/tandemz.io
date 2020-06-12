@@ -21,10 +21,10 @@ sections:
   subtitle: Organisez vos entretiens et tests UX en un clin d'oeil.
   pricingplans:
   - title: Recherche de participants
-    price: 60€/participant (hors contrepartie)
+    price: 60€/participant
     details: |-
       * Recrutement clé en main
-      * Gestion de la contrepartie
+      * Gestion de la contrepartie (refacturée)
       * Rappel pour les participants
       * Sélection selon vos critères
       * Sans restriction géographique
