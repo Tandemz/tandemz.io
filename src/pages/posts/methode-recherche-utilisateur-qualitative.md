@@ -46,6 +46,8 @@ L’objectif de la recherche utilisateur va dépendre de l’étape du projet da
 * **phase d’exploration** : dans ce cas, l’objectif est de générer des hypothèses, d’en apprendre plus sur le sujet, les problématiques. On en ressort avec beaucoup de constats, d’idées qu’il faut ensuite trier.
 * **phase de confirmation** : vous disposez déjà d’hypothèses ou de solutions que vous souhaitez vérifier/valider auprès des utilisateurs.
 
+> La limite UX/ergonomie est assez poreuse.
+
 Toutes les méthodes qualitatives sont différentes et présentent certains avantages et inconvénients. Chacune a son objectif et **sera utilisée préférentiellement à une étape d’un projet** plutôt qu’une autre.
 
 ![](/images/frame-160-1.jpg)
