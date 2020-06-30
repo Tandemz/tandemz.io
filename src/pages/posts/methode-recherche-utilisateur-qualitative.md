@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
 - uxresearch
 - qualitative
@@ -11,7 +11,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: methode-recherche-utilisateur-qualitative
 full_title: 8 méthodes de recherche utilisateur qualitative à connaître
-date: 2020-05-26T22:00:00Z
+date: 2020-05-26T22:00:00.000+00:00
 thumb_img_path: "/images/david-travis-wc6mj0krzgw-unsplash.jpg"
 content_img_path: "/images/david-travis-wc6mj0krzgw-unsplash.jpg"
 excerpt: Quelles sont les principales méthodes pour faire de la recherche utilisateur
@@ -47,6 +47,8 @@ L’objectif de la recherche utilisateur va dépendre de l’étape du projet da
 * **phase de confirmation** : vous disposez déjà d’hypothèses ou de solutions que vous souhaitez vérifier/valider auprès des utilisateurs.
 
 Toutes les méthodes qualitatives sont différentes et présentent certains avantages et inconvénients. Chacune a son objectif et **sera utilisée préférentiellement à une étape d’un projet** plutôt qu’une autre.
+
+![](/images/frame-160-1.jpg)
 
 Le processus de conception est découpé en 4 étapes qui alternent phase exploratoire / phase de confirmation (souvent appelé [Double Diamant, voir plus d’explications par le groupe Nielsen Norman Group](https://www.nngroup.com/articles/discovery-phase/)). Dans ce schéma, les entretiens utilisateurs ou les Focus Group vont être particulièrement utiles en phase exploratoire. Pendant la phase de conception, vous pouvez intégrer les utilisateurs à la réflexion par un atelier de co-conception. Les tests utilisateurs vont ensuite vous permettre de valider vos hypothèses en phase de production.
 
