@@ -6,7 +6,7 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: ux-ergonomie-agence-interview-affordance
-full_title: 'UX et ergonomie en agence : l''expérience de Frédéric et Laurent, fondateurs
+full_title: 'UX et ergonomie en agence : l''expérience de Fred et Laurent, fondateurs
   d''Affordance'
 date: 2020-07-05T22:00:00Z
 thumb_img_path: ''
@@ -86,9 +86,9 @@ F: Par contre, ils entendent plutôt bien la nécessité. Très récemment, on a
 
 F : Récemment, on a réalisé un audit pour une entreprise où le pôle UX, bien qu'intégré, avait une visibilité restreinte. Leurs missions n’étaient pas très claires au sein de l’entreprise et par conséquent les UX étaient sous-exploités. Leur process fonctionnait plutôt bien mais il n’était pas formalisé, il n’y avait pas de visibilité des autres équipes. Nos recommandations ont porté sur l’évolution du positionnement de leur équipe : ils étaient souvent vus en aval des projets de conception, on leur a recommandé de remonter progressivement vers des prestations plus en amont, en élargissant le rôle des UX et des UI au sein de l’entreprise.
 
-Nous leur avons recommandé d’autres points qui peuvent intéresser les équipes en interne :
+Nous leur avons recommandé d’autres points qui peuvent intéresser les équipes en interne:
 
-* **La pédagogie :**
+### La pédagogie
 
 Quand j’étais chez Generali, j’ai dès le début demandé à aller sur le terrain, observer les utilisateurs, m’entretenir avec eux. Au début j’étais un peu perçu comme un extra-terrestre. Pendant 6 mois j’ai fait un effort pédagogique pour leur faire comprendre ce que je faisais et pourquoi je le faisais, que ça apportait de la donnée sur laquelle la conception se basait.
 
@@ -96,15 +96,15 @@ Très concrètement j’avais mis en place des cafés ou des petits-déjeuners t
 
 > Quand tu es en interne, il y a cet effort pédagogique à faire pour éduquer les gens.
 
-* **Systématiser les méthodes centrées utilisateurs pour obtenir des données objectives :**
+### Systématiser les méthodes centrées utilisateurs pour obtenir des données objectives
 
 Dans la conception, au lieu de se baser sur des best practices ou des standards de conception, essayez au maximum de vous nourrir de données objectives dans la conception, obtenues par des entretiens, des observations, des tests, de l'analyse de statistiques d’usage… Dans mon expérience chez Generali, ce qui a vraiment convaincu, c’est ma première prestation : j’avais mis en place des indicateurs de performance dans la conception. Sur la base d’entretiens et d’observations, la conception qu’on avait fait était 10 fois mieux que celle d’avant. C’est la preuve par le réel.
 
-* **Créer un corpus de connaissances et de comportements utilisateurs :**
+### Créer un corpus de connaissances et de comportements utilisateurs
 
 C’est bien de représenter l’utilisateur mais c’est mieux d’avoir une connaissance approfondie, qui est nourrie et entretenue. On obtient et on détecte alors des patterns de comportement utilisateurs qui vont servir de base pour la conception.
 
-* **Intégrer les autres acteurs du projet dans les méthodes centrées utilisateurs :**
+### Intégrer les autres acteurs du projet dans les méthodes centrées utilisateurs
 
 Lorsque vous réalisez un entretien ou un test utilisateur, essayez au maximum de faire ça dans une salle avec vitre sans teint et d’inviter le chef de projet, le product owner, le responsable marketing à venir observer ces utilisateurs. Les gens sont embarqués, ça commence à les convaincre qu’ils apprennent des choses en sollicitant des utilisateurs et qu’il y a des bénéfices à utiliser ce genre de méthodes.
 
