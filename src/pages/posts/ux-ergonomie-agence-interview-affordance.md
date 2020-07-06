@@ -6,13 +6,13 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: ux-ergonomie-agence-interview-affordance
-full_title: 'UX et ergonomie en agence : l''expérience de Fred et Laurent, fondateurs
+full_title: 'UX et ergonomie en agence : l''expérience de Frédéric et Laurent, fondateurs
   d''Affordance'
 date: 2020-07-05T22:00:00Z
 thumb_img_path: ''
 content_img_path: ''
 excerpt: Quelle recherche utilisateur pour les agences UX ? Frédéric Falletta et Laurent
-  Bidoïa, fondateurs d'Affordance, nous présentent leur vision des choses
+  Bidoïa, fondateurs d'Affordance, nous présentent leur vision des choses.
 author: src/data/authors/marinew.json
 keywords: ux, ergonomie, conception centrée utilisateur, agence
 ogimage: ''
@@ -21,6 +21,8 @@ ogimage: ''
 Arthur et Marine chez Evaneos, Solène chez Bouygues Telecom, tous les UX que nous avons interrogés jusqu’à là ont à un moment de leur vie professionnelle travaillé dans une agence UX. Quelles sont les spécificités d’un travail en agence ? Quelle place y occupe la recherche utilisateur ? A quelles problématiques sont-elles confrontées ?
 
 Nous avons interrogé Frédéric Falletta et Laurent Bidoïa, tous deux consultants ergonomes / UX chez Affordance, une agence de conseil en ergonomie qu’ils ont créée ensemble il y a 6 ans. À travers les différents projets qu’ils ont vécus et l’expérience qu’ils ont amassée, ils nous expliquent leur vision de l’expérience utilisateur et comment la placer au centre de la conception.
+
+![](/images/frame-161.jpg)
 
 ## Commençons par détailler vos parcours : qu’est-ce qui vous a amené jusqu’à la création d’Affordance ?
 
