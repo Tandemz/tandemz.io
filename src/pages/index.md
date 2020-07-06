@@ -79,6 +79,11 @@ sections:
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:
+  - author: La Grande Ourse
+    content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
+      au top ! Fiables, gentils, ils ont tous joué le jeu. Mes tests se sont déroulés
+      sans soucis !
+    avatar: ''
   - author: Ferpection
     content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
       aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
