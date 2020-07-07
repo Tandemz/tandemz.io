@@ -82,7 +82,7 @@ sections:
   - author: La Grande Ourse
     content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
       au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
-      sans le moindre soucis !
+      sans le moindre soucis et l'équipe Tandemz était très réactive !
     avatar: ''
   - author: Ferpection
     content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
