@@ -9,8 +9,7 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: ux-ergonomie-agence-interview-affordance
-full_title: 'UX et ergonomie en agence : l''expérience de Frédéric et Laurent, fondateurs
-  d''Affordance'
+full_title: 'UX et ergonomie en agence : l''expérience de Frédéric et Laurent, d''Affordance'
 date: 2020-07-05T22:00:00.000+00:00
 thumb_img_path: "/images/interviewaffordance.png"
 content_img_path: "/images/interviewaffordance.png"
