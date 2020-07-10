@@ -17,3 +17,17 @@ fields:
   config:
     required: false
   label: Title
+- name: button_priority
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - Primary
+    - Secondary
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Button priority
