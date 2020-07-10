@@ -10,8 +10,13 @@
     "menu": {
       "actions": [
         {
-          "label": "Rejoindre la beta",
+          "label": "Se connecter",
           "url": "https://app.tandemz.io",
+          "title": "Connection à l'application Tandemz"
+        },
+        {
+          "label": "Rejoindre la beta",
+          "url": "https://app.tandemz.io/trouver-des-participants",
           "title": "Beta de l'application Tandemz"
         }
       ]
