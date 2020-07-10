@@ -63,11 +63,14 @@ class Menu extends React.Component {
                 ))}
               {actions &&
                 _.map(actions, (action, action_idx) => (
-                  <li key={action_idx} className="menu-item menu-button">
+                  <li
+                    key={action_idx}
+                    className='menu-item menu-button'
+                  >
                     <Link
                       to={safePrefix(action.url)}
-                      className="button"
-                      onClick={() => sendEvent('click', 'request demo', url)}
+                      className={classnames("button", _.get(action, 'button_priority'))}
+                      onClick={() => sendEvent('click', action.label, url)}
                       title={action.title}
                     >
                       {action.label}
