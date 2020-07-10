@@ -12,7 +12,8 @@
         {
           "label": "Se connecter",
           "url": "https://app.tandemz.io",
-          "title": "Connection à l'application Tandemz"
+          "title": "Connection à l'application Tandemz",
+          "button_priority": "Secondary"
         },
         {
           "label": "Rejoindre la beta",
