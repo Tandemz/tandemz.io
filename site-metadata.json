@@ -13,12 +13,13 @@
           "label": "Se connecter",
           "url": "https://app.tandemz.io",
           "title": "Connection à l'application Tandemz",
-          "button_priority": "Secondary"
+          "button_priority": "secondary"
         },
         {
           "label": "Rejoindre la beta",
           "url": "https://app.tandemz.io/trouver-des-participants",
-          "title": "Beta de l'application Tandemz"
+          "title": "Beta de l'application Tandemz",
+          "button_priority": "primary"
         }
       ]
     }
