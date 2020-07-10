@@ -23,8 +23,8 @@ fields:
   config:
     required: false
     options:
-    - Primary
-    - Secondary
+    - primary
+    - secondary
     source:
       type: simple
       section: 
