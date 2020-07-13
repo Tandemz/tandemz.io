@@ -59,9 +59,10 @@ sections:
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: Review your parti
-    content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
-      vous, nous vous reversons la rémunération associée. Prêt à recommencer?
+  - title: Review and choose who you want to invite to participate
+    content: Once you've reviewed an applicant's answer and decided to meet them,
+      the platform will automatically take care of scheduling them and sending them
+      reminders, so that you can focus on preparing your study content!
     image: "/images/Payment.svg"
     actions: []
     coming_soon: false
