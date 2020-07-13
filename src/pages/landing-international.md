@@ -50,10 +50,9 @@ sections:
     coming_soon: false
     image_alt: Femme choisissant des pages suspendues
     is_beta: false
-  - title: 3. Participez à la rencontre
-    content: Votre tandem vous transmet les informations. Il ne vous reste plus qu'à
-      vous présenter au rendez-vous et suivre le déroulé de la rencontre. On ne recherche
-      rien de plus que votre avis honnête et votre ressenti.
+  - title: We create and publish a sponsored post for your study
+    content: Our algorithms generates the perfect assets for your study and chooses
+      the social media network that fits it the most.
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
