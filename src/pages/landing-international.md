@@ -4,19 +4,17 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: "Testez des nouveautés  \nPartagez votre avis  \nAméliorez notre futur"
+  title: User research without borders
   component: HeroBlock
-  content: Les entreprises et les marques ont besoin de vous pour mieux construire
-    leurs futurs produits. Testez leurs nouveautés, discutez et partagez votre avis
-    avec elles. Vous n'y connaissez rien ? Justement, pour elles, votre avis est précieux
-    !
-  image: "/images/Hero.svg"
+  content: 3 billion users worldwide at your fingertips - international user research
+    has never been so easy
+  image: ''
   actions:
-  - label: Je participe
-    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
-    title: Formulaire d'inscription au panel Tandemz
+  - label: Start recruiting
+    url: ''
+    title: Start recruiting
     button_priority: ''
-  image_alt: Personnes discutant autour d'une application
+  image_alt: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
