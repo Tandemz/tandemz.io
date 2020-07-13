@@ -26,6 +26,21 @@ sections:
   section_id: ''
   image: ''
   actions: []
+- template: valueblock
+  component: ValueBlock
+  bg: gray
+  type: valueblock
+  valueblocks:
+  - title: Recruit participants from anywhere, all in one place
+    content: ''
+    icon: ''
+    icon_alt: ''
+  - title: ''
+    content: ''
+    icon: ''
+    icon_alt: ''
+  section_id: ''
+  title: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
@@ -42,15 +57,15 @@ sections:
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: Add a screening survey if needed
+  - title: Add a screening survey
     content: You can add as many questions as you need to make sure that applicants
-      fit your dream participants profile.
+      truly fit your required profile.
     image: "/images/Choose.svg"
     actions: []
     coming_soon: false
     image_alt: Femme choisissant des pages suspendues
     is_beta: false
-  - title: We create and publish a sponsored post for your study
+  - title: We publish a sponsored post for your study
     content: Our algorithms generates the perfect assets for your study and chooses
       the social media network that fits it the most. It will also automatically adjust
       the bids to ensure recruitment speed.
@@ -59,10 +74,10 @@ sections:
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: Review and choose who you want to invite to participate
-    content: Once you've reviewed an applicant's answer and decided to meet them,
-      the platform will automatically take care of scheduling them and sending them
-      reminders, so that you can focus on preparing your study content!
+  - title: Choose who you want to meet
+    content: Once you've reviewed and validated an applicant's answer, the platform
+      will automatically take care of scheduling them and sending them reminders,
+      so that you can focus on preparing your study content!
     image: "/images/Payment.svg"
     actions: []
     coming_soon: false
