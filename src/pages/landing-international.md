@@ -34,13 +34,13 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1. Répondez à quelques questions
-    content: Un court questionnaire nous permettra d'en savoir un peu plus sur vous.
-      Les questions sont très simples et différentes pour chaque étude.
+  - title: Describe your target audience
+    content: Tell us the age, gender, location and interests of your perfect participant
+      profile. These are all known to social media ads platforms.
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
-    image_alt: Femme mise en évidence dans un site web
+    image_alt: Describe your target audience
     is_beta: false
   - title: 2. Convenons d'un rendez-vous
     content: Si votre profil convient et que vous êtes disponible aux horaires de
