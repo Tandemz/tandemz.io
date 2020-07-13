@@ -128,9 +128,8 @@ sections:
     button_priority: ''
   subtitle: ''
 template: home
-description: Les entreprises et les marques ont besoin de vous pour mieux construire
-  leurs futurs produits. Testez leurs nouveautés, discutez et partagez avec elles.
-keywords: test rémunéré, panel
+description: ''
+keywords: user research, international, panel recruitement
 ogtitle: ''
 ogdescription: ''
 ogtype: website
