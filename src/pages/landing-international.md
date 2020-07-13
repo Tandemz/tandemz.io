@@ -21,7 +21,8 @@ sections:
   type: contentblock
   title: Test anywhere, anytime with anyone
   content: We leverage the power of social media ads targeting to find you the perfect
-    participants among the 3 billion users of Facebook, Instagram, Twitter and LinkedIn.
+    participants among the **3 billion users** of Facebook, Instagram, Twitter and
+    LinkedIn.
   section_id: ''
   image: ''
   actions: []
