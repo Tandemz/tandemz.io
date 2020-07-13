@@ -51,7 +51,7 @@ sections:
   featureslist:
   - title: Describe your target audience
     content: Tell us the age, gender, location and interests of your perfect participant
-      profile. These are all known to social media ads platforms.
+      profile. These are all known to social media ads platforms!
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
