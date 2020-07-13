@@ -30,6 +30,7 @@ fields:
   label: SEO
 pages:
 - src/pages/index.md
+- src/pages/landing-international.md
 - src/pages/panel.md
 - src/pages/participant.md
 - src/pages/recruit.md
