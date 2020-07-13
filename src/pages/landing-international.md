@@ -42,9 +42,9 @@ sections:
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: 2. Convenons d'un rendez-vous
-    content: Si votre profil convient et que vous êtes disponible aux horaires de
-      l'étude, nous vous proposons des créneaux pour réaliser la rencontre.
+  - title: Add a screening survey if needed
+    content: You can add as many questions as you need to make sure that applicants
+      fit your dream participants profile.
     image: "/images/Choose.svg"
     actions: []
     coming_soon: false
