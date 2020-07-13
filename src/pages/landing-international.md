@@ -75,7 +75,7 @@ sections:
   component: CtaBlock
   actions:
   - label: Start recruiting
-    title: Questionnaire d'inscription au panel Tandemz
+    title: Start recruiting
     button_priority: ''
     url: ''
   subtitle: ''
