@@ -52,13 +52,14 @@ sections:
     is_beta: false
   - title: We create and publish a sponsored post for your study
     content: Our algorithms generates the perfect assets for your study and chooses
-      the social media network that fits it the most.
+      the social media network that fits it the most. It will also automatically adjust
+      the bids to ensure recruitment speed.
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: 4. Recevez votre rémunération
+  - title: Review your parti
     content: Une fois que vous nous avez confirmé que tout s'est bien déroulé pour
       vous, nous vous reversons la rémunération associée. Prêt à recommencer?
     image: "/images/Payment.svg"
