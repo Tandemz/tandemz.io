@@ -3,15 +3,16 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Tandemz, le catalyseur de vos tests utilisateurs
+  title: User research, without borders
   component: HeroBlock
-  content: Sur Tandemz, organisez vos entretiens et tests UX en un clin d'oeil. Concentrez-vous
-    enfin sur votre recherche utilisateur.
+  content: 3 billion users worldwide at your fingertips - international user research
+    has never been this easy
   image: ''
   actions:
   - label: Rejoindre la beta
     url: https://app.tandemz.io
     title: Créez un compte sur Tandemz
+    button_priority: ''
   imageAlt: ''
   image_alt: ''
 - template: valueblock
@@ -58,6 +59,7 @@ sections:
     - label: En savoir plus
       url: "/panel/"
       title: Gestion de panels privés
+      button_priority: ''
     coming_soon: false
     image_alt: Profils d'utilisateurs venant de plusieurs sources
     is_beta: true
@@ -70,6 +72,7 @@ sections:
     - label: En savoir plus
       url: "/recruit/"
       title: Recrutement de participants sur les réseaux sociaux
+      button_priority: ''
     coming_soon: false
     image_alt: Femme mise en évidence dans un site web
     is_beta: false
@@ -128,6 +131,7 @@ sections:
   - label: Rejoindre la beta
     url: https://app.tandemz.io/
     title: Créez un compte sur Tandemz
+    button_priority: ''
   subtitle: ''
 menus:
   main:
