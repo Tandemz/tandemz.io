@@ -15,6 +15,7 @@ fields:
   - pricingblock
   - reviewsblock
   - iconsblock
+  - valueblock
   description: Page sections
 - type: text
   name: template
