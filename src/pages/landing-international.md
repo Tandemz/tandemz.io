@@ -1,5 +1,5 @@
 ---
-title: Landing International
+title: Recrutement International
 sections:
 - type: heroblock
   template: heroblock
@@ -15,6 +15,7 @@ sections:
   - label: Je participe
     url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
     title: Formulaire d'inscription au panel Tandemz
+    button_priority: ''
   image_alt: Personnes discutant autour d'une application
 - type: featuresblock
   template: featuresblock
@@ -124,6 +125,7 @@ sections:
   - label: Je participe
     url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
     title: Questionnaire d'inscription au panel Tandemz
+    button_priority: ''
   subtitle: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
