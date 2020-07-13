@@ -15,6 +15,16 @@ sections:
     title: Start recruiting
     button_priority: ''
   image_alt: ''
+- template: contentblock
+  component: ContentBlock
+  bg: gray
+  type: contentblock
+  title: Test anywhere, anytime with anyone
+  content: We leverage the power of social media ads targeting to find you the perfect
+    participants among the 3 billion users of Facebook, Instagram, Twitter and LinkedIn.
+  section_id: ''
+  image: ''
+  actions: []
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
@@ -127,7 +137,7 @@ sections:
   subtitle: ''
 template: home
 description: ''
-keywords: user research, international, panel recruitement
+keywords: user research, international, panel recruitement, user testing, interviews
 ogtitle: ''
 ogdescription: ''
 ogtype: website
