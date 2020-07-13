@@ -3,10 +3,10 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: User research, without borders
+  title: Tandemz, le catalyseur de votre recherche utilisateur
   component: HeroBlock
-  content: 3 billion users worldwide at your fingertips - international user research
-    has never been this easy
+  content: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
+    Automatisez toute l'organisation de vos tests et la gestion de votre panel.
   image: ''
   actions:
   - label: Rejoindre la beta
