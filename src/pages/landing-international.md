@@ -57,10 +57,10 @@ sections:
   - title: Add a screening survey
     content: You can add as many questions as you need to make sure that applicants
       truly fit your required profile.
-    image: "/images/Choose.svg"
+    image: "/images/illustration-screening.svg"
     actions: []
     coming_soon: false
-    image_alt: Femme choisissant des pages suspendues
+    image_alt: Adding screening survey questions
     is_beta: false
   - title: We publish a sponsored post for your study
     content: Our algorithms generates the perfect assets for your study and chooses
