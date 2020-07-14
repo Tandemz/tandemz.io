@@ -20,7 +20,7 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Recruit participants from anywhere, all in one place
+  - title: Recruit participants from anywhere
     content: ''
     icon: ''
     icon_alt: ''
