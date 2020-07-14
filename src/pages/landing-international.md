@@ -57,7 +57,7 @@ sections:
   - title: Add a screening survey
     content: You can add as many questions as you need to make sure that applicants
       truly fit your required profile.
-    image: "/images/illustration-screening.svg"
+    image: "/images/illustration-screening2.svg"
     actions: []
     coming_soon: false
     image_alt: Adding screening survey questions
