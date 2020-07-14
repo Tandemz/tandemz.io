@@ -66,7 +66,7 @@ sections:
     content: Our algorithms generates the perfect assets for your study and chooses
       the social media network that fits it the most. It will also automatically adjust
       the bids to ensure recruitment speed.
-    image: "/images/Discuss.svg"
+    image: "/images/illustration-ads.svg"
     actions: []
     coming_soon: false
     image_alt: Deux personnes qui discutent

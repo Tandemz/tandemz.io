@@ -23,5 +23,3 @@ fields:
   config: {}
   template: page-seo
   label: SEO
-pages:
-- src/pages/pricing.md
