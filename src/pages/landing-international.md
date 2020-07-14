@@ -44,14 +44,15 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
-  title: Comment ça marche ?
+  title: How does it work?
   component: FeaturesBlock
   subtitle: ''
   bg: white
   featureslist:
   - title: Describe your target audience
-    content: Tell us the age, gender, location and interests of your perfect participant
-      profile. These are all known to social media ads platforms!
+    content: Tell us the age, gender, location and interests of your target profile.
+      **We leverage the power of social media ads targeting to find you the perfect
+      match** among the 3 billion users of Facebook, Instagram, Twitter and LinkedIn.
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
