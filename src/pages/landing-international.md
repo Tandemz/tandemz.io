@@ -21,17 +21,19 @@ sections:
   type: valueblock
   valueblocks:
   - title: Recruit from anywhere
-    content: ''
+    content: With Tandemz, reaching users on the other side of the planet is no longer
+      a dream.
     icon: ''
     icon_alt: ''
-  - title: No more timezone headaches
-    content: ''
+  - content: Participants that you meet have to give their consent first. Other applicants
+      stay anonymised.
     icon: ''
     icon_alt: ''
-  - content: ''
+    title: GDPR compliant studies
+  - title: Get rid of timezone headaches
+    content: The platform automatically detects and adapts to your target's timezone.
     icon: ''
     icon_alt: ''
-    title: Distribute incentives easily
   section_id: ''
   title: ''
 - type: featuresblock
