@@ -75,7 +75,7 @@ sections:
     content: Once you've reviewed and validated an applicant's answer, the platform
       will automatically take care of scheduling them and sending them reminders,
       so that you can focus on preparing your study content!
-    image: "/images/Payment.svg"
+    image: "/images/illustration-schedule.svg"
     actions: []
     coming_soon: false
     image_alt: Femme recevant de l'argent
