@@ -93,7 +93,7 @@ sections:
   subtitle: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
-  participants - international user research has never been so easy
+  participants among 3 billion active users - the world's biggest panel.
 keywords: user research, international, panel recruitement, user testing, interviews
 ogtitle: ''
 ogdescription: ''
