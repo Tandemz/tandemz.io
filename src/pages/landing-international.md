@@ -92,7 +92,8 @@ sections:
     url: ''
   subtitle: ''
 template: home
-description: ''
+description: Leverage the power of social media ads targeting to recruit the perfect
+  participants - international user research has never been so easy
 keywords: user research, international, panel recruitement, user testing, interviews
 ogtitle: ''
 ogdescription: ''
