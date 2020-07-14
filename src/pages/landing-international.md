@@ -20,14 +20,18 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Recruit participants from anywhere
+  - title: Recruit from anywhere
     content: ''
     icon: ''
     icon_alt: ''
-  - title: ''
+  - title: No more timezone headaches
     content: ''
     icon: ''
     icon_alt: ''
+  - content: ''
+    icon: ''
+    icon_alt: ''
+    title: Distribute incentives easily
   section_id: ''
   title: ''
 - type: featuresblock
