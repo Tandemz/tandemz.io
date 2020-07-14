@@ -30,8 +30,9 @@ sections:
     icon: ''
     icon_alt: ''
     title: GDPR compliant studies
-  - title: Get rid of timezone headaches
-    content: The platform automatically detects and adapts to your target's timezone.
+  - title: Simple timezones management
+    content: The platform automatically detects and adapts to your target's timezone.  Get
+      rid of timezone headaches!
     icon: ''
     icon_alt: ''
   section_id: ''
