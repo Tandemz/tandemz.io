@@ -14,15 +14,29 @@ sections:
       Format du fichier\n\nVotre fichier doit respecter les règles suivantes : \n\n*
       Format CSV\n* Avec une ligne d'en-tête (sans règle particulière - cette ligne
       ne sera pas importée)\n* Comportant une colonne Email\n\nLes colonnes peuvent
-      être placées dans l'ordre que vous souhaitez.\n\n#### Règles lors de l'import\n\n####
-      Import de tags\n\nPour affecter des tags aux participants, vous pouvez utiliser
-      l'une des deux méthodes suivantes (ou les deux combinées) : \n\n* dans une même
-      colonne, les tags sont séparés par des virgules\n* plusieurs colonnes avec chacune
-      un tag\n\nLors de l'import, si des tags sont déjà affectés au participant, ils
-      ne sont pas effacés. Les nouveaux tags s'ajoutent à ceux existants.\n\nSi le
-      tag n'existe pas encore, il est créé lors de l'import.\n\nAttention, les tags
-      sont sensibles à la casse. \"Chat\" et \"chat\" sont donc deux tags différents
-      lors de l'import."
+      être placées dans l'ordre que vous souhaitez.\n\n#### Règles lors de l'import\n\n*
+      Pour mettre à jour un participant, il vous suffit d'importer ses données en
+      indiquant l'email correspondant comme identifiant. Si une donnée est vide, l'import
+      laisse la valeur précédente et n'efface pas le champ.\n* En cas d'erreur sur
+      la donnée Email, la ligne n'est pas importée.\n* En cas d'erreur sur les autres
+      données (ex: une date invalide, un numéro de téléphone inexistant), la donnée
+      est ignorée mais les autres données de la ligne sont bien importées.\n* Des
+      vérifications s'appliquent sur les données suivantes : numéro de téléphone,
+      date de naissance, code postal, email, genre. Les autres données sont des champs
+      textes libres.\n* Pour le genre, les correspondances acceptées sont les suivantes
+      : H/Homme/Male/man mappées vers Homme ; F/Femme/Female/Woman mappées vers Femme
+      ; Non binaire/Non-Binary/Non_Binary mappées vers Non binaire. Toute autre valeur
+      est ignorée.\n* Les formats de dates acceptés sont les suivants : 25/12/1990,
+      25/12/1990 22:01:02, 1990-12-25, 1990-12-25 22:01:02, 1990-25-12T21:01:02+01:00,
+      662162462 (UNIX timestamp)\n\n#### Import de tags\n\nPour affecter des tags
+      aux participants, vous pouvez utiliser l'une des deux méthodes suivantes (ou
+      les deux combinées) : \n\n* dans une même colonne, les tags sont séparés par
+      des virgules\n* plusieurs colonnes avec chacune un tag\n\nLors de l'import,
+      si des tags sont déjà affectés au participant, ils ne sont pas effacés. Les
+      nouveaux tags s'ajoutent à ceux existants.\n\nSi le tag n'existe pas encore,
+      il est créé lors de l'import.\n\nAttention, les tags sont sensibles à la casse.
+      \"Chat\" et \"chat\" sont donc deux tags différents lors de l'import.\n\nEn
+      cas de question sur l'import, contactez-nous par tchat ou par mail à contact@tandemz.io."
   - question: Comment ajouter des personnes à mon panel ?
     answer: "Dans l'onglet \"Panel\" de votre espace, ajoutez des participants à votre
       panel selon la méthode qui vous convient le mieux :\n\n![](/images/ajout.png)\n\n*
