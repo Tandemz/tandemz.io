@@ -8,6 +8,21 @@ sections:
   section_id: faqpanel
   title: Créer et gérer son panel
   faqitems:
+  - question: Comment construire mon fichier d'import ?
+    answer: "Pour importer vos participants en masse, vous pouvez utiliser la fonction
+      Import CSV qui se trouve dans votre onglet Panel :\n\n![](/images/import-csv.png)\n\n####
+      Format du fichier\n\nVotre fichier doit respecter les règles suivantes : \n\n*
+      Format CSV\n* Avec une ligne d'en-tête (sans règle particulière - cette ligne
+      ne sera pas importée)\n* Comportant une colonne Email\n\nLes colonnes peuvent
+      être placées dans l'ordre que vous souhaitez.\n\n#### Règles lors de l'import\n\n####
+      Import de tags\n\nPour affecter des tags aux participants, vous pouvez utiliser
+      l'une des deux méthodes suivantes (ou les deux combinées) : \n\n* dans une même
+      colonne, les tags sont séparés par des virgules\n* plusieurs colonnes avec chacune
+      un tag\n\nLors de l'import, si des tags sont déjà affectés au participant, ils
+      ne sont pas effacés. Les nouveaux tags s'ajoutent à ceux existants.\n\nSi le
+      tag n'existe pas encore, il est créé lors de l'import.\n\nAttention, les tags
+      sont sensibles à la casse. \"Chat\" et \"chat\" sont donc deux tags différents
+      lors de l'import."
   - question: Comment ajouter des personnes à mon panel ?
     answer: "Dans l'onglet \"Panel\" de votre espace, ajoutez des participants à votre
       panel selon la méthode qui vous convient le mieux :\n\n![](/images/ajout.png)\n\n*
