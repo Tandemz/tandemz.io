@@ -9,28 +9,36 @@ sections:
   title: Créer et gérer son panel
   faqitems:
   - question: Comment ajouter des personnes à mon panel ?
-    answer: "Dans l'onglet \"Panel\" de votre espace, ajoutez des participants à votre
-      panel selon la méthode qui vous convient le mieux :\n\n![](/images/ajout.png)\n\n*
-      **Ajouter les participants manuellement** :\n\n  1- Cliquez sur \"Nouveau participant\"\n\n
-      \ 2- Remplissez les champs que vous voulez. Seuls le prénom et l'email sont
-      obligatoires.\n\n  3- Cliquez sur \"Enregistrer\".\n* **Transmettre un lien
-      d'inscription public à vos participants** : vous n'avez qu'à copier le lien
-      fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter,
-      ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs
-      données.\n\n  Pour paramétrer la page d'inscription :\n\n  1- Cliquez sur \"Paramètres
-      du formulaire\"\n\n  2- Choisissez un titre, un logo, et les données que les
-      participants devront renseigner. Choisissez les tags qui seront visibles aux
-      participants dans la liste déroulante (ils pourront alors se les affecter).\n\n
-      \ 3- Cliquez sur \"Enregistrer\".\n* **Télécharger un CSV avec les données de
-      vos participants** : \n\n  1- Cliquez sur \"Import CSV\".\n\n  2- Téléchargez
-      votre fichier (format CSV uniquement, contenant une ligne d'en-tête).\n\n  3-
-      Indiquez, pour chaque colonne de votre fichier, quelle est la donnée correspondante.
-      Si votre colonne ne doit pas être importée, laissez le champ vide. Vous devez
-      obligatoirement indiquer une colonne Email identifiante. Indiquez également
-      si vous avez collecté le consentement de ces utilisateurs en amont de l'import.\n\n
-      \ 4- Votre fichier s'importe. En cas d'erreur, vous pouvez ensuite télécharger
-      le rapport d'erreur. Il vous suffit de le modifier aux données indiquées et
-      de le réimporter."
+    answer: |-
+      Dans l'onglet "Panel" de votre espace, ajoutez des participants à votre panel selon la méthode qui vous convient le mieux :
+
+      ![](/images/ajout.png)
+
+      * **Ajouter les participants manuellement** :
+
+        1- Cliquez sur "Nouveau participant"
+
+        2- Remplissez les champs que vous voulez. Seuls le prénom et l'email sont obligatoires.
+
+        3- Cliquez sur "Enregistrer".
+      * **Transmettre un lien d'inscription public à vos participants** : vous n'avez qu'à copier le lien fourni et le transmettre à votre communauté (sur vos réseaux sociaux, par Newsletter, ou autre...). Les participants s'inscrivent d'eux-mêmes et renseignent leurs données.
+
+        Pour paramétrer la page d'inscription :
+
+        1- Cliquez sur "Paramètres du formulaire"
+
+        2- Choisissez un titre, un logo, et les données que les participants devront renseigner. Choisissez les tags qui seront visibles aux participants dans la liste déroulante (ils pourront alors se les affecter).
+
+        3- Cliquez sur "Enregistrer".
+      * **Télécharger un CSV avec les données de vos participants** :
+
+        1- Cliquez sur "Import CSV".
+
+        2- Importez votre fichier (format CSV uniquement, contenant une ligne d'en-tête).
+
+        3- Indiquez, pour chaque colonne de votre fichier, quelle est la donnée correspondante. Si votre colonne ne doit pas être importée, laissez le champ vide. Vous devez obligatoirement indiquer une colonne Email identifiante. Indiquez également si vous avez collecté le consentement de ces utilisateurs en amont de l'import.
+
+        4- Votre fichier s'importe. En cas d'erreur, vous pouvez ensuite télécharger le rapport d'erreur. Il vous suffit de le modifier aux données indiquées et de le réimporter.
   - question: Comment inviter mes participants à une session ?
     answer: |-
       Votre session n'est pas encore créée ? Regardez ["Comment créer ma session ?"](#faqsession).
