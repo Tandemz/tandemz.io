@@ -8,7 +8,7 @@ sections:
   component: HeroBlock
   content: 3 billion users worldwide at your fingertips - international user research
     has never been so easy
-  image: ''
+  image: "/images/Hero.svg"
   actions:
   - label: Start recruiting
     url: ''
