@@ -17,7 +17,7 @@ sections:
   image_alt: ''
 - template: valueblock
   component: ValueBlock
-  bg: white
+  bg: gray
   type: valueblock
   section_id: Value
   title: ''
