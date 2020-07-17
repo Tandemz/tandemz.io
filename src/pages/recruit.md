@@ -12,6 +12,7 @@ sections:
   - label: Commencer à recruter
     url: "/recruitform/"
     title: Formulaire de recrutement sur les réseaux sociaux
+    button_priority: ''
   image_alt: ''
 - template: valueblock
   component: ValueBlock
@@ -52,6 +53,7 @@ sections:
     actions: []
     coming_soon: false
     image_alt: Femme mise en évidence sur un site web
+    is_beta: false
   - title: 2. Nous nous occupons de toute l'organisation
     content: Grâce à votre dashboard personnel, regardez votre planning se remplir
       et suivez l'avancement en temps réel de vos recrutements. Une question, un soucis
@@ -61,6 +63,7 @@ sections:
     actions: []
     coming_soon: false
     image_alt: Femme devans un ordinateur gérant des rendez-vous
+    is_beta: false
   - title: 3. Réalisez vos tests en toute sérénité
     content: 'Sans logistique à gérer, concentrez-vous sur l''important : comprendre
       en profondeur le comportement de vos utilisateurs et améliorer vos produits
@@ -69,6 +72,7 @@ sections:
     actions: []
     coming_soon: false
     image_alt: Personnes discutant autour d'une application
+    is_beta: false
 - template: pricingblock
   component: PricingBlock
   bg: gray
@@ -86,6 +90,7 @@ sections:
     - label: Commencer à recruter
       url: "/recruitform/"
       title: Formulaire de recrutement sur les réseaux sociaux
+      button_priority: ''
 - template: ctablock
   component: CtaBlock
   type: ctablock
@@ -96,6 +101,7 @@ sections:
   - url: "/recruitform/"
     label: Commencer à recruter
     title: Formulaire de recrutement sur les réseaux sociaux
+    button_priority: ''
 - template: featuresblock
   component: FeaturesBlock
   bg: white
@@ -105,13 +111,15 @@ sections:
   - content: Gérez votre propre panel et mixez utilisateurs existants et potentiels
       lors de vos études.
     image: "/images/Entreprises - Liste des Annonces.svg"
-    coming_soon: true
+    coming_soon: false
     actions:
     - url: "/panel/"
       label: En savoir plus
       title: Recrutement dans son panel privé
+      button_priority: ''
     title: Organisez vos sessions et vos recrutements en toute autonomie !
     image_alt: Capture d'écran de la liste des sessions de Tandemz
+    is_beta: true
   title: ''
   subtitle: ''
 menus:
