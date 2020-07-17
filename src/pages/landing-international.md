@@ -4,15 +4,15 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: User research without borders
+  title: Recrutez vos utilisateurs où qu'ils se trouvent dans le monde
   component: HeroBlock
-  content: 3 billion users worldwide at your fingertips - international user research
-    has never been so easy
+  content: Avec 3 milliards d'utilisateurs dans le monde à portée de main, la recherche
+    utilisateur à l'international n'a jamais été aussi facile !
   image: "/images/Hero.svg"
   actions:
-  - label: Start recruiting
+  - label: Commencer à recruter
     url: ''
-    title: Start recruiting
+    title: Commencer à recruter
     button_priority: ''
   image_alt: ''
 - template: valueblock
@@ -20,9 +20,9 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Recruit from anywhere
-    content: With Tandemz, reaching users on the other side of the planet is no longer
-      a dream.
+  - title: Recrutez mondialement
+    content: Avec Tandemz, atteindre des utilisateurs à l'autre bout de la planète
+      n'est plus un rêve
     icon: ''
     icon_alt: ''
   - content: Participants that you meet have to give their consent first. Other applicants
@@ -94,7 +94,8 @@ sections:
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
-keywords: user research, international, panel recruitement, user testing, interviews
+keywords: recherche utilisateur, recherche utilisateur internationale, recrutement
+  testeur, tests utilisateurs, interviews
 ogtitle: ''
 ogdescription: ''
 ogtype: website
