@@ -44,7 +44,7 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Décrivez votre profil cible
+  - title: 1. Décrivez votre profil cible
     content: Renseignez vos critères d'âge, de genre, de localisation et de centres
       d'intérêts. **Nous utilisons la puissance de ciblage des plateformes de pubs
       des réseaux sociaux pour vous trouver les participants parfaits** parmi les
@@ -54,7 +54,7 @@ sections:
     actions: []
     image_alt: Décrivez votre audience cible
     is_beta: false
-  - title: Ajoutez un questionnaire de sélection
+  - title: 2. Ajoutez un questionnaire de sélection
     content: Ajoutez des questions supplémentaires pour affiner vos critères et vous
       assurer de ne rencontrer que les bonnes personnes.
     image: "/images/illustration-screening2.svg"
@@ -62,7 +62,7 @@ sections:
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: Votre annonce est publiée sur les réseaux sociaux
+  - title: 3. Votre annonce est publiée sur les réseaux sociaux
     content: Notre algorithme génère les textes et images qui optimisent vos chances
       d'atteindre votre cible sur les réseaux sociaux avec du contenu sponsorié. Il
       s'occupe également d'ajuster les enchères pour vous assurer un recrutement rapide.
@@ -71,7 +71,7 @@ sections:
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: Sélectionnez les participants que vous souhaitez rencontrer
+  - title: 4. Sélectionnez les participants que vous souhaitez rencontrer
     content: Une fois que vous avez revu et accepté le profil d'un participant, la
       plateforme s'occupe automatiquement de la contacter, de caler un rendez-vous
       avec lui, et de lui envoyer des rappels avant votre session. Vous n'avez plus
