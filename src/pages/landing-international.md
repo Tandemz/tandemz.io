@@ -11,7 +11,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Commencer à recruter
-    url: ''
+    url: "/recruitform"
     title: Commencer à recruter
     button_priority: ''
   image_alt: ''
@@ -25,16 +25,15 @@ sections:
       n'est plus un rêve
     icon: ''
     icon_alt: ''
-  - content: Participants that you meet have to give their consent first. Other applicants
-      stay anonymised.
+  - title: Fuseaux horaires intelligents
+    content: La plateforme détecte et s'adapte au fuseaux horaires de vos participants.
     icon: ''
     icon_alt: ''
-    title: GDPR compliant studies
-  - title: Simple timezones management
-    content: The platform automatically detects and adapts to your target's timezone.  Get
-      rid of timezone headaches!
+  - content: Nous demandons et stockons le consentement de vos participants en accord
+      avec les principes RGPD.
     icon: ''
     icon_alt: ''
+    title: Respect des données
   section_id: ''
   title: ''
 - type: featuresblock
