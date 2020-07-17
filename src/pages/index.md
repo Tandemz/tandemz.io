@@ -24,19 +24,18 @@ sections:
   subtitle: ''
   valueblocks:
   - title: Gain de temps
-    content: Lancez vos sessions de recherche en quelques minutes, gagnez jusqu'à
-      2 jours sur l'organisation de vos tests et interviews utilisateurs.
+    content: Lancez vos sessions de recherche en quelques minutes et gagnez jusqu'à
+      2 jours d'organisation de vos tests et interviews utilisateurs.
     icon: "/images/Fast200h-1.png"
     icon_alt: Fléches avance rapide rouges
-  - content: N'utilisez plus qu'un outil pour organiser vos tests utilisateurs. Regroupez
-      toutes les informations de vos participants au même endroit.
+  - content: N'utilisez plus qu'un seul outil pour organiser vos tests utilisateurs.
+      Regroupez toutes les informations de vos participants au même endroit.
     icon: "/images/Simple200h-1.png"
     title: Logistique centralisée
     icon_alt: Figures géométriques organisées
   - title: Cible atteinte
-    content: Que vous recrutiez dans vos propres utilisateurs ou dans le panel de
-      Tandemz, trouvez les participants qui vous conviennent où qu'ils soient dans
-      le monde.
+    content: Que vous recrutiez dans vos utilisateurs ou dans le panel de Tandemz,
+      trouvez les participants qui vous conviennent où qu'ils soient dans le monde.
     icon: "/images/Centralized200h.png"
     icon_alt: Rond bleu central
   value_title_1: ''
@@ -51,10 +50,11 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: Gérez votre propre panel et parlez simplement avec vos utilisateurs !
-    content: 'Vos utilisateurs existants ont certainement beaucoup de choses à vous
-      dire et à vous apprendre ! Avec Tandemz, il n''y a plus rien pour se mettre
-      entre eux et vous : rencontrez-les facilement et rapidement.'
+  - title: Créez et gérez votre propre panel utilisateur
+    content: |-
+      Ayez à portée de main toutes les informations de vos participants et invitez votre communauté à rejoindre les rangs de vos beta-testeurs.
+
+      Vous voulez faire un test utilisateur ? Publiez rapidement une annonce et partagez-la à votre panel : en quelques heures, votre planning se remplit automatiquement !
     image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
@@ -65,9 +65,11 @@ sections:
     image_alt: Profils d'utilisateurs venant de plusieurs sources
     is_beta: true
   - title: Nous recrutons vos testeurs quelle que soit votre cible
-    content: Notre méthode permet de cibler précisément parmi les 3,4 milliards d'utilisateurs
-      des réseaux sociaux. Vos testeurs parfaits se trouvent certainement parmi les
-      millions d'internautes qui s'y connectent tous les jours !
+    content: Indiquez-nous vos besoins en recrutement, notre algorithme se charge
+      de publier une annonce ciblée dans les réseaux sociaux et de sélectionner pour
+      vous les meilleurs profils. Vos testeurs parfaits se trouvent certainement parmi
+      les millions d'internautes qui se connectent tous les jours sur les réseaux
+      sociaux !
     image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
