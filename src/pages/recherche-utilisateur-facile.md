@@ -46,36 +46,44 @@ sections:
   subtitle: ''
   bg: white
   featureslist:
-  - title: 1- Prépare ta session
-    content: Laisse toi guider par Tandemz dans la création de ta session et choisi
-      toutes les modalités. Tu es sûr de ne rien oublier.
-    image: "/images/Illustration - Criteria.png"
+  - title: 1- Lancez rapidement votre session
+    content: "Vous voulez faire tester votre produit ou échanger avec vos utilisateurs
+      sur leurs besoins ? \n\nEn quelques minutes, créez votre session : laissez-vous
+      guider par Tandemz pour choisir toutes les modalités (cible, lieu, date,...).
+      Soyez sûr de ne rien oublier !"
+    image: "/images/Illustration - Recruit.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: 2- Partage ta session
-    content: Dans le panel Tandemz ? Dans ton panel à toi ? Dans ta communauté ? Ou
-      bien les trois ?
-    image: "/images/illustration-screening2.svg"
+  - title: 2- Partagez votre annonce et recrutez où vous voulez
+    content: "Vous avez déjà un panel de testeurs ? Invitez-le en un clic à votre
+      session. \n\nVous voulez rencontrer des gens de votre communauté ? Partagez-leur
+      directement le lien de l'annonce.\n\nVous voulez rencontrer de nouvelles personnes,
+      que vous ne connaissez pas encore ? Le panel de Tandemz est là pour ça ! Notre
+      algorithme recrute des personnes dans votre cible directement sur les réseaux
+      sociaux.\n\nTous les participants sont simple d'accès sur Tandemz."
+    image: "/images/image-annonce.png"
     actions: []
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: 3- Attends que les participants s'inscrivent
-    content: 'Tu verras, c''est simple pour toi mais c''est encore plus simple pour
-      eux. Tu n''as rien à gérer, tout est automatique. '
-    image: "/images/illustration-ads.svg"
+  - title: 3- Regardez votre planning se remplir
+    content: Dans une interface dédiée, suivez vos participants et décidez à qui vous
+      souhaitez proposer un créneau ou non. Les participants sont autonomes pour gérer
+      leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques. Il
+      ne vous reste qu'à vous préparer pour le rendez-vous !
+    image: "/images/illustration-schedule.svg"
     actions: []
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: 4- Fais passer tes tests
-    content: |-
-      Rencontre tes participants, échange avec eux. Tu ne sais pas faire ? Fait appel à nous, on peut te filer des conseils et t'accompagner sur les premières sessions si tu veux, pour tout t'apprendre les ficelles.
-
-      C'est reparti ?
-    image: "/images/illustration-schedule.svg"
+  - title: 4- Réalisez vos tests utilisateurs
+    content: Rencontrez vos participants, échangez avec eux, faites leur tester votre
+      produit... Vous avez besoin d'aide ? Toute l'équipe Tandemz est là pour vous
+      aider et vous conseiller. Nous pouvons même vous accompagner lors de vos premiers
+      tests pour vous montrer toutes les ficelles du métier !
+    image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
     image_alt: Femme recevant de l'argent
