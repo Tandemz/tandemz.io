@@ -23,7 +23,7 @@ sections:
   title: ''
   subtitle: ''
   valueblocks:
-  - title: Gain de temps
+  - title: Gagnez du temps
     content: Lancez vos sessions de recherche en quelques minutes et gagnez jusqu'à
       2 jours d'organisation de vos tests et interviews utilisateurs.
     icon: "/images/Fast200h-1.png"
@@ -31,9 +31,9 @@ sections:
   - content: N'utilisez plus qu'un seul outil pour organiser vos tests utilisateurs.
       Regroupez toutes les informations de vos participants au même endroit.
     icon: "/images/Simple200h-1.png"
-    title: Logistique centralisée
+    title: Centralisez votre logistique
     icon_alt: Figures géométriques organisées
-  - title: Cible atteinte
+  - title: Atteignez votre cible
     content: Que vous recrutiez dans vos utilisateurs ou dans le panel de Tandemz,
       trouvez les participants qui vous conviennent où qu'ils soient dans le monde.
     icon: "/images/Centralized200h.png"
@@ -64,12 +64,12 @@ sections:
     coming_soon: false
     image_alt: Profils d'utilisateurs venant de plusieurs sources
     is_beta: true
-  - title: Nous recrutons vos testeurs quelle que soit votre cible
-    content: Indiquez-nous vos besoins en recrutement, notre algorithme se charge
-      de publier une annonce ciblée dans les réseaux sociaux et de sélectionner pour
-      vous les meilleurs profils. Vos testeurs parfaits se trouvent certainement parmi
-      les millions d'internautes qui se connectent tous les jours sur les réseaux
-      sociaux !
+  - title: Accédez à de nouveaux testeurs quelle que soit votre cible
+    content: "Renseignez vos besoins en recrutement, notre algorithme se charge de
+      publier une annonce ciblée dans les réseaux sociaux et de sélectionner pour
+      vous les meilleurs profils. \n\nVos testeurs parfaits se trouvent certainement
+      parmi les millions d'internautes qui se connectent tous les jours sur les réseaux
+      sociaux !"
     image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
