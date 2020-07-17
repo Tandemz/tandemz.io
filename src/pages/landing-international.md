@@ -39,32 +39,33 @@ sections:
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
-  title: How does it work?
+  title: Comment ça marche ?
   component: FeaturesBlock
   subtitle: ''
   bg: white
   featureslist:
-  - title: Describe your target audience
-    content: Tell us the age, gender, location and interests of your target profile.
-      **We leverage the power of social media ads targeting to find you the perfect
-      match** among the 3 billion users of Facebook, Instagram, Twitter and LinkedIn.
+  - title: Décrivez votre profil cible
+    content: Renseignez vos critères d'âge, de genre, de localisation et de centres
+      d'intérêts. **Nous utilisons la puissance de ciblage des plateformes de pubs
+      des réseaux sociaux pour vous trouver les participants parfaits** parmi les
+      3 milliards d'utilisateurs de Facebook, Twitter et LinkedIn
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
-    image_alt: Describe your target audience
+    image_alt: Décrivez votre audience cible
     is_beta: false
-  - title: Add a screening survey
-    content: You can add as many questions as you need to make sure that applicants
-      truly fit your required profile.
+  - title: Ajoutez un questionnaire de sélection
+    content: Ajoutez des questions supplémentaires pour affiner vos critères et vous
+      assurer de ne rencontrer que les bonnes personnes.
     image: "/images/illustration-screening2.svg"
     actions: []
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: We publish a sponsored post for your study
-    content: Our algorithms generates the perfect assets for your study and chooses
-      the social media network that fits it the most. It will also automatically adjust
-      the bids to ensure recruitment speed.
+  - title: Votre annonce est publiée sur les réseaux sociaux
+    content: Notre algorithme génère les textes et images qui optimisent vos chances
+      d'atteindre votre cible sur les réseaux sociaux avec du contenu sponsorié. Il
+      s'occupe également d'ajuster les enchères pour vous assurer un recrutement rapide.
     image: "/images/illustration-ads.svg"
     actions: []
     coming_soon: false
