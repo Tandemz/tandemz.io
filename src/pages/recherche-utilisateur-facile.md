@@ -4,11 +4,11 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Les tests utilisateurs facilement
+  title: Avec Tandemz, organisez des tests UX facilement
   component: HeroBlock
-  content: Arrêtez de faire tester avec vos amis, il est temps de faire tester votre
-    produit par des vrais gens. Vous ne savez pas comment faire ? Laissez-vous guider
-    par tandemz
+  content: Pour améliorer votre produit, faites tester vos fonctionnalités et récoltez
+    les besoins de vos utilisateurs sans vous compliquer la tâche. Laissez-vous guider
+    par Tandemz et rencontrez vote cible facilement.
   image: "/images/Hero.svg"
   actions:
   - label: Rejoindre la bêta
@@ -21,19 +21,21 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Faites tester à votre cible
-    content: Arrêtez de faire tester à vtre famille ou vos amis, faite enfin tester
-      à votre vraie cible
+  - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
+      lancer une session se fait très rapidement et vous pouvez même créer et gérer
+      votre panel très facilement.
     icon: ''
     icon_alt: ''
-  - content: Promis, en trois minutes tu lances ta session. Tu peux même commencer
-      à te faire ton panel facilement
+    title: Utilisez un outil simplifié au maximum
+  - title: Faites tester à votre cible facilement
+    content: Que ce soit dans votre communauté, dans votre panel ou dans le panel
+      de Tandemz, vous trouverez facilement les testeurs parfaitement dans votre cible.
     icon: ''
     icon_alt: ''
-    title: Prise en main facile
-  - title: Apprends à mener tes tests
-    content: Tu ne sais pas quelle méthodologie te convient le plus ? On te conseille,
-      laisse toi guider par Tandemz
+  - title: Laissez-vous guider par l'assistant Tandemz
+    content: Vous débutez en recherche utilisateur ? Vous avez besoin de conseil ?
+      Tandemz est l'outil qui vous guide pour vous aider à construire votre recherche
+      utilisateur.
     icon: ''
     icon_alt: ''
   section_id: ''
@@ -69,20 +71,20 @@ sections:
     image_alt: Adding screening survey questions
     is_beta: false
   - title: 3- Regardez votre planning se remplir
-    content: Dans une interface dédiée, suivez vos participants et décidez à qui vous
-      souhaitez proposer un créneau ou non. Les participants sont autonomes pour gérer
-      leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques. Il
-      ne vous reste qu'à vous préparer pour le rendez-vous !
+    content: "Dans une interface dédiée, suivez vos participants et décidez à qui
+      vous souhaitez proposer un créneau ou non. Les participants sont autonomes pour
+      gérer leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques.
+      \n\nIl ne vous reste qu'à vous préparer pour le rendez-vous !"
     image: "/images/illustration-schedule.svg"
     actions: []
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: 4- Réalisez vos tests utilisateurs
-    content: Rencontrez vos participants, échangez avec eux, faites leur tester votre
-      produit... Vous avez besoin d'aide ? Toute l'équipe Tandemz est là pour vous
-      aider et vous conseiller. Nous pouvons même vous accompagner lors de vos premiers
-      tests pour vous montrer toutes les ficelles du métier !
+  - title: 4- Menez vos tests utilisateurs
+    content: "Rencontrez vos participants, échangez avec eux, faites leur tester votre
+      produit... \n\nVous avez besoin d'aide ? Nous sommes là pour vous conseiller
+      et même vous accompagner lors de vos premiers tests pour vous montrer toutes
+      les ficelles du métier !"
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
@@ -91,7 +93,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: C'est parti pour ta première session ?
+  title: Prêt à faire de la recherche utilisateur facilement ?
   component: CtaBlock
   actions:
   - label: Rejoindre la bêta
