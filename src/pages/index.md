@@ -52,7 +52,7 @@ sections:
   featureslist:
   - title: Créez et gérez votre propre panel utilisateur
     content: |-
-      Ayez à portée de main toutes les informations de vos participants et invitez votre communauté à rejoindre les rangs de vos beta-testeurs.
+      Ayez à portée de main toutes les informations de vos participants et invitez votre communauté à rejoindre votre panel.
 
       Vous voulez faire un test utilisateur ? Publiez rapidement une annonce et partagez-la à votre panel : en quelques heures, votre planning se remplit automatiquement !
     image: "/images/Illustration - Connect.svg"
