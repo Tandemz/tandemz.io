@@ -71,10 +71,11 @@ sections:
     coming_soon: false
     image_alt: Deux personnes qui discutent
     is_beta: false
-  - title: Choose who you want to meet
-    content: Once you've reviewed and validated an applicant's answer, the platform
-      will automatically take care of scheduling them and sending them reminders,
-      so that you can focus on preparing your study content!
+  - title: Sélectionnez les participants que vous souhaitez rencontrer
+    content: Une fois que vous avez revu et accepté le profil d'un participant, la
+      plateforme s'occupe automatiquement de la contacter, de caler un rendez-vous
+      avec lui, et de lui envoyer des rappels avant votre session. Vous n'avez plus
+      à vous occuper de rien !
     image: "/images/illustration-schedule.svg"
     actions: []
     coming_soon: false
