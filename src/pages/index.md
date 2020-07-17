@@ -3,11 +3,11 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Tandemz, le catalyseur de votre recherche utilisateur
+  title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
   component: HeroBlock
   content: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
     Automatisez toute l'organisation de vos tests et la gestion de votre panel.
-  image: ''
+  image: "/images/Hero.svg"
   actions:
   - label: Rejoindre la beta
     url: https://app.tandemz.io
@@ -23,19 +23,20 @@ sections:
   title: ''
   subtitle: ''
   valueblocks:
-  - title: Recrutement rapide
-    content: Atteignez rapidement des participants dans votre cible pour vos études,
-      qu'ils vous connaissent ou non.
+  - title: Gain de temps
+    content: Lancez vos sessions de recherche en quelques minutes, gagnez jusqu'à
+      2 jours sur l'organisation de vos tests et interviews utilisateurs.
     icon: "/images/Fast200h-1.png"
     icon_alt: Fléches avance rapide rouges
-  - content: Passez moins de temps sur la logistique, et plus de temps à comprendre
-      les besoins de vos utilisateurs !
+  - content: N'utilisez plus qu'un outil pour organiser vos tests utilisateurs. Regroupez
+      toutes les informations de vos participants au même endroit.
     icon: "/images/Simple200h-1.png"
-    title: Organisation simplifiée
+    title: Logistique centralisée
     icon_alt: Figures géométriques organisées
-  - title: Suivi centralisé
-    content: Regroupez toutes les données de votre recherche et de vos participants.
-      Ayez enfin une vision globale de vos process.
+  - title: Cible atteinte
+    content: Que vous recrutiez dans vos propres utilisateurs ou dans le panel de
+      Tandemz, trouvez les participants qui vous conviennent où qu'ils soient dans
+      le monde.
     icon: "/images/Centralized200h.png"
     icon_alt: Rond bleu central
   value_title_1: ''
@@ -138,11 +139,11 @@ menus:
     title: Home
     weight: 1
 template: home
-title: Tandemz, le catalyseur de vos tests utilisateurs.
+title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
 description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
   Automatisez toute l'organisation de vos tests et la gestion de votre panel.
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
-ogtitle: Tandemz, le catalyseur de vos tests utilisateurs.
+ogtitle: Avec Tandemz, organisez vos tests UX en un clin d'oeil
 ogdescription: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
   Automatisez toute l'organisation de vos tests et la gestion de votre panel.
 ogtype: website
