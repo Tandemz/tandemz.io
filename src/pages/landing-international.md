@@ -94,8 +94,8 @@ sections:
     url: "/recruitform"
   subtitle: ''
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
+description: Avec 3 milliards d'utilisateurs dans le monde à portée de main, rencontrez
+  vos utilisateurs à l'international facilement !
 keywords: recherche utilisateur, recherche utilisateur internationale, recrutement
   testeur, tests utilisateurs, interviews
 ogtitle: ''
