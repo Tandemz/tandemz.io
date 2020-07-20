@@ -177,11 +177,9 @@ sections:
       au survol en haut à droite.\n7. Passez à l'étape suivante\n8. Publiez l'annonce\n\nUne
       fois votre annonce publiée et partagée, vos participants verront systématiquement
       le questionnaire, et ne pourront pas choisir de créneau de rendez-vous tant
-      que vous n'aurez pas vu leurs réponses et validé leur profil.\n\nVous pouvez
-      valider les profils des participants dans l'onglet \"**suivi de participants**\"."
-  - question: Comment ajouter une question à choix multiple dans un questionnaire
-      ?
-    answer: Dans votre questionnaire de sélection,
+      que vous n'aurez pas vu leurs réponses et validé leur profil. Editer votre questionnaire
+      de sélection n'aura pas d'impact sur les réponses déjà enregistrées.\n\nVous
+      pouvez valider les profils des participants dans l'onglet \"**suivi de participants**\"."
   - question: Comment suivre l'avancement de ma session ?
     answer: "En cliquant sur votre session, vous disposez de deux onglets : Overview
       et Suivi des participants.\n\n###### Overview\n\nConsultez ici vos différents
