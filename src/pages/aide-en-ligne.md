@@ -152,8 +152,8 @@ sections:
       de votre panel sélectionnés seront envoyées à cet instant.\n\nVous avez besoin
       d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution
       pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io."
-  - question: Comment filtrer ou en savoir plus sur les participants avant de les
-      rencontrer ?
+  - question: Comment en savoir plus sur les participants avant de les rencontrer
+      ?
     answer: "Lorsque vous créez une session de recherche utilisateur avec vos participants,
       vous pouvez avoir besoin d'affiner votre connaissance de leur profil pour mieux
       sélectionner ceux que vous voulez rencontrer.\n\nVous pouvez faire cela en ajoutant
