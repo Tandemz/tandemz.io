@@ -6,9 +6,9 @@ sections:
   section_id: hero
   title: Avec Tandemz, organisez des tests UX facilement
   component: HeroBlock
-  content: Pour améliorer votre produit, faites tester vos fonctionnalités et récoltez
-    les besoins de vos utilisateurs sans vous compliquer la tâche. Laissez-vous guider
-    par Tandemz et rencontrez vote cible facilement.
+  content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
+    compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
+    facilement.
   image: "/images/Hero.svg"
   actions:
   - label: Rejoindre la bêta
@@ -16,6 +16,7 @@ sections:
     title: Rejoindre la bêta
     button_priority: ''
   image_alt: ''
+  embed_youtube_video_id: ''
 - template: valueblock
   component: ValueBlock
   bg: gray
@@ -23,13 +24,13 @@ sections:
   valueblocks:
   - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
       lancer une session se fait très rapidement et vous pouvez même créer et gérer
-      votre panel très facilement.
+      votre panel.
     icon: ''
     icon_alt: ''
     title: Utilisez un outil simplifié au maximum
   - title: Faites tester à votre cible facilement
-    content: Que ce soit dans votre communauté, dans votre panel ou dans le panel
-      de Tandemz, vous trouverez facilement les testeurs parfaitement dans votre cible.
+    content: Dans votre communauté, dans votre panel ou dans le panel de Tandemz,
+      vous trouverez facilement des testeurs dans votre cible.
     icon: ''
     icon_alt: ''
   - title: Laissez-vous guider par l'assistant Tandemz
@@ -71,10 +72,10 @@ sections:
     image_alt: Adding screening survey questions
     is_beta: false
   - title: 3- Regardez votre planning se remplir
-    content: "Dans une interface dédiée, suivez vos participants et décidez à qui
-      vous souhaitez proposer un créneau ou non. Les participants sont autonomes pour
-      gérer leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques.
-      \n\nIl ne vous reste qu'à vous préparer pour le rendez-vous !"
+    content: |-
+      Dans une interface dédiée, suivez vos participants et décidez à qui vous proposez un créneau. Les participants sont autonomes pour gérer leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques.
+
+      Il ne vous reste qu'à vous préparer pour le rendez-vous !
     image: "/images/illustration-schedule.svg"
     actions: []
     coming_soon: false

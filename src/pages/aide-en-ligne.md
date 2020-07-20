@@ -113,36 +113,45 @@ sections:
   title: Créer et gérer une session
   faqitems:
   - question: Comment créer une session ?
-    answer: |-
-      Cliquez sur "Nouvelle session" (ou "Créer une session" si c'est votre première !) puis renseignez les informations de votre session (avec une * celles obligatoires) :
-
-      ###### Paramètres de l'annonce
-
-      * __Titre de la session*__ : il s'agit du titre qui s'affiche dans les mails et dans la page d'inscription pour les participants.
-      * __Description*__ : vous pouvez y écrire un petit texte explicatif pour vos participants, afin de leur expliquer le déroulé ou bien l'objectif de votre session par exemple.
-      * **Contrepartie** : indiquez ce que le dédommagement que vous proposez au participant. Si vous n'offrez pas de dédommagement, laissez le champ libre.
-
-      ###### Cible de participants
-
-      * __Nombre de participants*__ : nombre de personnes que vous recherchez pour votre étude.
-      * **Origine des participants** : vous pouvez choisir de recruter vos participants dans votre panel, hors de votre panel (chez Tandemz), dans les deux ou dans aucun des deux.
-
-        Si vous optez pour le recrutement hors de votre panel, indiquez-nous les critères que vous recherchez. Nous vous recontacterons dans les plus brefs délais.
-
-        Si vous optez pour le recrutement dans votre panel, vous pouvez alors éditer la liste des personnes qui seront notifiées lors de la publication de l'annonce en incluant / excluant des tags ou en les décochant manuellement dans "Voir / modifier la liste des destinataires" et personnaliser le mail qui leur sera envoyé.
-
-        Si vous ne souhaitez pas envoyer d'invitation tout de suite ou simplement transmettre le lien de l'étude à des personnes externes, ne sélectionnez rien et passez à la suite !
-
-      ###### Formats et disponibilités
-
-      * __Durée d'une rencontre*__ : le temps de l'étude pour le participant
-      * __Intervalle minimum*__ : la durée de la pause entre deux créneaux possibles
-      * __Créneaux*__ : choisissez l'heure et la date de vos disponibilités pour la session. Vous devez indiquer au moins autant de créneau qu'il y a de participants recherchés.
-      * __Format de rencontre*__ : choisissez la ou les modalités de l'étude ainsi que les éventuelles instructions. Si vous en sélectionnez plusieurs, le choix sera laissé au participant lors de son inscription.
-
-      Prévisualisez votre annonce. Tout vous semble bon ? Alors publiez. Les invitations aux participants de votre panel sélectionnés seront envoyées à cet instant.
-
-      Vous avez besoin d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io.
+    answer: "Cliquez sur \"Nouvelle session\" (ou \"Créer une session\" si c'est votre
+      première !) puis renseignez les informations de votre session (avec une * celles
+      obligatoires) :\n\n###### Paramètres de l'annonce\n\n* __Titre de la session*__
+      : il s'agit du titre qui s'affiche dans les mails et dans la page d'inscription
+      pour les participants.\n* __Description*__ : vous pouvez y écrire un petit texte
+      explicatif pour vos participants, afin de leur expliquer le déroulé ou bien
+      l'objectif de votre session par exemple.\n* **Contrepartie** : indiquez ce que
+      le dédommagement que vous proposez au participant. Si vous n'offrez pas de dédommagement,
+      laissez le champ libre.\n\n###### Cible de participants\n\n* __Nombre de participants*__
+      : nombre de personnes que vous recherchez pour votre étude.\n* **Origine des
+      participants** : vous pouvez choisir de recruter vos participants dans votre
+      panel, hors de votre panel (chez Tandemz), dans les deux ou dans aucun des deux.\n\n
+      \ Si vous optez pour le recrutement hors de votre panel, indiquez-nous les critères
+      que vous recherchez. Nous vous recontacterons dans les plus brefs délais.\n\n
+      \ Si vous optez pour le recrutement dans votre panel, vous pouvez alors éditer
+      la liste des personnes qui seront notifiées lors de la publication de l'annonce
+      en incluant / excluant des tags ou en les décochant manuellement dans \"Voir
+      / modifier la liste des destinataires\" et personnaliser le mail qui leur sera
+      envoyé.\n\n  Si vous ne souhaitez pas envoyer d'invitation tout de suite ou
+      simplement transmettre le lien de l'étude à des personnes externes, ne sélectionnez
+      rien et passez à la suite !\n\n###### Questionnaire de sélection (optionnel)\n\nSi
+      vous le souhaitez, vous pouvez ajouter un questionnaire à votre annonce afin
+      d'obtenir plus d'information au sujet de vos participants et vous aider à sélectionner
+      les bons profils.\n\nAjoutez autant de questions que vous le souhaitez, parmi
+      les 3 types suivant :\n\n* **Choix multiples :** Proposez à vos participants
+      de choisir leur(s) réponse(s) parmi une liste pré-déterminée de choix. Vous
+      pouvez autoriser la sélection de réponses multiples, ainsi que limiter la quantité
+      de réponses à choisir.\n* **Texte Long**\n* **Texte Court** \n\n###### Formats
+      et disponibilités\n\n* __Durée d'une rencontre*__ : le temps de l'étude pour
+      le participant\n* __Intervalle minimum*__ : la durée de la pause entre deux
+      créneaux possibles\n* __Créneaux*__ : choisissez l'heure et la date de vos disponibilités
+      pour la session. Vous devez indiquer au moins autant de créneau qu'il y a de
+      participants recherchés.\n* __Format de rencontre*__ : choisissez la ou les
+      modalités de l'étude ainsi que les éventuelles instructions. Si vous en sélectionnez
+      plusieurs, le choix sera laissé au participant lors de son inscription.\n\nPrévisualisez
+      votre annonce. Tout vous semble bon ? Alors publiez. Les invitations aux participants
+      de votre panel sélectionnés seront envoyées à cet instant.\n\nVous avez besoin
+      d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution
+      pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io."
   - question: Comment suivre l'avancement de ma session ?
     answer: "En cliquant sur votre session, vous disposez de deux onglets : Overview
       et Suivi des participants.\n\n###### Overview\n\nConsultez ici vos différents
