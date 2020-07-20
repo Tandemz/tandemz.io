@@ -14,7 +14,7 @@ sections:
     title: Formulaire de recrutement sur les réseaux sociaux
     button_priority: ''
   image_alt: ''
-  embed_youtube_video_id: KOOupubGqhs
+  embed_youtube_video_id: ''
 - template: valueblock
   component: ValueBlock
   bg: white
