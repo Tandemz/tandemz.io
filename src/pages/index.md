@@ -7,7 +7,7 @@ sections:
   component: HeroBlock
   content: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
     Automatisez toute l'organisation de vos tests et la gestion de votre panel.
-  image: "/images/Hero.svg"
+  image: ''
   actions:
   - label: Rejoindre la beta
     url: https://app.tandemz.io
@@ -15,6 +15,7 @@ sections:
     button_priority: ''
   imageAlt: ''
   image_alt: ''
+  embed_youtube_video_id: KOOupubGqhs
 - template: valueblock
   component: ValueBlock
   bg: gray
