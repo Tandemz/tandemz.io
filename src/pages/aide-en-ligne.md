@@ -152,7 +152,8 @@ sections:
       de votre panel sélectionnés seront envoyées à cet instant.\n\nVous avez besoin
       d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution
       pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io."
-  - question: Comment ajouter un questionnaire pour filtrer les profils ?
+  - question: Comment filtrer ou en savoir plus sur les participants avant de les
+      rencontrer ?
     answer: "Lorsque vous créez une session de recherche utilisateur avec vos participants,
       vous pouvez avoir besoin d'affiner votre connaissance de leur profil pour mieux
       sélectionner ceux que vous voulez rencontrer.\n\nVous pouvez faire cela en ajoutant
@@ -173,7 +174,14 @@ sections:
       et supprimer](/images/screenshot-2020-07-20-at-18-59-32.png \"Une question survolée
       entourée des icônes pour réordonner, dupliquer et supprimer\")\n6. Dupliquez
       ou supprimez vos questions avec les icônes de copie et de poubelle qui apparaissent
-      au survol en haut à droite."
+      au survol en haut à droite.\n7. Passez à l'étape suivante\n8. Publiez l'annonce\n\nUne
+      fois votre annonce publiée et partagée, vos participants verront systématiquement
+      le questionnaire, et ne pourront pas choisir de créneau de rendez-vous tant
+      que vous n'aurez pas vu leurs réponses et validé leur profil.\n\nVous pouvez
+      valider les profils des participants dans l'onglet \"**suivi de participants**\"."
+  - question: Comment ajouter une question à choix multiple dans un questionnaire
+      ?
+    answer: Dans votre questionnaire de sélection,
   - question: Comment suivre l'avancement de ma session ?
     answer: "En cliquant sur votre session, vous disposez de deux onglets : Overview
       et Suivi des participants.\n\n###### Overview\n\nConsultez ici vos différents
