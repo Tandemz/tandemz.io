@@ -11,9 +11,9 @@ sections:
     sur votre recherche utilisateur.
   image: ''
   actions:
-  - label: Rejoindre la beta
+  - label: Créer mon panel
     url: https://app.tandemz.io
-    title: Beta de l'application Tandemz
+    title: Rejoindre la bêta
     button_priority: ''
   image_alt: ''
   embed_youtube_video_id: KOOupubGqhs
@@ -76,9 +76,9 @@ sections:
     early adopters '
   subtitle: ''
   actions:
-  - label: Rejoindre la bêta gratuite
+  - label: Créer mon panel
     url: https://app.tandemz.io
-    title: Beta de l'application Tandemz
+    title: Rejoindre la bêta
     button_priority: ''
 menus:
   solutions:
