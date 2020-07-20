@@ -10,7 +10,7 @@ export default class HeroBlock extends React.Component {
       <section
         id={_.get(this.props, 'section.section_id')}
         className={classnames(
-          'block hero-block bg-accent outer',
+          'block hero-block bg-white outer',
           _.get(this.props, 'section.className'),
         )}
       >
@@ -54,7 +54,7 @@ export default class HeroBlock extends React.Component {
                       <Link
                         key={action_idx}
                         to={safePrefix(_.get(action, 'url'))}
-                        className="button white large"
+                        className="button large"
                         title={_.get(action, 'title')}
                         onClick={() =>
                           sendEvent('click', 'Contact', _.get(action, 'label'))
