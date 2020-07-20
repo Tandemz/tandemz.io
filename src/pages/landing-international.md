@@ -85,7 +85,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Prêt·e à lancer votre recherche utilisateur à l'international ?
+  title: Prêt à lancer votre recherche utilisateur à l'international ?
   component: CtaBlock
   actions:
   - label: Trouver des participants
