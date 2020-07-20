@@ -10,7 +10,7 @@ sections:
     Automatisez toute l'organisation de vos tests et la gestion de votre panel.
   image: ''
   actions:
-  - label: Rejoindre la bêta
+  - label: Organiser mes tests UX
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
@@ -133,7 +133,7 @@ sections:
   title: Faites de la recherche utilisateur un réflexe
   component: CtaBlock
   actions:
-  - label: Rejoindre la beta
+  - label: Organiser mes tests UX
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
