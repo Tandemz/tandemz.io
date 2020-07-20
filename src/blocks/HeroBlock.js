@@ -24,6 +24,21 @@ export default class HeroBlock extends React.Component {
                 />
               </div>
             )}
+            {_.get(this.props, 'section.embed_youtube_video_id') && (
+              <div className="cell hero-preview">
+                <iframe
+                  width="560"
+                  height="315"
+                  src={`https://www.youtube-nocookie.com/embed/${_.get(
+                    this.props,
+                    'section.embed_youtube_video_id',
+                  )}`}
+                  frameborder="0"
+                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
+            )}
             <div className="cell block-content">
               <h1 className="block-title">
                 {markdownify(_.get(this.props, 'section.title'))}
