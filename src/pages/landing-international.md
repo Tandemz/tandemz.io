@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Recrutez vos utilisateurs où qu'ils se trouvent dans le monde
+  title: Recrutez vos utilisateurs partout dans le monde
   component: HeroBlock
   content: Avec 3 milliards d'utilisateurs dans le monde à portée de main, la recherche
     utilisateur à l'international n'a jamais été aussi facile !
@@ -15,18 +15,19 @@ sections:
     title: Commencer à recruter
     button_priority: ''
   image_alt: ''
+  embed_youtube_video_id: ''
 - template: valueblock
   component: ValueBlock
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Recrutez mondialement
+  - title: Panel mondial
     content: Avec Tandemz, atteindre des utilisateurs à l'autre bout de la planète
-      n'est plus un rêve
+      n'est plus un rêve !
     icon: ''
     icon_alt: ''
   - title: Fuseaux horaires intelligents
-    content: La plateforme détecte et s'adapte au fuseaux horaires de vos participants.
+    content: La plateforme détecte et s'adapte au fuseau horaire de chaque participant.
     icon: ''
     icon_alt: ''
   - content: Nous demandons et stockons le consentement de vos participants en accord
@@ -46,9 +47,9 @@ sections:
   featureslist:
   - title: 1. Décrivez votre profil cible
     content: Renseignez vos critères d'âge, de genre, de localisation et de centres
-      d'intérêts. **Nous utilisons la puissance de ciblage des plateformes de pubs
-      des réseaux sociaux pour vous trouver les participants parfaits** parmi les
-      3 milliards d'utilisateurs de Facebook, Twitter et LinkedIn
+      d'intérêts. **Nous utilisons la puissance de ciblage des réseaux sociaux pour
+      vous trouver les participants parfaits** parmi les 3 milliards d'utilisateurs
+      de Facebook, Twitter et LinkedIn
     image: "/images/Illustration - Criteria.png"
     coming_soon: false
     actions: []
@@ -73,7 +74,7 @@ sections:
     is_beta: false
   - title: 4. Sélectionnez les participants que vous souhaitez rencontrer
     content: Une fois que vous avez revu et accepté le profil d'un participant, la
-      plateforme s'occupe automatiquement de la contacter, de caler un rendez-vous
+      plateforme s'occupe automatiquement de le contacter, de programmer un rendez-vous
       avec lui, et de lui envoyer des rappels avant votre session. Vous n'avez plus
       à vous occuper de rien !
     image: "/images/illustration-schedule.svg"
@@ -84,13 +85,13 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Want to take your international user research to the next level?
+  title: Prêt·e à lancer votre recherche utilisateur à l'international ?
   component: CtaBlock
   actions:
-  - label: Start recruiting
-    title: Start recruiting
+  - label: Trouver des participants
+    title: Trouvez des participants
     button_priority: ''
-    url: ''
+    url: "/recruitform"
   subtitle: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
