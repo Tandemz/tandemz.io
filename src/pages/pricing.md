@@ -100,7 +100,7 @@ sections:
   section_id: cta
   title: Faites de la recherche utilisateur un réflexe
   actions:
-  - label: Rejoindre la Beta
+  - label: Organiser mes tests UX
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
