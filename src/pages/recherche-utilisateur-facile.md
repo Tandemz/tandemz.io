@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Avec Tandemz, organisez des tests UX facilement
+  title: Les tests UX pour tous avec Tandemz
   component: HeroBlock
   content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
     compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
@@ -30,7 +30,7 @@ sections:
     title: Utilisez un outil simplifié au maximum
   - title: Faites tester à votre cible facilement
     content: Dans votre communauté, dans votre panel ou dans le panel de Tandemz,
-      vous trouverez facilement des testeurs dans votre cible.
+      vous trouverez sans peine des testeurs dans votre cible.
     icon: ''
     icon_alt: ''
   - title: Laissez-vous guider par l'assistant Tandemz
