@@ -94,13 +94,13 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Prêt à faire de la recherche utilisateur facilement ?
+  title: Prêt à rencontrer vos utilisateurs ?
   component: CtaBlock
   actions:
-  - label: Rejoindre la bêta
+  - label: Je me lance
     title: Rejoindre la bêta
     button_priority: ''
-    url: ''
+    url: https://app.tandemz.io/trouver-des-participants
   subtitle: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
