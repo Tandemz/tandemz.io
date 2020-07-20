@@ -14,15 +14,9 @@ sections:
   - label: Rejoindre la beta
     url: https://app.tandemz.io
     title: Beta de l'application Tandemz
+    button_priority: ''
   image_alt: ''
-- template: imageblock
-  component: ImageBlock
-  bg: white
-  type: imageblock
-  image: "/images/Entreprises - Liste des Annonces.svg"
-  section_id: Image
-  title: Organisez vos interviews et tests utilisateurs en quelques clics
-  image_alt: Capture d'écran de la liste des sessions Tandemz
+  embed_youtube_video_id: KOOupubGqhs
 - type: featuresblock
   template: featuresblock
   section_id: Features
@@ -85,6 +79,7 @@ sections:
   - label: Rejoindre la bêta gratuite
     url: https://app.tandemz.io
     title: Beta de l'application Tandemz
+    button_priority: ''
 menus:
   solutions:
     title: Gestion de panel
