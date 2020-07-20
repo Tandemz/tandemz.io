@@ -4,14 +4,14 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Les tests UX pour tous avec Tandemz
+  title: Interrogez vous-même vos utilisateurs
   component: HeroBlock
   content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
     compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
     facilement.
   image: "/images/Hero.svg"
   actions:
-  - label: Rejoindre la bêta
+  - label: Je me lance
     url: ''
     title: Rejoindre la bêta
     button_priority: ''
