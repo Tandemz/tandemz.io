@@ -10,9 +10,9 @@ sections:
     utilisateur à l'international n'a jamais été aussi facile !
   image: "/images/Hero.svg"
   actions:
-  - label: Commencer à recruter
+  - label: Trouver des participants
     url: "/recruitform"
-    title: Commencer à recruter
+    title: Trouver des participants
     button_priority: ''
   image_alt: ''
   embed_youtube_video_id: ''
