@@ -12,7 +12,7 @@ sections:
   image: ''
   actions:
   - label: Créer mon panel
-    url: https://app.tandemz.io
+    url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
   image_alt: ''
@@ -77,7 +77,7 @@ sections:
   subtitle: ''
   actions:
   - label: Créer mon panel
-    url: https://app.tandemz.io
+    url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
 menus:
