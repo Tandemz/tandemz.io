@@ -17,7 +17,7 @@ sections:
   embed_youtube_video_id: ''
 - template: valueblock
   component: ValueBlock
-  bg: white
+  bg: gray
   type: valueblock
   section_id: why-social
   title: ''
