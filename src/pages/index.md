@@ -11,7 +11,7 @@ sections:
   image: ''
   actions:
   - label: Rejoindre la beta
-    url: https://app.tandemz.io
+    url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
   imageAlt: ''
