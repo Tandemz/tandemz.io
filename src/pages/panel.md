@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: overlap-padding
+  className: bg-img
   title: Gérez votre propre panel d'utilisateurs
   component: HeroBlock
   content: Organisez en un clin d'oeil vos entretiens et tests UX avec vos utilisateurs
