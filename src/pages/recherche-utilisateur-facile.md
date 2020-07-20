@@ -11,8 +11,8 @@ sections:
     facilement.
   image: "/images/Hero.svg"
   actions:
-  - label: Je me lance
-    url: ''
+  - label: Se lancer
+    url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
   image_alt: ''
@@ -97,7 +97,7 @@ sections:
   title: Prêt à rencontrer vos utilisateurs ?
   component: CtaBlock
   actions:
-  - label: Je me lance
+  - label: Se lancer
     title: Rejoindre la bêta
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
