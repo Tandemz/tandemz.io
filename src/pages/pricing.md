@@ -33,6 +33,7 @@ sections:
     - label: Commencer à recruter
       url: "/recruitform/"
       title: Formulaire de recrutement
+      button_priority: ''
   - title: Gestion de panel Beta
     price: Gratuit
     details: |-
@@ -44,9 +45,10 @@ sections:
       * Lien d'inscription public à votre panel
     highlight: true
     actions:
-    - label: Rejoindre la beta
-      url: https://app.tandemz.io
+    - label: Créer mon panel
+      url: https://app.tandemz.io/trouver-des-participants
       title: Créez un compte sur Tandemz
+      button_priority: ''
   - title: Gestion de panel Premium
     price: Abonnement à venir
     details: |-
@@ -62,6 +64,7 @@ sections:
     - label: Tenez-moi au courant
       url: "#newsletter"
       title: Contacter Tandemz
+      button_priority: ''
 - template: faqblock
   component: FaqBlock
   bg: gray
@@ -98,8 +101,9 @@ sections:
   title: Faites de la recherche utilisateur un réflexe
   actions:
   - label: Rejoindre la Beta
-    url: https://app.tandemz.io
+    url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
+    button_priority: ''
   subtitle: ''
 ogtitle: ''
 ogdescription: ''
