@@ -39,6 +39,12 @@ fields:
   config:
     required: false
   label: Image Alt
+- name: embed_youtube_video_id
+  type: text
+  config:
+    required: false
+  label: Id youtube de la vidéo
+  description: 'Si non renseigné, aucune video ne sera ajouté<br>Ex: KOOupubGqhs'
 - type: field_group_list
   name: actions
   label: Action Buttons
