@@ -152,6 +152,28 @@ sections:
       de votre panel sélectionnés seront envoyées à cet instant.\n\nVous avez besoin
       d'ajouter un questionnaire de sélection à votre annonce ? Nous avons une solution
       pour vous ! Contactez-nous par tchat ou par mail à contact@tandemz.io."
+  - question: Comment ajouter un questionnaire pour filtrer les profils ?
+    answer: "Lorsque vous créez une session de recherche utilisateur avec vos participants,
+      vous pouvez avoir besoin d'affiner votre connaissance de leur profil pour mieux
+      sélectionner ceux que vous voulez rencontrer.\n\nVous pouvez faire cela en ajoutant
+      des questions à l'étape **\"Questionnaire de sélection\".** Cette étape est
+      facultative :\n\n* si vous ne mettez pas de questions, vos participants auront
+      directement accès aux créneaux de votre session pour prendre rendez-vous avec
+      vous.\n* si vous ajoutez des questions, vos participants devront d'abord y répondre.
+      Vous pourrez décider de si vous souhaitez leur proposer un rendez-vous ou non
+      en fonction de leurs réponses.\n\n1. Cliquez sur le bouton **\"Ajouter une question\"**\n2.
+      Choisissez dans la dropdown en haut à gauche le type de réponse que vous attendez
+      à votre question (choix multiples, texte court, texte long)  \n   ![Choix de
+      type de question](/images/screenshot-2020-07-20-at-18-52-25.png \"Choix de type
+      de question\")\n3. Cochez en haut à droite la mention \"obligatoire\" si besoin.
+      Si vous ne la cochez pas, vos participants seront libres de sauter cette question\n4.
+      Remplissez l'intitulé de votre question\n5. Ordonnez vos questions comme bon
+      vous semble avec les icônes de flèches qui apparaissent au survol en haut à
+      gauche.  \n   ![Une question survolée entourée des icônes pour réordonner, dupliquer
+      et supprimer](/images/screenshot-2020-07-20-at-18-59-32.png \"Une question survolée
+      entourée des icônes pour réordonner, dupliquer et supprimer\")\n6. Dupliquez
+      ou supprimez vos questions avec les icônes de copie et de poubelle qui apparaissent
+      au survol en haut à droite."
   - question: Comment suivre l'avancement de ma session ?
     answer: "En cliquant sur votre session, vous disposez de deux onglets : Overview
       et Suivi des participants.\n\n###### Overview\n\nConsultez ici vos différents
@@ -161,21 +183,21 @@ sections:
       d'inscription à la session, le mode édition de la session (crayon) et la prévisualisation
       :\n\n![](/images/overview.png)\n\n###### Suivi des participants\n\nGérez ici
       vos recrutements dans ce tableau à colonnes :\n\n* **Contactés** : personnes
-      que vous avez invitées à votre session mais n’ayant pas encore répondu. \n*
-      **A traiter** : personnes ayant répondu au questionnaire de sélection de votre
-      annonce. Cliquez sur la carte pour voir le détail de leurs réponses. Vous devez
-      choisir de leur proposer un créneau ou bien d'écarter leur profil en cliquant
-      sur les boutons correspondants. Vous pouvez également faire glisser les cartes
-      dans la colonne correspondante à votre choix.\n* **Rdv proposés** : personnes
-      à qui vous avez proposé un créneau (uniquement dans le cas d'annonces avec un
-      questionnaire de sélection).\n* **Rdv planifiés** : dès qu'une personne s'inscrit
-      à un créneau, elle apparaît dans cette colonne. Si votre annonce ne possède
-      pas de questionnaire de sélection, les participants passeront donc automatiquement
-      de la colonne Contactés à la colonne Rdv planifiés.\n* **Rdv passés** : les
-      personnes que vous avez déjà rencontrées apparaissent automatiquement dans cette
-      colonne. Cliquez sur la carte : vous pouvez indiquer la personne comme rémunérée
-      si vous lui avez versé son dédommagement, ou bien indiquer qu'elle n'est pas
-      venue."
+      que vous avez invitées à votre session mais n’ayant pas encore répondu.\n* **A
+      traiter** : personnes ayant répondu au questionnaire de sélection de votre annonce.
+      Cliquez sur la carte pour voir le détail de leurs réponses.  \n  ![](/images/screenshot-2020-07-20-at-19-04-45.png)
+      \ \n  Vous devez choisir de leur proposer un créneau ou bien d'écarter leur
+      profil en cliquant sur les boutons correspondants. Vous pouvez également faire
+      glisser les cartes (drag and drop) dans la colonne correspondante à votre choix.\n*
+      **Rdv proposés** : personnes à qui vous avez proposé un créneau (uniquement
+      dans le cas d'annonces avec un questionnaire de sélection).\n* **Rdv planifiés**
+      : dès qu'une personne s'inscrit à un créneau, elle apparaît dans cette colonne.
+      **Si votre annonce ne possède pas de questionnaire de sélection**, les participants
+      passeront donc automatiquement de la colonne Contactés à la colonne Rdv planifiés.\n*
+      **Rdv passés** : les personnes que vous avez déjà rencontrées apparaissent automatiquement
+      dans cette colonne. Cliquez sur la carte : vous pouvez indiquer la personne
+      comme rémunérée si vous lui avez versé son dédommagement, ou bien indiquer qu'elle
+      n'est pas venue."
   - question: Comment arrêter le recrutement d'une session ?
     answer: "Finalement, le nombre de participants que vous avez déjà rencontrés vous
       convient ?\n\nIl vous suffit de modifier le nombre de participants recherchés
