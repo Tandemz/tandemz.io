@@ -4,7 +4,7 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-img bg-white
-  title: Avec Tandemz, recrutez des utilisateurs pour vos études en un clin d'oeil
+  title: Avec Tandemz, organisez le recrutement de vos utilisateurs en un clin d'oeil
   component: HeroBlock
   content: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
     toute l'organisation de votre recherche utilisateur et la gestion de votre panel.
