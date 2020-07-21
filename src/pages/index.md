@@ -4,10 +4,10 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-img bg-white
-  title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
+  title: Avec Tandemz, organisez vos études UX en un clin d'oeil
   component: HeroBlock
-  content: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-    Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+  content: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
+    toute l'organisation de votre recherche utilisateur et la gestion de votre panel.
   image: ''
   actions:
   - label: Organiser mes tests UX
