@@ -101,8 +101,8 @@ sections:
   subtitle: ''
   actions:
   - url: "/recruitform"
-    label: Commencer à recruter
-    title: Formulaire de recrutement sur les réseaux sociaux
+    label: Trouver des participants
+    title: Trouver des participants
     button_priority: ''
 - template: featuresblock
   component: FeaturesBlock
