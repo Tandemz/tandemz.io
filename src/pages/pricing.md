@@ -30,8 +30,8 @@ sections:
       * Sans restriction géographique
     highlight: true
     actions:
-    - label: Commencer à recruter
-      url: "/recruitform/"
+    - label: Trouver des participants
+      url: "/recruitform"
       title: Formulaire de recrutement
       button_priority: ''
   - title: Gestion de panel Beta

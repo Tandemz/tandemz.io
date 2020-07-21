@@ -63,8 +63,7 @@ class NewsLetterBlock extends React.PureComponent {
                 <div>
                   <div className="sib-form-block">
                     <h4>
-                      Restez à jour sur Tandemz en vous inscrivant à la
-                      Newsletter
+                      Rejoignez notre Newsletter et ne ratez aucune nouveauté !
                     </h4>
                   </div>
                 </div>

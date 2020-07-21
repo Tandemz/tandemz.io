@@ -4,6 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
+  className: bg-white
   title: Interrogez vous-même vos utilisateurs
   component: HeroBlock
   content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous

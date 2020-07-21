@@ -3,14 +3,15 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
+  className: bg-white
   title: Faites du monde entier votre panel
   component: HeroBlock
   content: Chez Tandemz, nous recrutons vos participants parmi les 3,4 milliards d'utilisateurs
     des réseaux sociaux.
   image: ''
   actions:
-  - label: Commencer à recruter
-    url: "/recruitform/"
+  - label: Trouver des participants
+    url: "/recruitform"
     title: Formulaire de recrutement sur les réseaux sociaux
     button_priority: ''
   image_alt: ''
@@ -88,8 +89,8 @@ sections:
     details: Touchez les 3,4 milliards d'utilisateurs de réseaux sociaux
     highlight: false
     actions:
-    - label: Commencer à recruter
-      url: "/recruitform/"
+    - label: Trouver des participants
+      url: "/recruitform"
       title: Formulaire de recrutement sur les réseaux sociaux
       button_priority: ''
 - template: ctablock
@@ -99,7 +100,7 @@ sections:
   title: Recruter des participants à la recherche utilisateur n'est plus difficile
   subtitle: ''
   actions:
-  - url: "/recruitform/"
+  - url: "/recruitform"
     label: Commencer à recruter
     title: Formulaire de recrutement sur les réseaux sociaux
     button_priority: ''
@@ -114,7 +115,7 @@ sections:
     image: "/images/Entreprises - Liste des Annonces.svg"
     coming_soon: false
     actions:
-    - url: "/panel/"
+    - url: "/panel"
       label: En savoir plus
       title: Recrutement dans son panel privé
       button_priority: ''

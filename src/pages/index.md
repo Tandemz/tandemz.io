@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-img
+  className: bg-img bg-white
   title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
   component: HeroBlock
   content: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
@@ -60,7 +60,7 @@ sections:
     image: "/images/Illustration - Connect.svg"
     actions:
     - label: En savoir plus
-      url: "/panel/"
+      url: "/panel"
       title: Gestion de panels privés
       button_priority: ''
     coming_soon: false
@@ -75,7 +75,7 @@ sections:
     image: "/images/Illustration - Criteria.svg"
     actions:
     - label: En savoir plus
-      url: "/recruit/"
+      url: "/recruit"
       title: Recrutement de participants sur les réseaux sociaux
       button_priority: ''
     coming_soon: false

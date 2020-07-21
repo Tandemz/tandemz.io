@@ -10,7 +10,7 @@ export default class HeroBlock extends React.Component {
       <section
         id={_.get(this.props, 'section.section_id')}
         className={classnames(
-          'block hero-block bg-white outer',
+          'block hero-block outer',
           _.get(this.props, 'section.className'),
         )}
       >
