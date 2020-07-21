@@ -148,8 +148,9 @@ description: Lancez vos interviews et vos tests utilisateurs sans prise de tête
   l'organisation de votre recherche utilisateur et la gestion de votre panel.
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtitle: Avec Tandemz, organisez vos tests UX en un clin d'oeil
-ogdescription: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-  Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+ogdescription: Lancez vos interviews et vos tests utilisateurs sans prise de tête.
+  Automatisez l'organisation de votre recherche utilisateur et la gestion de votre
+  panel.
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
 ogimagealt: Logo Tandemz
