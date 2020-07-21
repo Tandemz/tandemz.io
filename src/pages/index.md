@@ -10,7 +10,7 @@ sections:
     toute l'organisation de votre recherche utilisateur et la gestion de votre panel.
   image: ''
   actions:
-  - label: Organiser mes tests UX
+  - label: Organiser mes études UX
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
