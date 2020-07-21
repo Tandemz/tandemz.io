@@ -4,13 +4,13 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-img bg-white
-  title: Recrutez vos utilisateurs pour vos études en un clin d'oeil
+  title: Avec Tandemz, recrutez vos utilisateurs en un clin d'oeil
   component: HeroBlock
   content: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
     toute l'organisation de votre recherche utilisateur et la gestion de votre panel.
   image: ''
   actions:
-  - label: Organiser mes études UX
+  - label: Lancer une étude
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
@@ -133,7 +133,7 @@ sections:
   title: Faites de la recherche utilisateur un réflexe
   component: CtaBlock
   actions:
-  - label: Organiser mes tests UX
+  - label: Lancer une étude
     url: https://app.tandemz.io/trouver-des-participants
     title: Créez un compte sur Tandemz
     button_priority: ''
