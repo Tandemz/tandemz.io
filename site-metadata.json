@@ -5,7 +5,7 @@
   "favicon": "/images/Logo@200.png",
   "header": {
     "title": "Tandemz - catalyseur de vos tests utilisateurs",
-    "logo_img": "/images/Logotype.png",
+    "logo_img": "/images/logotype.svg",
     "has_nav": true,
     "menu": {
       "actions": [
