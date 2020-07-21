@@ -144,8 +144,8 @@ menus:
     weight: 1
 template: home
 title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
-description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-  Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+description: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
+  l'organisation de votre recherche utilisateur et la gestion de votre panel.
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtitle: Avec Tandemz, organisez vos tests UX en un clin d'oeil
 ogdescription: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
