@@ -51,23 +51,20 @@ sections:
   bg: white
   featureslist:
   - title: 1- Lancez rapidement votre session
-    content: "Vous voulez faire tester votre produit ou échanger avec vos utilisateurs
-      sur leurs besoins ? \n\nEn quelques minutes, créez votre session : laissez-vous
-      guider par Tandemz pour choisir toutes les modalités (cible, lieu, date,...).
-      Soyez sûr de ne rien oublier !"
-    image: "/images/Illustration - Recruit.svg"
+    content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
+      cible de participants, questionnaire de sélection. Ca y est, votre annonce est
+      publiée, le recrutement commence !'
+    image: "/images/illustration-screening2.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: 2- Partagez votre annonce et recrutez où vous voulez
-    content: "Vous avez déjà un panel de testeurs ? Invitez-le en un clic à votre
-      session. \n\nVous voulez rencontrer des gens de votre communauté ? Partagez-leur
-      directement le lien de l'annonce.\n\nVous voulez rencontrer de nouvelles personnes,
-      que vous ne connaissez pas encore ? Le panel de Tandemz est là pour ça ! Notre
-      algorithme recrute des personnes dans votre cible directement sur les réseaux
-      sociaux.\n\nTous les participants sont simple d'accès sur Tandemz."
-    image: "/images/image-annonce.png"
+  - title: 2- Attendez que vos participants s'inscrivent
+    content: Notre algorithme cible et contacte pour vous vos participants, dans votre
+      panel privé ou bien dans le panel de Tandemz et sélectionne les meilleurs profils
+      pour votre cible. Les participants sont autonomes pour s'inscrire. Vous n'avez
+      rien à faire, vous serez prévenu de l'avancement du recrutement.
+    image: "/images/Illustration - Follow-3.svg"
     actions: []
     coming_soon: false
     image_alt: Adding screening survey questions
@@ -84,7 +81,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Prêt recruter rapidement pour vos tests utilisateurs ?
+  title: Prêt à recruter rapidement pour vos tests utilisateurs ?
   component: CtaBlock
   actions:
   - label: Recruter rapidement
