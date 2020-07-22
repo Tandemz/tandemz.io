@@ -3,6 +3,11 @@ export const loadCrisp = () => {
     return;
   }
 
+  const crispLoaded = document.getElementById('crisp-script');
+  if (crispLoaded) {
+    return;
+  }
+
   window.$crisp = [];
   window.CRISP_WEBSITE_ID = '3c3962c2-843b-4835-84db-3717ddde1c4c';
 
@@ -14,5 +19,9 @@ export const loadCrisp = () => {
 };
 
 export const unloadCrisp = () => {
-  document.getElementById('crisp-script').remove();
+  const scriptElement = document.getElementById('crisp-script');
+  if (!scriptElement) {
+    return;
+  }
+  scriptElement.remove();
 };

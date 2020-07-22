@@ -11,25 +11,14 @@ import { loadCrisp, unloadCrisp } from './crisp';
     return value != null ? unescape(value[1]) : 'no';
   }
 
-  let crispLoaded = false;
   setInterval(() => {
-    console.log(
-      'INTERVAL',
-      crispLoaded,
-      getCookie('cky-consent'),
-      getCookie('cookieyes-functional'),
-    );
     if (
       getCookie('cky-consent') == 'yes' &&
       getCookie('cookieyes-functional') == 'yes'
     ) {
-      if (!crispLoaded) {
-        loadCrisp();
-      }
+      loadCrisp();
     } else {
-      if (crispLoaded) {
-        unloadCrisp();
-      }
+      unloadCrisp();
     }
   }, 500);
 })();
