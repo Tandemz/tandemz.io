@@ -1,5 +1,4 @@
-import { unloadCrisp, loadCrisp } from './crisp';
-
+import { loadCrisp, unloadCrisp } from './crisp';
 (function () {
   function getCookie(name) {
     const re = new RegExp(name + '=([^;]+)');

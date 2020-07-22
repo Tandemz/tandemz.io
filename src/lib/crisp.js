@@ -13,6 +13,6 @@ export const loadCrisp = () => {
   document.getElementsByTagName('head')[0].appendChild(s);
 };
 
-const unloadCrisp = () => {
+export const unloadCrisp = () => {
   document.getElementById('crisp-script').remove();
 };
