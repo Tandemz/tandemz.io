@@ -56,7 +56,7 @@ sections:
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: 2- Attendez que vos participants s'inscrivent
+  - title: 2- Regardez votre planning se remplir
     content: Notre algorithme cible et contacte pour vous vos participants, dans votre
       panel privé ou bien dans le panel de Tandemz et sélectionne les meilleurs profils
       pour votre cible. Les participants sont autonomes pour s'inscrire. Vous n'avez
