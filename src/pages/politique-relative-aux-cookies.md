@@ -20,7 +20,8 @@ schema_org_data_list: []
 ---
 Tandemz utilise des cookies sur ses Sites et Plateformes. Un cookie est une petite quantité de données, qui contient souvent un identifiant unique et anonyme, envoyée à votre navigateur par un serveur Web et stockée sur le disque dur de votre ordinateur. Les informations collectées grâce à ce cookie peuvent être associées à d'autres cookies que vous possédez sur votre ordinateur et utilisées pour compléter les informations dont nous disposons à votre sujet.
 
-Vous avez la possibilité d'accepter ou de décliner les cookies qui ne sont pas directement nécessaire à l'utilisation de nos outils.
+Vous avez la possibilité d'accepter ou de décliner les cookies qui ne sont pas directement nécessaire à l'utilisation de nos outils. <a class="cky-banner-element" href="#">Changer ses préférences</a>.
+
 
 ## Liste des cookies que Tandemz Utilise
 
