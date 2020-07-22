@@ -1,4 +1,4 @@
-(function () {
+export const loadCrisp = () => {
   if (typeof window === 'undefined' || !window.document) {
     return;
   }
@@ -9,10 +9,10 @@
   const s = document.createElement('script');
   s.src = 'https://client.crisp.chat/l.js';
   s.async = 1;
-  s['data-cookieyes'] = 'cookieyes-functional';
+  s.id = 'crisp-script';
   document.getElementsByTagName('head')[0].appendChild(s);
+};
 
-  s.onload = function () {
-    console.info('Crisp initialized', window.$crisp);
-  };
-})();
+const unloadCrisp = () => {
+  document.getElementById('crisp-script').remove();
+};

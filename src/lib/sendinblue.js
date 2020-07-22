@@ -3,7 +3,6 @@ import React from 'react';
 let loaded = false;
 
 export const initializeSendinblue = () => {
-  //
   // during server side rendering
   if (typeof window === 'undefined' || !window.document || loaded) {
     return;

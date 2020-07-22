@@ -6,7 +6,7 @@ import 'moment/locale/fr';
 import Header from './Header';
 import Footer from './Footer';
 import '../sass/main.scss';
-import '../lib/crisp';
+import '../lib/thirdParties';
 import Head from './Head';
 
 moment.locale('fr');
