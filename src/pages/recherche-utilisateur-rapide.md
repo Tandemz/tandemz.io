@@ -8,7 +8,7 @@ sections:
   title: Recrutez pour vos tests utilisateurs en 2 jours
   component: HeroBlock
   content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
-    et déléguez toute la logistique à notre algorithme d'automatisation.
+    et déléguez toute la logistique à notre algorithme.
   image: "/images/Hero.svg"
   actions:
   - label: Commencer à recruter rapidement
@@ -22,12 +22,6 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
-      lancer une session se fait très rapidement et vous pouvez même créer et gérer
-      votre panel.
-    icon: ''
-    icon_alt: ''
-    title: Utilisez un outil simplifié au maximum
   - title: Faites tester à votre cible facilement
     content: Dans votre communauté, dans votre panel ou dans le panel de Tandemz,
       vous trouverez sans peine des testeurs dans votre cible.
@@ -39,6 +33,12 @@ sections:
       utilisateur.
     icon: ''
     icon_alt: ''
+  - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
+      lancer une session se fait très rapidement et vous pouvez même créer et gérer
+      votre panel.
+    icon: ''
+    icon_alt: ''
+    title: Sélection de profils automatique
   section_id: ''
   title: ''
 - type: featuresblock
