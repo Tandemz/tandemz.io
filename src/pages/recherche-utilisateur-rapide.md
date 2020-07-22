@@ -22,7 +22,7 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Organisation raccourcie
+  - title: Votre session en deux clics
     content: 'Ne prenez que quelques minutes pour organiser votre session de test.
       Le recrutement débute automatiquement et sans perdre de temps. '
     icon: ''
