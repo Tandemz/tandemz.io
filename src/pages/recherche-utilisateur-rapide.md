@@ -60,7 +60,7 @@ sections:
     content: Notre algorithme cible et contacte pour vous vos participants, dans votre
       panel privé ou bien dans le panel de Tandemz et sélectionne les meilleurs profils
       pour votre cible. Les participants sont autonomes pour s'inscrire. Vous n'avez
-      rien à faire, vous serez prévenu de l'avancement du recrutement.
+      rien à faire !
     image: "/images/Illustration - Follow-3.svg"
     actions: []
     coming_soon: false
