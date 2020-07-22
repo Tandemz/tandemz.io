@@ -5,14 +5,13 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-white
-  title: Interrogez vous-même vos utilisateurs
+  title: Recrutez pour vos tests utilisateurs en 2 jours
   component: HeroBlock
-  content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
-    compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
-    facilement.
+  content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
+    et déléguez toute la logistique à notre algorithme d'automatisation.
   image: "/images/Hero.svg"
   actions:
-  - label: Lancer mes premiers tests
+  - label: Commencer à recruter rapidement
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
@@ -84,7 +83,7 @@ sections:
   title: Prêt à recruter rapidement pour vos tests utilisateurs ?
   component: CtaBlock
   actions:
-  - label: Recruter rapidement
+  - label: Commencer à recruter rapidement
     title: Rejoindre la bêta
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
