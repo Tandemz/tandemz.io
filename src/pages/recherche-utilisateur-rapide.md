@@ -72,21 +72,10 @@ sections:
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: 3- Regardez votre planning se remplir
-    content: |-
-      Dans une interface dédiée, suivez vos participants et décidez à qui vous proposez un créneau. Les participants sont autonomes pour gérer leur rendez-vous, le reporter ou l'annuler. Les rappels sont automatiques.
-
-      Il ne vous reste qu'à vous préparer pour le rendez-vous !
-    image: "/images/illustration-schedule.svg"
-    actions: []
-    coming_soon: false
-    image_alt: Deux personnes qui discutent
-    is_beta: false
-  - title: 4- Menez vos tests utilisateurs
-    content: "Rencontrez vos participants, échangez avec eux, faites leur tester votre
-      produit... \n\nVous avez besoin d'aide ? Nous sommes là pour vous conseiller
-      et même vous accompagner lors de vos premiers tests pour vous montrer toutes
-      les ficelles du métier !"
+  - title: 3- Menez vos tests utilisateurs
+    content: Ayez à portée de main toutes les informations de vos participants sur
+      votre interface dédiée. Il ne vous reste plus qu'à rencontrer vos participants,
+      échanger avec eux et leur faire tester votre produit.
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
@@ -95,10 +84,10 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Prêt à rencontrer vos utilisateurs ?
+  title: Prêt recruter rapidement pour vos tests utilisateurs ?
   component: CtaBlock
   actions:
-  - label: Lancer mes premiers tests
+  - label: Recruter rapidement
     title: Rejoindre la bêta
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
