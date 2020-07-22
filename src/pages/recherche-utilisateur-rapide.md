@@ -5,14 +5,13 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-white
-  title: Interrogez vous-même vos utilisateurs
+  title: Recrutez pour vos tests utilisateurs en 2 jours
   component: HeroBlock
-  content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
-    compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
-    facilement.
+  content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
+    et déléguez toute la logistique à notre algorithme.
   image: "/images/Hero.svg"
   actions:
-  - label: Lancer mes premiers tests
+  - label: Commencer à recruter rapidement
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
@@ -23,21 +22,20 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
-      lancer une session se fait très rapidement et vous pouvez même créer et gérer
-      votre panel.
+  - title: Organisation raccourcie
+    content: 'Ne prenez que quelques minutes pour organiser votre session de test.
+      Le recrutement débute automatiquement et sans perdre de temps. '
     icon: ''
     icon_alt: ''
-    title: Utilisez un outil simplifié au maximum
-  - title: Faites tester à votre cible facilement
-    content: Dans votre communauté, dans votre panel ou dans le panel de Tandemz,
-      vous trouverez sans peine des testeurs dans votre cible.
+  - content: Notre algorithme sélectionne pour vous les participants les plus adaptés
+      au profil recherché, ou, si vous préférez, vous aider à la prise de décision.
     icon: ''
     icon_alt: ''
-  - title: Laissez-vous guider par l'assistant Tandemz
-    content: Vous débutez en recherche utilisateur ? Vous avez besoin de conseil ?
-      Tandemz est l'outil qui vous guide pour vous aider à construire votre recherche
-      utilisateur.
+    title: Sélection automatique des profils
+  - title: Informations centralisées
+    content: Une seule annonce pour les testeurs, avec tout ce qu'ils doivent savoir.
+      Toutes les données des participants sur une seule interface. N'éparpillez plus
+      les informations !
     icon: ''
     icon_alt: ''
   section_id: ''
@@ -84,7 +82,7 @@ sections:
   title: Prêt à recruter rapidement pour vos tests utilisateurs ?
   component: CtaBlock
   actions:
-  - label: Recruter rapidement
+  - label: Commencer à recruter rapidement
     title: Rejoindre la bêta
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
