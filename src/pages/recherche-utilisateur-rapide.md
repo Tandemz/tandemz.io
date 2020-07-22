@@ -34,8 +34,8 @@ sections:
     title: Sélection automatique des profils
   - title: Informations centralisées
     content: Une seule annonce pour les testeurs, avec tout ce qu'ils doivent savoir.
-      Toutes les données de vos participants sur une seule interface de suivi dédiée.
-      N'éparpillez plus les informations !
+      Toutes les données des participants sur une seule interface de suivi. N'éparpillez
+      plus les informations !
     icon: ''
     icon_alt: ''
   section_id: ''
