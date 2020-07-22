@@ -24,4 +24,6 @@ export const unloadCrisp = () => {
     return;
   }
   scriptElement.remove();
+  window.$crisp.push(['do', 'session:reset']);
+  window.$crisp.push(['do', 'chat:hide']);
 };
