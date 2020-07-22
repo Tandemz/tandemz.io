@@ -32,10 +32,9 @@ sections:
     icon: ''
     icon_alt: ''
     title: Sélection automatique des profils
-  - title: Informations centralisées
-    content: Une seule annonce pour les testeurs, avec tout ce qu'ils doivent savoir.
-      Toutes les données des participants sur une seule interface. N'éparpillez plus
-      les informations !
+  - title: Terminés les aller-retours
+    content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
+      Vous n'avez plus qu'à attendre de les rencontrer !
     icon: ''
     icon_alt: ''
   section_id: ''
