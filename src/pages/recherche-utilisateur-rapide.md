@@ -22,23 +22,22 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Faites tester à votre cible facilement
-    content: Dans votre communauté, dans votre panel ou dans le panel de Tandemz,
-      vous trouverez sans peine des testeurs dans votre cible.
+  - title: Organisation raccourcie
+    content: 'Ne prenez que quelques minutes pour organiser votre session de test.
+      Le recrutement débute automatiquement et sans perdre de temps. '
     icon: ''
     icon_alt: ''
-  - title: Laissez-vous guider par l'assistant Tandemz
-    content: Vous débutez en recherche utilisateur ? Vous avez besoin de conseil ?
-      Tandemz est l'outil qui vous guide pour vous aider à construire votre recherche
-      utilisateur.
+  - content: Notre algorithme sélectionne pour vous les participants les plus adaptés
+      au profil recherché, ou, si vous préférez, vous aider à la prise de décision.
     icon: ''
     icon_alt: ''
-  - content: Non, il n'est pas difficile d'organiser un test utilisateur. Sur Tandemz,
-      lancer une session se fait très rapidement et vous pouvez même créer et gérer
-      votre panel.
+    title: Sélection automatique des profils
+  - title: Informations centralisées
+    content: Une seule annonce pour les testeurs, avec tout ce qu'ils doivent savoir.
+      Toutes les données de vos participants sur une seule interface de suivi dédiée.
+      N'éparpillez plus les informations !
     icon: ''
     icon_alt: ''
-    title: Sélection de profils automatique
   section_id: ''
   title: ''
 - type: featuresblock
