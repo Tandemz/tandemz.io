@@ -15,16 +15,21 @@ if (typeof window !== 'undefined' && !window.fbq) {
 }
 
 export const loadFbPixel = () => {
+  console.log('loadFbPixel');
   const pixelLoaded = document.getElementById('fb-pixel-script');
-  if (pixelLoaded) {
+
+  if (!!pixelLoaded) {
+    console.log('RETURN');
     return;
   }
-
   const tag = document.createElement('script');
   tag.async = true;
   tag.src = 'https://connect.facebook.net/en_US/fbevents.js';
   tag.id = 'fb-pixel-script';
   document.getElementsByTagName('head')[0].appendChild(tag);
+
+  console.log('tag', tag);
+  console.log('init', PIXEL_ID);
 
   window.fbq('init', PIXEL_ID);
   window.fbq('consent', 'grant');
