@@ -10,53 +10,42 @@ const safePrefix = require('./src/utils/safePrefix').default;
 exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
   setHeadComponents([]);
 
-  const config = {
-    // generated
-    countryDetection: true,
-    consentOnContinuedBrowsing: false,
-    perPurposeConsent: true,
-    whitelabel: false,
-    lang: 'fr',
-    siteId: 1964582,
-    cookiePolicyId: 48365281,
-    cookiePolicyUrl: 'https://www.tandemz.io/politique-confidentialite/',
-    banner: {
-      acceptButtonDisplay: true,
-      customizeButtonDisplay: true,
-      acceptButtonColor: '#ffffff',
-      acceptButtonCaptionColor: '#1c75df',
-      customizeButtonColor: 'rgba(255, 255, 255, 0)',
-      customizeButtonCaptionColor: '#ffffff',
-      rejectButtonDisplay: true,
-      rejectButtonColor: '#ffffff',
-      rejectButtonCaptionColor: '#1c75df',
-      position: 'float-bottom-left',
-      textColor: 'white',
-      backgroundColor: '#1c75df',
-    },
-
-    // added
-    cookiePolicyInOtherWindow: true,
+  const GAID = 'UA-148496948-1';
+  const scripts = `
+  var finalFbq = function () {
+    finalFbq.callMethod
+      ? finalFbq.callMethod.apply(finalFbq, arguments)
+      : finalFbq.queue.push(arguments);
   };
 
-  // <script
-  //   type="text/javascript"
-  //   dangerouslySetInnerHTML={{ __html: iobendaScript }}
-  // />
-  // <script
-  //   type="text/javascript"
-  //   src="//cdn.iubenda.com/cs/iubenda_cs.js"
-  //   charSet="UTF-8"
-  //   async
-  // ></script>
+  if (!window._fbq) window._fbq = finalFbq;
+  if (!window.fbq) window.fbq = finalFbq;
 
-  const iobendaScript = `
-        var _iub = _iub || [];
-        _iub.csConfiguration = ${JSON.stringify(config)};
-    `;
+  finalFbq.push = finalFbq;
+  finalFbq.loaded = true;
+  finalFbq.version = '2.0';
+  finalFbq.queue = [];
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    if (window.dataLayer) {
+      window.dataLayer.push(arguments);
+    }
+  }
+  gtag('js', new Date());
+  gtag('config', ${GAID});
+  window.gtag = gtag;
+
+  window.CRISP_WEBSITE_ID = '3c3962c2-843b-4835-84db-3717ddde1c4c';
+  window.$crisp = [];
+  `;
 
   setPostBodyComponents([
     <React.Fragment>
+      <script
+        type="text/javascript"
+        dangerouslySetInnerHTML={{ __html: scripts }}
+      />
       <script src={safePrefix('assets/js/plugins.js')} />
       <script src={safePrefix('assets/js/init.js')} />
       <script src={safePrefix('assets/js/main.js')} />
