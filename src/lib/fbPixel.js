@@ -2,6 +2,7 @@ const PIXEL_ID = '833968533701882';
 
 if (typeof window !== 'undefined' && !window.fbq) {
   const finalFbq = (window.fbq = function () {
+    console.log(arguments);
     finalFbq.callMethod
       ? finalFbq.callMethod.apply(finalFbq, arguments)
       : finalFbq.queue.push(arguments);
@@ -20,6 +21,7 @@ export const loadFbPixel = () => {
   if (!!pixelLoaded) {
     return;
   }
+  console.log('load');
   const tag = document.createElement('script');
   tag.async = true;
   tag.src = 'https://connect.facebook.net/en_US/fbevents.js';
