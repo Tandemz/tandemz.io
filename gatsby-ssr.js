@@ -24,6 +24,8 @@ exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
   finalFbq.version = '2.0';
   finalFbq.queue = [];
 
+  finalFbq('init', '833968533701882');
+
   window.dataLayer = window.dataLayer || [];
   function gtag() {
     if (window.dataLayer) {
