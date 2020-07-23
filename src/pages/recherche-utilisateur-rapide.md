@@ -22,7 +22,7 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Organisation raccourcie
+  - title: Votre session en deux clics
     content: 'Ne prenez que quelques minutes pour organiser votre session de test.
       Le recrutement débute automatiquement et sans perdre de temps. '
     icon: ''
@@ -32,10 +32,9 @@ sections:
     icon: ''
     icon_alt: ''
     title: Sélection automatique des profils
-  - title: Informations centralisées
-    content: Une seule annonce pour les testeurs, avec tout ce qu'ils doivent savoir.
-      Toutes les données des participants sur une seule interface. N'éparpillez plus
-      les informations !
+  - title: Terminés les aller-retours
+    content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
+      Vous n'avez plus qu'à attendre de les rencontrer !
     icon: ''
     icon_alt: ''
   section_id: ''
@@ -57,11 +56,11 @@ sections:
     actions: []
     image_alt: Describe your target audience
     is_beta: false
-  - title: 2- Attendez que vos participants s'inscrivent
+  - title: 2- Regardez votre planning se remplir
     content: Notre algorithme cible et contacte pour vous vos participants, dans votre
       panel privé ou bien dans le panel de Tandemz et sélectionne les meilleurs profils
       pour votre cible. Les participants sont autonomes pour s'inscrire. Vous n'avez
-      rien à faire, vous serez prévenu de l'avancement du recrutement.
+      rien à faire !
     image: "/images/Illustration - Follow-3.svg"
     actions: []
     coming_soon: false
