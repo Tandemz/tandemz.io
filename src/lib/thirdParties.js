@@ -1,19 +1,17 @@
 import { loadCrisp } from './crisp';
 import { loadGA } from './ga';
-import { loadFbPixel } from './fbPixel';
+import { loadFbPixel, revokeConsent } from './fbPixel';
 
 (function () {
   if (typeof window === 'undefined' || !window.document) {
     return;
   }
-  loadFbPixel();
 
   function getCookie(name) {
     const re = new RegExp(name + '=([^;]+)');
     const value = re.exec(document.cookie);
     return value != null ? unescape(value[1]) : 'no';
   }
-
   let prevConfig;
   setInterval(() => {
     const cookieConfig = {
@@ -38,6 +36,12 @@ import { loadFbPixel } from './fbPixel';
 
     if (cookieConfig.analytics) {
       loadGA();
+    }
+
+    if (cookieConfig.advertisement) {
+      loadFbPixel();
+    } else {
+      revokeConsent();
     }
   }, 500);
 })();

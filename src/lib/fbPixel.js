@@ -15,11 +15,9 @@ if (typeof window !== 'undefined' && !window.fbq) {
 }
 
 export const loadFbPixel = () => {
-  console.log('loadFbPixel');
   const pixelLoaded = document.getElementById('fb-pixel-script');
 
   if (!!pixelLoaded) {
-    console.log('RETURN');
     return;
   }
   const tag = document.createElement('script');
@@ -28,11 +26,9 @@ export const loadFbPixel = () => {
   tag.id = 'fb-pixel-script';
   document.getElementsByTagName('head')[0].appendChild(tag);
 
-  console.log('tag', tag);
-  console.log('init', PIXEL_ID);
-
   window.fbq('init', PIXEL_ID);
   window.fbq('consent', 'grant');
+  window.fbq('track', 'PageView');
 };
 
 export const revokeConsent = () => {
