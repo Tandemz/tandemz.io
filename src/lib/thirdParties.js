@@ -1,10 +1,12 @@
-import { loadCrisp, unloadCrisp } from './crisp';
+import { loadCrisp } from './crisp';
 import { loadGA } from './ga';
+import { loadFbPixel } from './fbPixel';
 
 (function () {
   if (typeof window === 'undefined' || !window.document) {
     return;
   }
+  loadFbPixel();
 
   function getCookie(name) {
     const re = new RegExp(name + '=([^;]+)');
@@ -15,11 +17,11 @@ import { loadGA } from './ga';
   let prevConfig;
   setInterval(() => {
     const cookieConfig = {
-      consent: getCookie('cky-consent') == 'yes',
-      functional: getCookie('cookieyes-functional') == 'yes',
-      analytics: getCookie('cookieyes-analytics') == 'yes',
-      performance: getCookie('cookieyes-performance') == 'yes',
-      advertisement: getCookie('cookieyes-advertisement') == 'yes',
+      consent: getCookie('cky-consent') === 'yes',
+      functional: getCookie('cookieyes-functional') === 'yes',
+      analytics: getCookie('cookieyes-analytics') === 'yes',
+      performance: getCookie('cookieyes-performance') === 'yes',
+      advertisement: getCookie('cookieyes-advertisement') === 'yes',
     };
     if (prevConfig) {
       Object.keys(cookieConfig).forEach((key) => {
