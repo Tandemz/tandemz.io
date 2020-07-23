@@ -66,6 +66,21 @@ exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
         type="text/javascript"
         src="https://cdn-cookieyes.com/client_data/62e51a8a40555d6b551204f7.js"
       ></script>
+      <script
+        type="text/javascript"
+        data-cookieyes="cookieyes-analytics"
+        src="https://www.googletagmanager.com/gtag/js?id=UA-148496948-1"
+      ></script>
+      <script
+        type="text/javascript"
+        data-cookieyes="cookieyes-functional"
+        src="https://client.crisp.chat/l.js"
+      ></script>
+      <script
+        type="text/javascript"
+        data-cookieyes="cookieyes-advertisement"
+        src="https://connect.facebook.net/en_US/fbevents.js"
+      ></script>
     </React.Fragment>,
   ]);
 };

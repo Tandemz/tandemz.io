@@ -7,41 +7,45 @@ import { loadFbPixel, revokeConsent } from './fbPixel';
     return;
   }
 
-  function getCookie(name) {
-    const re = new RegExp(name + '=([^;]+)');
-    const value = re.exec(document.cookie);
-    return value != null ? unescape(value[1]) : 'no';
-  }
-  let prevConfig;
-  setInterval(() => {
-    const cookieConfig = {
-      consent: getCookie('cky-consent') === 'yes',
-      functional: getCookie('cookieyes-functional') === 'yes',
-      analytics: getCookie('cookieyes-analytics') === 'yes',
-      performance: getCookie('cookieyes-performance') === 'yes',
-      advertisement: getCookie('cookieyes-advertisement') === 'yes',
-    };
-    if (prevConfig) {
-      Object.keys(cookieConfig).forEach((key) => {
-        if (prevConfig[key] && !cookieConfig[key]) {
-          window.location.reload();
-        }
-      });
-    }
-    prevConfig = cookieConfig;
+  // loadCrisp();
+  // loadGA();
+  // loadFbPixel();
 
-    if (cookieConfig.functional) {
-      loadCrisp();
-    }
+  // function getCookie(name) {
+  //   const re = new RegExp(name + '=([^;]+)');
+  //   const value = re.exec(document.cookie);
+  //   return value != null ? unescape(value[1]) : 'no';
+  // }
+  // let prevConfig;
+  // setInterval(() => {
+  //   const cookieConfig = {
+  //     consent: getCookie('cky-consent') === 'yes',
+  //     functional: getCookie('cookieyes-functional') === 'yes',
+  //     analytics: getCookie('cookieyes-analytics') === 'yes',
+  //     performance: getCookie('cookieyes-performance') === 'yes',
+  //     advertisement: getCookie('cookieyes-advertisement') === 'yes',
+  //   };
+  //   if (prevConfig) {
+  //     Object.keys(cookieConfig).forEach((key) => {
+  //       if (prevConfig[key] && !cookieConfig[key]) {
+  //         window.location.reload();
+  //       }
+  //     });
+  //   }
+  //   prevConfig = cookieConfig;
 
-    if (cookieConfig.analytics) {
-      loadGA();
-    }
+  //   if (cookieConfig.functional) {
+  //     loadCrisp();
+  //   }
 
-    if (cookieConfig.advertisement) {
-      loadFbPixel();
-    } else {
-      revokeConsent();
-    }
-  }, 500);
+  //   if (cookieConfig.analytics) {
+  //     loadGA();
+  //   }
+
+  //   if (cookieConfig.advertisement) {
+  //     loadFbPixel();
+  //   } else {
+  //     revokeConsent();
+  //   }
+  // }, 500);
 })();
