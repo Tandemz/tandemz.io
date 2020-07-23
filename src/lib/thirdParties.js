@@ -1,4 +1,5 @@
 import { loadCrisp, unloadCrisp } from './crisp';
+import { loadGA } from './ga';
 
 (function () {
   if (typeof window === 'undefined' || !window.document) {
@@ -11,14 +12,30 @@ import { loadCrisp, unloadCrisp } from './crisp';
     return value != null ? unescape(value[1]) : 'no';
   }
 
+  let prevConfig;
   setInterval(() => {
-    if (
-      getCookie('cky-consent') == 'yes' &&
-      getCookie('cookieyes-functional') == 'yes'
-    ) {
+    const cookieConfig = {
+      consent: getCookie('cky-consent') == 'yes',
+      functional: getCookie('cookieyes-functional') == 'yes',
+      analytics: getCookie('cookieyes-analytics') == 'yes',
+      performance: getCookie('cookieyes-performance') == 'yes',
+      advertisement: getCookie('cookieyes-advertisement') == 'yes',
+    };
+    if (prevConfig) {
+      Object.keys(cookieConfig).forEach((key) => {
+        if (prevConfig[key] && !cookieConfig[key]) {
+          window.location.reload();
+        }
+      });
+    }
+    prevConfig = cookieConfig;
+
+    if (cookieConfig.functional) {
       loadCrisp();
-    } else {
-      unloadCrisp();
+    }
+
+    if (cookieConfig.analytics) {
+      loadGA();
     }
   }, 500);
 })();

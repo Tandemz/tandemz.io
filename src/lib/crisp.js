@@ -17,13 +17,3 @@ export const loadCrisp = () => {
   s.id = 'crisp-script';
   document.getElementsByTagName('head')[0].appendChild(s);
 };
-
-export const unloadCrisp = () => {
-  const scriptElement = document.getElementById('crisp-script');
-  if (!scriptElement) {
-    return;
-  }
-  scriptElement.remove();
-  window.$crisp.push(['do', 'session:reset']);
-  window.$crisp.push(['do', 'chat:hide']);
-};
