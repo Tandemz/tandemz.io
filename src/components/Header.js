@@ -3,13 +3,11 @@ import _ from 'lodash';
 
 import { Link, safePrefix } from '../utils';
 import Menu from './Menu';
-import CookieBanner from './CookieBanner';
 
 export default class Header extends React.Component {
   render() {
     return (
       <div className="site-header-container">
-        <CookieBanner />
         <header id="masthead" className="site-header">
           <div className="site-branding">
             {_.get(
