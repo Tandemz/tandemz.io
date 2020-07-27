@@ -6,4 +6,13 @@ export default function (eventAction, eventCategory, eventLabel) {
       event_label: eventLabel,
     });
   }
+  if (typeof window !== 'undefined' && window.fbq) {
+    const firstCapsAction =
+      eventAction[0].toUpperCase() + eventAction.slice(1).toLowerCase();
+
+    window.fbq('trackCustom', firstCapsAction, {
+      content_category: eventCategory,
+      content_name: eventLabel,
+    });
+  }
 }

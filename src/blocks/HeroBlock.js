@@ -34,7 +34,7 @@ export default class HeroBlock extends React.Component {
                         className="button large"
                         title={_.get(action, 'title')}
                         onClick={() =>
-                          sendEvent('click', 'Contact', _.get(action, 'label'))
+                          sendEvent('click', 'CTA', _.get(action, 'label'))
                         }
                       >
                         {_.get(action, 'label')}

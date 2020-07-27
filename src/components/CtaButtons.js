@@ -13,13 +13,7 @@ export default class CtaButtons extends React.Component {
             to={safePrefix(_.get(action, 'url'))}
             className="button secondary"
             title={_.get(action, 'title')}
-            onClick={() =>
-              sendEvent(
-                'click',
-                _.get(action, 'label'),
-                _.get(this.props, 'pageContext.url'),
-              )
-            }
+            onClick={() => sendEvent('click', 'CTA', _.get(action, 'label'))}
           >
             {_.get(action, 'label')}
           </Link>

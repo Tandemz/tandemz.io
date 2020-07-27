@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { htmlToReact, Link, safePrefix } from '../utils';
+import { htmlToReact, Link, safePrefix, sendEvent } from '../utils';
 
 export default class CtaBlock extends React.Component {
   render() {
@@ -31,6 +31,9 @@ export default class CtaBlock extends React.Component {
                       key={action_idx}
                       to={safePrefix(_.get(action, 'url'))}
                       title={_.get(action, 'title')}
+                      onClick={() =>
+                        sendEvent('click', 'CTA', _.get(action, 'title'))
+                      }
                       className="button white large"
                     >
                       {_.get(action, 'label')}
