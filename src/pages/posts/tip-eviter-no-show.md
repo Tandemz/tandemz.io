@@ -15,7 +15,8 @@ full_title: Comment éviter les no-shows lors de vos tests et interviews
 date: 2020-07-28T16:00:00Z
 thumb_img_path: ''
 content_img_path: ''
-excerpt: ''
+excerpt: Voici nos conseils pour éviter les no shows ! Si vous aussi, à chaque test
+  utilisateur vous angoissez de savoir si le participant va réellement se pointer...
 author: src/data/authors/marinew.json
 keywords: recherche utilisateur, no-shows, tests utilisateurs, interviews, organisation
 ogimage: ''
