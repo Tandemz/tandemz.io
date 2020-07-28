@@ -42,7 +42,9 @@ Ce point peut être nuancé selon l’expérience de vos participants : si ceux-
 
 Mais imaginez-vous à la place d’un particulier qui n’a jamais participé à une étude : vous ne savez pas en quoi ça consiste, vous avez répondu à un questionnaire mais n’avez pas vraiment compris en détail ce que vous allez faire. Vous serez certainement plus motivé si la contrepartie correspond à un montant pour lequel le jeu en vaut la chandelle.
 
-![Cadeau à la fois virtuel et tangible](https://lh4.googleusercontent.com/EOz9BSp0gRnzG5g_X48DAAYnoO8jo09GO2yFqme1Pgy3kcBiINlJsdeYRDe9WEHnhJqXbzOhIUpqkchPn1_banU-UWGdt4pNU2YaQAGFxExyV1awr8oEFnlz-b3C58qLiAb6oDA "Cadeau virtuel" =480x270)Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties.](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties")
+![Cadeau à la fois virtuel et tangible](https://lh4.googleusercontent.com/EOz9BSp0gRnzG5g_X48DAAYnoO8jo09GO2yFqme1Pgy3kcBiINlJsdeYRDe9WEHnhJqXbzOhIUpqkchPn1_banU-UWGdt4pNU2YaQAGFxExyV1awr8oEFnlz-b3C58qLiAb6oDA "Cadeau virtuel" =480x270)
+
+Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties.](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties")
 
 ## Ne recrutez pas trop en avance
 
