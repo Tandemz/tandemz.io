@@ -28,7 +28,7 @@ Vous voulez un peu de consolation ? Les no-shows ne sont pas réservés au domai
 
 Le phénomène de “no-show” augmente de plus en plus. Il est lié à la sursollicitation que nous subissons tous, notamment du à l’ultra-connexion : il devient habituel de s’inscrire à tout un tas d'événements sans forcément y accorder l’importance nécessaire, comme le montre si bien le bouton “Intéressé” de Facebook.
 
-![Homme d'affaire courant, le téléphone à la main](https://lh3.googleusercontent.com/YIyKG-yW5D1lE8GfSW0Fh8LbqBH7LqeaZwTCpshdaJpCMF5k0fi1G510c_Zicfey2ghvOw5Na1CSPz1j__IeTgvThaMnD8A6YUBMBKyIMXZUcVRxH6ME300jOVvcO_yz6tySMFE "Busy life" =480x270)
+![Homme d'affaire courant, le téléphone à la main](/images/boss.gif "Busy life")
 
 Mais revenons à nos moutons. **Comment faire pour éviter les no-shows dans vos tests et interviews utilisateurs ?**
 
