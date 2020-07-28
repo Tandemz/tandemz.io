@@ -13,7 +13,7 @@ ogtype: article
 title: tip eviter no show
 full_title: Comment éviter les no-shows lors de vos tests et interviews
 date: 2020-07-28T16:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/kelly-sikkema-e8h76ny1v6q-unsplash.jpg"
 content_img_path: ''
 excerpt: Voici nos conseils pour éviter les no shows ! Ecrit pour vous qui craignez
   à chaque test utilisateur que le participant décide finalement de ne pas venir...
@@ -42,7 +42,7 @@ Ce point peut être nuancé selon l’expérience de vos participants : si ceux-
 
 Mais imaginez-vous à la place d’un particulier qui n’a jamais participé à une étude : vous ne savez pas en quoi ça consiste, vous avez répondu à un questionnaire mais n’avez pas vraiment compris en détail ce que vous allez faire. Vous serez certainement plus motivé si la contrepartie correspond à un montant pour lequel le jeu en vaut la chandelle.
 
-![Cadeau à la fois virtuel et tangible](/images/gift.gif "Cadeau virtuel")
+![Offrez un cadeau, même virtuel !](/images/gift.gif "Cadeau virtuel")
 
 Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties.](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties")
 
@@ -54,7 +54,7 @@ Mais **paradoxalement, si vous recrutez trop tôt, vos participants risquent d�
 
 La bonne pratique est de recruter **entre 3 et 10 jours avant votre session**. Ainsi, vos participants ont le temps de s’organiser, tout en n’oubliant pas le rendez-vous en question. Dans tous les cas, **ne recrutez pas plus de deux semaines en avance.**
 
-![Une alarme faisant le tour du cadran en quelques secondes et sonne](/images/clock.gif "Ticking clock")
+![Horloge qui fait le tour du cadran super vite](/images/clock.gif "Horloge")
 
 Une fois la rencontre convenue avec votre participant, n’oubliez pas de l’inviter à un événement pour qu’il l’intègre directement à son calendrier. Ca n’a l’air de rien, mais c’est une protection pour ceux habitués à consulter sans cesse leur agenda avant toute prise de rendez-vous.
 
@@ -66,7 +66,7 @@ Imaginez-vous à la place d’un participant : si vous n’êtes pas très motiv
 
 Vous pouvez être sûr que les no-shows feront partie de ceux qui ne vous auront pas rendu le document en question avant le rendez-vous. Et vous pouvez appliquer cette technique tout en faisant signer le document électroniquement. La règle reste la même - testé et approuvé par Tandemz !
 
-![Homer Simpson signant son nom sur un contrat](/images/signature.gif "Signature de contrat")
+![Homer Simpsons signant un contrat](/images/signature.gif "Signature")
 
 Une variante consiste à leur demander de faire un travail en amont, comme répondre à quelques questions ouvertes, qui peuvent ensuite nourrir votre étude. Dans ce cas, précisez bien au participant avant sa candidature le déroulé du processus et que cela fait partie de votre étude. Vous pouvez tout à fait choisir de sélectionner seulement une partie des répondants pour vos rencontres sur la base de leurs réponses à ce travail. Sentez-vous libre d’organiser le processus de sélection qui vous convient, qui ne vous fait pas perdre (trop) de temps et qui a de l’intérêt pour votre étude mais qui implique tout de même suffisamment les participants.
 
