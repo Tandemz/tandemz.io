@@ -42,7 +42,7 @@ Ce point peut être nuancé selon l’expérience de vos participants : si ceux-
 
 Mais imaginez-vous à la place d’un particulier qui n’a jamais participé à une étude : vous ne savez pas en quoi ça consiste, vous avez répondu à un questionnaire mais n’avez pas vraiment compris en détail ce que vous allez faire. Vous serez certainement plus motivé si la contrepartie correspond à un montant pour lequel le jeu en vaut la chandelle.
 
-![Cadeau à la fois virtuel et tangible](https://lh4.googleusercontent.com/EOz9BSp0gRnzG5g_X48DAAYnoO8jo09GO2yFqme1Pgy3kcBiINlJsdeYRDe9WEHnhJqXbzOhIUpqkchPn1_banU-UWGdt4pNU2YaQAGFxExyV1awr8oEFnlz-b3C58qLiAb6oDA "Cadeau virtuel" =480x270)
+![Cadeau à la fois virtuel et tangible](/images/gift.gif "Cadeau virtuel")
 
 Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties.](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties")
 
@@ -54,7 +54,7 @@ Mais **paradoxalement, si vous recrutez trop tôt, vos participants risquent d�
 
 La bonne pratique est de recruter **entre 3 et 10 jours avant votre session**. Ainsi, vos participants ont le temps de s’organiser, tout en n’oubliant pas le rendez-vous en question. Dans tous les cas, **ne recrutez pas plus de deux semaines en avance.**
 
-![Une alarme faisant le tour du cadran en quelques secondes et sonne](https://lh5.googleusercontent.com/L86a0uHKIiOBgIVkpJqlIzy9VU699lOLfeTlAlu9EmdyOUPsi69KANm3IZqhMArM-OgNuWQ987HNYyGw-MoxvJoTE7vGTCm_zrc7dwW4ogY7HXnKeMN_B_PLdqh8ZPxgUVzcXpA "Ticking clock" =480x320)
+![Une alarme faisant le tour du cadran en quelques secondes et sonne](/images/clock.gif "Ticking clock")
 
 Une fois la rencontre convenue avec votre participant, n’oubliez pas de l’inviter à un événement pour qu’il l’intègre directement à son calendrier. Ca n’a l’air de rien, mais c’est une protection pour ceux habitués à consulter sans cesse leur agenda avant toute prise de rendez-vous.
 
@@ -66,7 +66,7 @@ Imaginez-vous à la place d’un participant : si vous n’êtes pas très motiv
 
 Vous pouvez être sûr que les no-shows feront partie de ceux qui ne vous auront pas rendu le document en question avant le rendez-vous. Et vous pouvez appliquer cette technique tout en faisant signer le document électroniquement. La règle reste la même - testé et approuvé par Tandemz !
 
-![Homer Simpson signant son nom sur un contrat](https://lh4.googleusercontent.com/im1LgkhLI7oKxiYl9Kmq-SUy4cHnTMLQ1tsemXTA0MwGvWpprMKnHyLr7m5v1lD1RioVzXokfxr1gp9fIqczhSRRVqX-XTdo8BnKdwAPVKcNaQ7TaOAJJ7o6_-fN36TquIIp7nc "Signature de contrat" =480x362)
+![Homer Simpson signant son nom sur un contrat](/images/signature.gif "Signature de contrat")
 
 Une variante consiste à leur demander de faire un travail en amont, comme répondre à quelques questions ouvertes, qui peuvent ensuite nourrir votre étude. Dans ce cas, précisez bien au participant avant sa candidature le déroulé du processus et que cela fait partie de votre étude. Vous pouvez tout à fait choisir de sélectionner seulement une partie des répondants pour vos rencontres sur la base de leurs réponses à ce travail. Sentez-vous libre d’organiser le processus de sélection qui vous convient, qui ne vous fait pas perdre (trop) de temps et qui a de l’intérêt pour votre étude mais qui implique tout de même suffisamment les participants.
 
@@ -76,7 +76,7 @@ Certains de vos participants n’auront jamais participé à un test ou une inte
 
 **Il est important de bien expliquer à vos participants la finalité de votre test** - le fait que vous évaluez un produit et non pas leurs actions - et le déroulé du rendez-vous. Précisez-leur les informations pratiques (Doivent-ils préparer quelque chose ? Emmener du matériel ? Vont-ils avoir à signer un document de confidentialité ?) et/ou ce que vous attendrez d’eux (Vont-ils tester des choses sur ordinateur ou téléphone ? Devoir parler à haute voix ? Parler de leurs expériences ou leur ressenti ?).
 
-![Echange téléphonique avec Bugs Bunny](https://lh6.googleusercontent.com/G6xAhrlHLKmYY1v9-5HrJgbzRiupP7P-UQZHMo2opYU1KprXsMktNGgaI0OqKIwbXJGU7yMy0DIFYu_dD4hZkWRTsamCKeY6SJMh-w9Tt4i8byjQ6lQiqq3SBHeIvXNGszxWxbo "Echange téléphonique avec Bugs Bunny" =480x360)
+![Echange téléphonique avec Bugs Bunny](/images/call.gif "Echange téléphonique avec Bugs Bunny")
 
 Cela vous permettra :
 
@@ -92,9 +92,9 @@ En utilisant des outils de gestion de calendrier, les mails de rappels sont auto
 
 Profitez-en aussi pour insérer toutes les informations importantes du rendez-vous : lien ou adresse, contact en cas de problème…
 
-![Oublie pas hein oublie pas hein oublie pas](https://lh6.googleusercontent.com/6hwCm0BuiNQo6ohs4p06Zl9RGsMrupL0_i744W9RHnkErdoqjTs3GuFd7o6GeKu4WDXZ9DQM_ixTpsOPZCNMqsQjOHA4Vr05sImIvne8MNw4auJuKdAd40FTvg-dmhsNc_uWyxw "Nagging reminder" =314x176)
+![Oublie pas hein oublie pas hein oublie pas](/images/reminder.gif "Nagging reminder")
 
-# Utilisez la technique du surbooking
+## Utilisez la technique du surbooking
 
 Particulièrement utilisée par les compagnies aériennes, cette méthode peut être adaptée pour vos tests utilisateurs : pour chaque session, **prévoyez 10 ou 20% de participants en plus de ceux programmés**. Vous avez plusieurs possibilités :
 
@@ -102,7 +102,7 @@ Particulièrement utilisée par les compagnies aériennes, cette méthode peut �
 * **Participants “remplaçant”** : vous les prévoyez à des créneaux spécifiques, en fin d’étude et ils sont prévenus. En cas d’annulation, vous avez votre créneau réservé avec lui/elle. Si tous vos créneaux précédents se sont déroulés comme prévus, vous ne faites pas le test avec ce participant mais le rétribuez un certain pourcentage de la contrepartie initiale (par exemple 50%).
 * **Participants “flottants”** : ils sont disponibles toute la journée, un peu n’importe quand et sont prévenus que vous pouvez les contacter en cas d'annulation (conviennent particulièrement pour les tests à distance). Ils doivent être réactifs. Dès que vous avez une annulation, vous les contactez. S’ils ne sont pas sollicités, il est de bon ton de leur attribuer un certain montant (là encore, un pourcentage de la contrepartie initiale, par exemple 50%).
 
-![Les équipes de foot ont leurs joueurs remplaçants. En test utilisateur, c'est pareil !](https://lh5.googleusercontent.com/ztFUPTi2ewWLguwbLuiJW62F_DKlbla8ohwQftSU8Xxu3Awfij8Wc-FA2k6jwuK91GkHxWE9BaIKpuoQPXj_KWgKxdBoASTPZMH9iuvjUeWpg9xKMXwf9ImWED_Y-T2ByAy1J-E "Remplacement au foot" =469x219)
+![Les équipes de foot ont leurs joueurs remplaçants. En test utilisateur, c'est pareil !](/images/substitute.gif "Remplacement au foot")
 
 Vous l’aurez compris, prévoir des remplaçants a un coût. Mais le stress provoqué par un no-show, additionné au temps perdu et au temps pris pour trouver un remplaçant en catastrophe ne vaut-il pas le confort d’avoir une solution de secours ?
 
@@ -114,7 +114,7 @@ Cela peut passer par des **choses simples** comme un lien à cliquer dans un mai
 
 Offrez également la possibilité au participant de **reprogrammer facilement son rendez-vous**, sans avoir à faire des allers-retours d’emails avec vous. Des outils d’agenda vous le permettent très facilement. Sur Tandemz également, vos participants peuvent annuler ou reprogrammer leur rendez-vous en autonomie dans les créneaux auxquels vous êtes disponibles.
 
-![Voulez-vous qu'on reporte le rendez-vous ?](https://lh3.googleusercontent.com/fSHD_KKqVKGJ4J7aO7p_uuNkE0ttLUfg19yQwcw6Q_QIk--_iPI6vlNPqGIzZXDH1T2yOcmskmee67DdVDqUywNTcP_tmZxi2VA6e8A2lZYN5wdOWS7iD94svwxMZ0DE9oM6Ck4 "Reschedule" =480x360)
+![Voulez-vous qu'on reporte le rendez-vous ?](/images/reschedule.gif "Reschedule")
 
 ## Adaptez vous aux participants
 
@@ -127,15 +127,13 @@ Cela peut vous demander un réel effort : travail hors de vos horaires habituels
 
 N'hésitez pas à vous mettre d’accord avec votre équipe pour vous répartir ces heures hors période de travail et/ou à adapter vos horaires pour les inclure dans votre journée.
 
-![Calendrier de vos horaires de travail](https://lh5.googleusercontent.com/CelTPXS2gbNDxch2LQOroiv_vvs6aT0tWccTQ3ytLr4CI8DBhRgwLXDYcPExHRrDoQEsJ99f17U5IxXS-hiPfvYqg8kVjwWlODwcEpxF99DztnN2-li8UiagpNTGbiaqIB9itbU "Calendrier" =480x274)
+![Calendrier de vos horaires de travail](/images/schedule.gif "Calendrier")
 
 ## Prenez en compte les habitudes culturelles et les situations actuelles
 
-Chaque culture a ses habitudes. Chaque pays a sa situation actuelle et peut être soumis à un stress passager ou non. Par exemple, le taux de no-shows constaté par les UX Researchers aux Etats-Unis en ce moment a augmenté, dû à l’association du mouvement Black Lives Matter et de la situation du Covid.
-
 Prenez en compte ces facteurs avant de recruter vos participants, et **prévoyez des remplaçants en conséquence**.
 
-![Vous avez dit grève ?](https://lh3.googleusercontent.com/I9kblKxa9lHsgGXAolOyiOnVq1WOwtWXY2xlRgVL3Om6Ky2FWAp0S0ver8BNSNVF_6pVgGVL3JgNcVnAzZjhWsLDd7c1Yb48j1HwgANcKbvw249-L3aykT_RZNW4NiDIN4uEXzs "Vous avez dit grève ?" =480x270)
+![Vous avez dit "Grève" ?](/images/strike.gif 'Vous avez dit "Grève" ?')
 
 ## Conclusion
 
@@ -143,4 +141,4 @@ Bien sûr, ces techniques ne vous garantiront pas un taux de no-shows à 0% (si 
 
 Bon courage pour vos prochaines sessions de tests !
 
-![](https://lh3.googleusercontent.com/1DQMrZJcYXWsFLB9FNas8pRZEkX93BEeu6uG0Ax1vpF8qr64hSouGs7_cOcN9ayqWrgv_Aa92udAGIYD_e9G1fFo2cCRNME8M4q1_DGvsl2LnCQgmHAD0mUggox_xKam0ZNc0eo =436x329)
+![Bonne chance pour vos prochains tests !](/images/good-luck.gif "Bonne chance !")
