@@ -55,5 +55,6 @@ fields:
   label: SEO
 pages:
 - src/pages/about.md
+- src/pages/contrat-de-prestation-de-services-recrutement.md
 - src/pages/contrat-de-prestations-de-services-testeur.md
 - src/pages/politique-relative-aux-cookies.md
