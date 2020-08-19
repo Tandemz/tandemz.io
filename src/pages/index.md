@@ -157,7 +157,10 @@ ogimagealt: Logo Tandemz
 og_image_width: 80
 og_image_height: 200
 twitter_card: summary
-metatags: []
+metatags:
+- name: author
+  property: ''
+  content: Tandemz
 schema_org_data_list:
 - title: Entreprise
   content: |-
