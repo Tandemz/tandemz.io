@@ -152,9 +152,9 @@ ogdescription: Lancez vos interviews et vos tests utilisateurs sans prise de tê
   Automatisez l'organisation de votre recherche utilisateur et la gestion de votre
   panel.
 ogtype: website
-ogimage: "/images/Logo@200-1.png"
+ogimage: "/images/logotype.svg"
 ogimagealt: Logo Tandemz
-og_image_width: 200
+og_image_width: 80
 og_image_height: 200
 twitter_card: summary
 metatags: []
