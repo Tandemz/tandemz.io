@@ -71,7 +71,7 @@ TANDEMZ interviendra en qualité de sous-traitant des Données Personnelles des 
 
 A ce titre, l’Utilisateur s’engage et garantit que toutes les Données Personnelles des Testeurs, qui sont intégrées sur la Plateforme, ont été collectées dans le respect de la Réglementation applicable à la protection des Données Personnelles.
 
-L’Utilisateur est libre de saisir et/ou télécharger sur son Compte toutes informations qu’il juge utiles relatives à ses TesteursClients, à condition de respecter à tout moment les conditions générales d’utilisation et la Réglementation applicable à la protection des Données Personnelles. En particulier, l’Utilisateur s’assure (i) de ne traiter que des Données Personnelles strictement nécessaires et pertinentes au regard de la finalité du traitement effectué dans le cadre de l’utilisation de la Plateforme, (ii) informer les personnes concernées du traitement de leurs Données Personnelles et s’assurer de leur consentement à ce titre et (iii) respecter, à tout moment et en tout état de cause, les droits des personnes concernées dont les Données Personnelles sont traitées.
+L’Utilisateur est libre de saisir et/ou télécharger sur son Compte toutes informations qu’il juge utiles relatives à ses Testeurs, à condition de respecter à tout moment les conditions générales d’utilisation et la Réglementation applicable à la protection des Données Personnelles. En particulier, l’Utilisateur s’assure (i) de ne traiter que des Données Personnelles strictement nécessaires et pertinentes au regard de la finalité du traitement effectué dans le cadre de l’utilisation de la Plateforme, (ii) informer les personnes concernées du traitement de leurs Données Personnelles et s’assurer de leur consentement à ce titre et (iii) respecter, à tout moment et en tout état de cause, les droits des personnes concernées dont les Données Personnelles sont traitées.
 
 La responsabilité de TANDEMZ ne saurait être engagée en cas de non-respect par l’Utilisateur de ses obligations en tant que responsable de traitement.
 
@@ -93,7 +93,7 @@ Conformément aux conditions générales d’utilisation de la Plateforme, les D
 
 ### 5.2 Conservation des données du Testeur
 
-Les Données Personnelles du Testeur seront conservées sur instruction de l’Utilisateur soit pendant la durée de la session de test, soit pendant la durée du contrat d’abonnement conclu pendant toute la durée de l’utilisation de la Plateforme par avec l’Utilisateur, qui se chargera, en tant que responsable de traitement, de supprimer les Données Personnelles des Testeurs.
+Les Données Personnelles du Testeur seront conservées sur instruction de l’Utilisateur pendant toute la durée de l’utilisation de la Plateforme par avec l’Utilisateur, qui se chargera, en tant que responsable de traitement, de supprimer les Données Personnelles des Testeurs.
 
 Au terme des durées de conservation précitées, les données du Testeur sont automatiquement supprimées de la Plateforme.
 
@@ -132,14 +132,14 @@ L’Utilisateur reconnaît avoir été informé et accepte que les Données Pers
 
 Les Personnes Concernées disposent, à tout moment, des droits suivants sur leurs Données Personnelles :
 
-* **Droit d’accès : obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des Données Personnelles ;**
-* **Droit de rectification : obtenir la rectification de ses Données Personnelles lorsqu’elles sont inexactes ou incomplètes ;**
-* **Droit à l’effacement (« droit à l’oubli ») : obtenir l’effacement de ses Données Personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou que la Personne Concernée s’oppose au traitement de ses Données Personnelles ;**
-* **Droit à la limitation du traitement : obtenir la limitation du traitement de ses Données Personnelles lorsque la Personne Concernée conteste l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la Personne Concernée a encore besoin de conserver ces Données Personnelles pour la constatation, l’exercice ou la défense d’un droit en justice, ou si la Personne Concernée s’est opposée au traitement ;**
-* **Droit à la portabilité : obtenir la communication des Données Personnelles que la Personne Concernée a communiquées à TANDEMZ dans un format lisible, ou demander à TANDEMZ qu’elle transmette les Données Personnelles que la Personne Concernée a communiquées à un autre responsable de traitement ;**
-* **Droit d’opposition : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, au traitement de ses Données Personnelles, notamment dans le cas où cette opposition concerne de la prospection commerciale, y compris le profilage ;**
-* **Retrait du consentement : retirer son consentement au traitement futur de ses Données Personnelles par TANDEMZ, lorsque le traitement est fondé sur le consentement ;**
-* **Droit d’introduire une réclamation : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés si la Personne Concernée considère que le traitement opéré par TANDEMZ constitue une violation de ses Données Personnelles en ligne à l’adresse** [**https://www.cnil.fr/fr/plaintes**](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") **ou par courrier postal à l’adresse suivante : CNIL - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07.**
+* **Droit d’accès :** obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des Données Personnelles ;
+* **Droit de rectification** : obtenir la rectification de ses Données Personnelles lorsqu’elles sont inexactes ou incomplètes ;
+* **Droit à l’effacement (« droit à l’oubli »)** : obtenir l’effacement de ses Données Personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou que la Personne Concernée s’oppose au traitement de ses Données Personnelles ;
+* **Droit à la limitation du traitement** : obtenir la limitation du traitement de ses Données Personnelles lorsque la Personne Concernée conteste l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la Personne Concernée a encore besoin de conserver ces Données Personnelles pour la constatation, l’exercice ou la défense d’un droit en justice, ou si la Personne Concernée s’est opposée au traitement ;
+* **Droit à la portabilité** : obtenir la communication des Données Personnelles que la Personne Concernée a communiquées à TANDEMZ dans un format lisible, ou demander à TANDEMZ qu’elle transmette les Données Personnelles que la Personne Concernée a communiquées à un autre responsable de traitement ;
+* **Droit d’opposition** : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, au traitement de ses Données Personnelles, notamment dans le cas où cette opposition concerne de la prospection commerciale, y compris le profilage ;
+* **Retrait du consentement** : retirer son consentement au traitement futur de ses Données Personnelles par TANDEMZ, lorsque le traitement est fondé sur le consentement ;
+* **Droit d’introduire une réclamation** : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés si la Personne Concernée considère que le traitement opéré par TANDEMZ constitue une violation de ses Données Personnelles en ligne à l’adresse [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") ou par courrier postal à l’adresse suivante : CNIL - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07.
 
 Les droits des Personnes Concernées sur leurs Données Personnelles peuvent être exercés à tout moment auprès de TANDEMZ par email à l’adresse suivante : [**_contact@tandemz.io_**](mailto:contact@tandemz.io). Il sera demandé à la Personne Concernée une pièce d’identité pour justifier de son identité.
 
@@ -157,12 +157,12 @@ L’Utilisateur peut également paramétrer son navigateur pour accepter les coo
 
 Les instructions en matière de cookies sur les navigateurs les plus couramment utilisés sont disponibles sur les liens suivants :
 
-* **Windows Internet Explorer® :** [**https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies**](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies "https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies")
-* **Mozilla Firefox® :** [**https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites**](https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites "https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites")
-* **Google Chrome® :** [**https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr**](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr "https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr")
-* **Apple Safari® (iPhone ; iPad):** [**https://support.apple.com/fr-fr/HT201265**](https://support.apple.com/fr-fr/HT201265 "https://support.apple.com/fr-fr/HT201265")
-* **Apple Safari® (Mac) :**[**https://support.apple.com/fr-fr/guide/safari/sfri11471/mac**](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac "https://support.apple.com/fr-fr/guide/safari/sfri11471/mac")
-* **Désactivation de Google Analytics :** [**https://tools.google.com/dlpage/gaoptout**](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
+* **Windows Internet Explorer®** : [https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies "https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies")
+* **Mozilla Firefox®** : [https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites](https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites "https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites")
+* **Google Chrome®** : [https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr "https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr")
+* **Apple Safari® (iPhone ; iPad)** : [https://support.apple.com/fr-fr/HT201265](https://support.apple.com/fr-fr/HT201265 "https://support.apple.com/fr-fr/HT201265")
+* **Apple Safari® (Mac)** : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac "https://support.apple.com/fr-fr/guide/safari/sfri11471/mac")
+* **Désactivation de Google Analytics** : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
 
 ## 10. Do Not Track
 
