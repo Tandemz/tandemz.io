@@ -1,6 +1,6 @@
 ---
 template: page
-title: Politique de Confidentialité
+title: Politique de Confidentialité Participant
 subtitle: ''
 img_path: ''
 description: Politique de confidentialité et de protection de données de Tandemz
@@ -20,341 +20,151 @@ menus:
     title: Politique de confidentialité
     weight: 3
 legal: true
-updatedAt: 2020-06-03T18:48:00Z
+updatedAt: 2020-08-26T18:48:00Z
 legal_name: privacy-policy
 
 ---
-Chez Tandemz SAS, le respect de votre vie privée est important pour nous. Cette politique de confidentialité décrit pourquoi et comment nous traitons les données personnelles que vous nous confiez.
+TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 199 Avenue de Choisy - 75013 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** ») est soucieuse de la protection des Données Personnelles et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée.
 
-## **Informations générales**
+Lorsqu’elle collecte les Données Personnelles des Participants, TANDEMZ met en œuvre des traitements de celles-ci pour lesquels elle est qualifiée de « responsable de traitement », au sens des textes précités.
 
-### **Définitions des concepts**
+Les Participants sont également ci-après désignés les « **_Personnes Concernées_** » au sens de la Réglementation applicable à la protection des données personnelles.
 
-"**Tandemz**" ou "**nous**" : la société Tandemz SAS, domiciliée au 199 Avenue de Choisy, 75013 Paris
+TANDEMZ s’engage à respecter à tout moment les exigences de la Réglementation applicable à la protection des Données Personnelles et à n’opérer de traitements sur les Données Personnelles que dans les conditions prévues ci-après.
 
-"**Visiteur**" : toute personne se rendant sur le site internet de Tandemz
+## 1. Définitions
 
-"**Client**" : toute personne ou société souscrivant à une offre de Tandemz
+Dans la présente politique de confidentialité, les termes identifiés ci-dessous par une majuscule ont la signification suivante, qu’ils soient employés au singulier ou au pluriel :
 
-"**Site**" : Site internet accessible à tous présentant Tandemz et son produit
+1. **Données Personnelles** : désigne les données qui, au sens de la Réglementation applicable à la protection des données personnelles, permettent de désigner ou d'identifier, directement ou indirectement, une personne physique.
+2. **Participant** : désigne toute personne physique majeure et capable juridiquement qui accède à la Plateforme en vue de participer à une Session, quel que soit le lieu où elle se trouve et les modalités de son accès.
+3. **Plateforme** : désigne la plateforme de tests intitulée « Tandemz », éditée par TANDEMZ et mise à disposition du Participant par le biais d’internet, sur le Site.
+4. **Réglementation applicable à la protection des données personnelles** : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».
+5. **Sessions** : désigne les sessions d’étude et de tests proposés sur la Plateforme, permettant à un Participant de participer à une étude sur un produit, un service, un test Participant, un entretien Participant, un focus groupe.
+6. **Site** : désigne le site internet [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") édité par TANDEMZ et permettant d’accéder à la Plateforme et aux Sessions.
 
-"**Plateforme**" : Outil permettant aux Clients de mener à bien leurs études
+## 2. Finalités du traitement des Données Personnelles
 
-“**Session**” : étude menée par un Client visant à récupérer des informations sur leur produit ou leur offre auprès de Participants. Une session peut être, par exemple, un test utilisateur, un entretien utilisateur, un focus group, etc...
+TANDEMZ opère un traitement des Données Personnelles du Participant pour les besoins suivants :
 
-"**Service**" : toute prestation réalisée par Tandemz pour un Client
+* Inscription du Participant au panel Tandemz;
+* Eligibilité et participation du Participant à des Sessions :
+* Proposer au Participant des Sessions en fonction de son profil ;
+* Amélioration des performances et fonctionnalités de la Plateforme ;
+* Prévention et détection des fraudes, malwares (malicious software ou logiciels malveillants) et gestion des incidents de sécurité ;
+* Gestion des éventuels litiges.
+* Suivi et analyse du trafic de la Plateforme ; et
+* A des fins statistiques.
 
-"**Participant**" : particulier ou professionnel recruté pour participer à une Session organisée par un Client de Tandemz. Celui-ci peut être utilisateur, consommateur ou prospect.
+## 3. Données Personnelles traitées
 
-### **Objectif de Tandemz**
+En tant que responsable de traitement, TANDEMZ traite les Données Personnelles suivantes :
 
-Tandemz fournit un Site présentant aux Visiteurs des contenus, tels que les offres de Services de Tandemz. Ces Services inclus notamment l’accès à des Plateformes permettant aux Clients la conduite d’études visant à récupérer des informations auprès d’utilisateurs, de consommateurs ou de prospects, à travers des Sessions.
+* Données du Participant collectées lors de l’inscription sur la Plateformeau panel :
+  * Nom et prénom ;
+  * Adresse email ;
+  * Numéro de téléphone ;
+  * Date de naissance ;
+  * Profession ;
+  * Ville, Code Postal,
+  * Genre ;
+  * Habitude de consommation : titulaire d’un téléphone iOS ou Android ;
+* Données du Participant collectées lors de la navigation sur la Plateforme :
+  * adresse IP, données de connexion ;
+* Données du Participant pouvant être collectées lors d’une demande de participation à une Session, selon les besoins spécifiques de chaque Session :
+  * Age
+  * Profession
+  * Revenu moyen
+  * Genre
+  * Habitudes de consommation
+  * Langues parlées
+  * Equipements numériques possédés
+  * Aisance avec le numérique ou le système d'exploitation utilisé
+  * Centres d’intérêts.
 
-L'utilisation du Site ne nécessite pas la collecte de données personnelles. Toutefois, si vous souhaitez utiliser certains Services proposés par Tandemz - tels que l'accès à la Plateforme, l'organisation ou la participation à des Sessions - la collecte de données à caractère personnel est obligatoire. Il s’agit des données obtenues sur vous comme vos nom, prénom, email, adresse, comportement d'utilisation ou informations à caractère démographique.
+Le caractère obligatoire ou facultatif de la saisie des données est précisé lors de la collecte, par un astérisque apposé à côté des données à renseigner de manière obligatoire. La communication obligatoire de certaines données personnelles est nécessaire à TANDEMZ pour mettre en œuvre les finalités ci-avant précisées. Les données facultatives permettent à TANDEMZ de mieux connaître le Participant et de proposer au Participant des Sessions adaptées à son profil.
 
-## **Comment collectons et utilisons-nous vos données ?**
+Si le questionnaire de candidature à une Session contient des questions demandant des informations personnelles sensibles, un consentement explicite exprès supplémentaire sera demandé au Participant pour traiter ces Données Personnelles. Les données sensibles sont, en application de la Réglementation applicable à la protection des données personnelles, les informations qui révèlent la prétendue origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, les données concernant la santé, les données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique.
 
-La manière dont nous collectons vos données dépend des Sites, Plateformes ou Services auxquels vous accédez, ainsi que de l'utilisation que vous en avez.
+## 4. Durée de conservation des Données Personnelles
 
-Ces données peuvent être collectées de deux manières différentes :
+Les Données Personnelles du Participant collectées pour les finalités d’inscription au panel ainsi que pour proposer au Participant des Sessions adaptées à son profil sont conservées pendant une durée de 2 ans maximum après la dernière participation. A l’issue de cette durée de conservation, TANDEMZ adressera un mail d’information au Participant lui annonçant la suppression prochaine de ses Données Personnelles. Au-delà, les Données Personnelles sont archivées par TANDEMZ, dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice.
 
-1. **Directement** en tant que Client, Participant ou Visiteur, par la soumission de formulaires sur les Sites ou Plateformes ;
-2. **Indirectement** via l'utilisation de technologies automatisées ou via des tiers.
+Les Données Personnelles du Participant collectées dans le cadre de la participation du Participant à des Sessions sont conservées pendant la durée de la Session. Au-delà, les Données Personnelles sont anonymisées à des fins de recherche scientifique et à des fins statistiques (art. 89, paragraphe 1 et 2 du Règlement Général sur la Protection des Données du 27 avril 2016), l’anonymisation de ces données ne permettant plus d’identifier les personnes concernées.
 
-Le détail des données collectées est listé dans les sous-parties suivantes.
+## 5. Destinataires des Données Personnelles
 
-Les motifs légitimes poursuivis par Tandemz nécessitant la collecte d'informations personnelles incluent :
+Les Données Personnelles du Participant sont strictement confidentielles et destinées exclusivement à TANDEMZ et au client organisateur de la ou des Session(s) auxquelles le Participant participe. Dans le cadre d’une Session, TANDEMZ transmettra au client concerné par la Session :
 
-* Fournir un accès et une utilisation aux Services et Plateformes de Tandemz. Cela inclut l'inscription en tant que Participant ou Client ;
-* Délivrer un service aux Clients, comme la sélection de candidats sur des critères démographiques ;
-* Améliorer votre expérience avec les Services ;
-* Comprendre la manière dont vous accédez, interagissez et utilisez les Services afin de fournir de nouvelle fonctionnalités, de nouveaux produits ou de nouveaux Services, améliorer ceux existants ou analyser l'utilisation de notre Service ;
-* Communiquer avec vous pour l'un des intérêts légitimes de cette présente liste ;
-* Fournir un support client par rapport à l'utilisation de nos Services ;
-* Détecter des fraudes, des utilisations illégales ou des failles de sécurités ;
-* Recevoir ou envoyer des paiements ;
-* Fournir des informations aux autorités légales et administratives à la demande de celles-ci ;
-* À des fins de recherche scientifique comme le développement de nouveaux algorithmes de mise en relation.
-
-### **Données collectées directement**
-
-#### **Auprès des Visiteurs**
-
-Tandemz collecte auprès des Visiteurs des informations relatives à l’utilisation des Sites ou Plateformes qu’ils visitent. Cela comprend :
-
-* les pages vues
-* les boutons et les liens cliqués
-* le temps passé sur le site et le navigateur
-
-Ces données sont collectées de manière anonyme et agrégée.
-
-Si le Visiteur envoie le formulaire de contact ou discute avec notre équipe de support, les données suivantes peuvent être aussi collectées :
-
-* Nom
-* Prénom
-* Adresse Email
-* Messages échangés
-* Statut en ligne ou hors ligne
-* Adresse IP
-* Localisation géographique, Ville, Pays (devinés à partir de l'adresse IP)
-* Langue préférée
-* Fuseau horaire
-* Informations liées à la profession (Poste, Employeur, Adresse professionnelle)
-* Données déduites des informations publiques sur Google (Avatar, Twitter/Facebook profile)
-
-Ces données sont enregistrées afin de récolter des métriques sur l'utilisation des Sites, Plateformes ou Services, d’améliorer les Sites, Plateformes ou Services, de répondre aux demandes des Visiteurs ou de leur fournir les documents ou informations demandés.
-
-#### **Auprès des Clients**
-
-Lors de leur inscription ou de leur utilisation de nos Services et Plateformes, nous pouvons être en mesure de demander à nos Clients des informations personnelles supplémentaires à celles récoltées en tant que Visiteur, telles que :
-
-* l'adresse email
-* le nom
-* l'entreprise
-* toute autre information jugée pertinente.
-
-Les données collectées auprès des Clients sont utilisées pour :
-
-* identifier les Clients
-* leur fournir des accès aux Plateformes
-* respecter les obligations contractuelles de Tandemz
-* facturer
-* à des fins statistiques d'utilisation des Sites, Services et Plateformes
-* à l'amélioration des Sites, Services et Plateformes
-* au support
-* leur fournir des conseils liés à leur utilisation des Plateformes.
-
-Lors de la réalisation effective de la Session, si des données sont collectées, enregistrées et/ou traitées par le Client, il est lui-même responsable de la conformité législative de ces actes. Tandemz n’est pas responsable de ces actions.
-
-#### **Auprès des Participants**
-
-##### **Données obligatoires**
-
-Lors de l'inscription à une session, nous collectons nécessairement auprès du Participant les données suivantes :
-
-* email
-* nom
-* prénom
-* numéro de téléphone.
-
-Ces informations sont utilisées pour contacter le participant ainsi que pour connaître ses participations précédentes afin de limiter, ou non, sa participation à des Sessions.
-
-Si la Session s’effectue à une adresse choisi par le participant, nous lui demandons également une adresse. Celle-ci est communiquée au Client si la participation du participant est validée.
-
-Nous pouvons être également amenés à vérifier la majorité d'un participant pour des raisons légales de traitement des données ou de rémunération.
-
-##### **Données spécifiques à une Session**
-
-L’éligibilité d’un candidat à un Session peut se faire selon tout critère particulier défini par le Client. Nous demandons donc également à chaque Participant des informations supplémentaires selon ces critères ainsi qu'à la production de statistique.
-
-Ces données peuvent notamment inclurent :
-
-* l'âge
-* la profession
-* le revenu moyen
-* le genre
-* les habitudes de consommation
-* les langues parlées
-* les équipements numériques possédés
-* l'aisance avec le numérique ou le système d'exploitation utilisé.
-
-Ces informations sont demandées dans un questionnaire dédié. Si un Participant choisi de ne pas répondre à ces questions, il ne pourra pas être considéré éligible aux Sessions associées.
-
-Si le questionnaire de candidature contient des questions demandant des[ informations personnelles sensible](https://www.cnil.fr/fr/definition/donnee-sensible)s, un consentement explicite supplémentaire sera demandé au Participant pour traiter ces données. Les informations concernées sont :
-
-* la prétendue origine raciale ou ethnique
-* les opinions politiques
-* les convictions religieuses ou philosophiques ou l'appartenance syndicale
-* les données concernant la santé
-* les données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique
-
-Enfin, avec votre consentement et pour certaines Sessions seulement, nous collectons des informations relatives à la complétion du formulaire de participation à cette Session. Ces données sont utilisées afin d'optimiser les publicités permettant de trouver des participants à cette Session.
-
-##### **Participation multiples**
-
-Si le participant déclare une volonté de participer à d’autres Sessions que celui pour lequel il répond initialement au questionnaire d’inscription, nous collecterons alors auprès de lui des informations démographiques supplémentaires tel que :
-
-* la date de naissance
-* la profession
-* la catégorie sociale et professionnelle
-
-Ces informations sont facultatives. Cependant, ne pas les renseigner réduit les chances de se faire proposer d’autres Sessions.
-
-Tandemz peut également utiliser les données collectées auprès des Participants pour le paiement, pour aider le participant sur l'utilisation des Sites ou Plateformes, pour construire des statistiques anonymes et agrégées ainsi que pour tout autre motif légitime.
-
-### **Données collectées indirectement**
-
-#### **Données de tracking**
-
-Tandemz utilise des données collectées indirectement, lorsqu’un visiteur arrive sur un des Sites ou Plateformes, pour connaître sa provenance (comme un autre site, une publicité ou un email). Tandemz utilise ces données pour améliorer ses produits ou services.
-
-#### **Données depuis les clients**
-
-En tant que sous-traitant au sens de[ l'article 4 de la RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4), pour le compte de nos Clients, nous collectons des données de participants potentiels. Ces participants potentiels ont donné leur permission auprès de nos Clients à la transmission de leur données avec nous. Ces données sont soumises au Contrat de sous-traitance des données personnelles passé avec le Client concerné.
-
-Nous utilisons ces données pour contacter les participants potentiels afin de leur proposer les Sessions organisées par le Client nous ayant fournis ces données uniquement.
-
-Avec le consentement des participants potentiels nous pouvons être amenés à les contacter dans le cadre de Sessions avec d'autres Clients.
-
-#### **Cookies**
-
-Tandemz utilise des cookies sur ses Sites et Plateformes.
-
-Un cookie est une petite quantité de données, qui contient souvent un identifiant unique et anonyme, envoyée à votre navigateur par un serveur Web et stockée sur le disque dur de votre ordinateur. Les informations collectées grâce à ce cookie peuvent être associées à d'autres cookies que vous possédez sur votre ordinateur et utilisées pour compléter les informations dont nous disposons à votre sujet. Voir la [politique relative aux cookies](https://www.tandemz.io/politique-relative-aux-cookies/).
-
-Les cookies ne sont pas directement nécessaires à l’utilisation des Sites et Plateformes de Tandemz. Les Visiteurs ont la possibilité d'accepter ou de décliner ces cookies.
-
-#### **Do Not Track**
-
-Les Sites et Plateformes de Tandemz répondent au signal Do Not Track ("DNT").
-
-Pour plus d'information sur le paramètre DNT, visitez[ ](https://allaboutdnt.com/)[https://allaboutdnt.com/](https://allaboutdnt.com/ "https://allaboutdnt.com/")
-
-#### **Communications**
-
-Quand vous communiquez avec nous, nous collectons les données relatives à ces communications.
-
-## **Partage à des tiers**
-
-### **Sous-traitants**
-
-Tandemz a recours à des sous-traitants pour exercer certaines fonctions et peut être amené à partager vos informations avec ces sous-traitants. Ceux-ci sont recrutés par nos soins, dans le cadre d’un des motifs de la liste de motifs légitimes nécessitant la collecte d’informations personnelles.
-
-La liste exhaustive de ces sous-traitants est la suivante :
-
-| Outil | Société | Motif |
-| --- | --- | --- |
-| Clever Cloud | Clever Cloud SAS<br />3 rue de l'Allier, 44000 Nantes, France | Nous utilisons Clever-Cloud pour héberger notre base de données. L'ensemble des données personnelles y sont conservées.<br />https://www.clever-cloud.com/en/legal-terms |
-| Netlify | Netlify, Inc.<br />2325 3rd Street, Suite 215, San Francisco, California 94107 | Tandemz utilise Netlify pour l'hébergement du site vitrine (https://tandemz.io "https://tandemz.io").<br />https://www.netlify.com/privacy/ |
-| Datadog | Datadog, Inc.<br />620 8th Avenue, Floor 45, New York, NY 10018 | L'ensemble de nos logs sont enregistrés sur datadog pour un durée de 2 semaines. Ils nous servent à corriger des bugs et à l'amélioration des Sites et Plateformes. Ils peuvent contenir des données personnelles.<br />https://www.datadoghq.com/legal/privacy/ |
-| Google Analytics | Google Dublin<br />Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande | Nous utilisons Google Analytics de manière anonymisée et sans transmission de l'IP pour collecter des informations relatives à l'utilisation du site.<br />https://policies.google.com/privacy |
-| Sendin blue | Sendinblue<br />sis 55 rue d’Amsterdam, 75008 Paris | Nous utilisons Sendin blue pour l'envoi de mails automatiques.<br /> https://fr.sendinblue.com/legal/privacypolicy/ |
-| G Suite | Google<br />1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA | Tandemz utilise Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers.<br />https://policies.google.com/privacy |
-| Typeform | TYPEFORM SL Carrer<br />Bac de Roda, 163, local, 08018 - Barcelona (Spain) | Nous utilisons Typeform pour générer le questionnaire de participation à un Test et collecter les réponses.<br />https://admin.typeform.com/to/dwk6gt/ |
-| Hubspot | HubSpot, Inc.<br />25 First Street, 2nd Floor, Cambridge, MA 02141 USA | Nous utilisons Hubspot pour le suivi des prospects commerciaux et des clients.<br />https://legal.hubspot.com/privacy-policy |
-| Crisp | Crisp IM SARL<br />2 Boulevard de Launay, 44100 Nantes, France | Crisp fournit la fenêtre de chat intégré à l'application. Nous l'utilisons pour le suivi des conversations et le support.<br />https://crisp.chat/fr/privacy/ |
-| Facebook pixel | Facebook Ireland Ltd.<br />4 Grand Canal Square Grand Canal Harbour Dublin 2 Ireland | Nous utilisons un pixel Facebook pour faire le suivi des personnes ayant cliqué sur un contenu sponsorisé publié pour le recrutement à une session de Test.<br />https://www.facebook.com/policy.php |
-
-### **Mise en relation Client - Participant**
-
-#### **Données du Client transmises au Participant - Publication d'une Session**
-
-Dans le cadre de l'organisation d'une Session, plusieurs informations du Client peuvent être rendues publiques. Les informations suivantes pourront être visibles par les Participants lors de leur inscriptions :
-
-* L'adresse de la société et son nom (si le rendez-vous se fait en physique, pour permettre aux Participants d'anticiper le temps de trajet)
-* Les créneaux de disponibilité du Client
-
-#### **Données du Participant transmises au Client - Inscription à une Session**
-
-Lors de l'inscription à une Session, les données suivantes du Participant peuvent être transmises au Client :
-
-* Prénom
-* La première lettre du nom de famille
+* Le prénom du Participant ;
+* La première lettre de son nom de famille ;
 * L'adresse choisie par le Participant pour la rencontre
-* Les réponses au questionnaire d'inscription à la Session.
+* Les réponses du Participant au questionnaire d'inscription à la Session.
+* Si le Client accepte de rencontrer le Participant, seront alors transmises les données suivantes:
+  * Le numéro de téléphone
+  * L'adresse email.
 
-Si le Client accepte de rencontrer le Participant, seront alors transmises les données suivantes :
+Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne divulguera, cédera, louera ou transmettra jamais les Données Personnelles qui sont traitées sur la Plateforme à des tiers autres que ses clients et que les prestataires techniques suivants :
 
-* Le numéro de téléphone, si la rencontre se fait par téléphone
-* L'adresse email
+* les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données. :
+  * La société Clever Cloud SAS : 3 rue de l'Allier, 44000 Nantes, France, hébergeur de la base de données TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms");
+  * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
+* les prestataires sous-traitants de TANDEMZ pour les besoins fonctionnels de la Plateforme, notamment:
+  * la société Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018 fournissant un service d’enregistrement des logs, servant à corriger les bugs et à améliorer la Plateforme
+  * la société SendinBlue, sis 55 rue d’Amsterdam, 75008 Paris fournissant le service Sendinblue d’envoi de mails automatiques.
+  * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers.
+  * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses.
+  * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients.
+  * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support.
 
-### **Transmission autre - Obligations légales et sécurité**
+Ces prestataires agissent comme sous-traitants de TANDEMZ au sens de la réglementation applicable à la protection des Données Personnelles, sur instructions de TANDEMZ et dans les conditions contractuelles signées avec TANDEMZ respectant la Réglementation applicable à la protection des données personnelles.
 
-Tandemz pourra transmettre vos données personnelles à des tiers supplémentaires dans les conditions suivantes seulement :
+## 6. Mesures de sécurité mises en œuvre
 
-* Si vous nous donnez votre consentement ;
-* Si nous pensons de bonne foi que la transmission de vos donnés à ces tiers est requise par la loi ;
-* Pour la sauvegarde des intérêts vitaux de la personne concernée ou d’un tiers ;
-* Pour protéger la sécurité des Services, se protéger du spam, d'abus ou d'activités malicieuses ;
-* Pour protéger nos droits, nos propriétés ou les droits et propriétés des personnes utilisant les services de Tandemz.
+TANDEMZ s’engage à assurer la sécurité et l’intégrité des Données Personnelles traitées sur la Plateforme. A ce titre, TANDEMZ met en œuvre et maintient des mesures techniques et organisationnelles de sécurité de la Plateforme et, plus généralement, de son système d’information, adaptées au regard de la nature des Données Personnelles traitées et des risques présentés par leur traitement. Ces mesures visent à (i) protéger les Données Personnelles contre leur destruction, perte, altération, divulgation à des tiers non autorisés, (ii) assurer le rétablissement de la disponibilité des Données Personnelles et l'accès à celles-ci dans des délais appropriés en cas d'incident physique ou technique.
 
-## **Conservation des données personnelles**
+## 7. Transferts de Données Personnelles hors de l’Union européenne
 
-Toutes les données personnelles renseignées directement par des Clients, Participants ou Visiteurs sont conservées durant une durée raisonnable, après la date de dernière activité.
+Le Participant reconnaît avoir été informé les Données Personnelles le concernant sont hébergées sur les serveurs de la société Clever Cloud SAS situés dans l’Union Européenne.
 
-Lors de la suppression, toute information à caractère personnel permettant de vous identifier nominativement est supprimée définitivement de nos bases de données, à savoir : vos email, nom, adresse postale, numéro de téléphone, entreprise et, le cas échéant, votre IBAN.
+Le Participant reconnaît avoir été informé et accepte que les Données Personnelles le concernant peuvent être communiquées à des sous-traitants dont les services sont hébergés dans des pays situés hors de l’Union européenne. Les sous-traitants de TANDEMZ garantissent que ces transferts se font dans des conditions de sécurité et de confidentialité appropriées et adaptées permettant de garantir un niveau de protection des Données Personnelles du Participant équivalent au niveau exigé au sein de l’Union européenne, conformément à la Réglementation applicable à la protection des Données Personnelles.
 
-Dans le cas des Clients, sont également supprimées les informations personnelles permettant l'identification de tout participant potentiel ajouté par le Client et n’ayant pas donné son consentement pour participer à des Sessions organisées par d'autres Clients.
+## 8. Droits des Personnes Concernées sur leurs Données Personnelles
 
-Toute autre information de profil telle que les informations socio-démographiques, de consommation ou concernant vos activités sur les Sites et Plateformes sont conservées de manière complètement anonymisée à des fins de recherche scientifique et à des fins statistiques (art. 89, paragraphe 1 et 2 du Règlement Général sur la Protection des Données du 27 avril 2016), l’anonymisation de ces données ne permettant plus d’identifier les personnes concernées.
+Les Personnes Concernées disposent, à tout moment, des droits suivants sur leurs Données Personnelles :
 
-### **Demande de suppression**
+* **Droit d’accès** : obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des Données Personnelles ;
+* **Droit de rectification** : obtenir la rectification de ses Données Personnelles lorsqu’elles sont inexactes ou incomplètes ;
+* **Droit à l’effacement (« droit à l’oubli »)** : obtenir l’effacement de ses Données Personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou que la Personne Concernée s’oppose au traitement de ses Données Personnelles ;
+* **Droit à la limitation du traitement** : obtenir la limitation du traitement de ses Données Personnelles lorsque la Personne Concernée conteste l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la Personne Concernée a encore besoin de conserver ces Données Personnelles pour la constatation, l’exercice ou la défense d’un droit en justice, ou si la Personne Concernée s’est opposée au traitement ;
+* **Droit à la portabilité__ : obtenir la communication des Données Personnelles que la Personne Concernée a communiquées à TANDEMZ dans un format lisible, ou demander à TANDEMZ qu’elle transmette les Données Personnelles que la Personne Concernée a communiquées à un autre responsable de traitement ;**
+* **Droit d’opposition : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, au traitement de ses Données Personnelles, notamment dans le cas où cette opposition concerne de la prospection commerciale, y compris le profilage ;
+* **Retrait du consentement** : retirer son consentement au traitement futur de ses Données Personnelles par TANDEMZ, lorsque le traitement est fondé sur le consentement ;
+* **Droit d’introduire une réclamation** : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés si la Personne Concernée considère que le traitement opéré par TANDEMZ constitue une violation de ses Données Personnelles, en ligne à l’adresse [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") ou par courrier postal à l’adresse suivante : CNIL - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07.
 
-Vous pouvez à tout moment demander la suppression de vos données personnelles en nous envoyant un mail à contact@tandemz.io.
+Les droits des Personnes Concernées sur leurs Données Personnelles peuvent être exercés à tout moment auprès de TANDEMZ par email à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io). Il sera demandé à la Personne Concernée une pièce d’identité pour justifier de son identité.
 
-Lors d'une demande de suppression nous conservons malgré tout les données personnelles nécessaires à l'établissement, l'exercice ou la défense de réclamation en justice ou de litige. Elles seront supprimées à la fin des durées de prescription/forclusion applicable.
+## 9. Gestion des cookies
 
-Nous conservons également les données si leur suppression nous empêche d'effectuer des opérations de fonctionnement essentielles telles que la facturation, le calcul de taxes ou la conduite d'audit. Elles seront alors supprimées à la fin desdites opérations.
+TANDEMZ a recours à l’utilisation de cookies pour les bonnes fins du fonctionnement de la Plateforme et pour suivre et analyser le trafic sur celle-ci. Un « cookie » est un petit fichier de données envoyé au navigateur du Participant par un serveur web et stocké sur le disque dur de son ordinateur. Ils ne risquent en aucun cas d’endommager l’ordinateur.
 
-## **Stockage et sécurité**
+Les informations collectées par le biais des cookies sont uniquement et strictement destinées à TANDEMZ, dans le respect de la réglementation applicable à la protection des Données Personnelles. Les cookies issus d’éditeurs tiers (Google, Facebook) permettent à ces éditeurs d’accéder aux informations collectées par le biais de leurs cookies, selon les modalités précisées dans le tableau et la clause « Réseaux sociaux » ci-après.
 
-La sécurité de vos données personnelles est importante pour nous. Nous enregistrons et transférons sur internet vos données en appliquant l'état de l'art actuel en terme de sécurité des données.
+La liste des cookies utilisés par TANDEMZ est disponible dans sa fenêtre d'acceptation. <a class="cky-banner-element" href="#">Cliquez ici pour la voir à nouveau</a>.
 
-Vos données personnelles sont enregistrées sur les serveurs de Clever Cloud SAS, localisés à Paris, en France.
+Le Participant est libre de consentir à l’utilisation de toute ou partie des cookies (autres que les cookies strictement nécessaires aux fins de fonctionnement de la Plateforme) utilisés par TANDEMZ sur la Plateforme. Le Participant peut faire son choix lors de sa première connexion en cliquant sur les catégories de cookies qu’il accepte. <a class="cky-banner-element" href="#">Le Participant est également libre de retirer son consentement à l’utilisation des cookies à tout moment, en cliquant ici</a>.
 
-## **Quels sont vos droits ?**
+Le Participant peut également paramétrer son navigateur pour accepter les cookies ou les désactiver.
 
-La Réglementation Générale sur la Protection des Données (RGPD) européenne vous donne les droits suivants sur vos données personnelles et leur traitement par Tandemz :
+Les instructions en matière de cookies sur les navigateurs les plus couramment utilisés sont disponibles sur les liens suivants :
 
-* droit d’accès
-* droit de rectification et d’effacement des données
-* droit d’opposition au traitement
-* droit à la limitation du traitement de ces données
-* droit à la portabilité des données
-* droit d’introduire une réclamation auprès d’une autorité de contrôle.
+* **Windows Internet Explorer®** : [https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies "https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies")
+* **Mozilla Firefox®** : [https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites](https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites "https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites")
+* **Google Chrome®** : [https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr "https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr")
+* **Apple Safari® (iPhone ; iPad)** : [https://support.apple.com/fr-fr/HT201265](https://support.apple.com/fr-fr/HT201265 "https://support.apple.com/fr-fr/HT201265")
+* **Apple Safari® (Mac)** : [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac "https://support.apple.com/fr-fr/guide/safari/sfri11471/mac")
+* **Désactivation de Google Analytics** : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
 
-Vous pouvez exercer chacun de ces droits :
+1. **Do Not Track**
 
-* soit en écrivant par courrier à Tandemz – 33 rue Censier, 75005 Paris (France)
-* soit en adressant un courrier électronique à l’adresse contact@tandemz.io
-
-### **Droit d’accès**
-
-Vous pouvez nous demander si nous possédons des données vous concernant et, le cas échéant, des informations relatives à leur traitement.
-
-### **Droit de rectification et droit d’effacement**
-
-Vous pouvez nous demander, à tout moment, la rectification ou la suppression de vos données dans les conditions détaillées dans la partie "Conservation des données personnelles".
-
-### **Droit d’opposition**
-
-Ce droit vous permet de vous opposer au traitement de vos données par Tandemz pour un ou plusieurs motif(s) de traitement.
-
-Si vous souhaitez ne plus recevoir les emails à caractère marketing (comme la newsletter), un lien est présent à la fin de chaque mail vous permettant de vous désinscrire.
-
-### **Droit à la portabilité**
-
-Ce droit vous permet de recevoir les données que vous avez communiquées ou de demander à Tandemz de les transmettre à un autre responsable de traitement (un autre site par exemple).
-
-### **Renseignements concernant la possibilité d'introduire une réclamation (plainte) à la CNIL**
-
-Vous avez le droit d’adresser une réclamation auprès de l'autorité compétente, à savoir la CNIL, concernant le traitement par Tandemz de vos données à caractère personnel.
-
-Pour en savoir plus, consultez le site Web de la[ CNIL](https://www.cnil.fr/fr/cnil-direct/question/844).
-
-## **Protection des mineurs**
-
-Nous ne collectons aucune information personnelle de personnes de moins de 18 ans (mineurs). Si Tandemz prend connaissance du fait que certaines données collectées concernent des mineurs, celles-ci seront immédiatement supprimées.
-
-## **Mise à jour de la Politique de Confidentialité**
-
-Toutes les informations collectées et maintenues par Tandemz sont sujettes à cette politique de confidentialité. En cas de modification du contenu de celle-ci, les Clients et les Participants en sont informés par email ou par message dans les Sites et Plateformes concernés.
-
-## **Délégué à la Protection des Données**
-
-Tandemz a désigné un délégué à la protection des données (DPO) tel que requis dans la RGPD :
-
-**Nicolas DJAMBAZIAN**
-
-* Rôle : Co-fondateur et CTO
-* Email: nicolasd@tandemz.io
-
-## **Contact**
-
-Si vous avez des questions, demandes ou réclamations concernant Tandemz ou cette politique de confidentialité, vous pouvez nous contacter par email à : contact@tandemz.io.
-
-## **Tandemz SAS**
-
-SAS au capital de 2 400 € en cours d’immatriculation.<br /> Siège social : 199 Avenue de Choisy, 75013 Paris<br /> Contact mail : contact@tandemz.io<br /> Téléphone : 07 83 92 37 88
-
-Dernière mise à jour : 20 Févr 2020
+Le Site et la Plateforme répondent au signal Do Not Track ("DNT"). Pour plus d'information sur le paramètre DNT, visitez[ ](https://allaboutdnt.com/)[https://allaboutdnt.com/](https://allaboutdnt.com/ "https://allaboutdnt.com/")
