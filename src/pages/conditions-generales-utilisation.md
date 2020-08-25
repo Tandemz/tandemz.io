@@ -17,7 +17,7 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 legal: true
-updatedAt: 2020-02-21T09:15:00.000+00:00
+updatedAt: 2020-08-26T08:15:00Z
 legal_name: cgu-client
 menus:
   legal:
@@ -25,70 +25,153 @@ menus:
     weight: 2
 
 ---
-Vous avez eu accès à notre site et vous l’utilisez. Les présentes conditions règlent les modalités d’utilisation de notre site. Le simple fait d’utiliser ce site vous engage à en respecter les conditions d’utilisation.
+Les présentes conditions générales d’utilisation ont pour objet de définir les modalités et conditions d’accès et d’utilisation de la plateforme d’organisation et de suivi de tests Tandemz, mise à disposition par la société TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 199 Avenue de Choisy - 75013 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** »), ainsi que les droits et obligations des Utilisateurs dans ce cadre.
 
-## 1.Utilisations non autorisées du site et des applications
+## 1. Définitions
 
-L’utilisateur accepte de ne pas utiliser le Site à des fins illégales ou dans des buts à caractère illégitime, diffamatoire, discriminatoire, agressif, invasif en termes de confidentialité d’autrui, abusif, menaçant ou obscène. Il doit utiliser le site de manière loyale, conformément aux lois et règlements mais aussi conformément à la décence, aux bonnes meurs et ne pas troubler par votre utilisation l’ordre public.
+Dans les CGU, les termes identifiés ci-dessous par une majuscule ont la signification suivante, qu’ils soient employés au singulier ou au pluriel :
 
-Il ne peut notamment pas se servir d’araignée, de robot ou d’autres techniques automatisées d’exploration de données pour cataloguer, télécharger, stocker ou autrement reproduire ou distribuer le contenu offert sur le Site, ou encore pour manipuler les résultats de tout panel, sondage, enquête ou tirage présentés sur le Site. Il ne peut agir de manière à perturber le Site ou l’accès de tout autre utilisateur du Site, y compris, sans s’y limiter, en employant des méthodes de surcharge, « d’inondation » (ex : SPAM) ou de « bombardement » (ex : stress serveur, intrusions répétitives serveurs, appels serveurs anormaux) du Site, ou encore en tentant de lui faire générer artificiellement des erreurs. Il ne peut envoyer de courriel non sollicité, y compris des promotions ou publicités de produit ou service, par l’intermédiaire du Site, pas plus que créer un créer une fausse identité, ni la masquer à l’intérieur de tout courriel ou affichage.
+ 1. **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version freemium de la Plateforme ou à un abonnement payant à la Plateforme;
+ 2. **CGU** : désigne les présentes conditions générales d’utilisation.
+ 3. **Compte Utilisateur** : désigne l’espace personnel créé par l’Utilisateur sur la Plateforme, tel que décrit à l’article 3.1 ci-après.
+ 4. **Données** : désigne toutes les données collectées, générées ou traitées par l’intermédiaire de la Plateforme par l’Utilisateur.
+ 5. **Données Personnelles** : désigne les Données qui, au sens de la Réglementation applicable à la protection des données personnelles, permettent de désigner ou d'identifier, directement ou indirectement, une personne physique.
+ 6. **Plateforme** : désigne la plateforme de sélection, d’organisation et de suivi de tests, éditée par TANDEMZ et mise à disposition de l’Utilisateur par le biais d’internet, sur le Site.
+ 7. **Réglementation applicable à la protection des données personnelles** : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».
+ 8. **Services** : désigne les services de sélection de panels, d’organisation et de suivi de tests, proposés sur la Plateforme.
+ 9. **Site** : désigne le site internet [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") édité par TANDEMZ et permettant d’accéder à la Plateforme et aux Services.
+10. **Utilisateur** : désigne le Client et/ou toute personne physique désignée par le Client qui accède à la Plateforme en vue d’utiliser les Services, quel que soit le lieu où elle se trouve et les modalités de son accès.
 
-Il ne peut notamment pas utiliser, appréhender, sélectionner, copier, reproduire, utiliser des parties du Site à l’intérieur d’un autre site Web ni altérer l’apparence du Site. Il ne peut créer des liens à partir de tout autre site Web vers l’une ou l’autre des pages du Site notamment si la ou les source(s) est/sont à caractère menaçant, calomniateur, diffamatoire, discriminateur, obscène, scandaleux ou excessif et d’une façon plus générale contraire aux lois et règlements, immorales ou contraires aux bonne meurs et à l’ordre public.
+## 2. Acceptation des CGU
 
-Il ne peut utiliser un matériel pouvant être contraire aux restrictions ci dessus pour les sources. Tandemz offrira toute sa coopération à toute autorité ou organisme chargé de faire respecter et appliquer les Lois et règlements et/ou les principes ci-dessus. Toute injonction émanant des tribunaux, autorités et organismes exigeant de Tandemz qu’elle divulgue l’identité de quiconque qui aurait de tels comportements ou agissements ou qui inciterait, faciliterait, permettrait de tels comportement et ou agissements sera respectée.
+Les CGU constituent un contrat entre l’Utilisateur et TANDEMZ. L’accès à la Plateforme est subordonné à l’acceptation expresse et sans réserve par l’Utilisateur des CGU. Le défaut d’acceptation des CGU impliquera l’impossibilité pour l’Utilisateur d’accéder et d’utiliser la Plateforme.
 
-## 2. Informations des tiers
+L’acceptation des CGU s’effectue à la première connexion de l’Utilisateur sur la Plateforme, lors de la création de son Compte Utilisateur dans les conditions de l’article 3.1.
 
-Le Site peut contenir des liens vers d’autres sites Web qui ne sont pas en maintenance par Tandemz ou qui contiennent des informations sur de produits ou services tiers. Tandemz ne vérifie pas les pratiques juridiques, commerciales, les informations ou autres de ces tiers qui sont indépendants de Tandemz et ne donne aucune garantie en leur nom.
+TANDEMZ se réserve le droit de modifier et/ou de mettre à jour les CGU, selon l’évolution technique de la Plateforme ou en raison de l’évolution de la législation, à tout moment et sans préavis. L’Utilisateur sera informé des nouvelles CGU à sa prochaine connexion à la Plateforme. L’accès et l’utilisation de la Plateforme seront soumis aux CGU en vigueur au moment de cet accès et de cette utilisation.
 
-La mise à disposition de tout lien ou le renvoi vers tout lien tiers ne sera jamais synonyme de la prise en charge de la responsabilité de ces tiers par Tandemz sur les contenus de ces sites tiers. Nous vous conseillons de faire preuve de prudence lorsque vous quittez notre Site et nous vous demandons de prendre connaissance des déclarations de confidentialité, d’utilisation de chacun des sites Web que vous consultez sous votre responsabilité. Les données contenues sur notre Site ne le sont seulement qu’à titre d’information. Les vues et opinions exprimées sur notre Site ne sont pas nécessairement celles de Tandemz et chaque utilisateur doit garder son libre arbitre.
+Dans l'hypothèse où l'une des clauses des CGU serait nulle du fait d'un changement de législation ou de réglementation ou déclarée comme telle par une décision de justice définitive, cela ne saurait en aucun cas affecter la validité et le respect des autres clauses des CGU.
 
-## 3. Programmes éventuels d’encouragement et de motivation
+## 3. Modalités d’accès à la Plateforme
 
-Dans le cadre d’un effort de prospection, Tandemz pourra offrir ou organiser des panels, tirages, récompenses, programmes de points de fidélité ou autres promotions ou programmes concernant les activités figurant sur notre Site (Services). Ces Services seront assujettis aux règlements, conditions, clauses, dispositions, règles, directives ou accords en vigueur au moment où vous accéderez auxdits services. Tandemz se réserve le droit de modifier ou d’annuler, à tout moment et sans préavis les récompenses et avantages attribués par le programme.
+### 3.1. Création d’un Compte Utilisateur
 
-## 4. Relations avec Tandemz
+L’accès à la Plateforme nécessite la création d’un Compte Utilisateur. Pour cela, l’Utilisateur doit disposer d’une adresse email valide.
 
-A l’exception de vos données personnelles (nom, prénom, adresse précise, email), aucune confidentialité ou réserve de publicité ne sera apportée à toute information ou tout élément que vous envoyez à Tandemz sous forme de courrier électronique ou autrement, y compris toutes les données, questions, commentaires, suggestions ou autres, deviendront publiques et de dénomination commune, et seront traités comme tels.
+L’Utilisateur peut créer un Compte Utilisateur en cliquant sur l’onglet correspondant disponible sur la page d’accueil du Site, le renvoyant vers la Plateforme [https://app.tandemz.io/](https://app.tandemz.io/) où il est invité à créer un compte.
 
-Sauf dans la mesure ou les informations reçues seraient explicitement couvertes par notre Politique de confidentialité des données, tout ce que vous transmettez ou affichez peut être utilisé librement par Tandemz ou ses sociétés affiliées ou ses partenaires, y compris, sans toutefois s’y limiter, par reproduction, divulgation, transmission, publication et diffusion. De plus, Tandemz peut à son gré utiliser toute idée, tout concept, tout savoir-faire ou toute technique qui serait incluse dans n’importe quelle communication envoyée par vous vers notre Site sans qu’il y ait rétribution ou avantage autre que ceux contractuellement définis. L’utilisation pourra être à toute fin, y compris, entre autre, pour le développement, la modification, la fabrication et la commercialisation de produits et services Tandemz à l’aide des dites informations recueillies.
+L’Utilisateur est pour cela invité à saisir son nom, prénom, adresse email et mot de passe, son entreprise et numéro de téléphone.
 
-## 5. Limitation de responsabilité
+L’Utilisateur est ensuite invité à lire les CGU puis, s’il les accepte, à cocher la case et à cliquer sur « C’est parti » pour finaliser la création de son Compte Utilisateur. Par ce coche et ce clic, l’Utilisateur reconnaît avoir lu les CGU, les avoir comprises et accepter pleinement l’ensemble de leurs stipulations, sans restriction ni réserve.
 
-Le Site, aussi bien lors de son utilisation que pour l’ensemble du contenu ou des services mis à la disposition des utilisateurs ou auxquels on peut accéder grâce au Site est proposé « tel quel » en l’état. Tandemz ne donne pas d’avis ni de garantie quant au contenu du Site. De plus, Tandemz décline toute responsabilité face à toute garantie formelle ou implicite, y compris, sans s’y limiter, pour non-contrefaçon, pour les titres, qualités marchandes ou aptitudes à l’utilisation des services proposés.  
-Tandemz ne garantit pas que :
+L’Utilisateur reçoit alors un email de confirmation de l’ouverture du Compte Utilisateur, à l’adresse de courrier électronique qu’il a indiquée.
 
-* les fonctions contenues dans ce Site, pas plus que le matériel ou contenus qu’il propose, ne seront pas interrompus ou exempts d’erreurs,
-* les défauts seront corrigés ou que le Site ou le serveur qui le développe seront ajustés et modifiés en fonction des erreurs ou défauts,
-* le Site ou le serveur qui le fournit sera exempt de virus ou d’autres éléments nuisibles. Les utilisateurs ne pourront pas être indemnisés pour les préjudices qu’ils pourraient subir dans les cas visés ci-dessus.
+Une fois sur son Compte Utilisateur, l’Utilisateur peut compléter ses informations personnelles en renseignant les informations sollicitées dans les formulaires disponibles sur le Compte Utilisateur.
 
-La responsabilité juridique civile, contractuelle ou autre de Tandemz ne sera en aucun cas engagée vis-à-vis des utilisateurs, pour tout préjudice, pour la perte de profit, la perte de données, la perte d’opportunité, les coûts de couverture, de dommages-intérêts, les blessures personnelles ou un décès imputable à une faute non intentionnelle de Tandemz. Ceci y compris les dommages accessoires particuliers ou autres dommages indirects.  
-Nonobstant l’énoncé précédent, si nous sommes jugés responsables d’un dommage, préjudice, d’une perte subie par vous ayant son origine dans votre utilisation du Site ou de son contenu, notre responsabilité financière ne pourrait être mise en cause au-delà d’une somme supérieure à trois cents euros (300 euros), cette somme est un maximum et doit toutefois être justifiée par le préjudice subit.
+L’Utilisateur accepte de fournir et de maintenir les informations le concernant exactes, à jour et complètes. La responsabilité de TANDEMZ ne saurait en aucune circonstance être engagée en cas de retard ou d’impossibilité d’accéder à la Plateforme du fait d’une information erronée ou incomplète dans la saisie des informations concernant l’Utilisateur lors de sa demande de création de Compte Utilisateur. A ce titre, l’Utilisateur peut à tout moment modifier ses informations personnelles et le mot de passe directement depuis son Compte Utilisateur.
 
-## 6. Modifications
+Les identifiants de connexion (identifiant et mot de passe) de l’Utilisateur sont personnels et confidentiels. L’Utilisateur devra conserver ces identifiants de connexion de manière sécurisée et s’engage à ne pas les divulguer à des tiers pour quelque raison, de quelque manière et sous quelque forme que ce soit. L’Utilisateur s’engage également à s’assurer qu’à l’issue de chaque session d’utilisation de la Plateforme, il se déconnecte proprement.
 
-Toutes les informations figurant sur le Site peuvent faire l’objet de modification sans avis. Les changements éventuels seront agrégés aux présentes. Il vous appartient donc de consulter fréquemment les présentes pages pour demeurer au fait de tout changement. Votre accès au Site suite à l’application de telles modifications signifie que vous êtes d’accord sur ces changements.
+En cas de perte, oubli ou vol de ses éléments d’authentification, l’Utilisateur doit modifier son mot de passe dans les plus brefs délais en cliquant sur le bouton « Mot de passe oublié » situé sous le formulaire de saisie des identifiants de connexion. L’Utilisateur est alors invité à créer un nouveau mot de passe.
 
-## 7. Indemnisation de Tandemz du fait des préjudices de votre fait
+En aucun cas, TANDEMZ ne saurait être responsable de la perte, du vol ou de l’oubli des éléments d’authentification de l’Utilisateur ou de leur utilisation frauduleuse. L’Utilisateur est seul responsable de l’accès et l’utilisation de la Plateforme avec ses éléments d’authentification.
 
-Vous acceptez d’indemniser la Tandemz SAS (Tandemz), de la défendre et de l’exonérer de toute responsabilité y compris pour ses employés, cadres, mandataires, agents et représentants et mandataires sociaux contre toute réclamation, demande, mise en responsabilité, coût ou dépense, y compris les frais de procédure et des conseils (avocat, expert, etc.) , découlant de, ou touchant, toute violation de votre part des présentes stipulations ou de l’utilisation non conformes de nos services et du Site ou du non respect de toute loi en vigueur. Il en sera de même suite à l’utilisation du Site ou de son contenu qu’elle qu’en soit la forme de façon irrégulière.
+## 3.2. Configuration minimale requise
 
-## 8. Divisibilité des mentions applicables aux présentes
+L’accès à la Plateforme nécessite que l’Utilisateur dispose d’un matériel informatique (PC, MAC, tablette ou smartphone), d’une connexion internet haut débit et d’un navigateur web.
 
-Au cas où une ou des parties des présentes ou de ces conditions serait déclarée non valable ou inapplicable par tout tribunal ou autorité compétente et pour toute raison que ce soit, la disposition en cause sera considérée comme inopérante sans toutefois affecter les autres dispositions des présentes ou des conditions qui continueront à s’appliquer.
+Tous les coûts afférents à l’accès à la Plateforme et à son utilisation que ce soient les frais matériels, logiciels ou d’accès à internet sont exclusivement à la charge de l’Utilisateur. L’Utilisateur est seul responsable du bon fonctionnement et de la sécurisation appropriée de son équipement informatique ainsi que son accès internet.
 
-## 9. Droit applicable
+## 3.3. Disponibilité de la Plateforme
 
-Les lois françaises (sans égard à ses règles en matière de conflits de loi) régissent ce contrat et l’utilisation du Site. Les tribunaux compétents sont ceux de la ville de Paris.
+La Plateforme est accessible 24 heures sur 24, 7 jours sur 7, sous réserve de la survenance d’un cas de force majeure ou un d’un événement hors du contrôle de TANDEMZ et sauf interruption, suspension ou limitation dans le cadre d’opérations de maintenance et/ou de mises à jour nécessaires au bon fonctionnement de la Plateforme.
 
-## 10. Informations
+TANDEMZ n’est tenue qu’à une obligation de moyens concernant l’accessibilité, le fonctionnement et la disponibilité de la Plateforme ou de ses contenus. TANDEMZ se réserve la possibilité d’interrompre, de suspendre ou de limiter l’accès à tout ou partie de la Plateforme notamment en raison de contraintes d’ordre juridique ou technique.
 
-Vous pouvez aussi consulter la foire aux questions réservées aux utilisateurs.
+L’Utilisateur reconnait expressément que les suspensions, interruptions ou limitations susmentionnées pourront intervenir à tout moment sans préavis et qu’elles n’ouvriront droit à aucune obligation, ni indemnisation à son profit.
 
-La société Tandemz SAS au capital de 2 400 € et dont le siège social est situé 199 Avenue de Choisy, 75013 Paris, en cours d'immatriculation qui maintient le « Site » Web tandemz.io ainsi que ses sous-domaines.
+## 4. Utilisation de la Plateforme
 
-Pour toute question concernant les présentes ou ces conditions, contactez-nous, ou écrivez-nous à l’adresse :  
-Société Tandemz  
-199 avenue de Choisy  
-75013 Paris  
-FRANCE
+### 4.1. Bon usage de la Plateforme
+
+L’Utilisateur s'engage à n'utiliser la Plateforme que pour ses seuls besoins professionnels exclusivement.
+
+L’Utilisateur s’engage à utiliser la Plateforme conformément aux CGU, dans le respect des lois et réglementations applicables en France.
+
+L’Utilisateur amené à traiter les données personnelles des testeurs de son panel de tests participants aux tests qu’il organise, dans le cadre de l’utilisation de la Plateforme s’engage à respecter les dispositions prévues dans la Politique de confidentialité de TANDEMZ, disponible sur le lien suivant [https://www.tandemz.io/politique-de-confidentialite-client](https://www.tandemz.io/politique-de-confidentialite-client).
+
+L’Utilisateur reconnaît et accepte expressément faire son affaire personnelle de toute conséquence, réclamation, recours ou action d’un participant au test ou d’un tiers, relativement au contenu édité sur son Compte Utilisateur. En tant qu’hébergeur de contenu au sens de la loi n° 2004-575 pour la confiance dans l’économie numérique, TANDEMZ n’est pas en mesure de surveiller ou de contrôler les contenus et ne peut engager sa responsabilité à ce titre.
+
+Dans l’hypothèse où une revendication d’un participant au test ou d’un tiers serait portée directement à la connaissance de TANDEMZ, TANDEMZ procédera à des investigations concernant la demande. En cas de contenu abusif ou illicite, TANDEMZ pourra supprimer ledit contenu sans préjudice de toute autre action que pourrait se réserver TANDEMZ à l’encontre de l’Utilisateur en réparation du préjudice subi.
+
+### 4.2. Comportements prohibés
+
+Il est strictement interdit d’utiliser la Plateforme aux fins suivantes :
+
+* l’exercice d’actions illégales, discriminatoires, frauduleuses ou portant atteinte aux droits ou à la sécurité des tiers et, en particulier, des locataires de l’Utilisateur,
+* l’atteinte à l’ordre public ou la violation des lois et règlements en vigueur,
+* l’aide ou l’incitation, sous quelque forme et de quelque manière que ce soit, à un ou plusieurs des actes décrits ci-dessus,
+* et plus généralement toute pratique détournant la Plateforme à des fins autres que celles pour lesquelles elle a été conçue.
+
+TANDEMZ pourra résilier l’accès de l’Utilisateur à la Plateforme en cas de non-respect du présent article, sans préjudice de tous dommages et intérêts que pourrait solliciter TANDEMZ.
+
+## 5. Garanties
+
+TANDEMZ garantit la confidentialité et la sécurité des Données. TANDEMZ ne saurait en revanche garantir l'exactitude, l'exhaustivité, l’actualité ou autre qualité des Données intégrées et diffusées par l’Utilisateur sur la Plateforme.
+
+L’Utilisateur est seul responsable de l’intégrité, l’exactitude et la qualité des Données qu’il intègre et diffuse sur la Plateforme. L’Utilisateur s’assure également que les Données qu’il intègre et diffuse sur la Plateforme sont exemptes de virus ou tout autre composant susceptible de causer un dommage à la Plateforme.
+
+TANDEMZ ne consent aucune autre garantie expresse ou implicite, en ce y compris, sans que cette énumération ne soit limitative, quant à la non violation des droits d'un tiers, la continuité, performance et/ou pérennité de la Plateforme et/ou quant à l’aptitude à un usage particulier ou l’adéquation de la Plateforme aux besoins de l’Utilisateur, ni ne garantit qu’elle est exempte d’anomalies, erreurs ou bugs ou qu’elle fonctionnera sans panne ni interruption. La Plateforme est diffusée « en l’état » et selon sa disponibilité.
+
+L’accès à la Plateforme implique la connaissance et l’acceptation des caractéristiques et des limites d’internet, notamment en ce qui concerne les performances techniques, les temps de réponse pour consulter, interroger ou transférer des informations, les risques d’interruption, et plus généralement, les risques inhérents à toute connexion et transmission sur internet, l’absence de protection de certaines données contre des détournements éventuels et les risques de contamination par d’éventuels virus circulant sur le réseau. TANDEMZ ne garantit pas que la Plateforme ou ses serveurs seront à tout moment exempt de virus, vers, chevaux de Troie ou tout autre composant susceptible de causer un dommage. Il appartient à l’Utilisateur de prendre toutes les mesures appropriées de façon à protéger ses propres matériels, données, et/ou logiciels stockés sur son équipement informatique contre toute atteinte.
+
+## 6. Responsabilités
+
+L’accès et l’utilisation de la Plateforme par l’Utilisateur ne sauraient en aucun cas engager la responsabilité de TANDEMZ, à quelque titre que ce soit. L’accès à la Plateforme et son utilisation se font sous l’entière responsabilité de l’Utilisateur.
+
+L'Utilisateur est seul maître de la bonne utilisation, avec discernement et esprit, de la Plateforme et des Données qu’il y intègre et diffuse.
+
+Aucun conseil et aucune information, qu'ils soient oraux ou écrits, obtenus par l’Utilisateur lors de l’utilisation de la Plateforme ne sont susceptibles de créer de garanties non expressément prévues par les CGU ni d’entraîner la responsabilité de TANDEMZ en cas de dommages, de quelque nature qu’ils soient, causés à l’Utilisateur ou à des tiers du fait de la mauvaise utilisation par l’Utilisateur de la Plateforme, en violation des dispositions du présent article et plus généralement du non-respect des CGU.
+
+L’Utilisateur est responsable de tout dommage survenant à son système informatique, à la Plateforme et/ou son contenu, ainsi que, de la perte de Données qui pourraient résulter de son utilisation de la Plateforme. A ce titre, l’Utilisateur est responsable de la mise en place d’anti-virus et autres mesures de sécurisation de son système informatique.
+
+Dans toute la mesure autorisée par la loi applicable, TANDEMZ exclut expressément sa responsabilité pour tout dommage indirect, résultant de ou en relation avec l’accès à la Plateforme, son utilisation, son dysfonctionnement ou son indisponibilité quelles qu’en soient la nature et la durée.
+
+TANDEMZ est responsable des seuls dommages directs qui pourraient être causés à l’Utilisateur du fait de la mauvaise exécution et/ou inexécution des obligations lui incombant en vertu des CGU.
+
+L’Utilisateur reconnaît que TANDEMZ demeure libre de corriger et/ou modifier la Plateforme à tout moment et sans préavis, sans que cette correction et/ou modification ne puisse ouvrir droit à un quelconque recours de sa part.
+
+La responsabilité de TANDEMZ ne saurait être engagée, d’une façon générale, dans tous les cas où l'inexécution ou la mauvaise exécution des CGU résulterait d'un cas de force majeure ou cas fortuit indépendant de sa volonté.
+
+## 7. Propriété intellectuelle
+
+La Plateforme, les Services et tous contenus présents sur la Plateforme, édités par TANDEMZ (les « **_Eléments Protégés_** ») sont protégés par des droits de propriété intellectuelle (tels que notamment tous droits d'auteur, droits sur les brevets, les marques, droit des producteurs de base de données, et tout autre droit de propriété intellectuelle existant ou futur, français et internationaux) et appartient à TANDEMZ ou à des tiers ayant autorisé TANDEMZ à les exploiter.
+
+L’utilisation de la Plateforme ne confère en aucune façon à l’Utilisateur un droit de propriété et/ou un droit de propriété intellectuelle sur les Eléments Protégés, à l’exception d’un droit personnel d’accès, non exclusif et limité exclusivement à l’utilisation de la Plateforme conformément à son objet et dans le respect des CGU.
+
+Il est strictement interdit de représenter, de reproduire et/ou d’exploiter les Eléments Protégés, totalement ou partiellement, sous quelque forme et par quelque moyen que ce soit, sans l’accord écrit et préalable de TANDEMZ. L’Utilisateur s’engage à ne pas copier, modifier, assembler, décompiler, altérer, vendre, louer, prêter, diffuser, distribuer ou transférer tout ou partie de la Plateforme, créer des œuvres dérivées à partir de la Plateforme, autoriser un tiers à commettre de tels actes, sans l’accord écrit et préalable de TANDEMZ.
+
+Le non-respect des dispositions du présent article constitue une violation des droits de propriété intellectuelle de TANDEMZ et/ou des tiers concédants et est susceptible d’entraîner des poursuites civiles et pénales
+
+## 8. Protection des données personnelles
+
+TANDEMZ est soucieuse de la protection des données personnelles des Utilisateurs de sa Plateforme et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée. Pour en savoir plus sur les règles de protection des données personnelles, l’Utilisateur est invité à consulter la Politique de confidentialité de TANDEMZ, disponible à l’adresse suivante : **_\[lien hypertexte vers la politique de confidentialité à insérer\]_**.
+
+## 9. Durée– Résiliation
+
+**9.1.** Les CGU entrent en vigueur à compter de leur acceptation par l’Utilisateur et pour toute la durée d’utilisation de la Plateforme par l’Utilisateur.
+
+La résiliation de l’abonnement freemium par le Client entraîne la désactivation du Compte Utilisateur à la date de résiliation effective de l’abonnement. En cas de résiliation de l’abonnement payant par le Client, et de refus de sa part de conserver son compte en version freemium, le Compte Utilisateur sera désactivé à la date de résiliation effective de l’abonnement.
+
+**9.2.** En cas d’utilisation de la Plateforme par l’Utilisateur non conforme aux CGU, en cas de manquement de l’Utilisateur aux CGU, ou plus généralement en cas de violation des lois et réglementations applicables, TANDEMZ pourra résilier de plein droit, sans mise en demeure préalable, sans préavis ni indemnité, tout ou partie de l’accès de l’Utilisateur à la Plateforme. TANDEMZ pourra prononcer cette résiliation sans préjudice de tous les autres droits, actions et recours dont TANDEMZ pourrait disposer en vue de la réparation du préjudice qu’elle pourrait avoir subi du fait de ces manquements.
+**9.3.** En cas de désactivation du Compte Utilisateur, les Données, et notamment, les Données Personnelles de l’Utilisateur, seront alors archivées dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice, conformément à la réglementation applicable à la protection des données personnelles.
+**9.4.** TANDEMZ restituera à l’Utilisateur qui en fait la demande les Données qu’il aura intégrées sur la Plateforme, sur simple demande adressée par email à l’adresse suivante : [mailto:contact@tandemz.io](contact@tandemz.io)
+
+## 10. Droit applicable et juridictions compétentes
+
+**10.1.** Les CGU seront exécutées et interprétées conformément au droit français.
+**10.2.** Les parties déclarent leur intention de chercher une solution amiable à toute difficulté qui pourrait surgir à propos de la validité, de l’interprétation ou de l’exécution des CGU. En cas de désaccord persistant, le litige sera porté à la connaissance des tribunaux compétents.
+
+## 11. Contact
+
+Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [mailto:contact@tandemz.io](contact@tandemz.io)
