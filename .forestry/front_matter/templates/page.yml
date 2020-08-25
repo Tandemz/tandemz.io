@@ -56,4 +56,5 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/contrat-de-prestations-de-services-testeur.md
+- src/pages/politique-de-confidentialite-client.md
 - src/pages/politique-relative-aux-cookies.md
