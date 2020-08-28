@@ -174,4 +174,4 @@ La résiliation de l’abonnement freemium par le Client entraîne la désactiva
 
 ## 11. Contact
 
-Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [mailto:contact@tandemz.io](contact@tandemz.io)
+Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io "contact@tandemz.io")
