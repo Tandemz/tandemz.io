@@ -31,7 +31,7 @@ Les présentes conditions générales d’utilisation ont pour objet de définir
 
 Dans les CGU, les termes identifiés ci-dessous par une majuscule ont la signification suivante, qu’ils soient employés au singulier ou au pluriel :
 
- 1. **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version freemium de la Plateforme ou à un abonnement payant à la Plateforme;
+ 1. **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version gratuite de la Plateforme ou à un abonnement payant à la Plateforme;
  2. **CGU** : désigne les présentes conditions générales d’utilisation.
  3. **Compte Utilisateur** : désigne l’espace personnel créé par l’Utilisateur sur la Plateforme, tel que décrit à l’article 3.1 ci-après.
  4. **Données** : désigne toutes les données collectées, générées ou traitées par l’intermédiaire de la Plateforme par l’Utilisateur.
@@ -161,7 +161,7 @@ TANDEMZ est soucieuse de la protection des données personnelles des Utilisateur
 
 **9.1.** Les CGU entrent en vigueur à compter de leur acceptation par l’Utilisateur et pour toute la durée d’utilisation de la Plateforme par l’Utilisateur.
 
-La résiliation de l’abonnement freemium par le Client entraîne la désactivation du Compte Utilisateur à la date de résiliation effective de l’abonnement. En cas de résiliation de l’abonnement payant par le Client, et de refus de sa part de conserver son compte en version freemium, le Compte Utilisateur sera désactivé à la date de résiliation effective de l’abonnement.
+La résiliation de l’abonnement gratuit par le Client entraîne la désactivation du Compte Utilisateur à la date de résiliation effective de l’abonnement. En cas de résiliation de l’abonnement payant par le Client, et de refus de sa part de conserver son compte en version gratuite, le Compte Utilisateur sera désactivé à la date de résiliation effective de l’abonnement.
 
 **9.2.** En cas d’utilisation de la Plateforme par l’Utilisateur non conforme aux CGU, en cas de manquement de l’Utilisateur aux CGU, ou plus généralement en cas de violation des lois et réglementations applicables, TANDEMZ pourra résilier de plein droit, sans mise en demeure préalable, sans préavis ni indemnité, tout ou partie de l’accès de l’Utilisateur à la Plateforme. TANDEMZ pourra prononcer cette résiliation sans préjudice de tous les autres droits, actions et recours dont TANDEMZ pourrait disposer en vue de la réparation du préjudice qu’elle pourrait avoir subi du fait de ces manquements.
 **9.3.** En cas de désactivation du Compte Utilisateur, les Données, et notamment, les Données Personnelles de l’Utilisateur, seront alors archivées dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice, conformément à la réglementation applicable à la protection des données personnelles.
