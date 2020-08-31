@@ -47,12 +47,14 @@ Dans la présente politique de confidentialité, les termes identifiés ci-desso
 
 TANDEMZ opère un traitement des Données Personnelles du Participant pour les besoins suivants :
 
-* Inscription du Participant au panel Tandemz;
-* Eligibilité et participation du Participant à des Sessions :
+* Inscription du Participant au panel Tandemz ;
+* Eligibilité et participation du Participant à des Sessions ;
 * Proposer au Participant des Sessions en fonction de son profil ;
 * Amélioration des performances et fonctionnalités de la Plateforme ;
 * Prévention et détection des fraudes, malwares (malicious software ou logiciels malveillants) et gestion des incidents de sécurité ;
-* Gestion des éventuels litiges.
+* Amélioration des performances et fonctionnalités de la Plateforme ;
+* Prévention et détection des fraudes, malwares (malicious software ou logiciels malveillants) et gestion des incidents de sécurité ;
+* Gestion des éventuels litiges ;
 * Suivi et analyse du trafic de la Plateforme ; et
 * A des fins statistiques.
 
