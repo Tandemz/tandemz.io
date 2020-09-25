@@ -87,6 +87,12 @@ sections:
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:
+  - author: UX Republic
+    content: Avec Tandemz, c’est un nouveau chapitre de la recherche utilisateur qui
+      s’écrit ! Simple et didactique, le logiciel simplifie toute la démarche logistique,
+      de la constitution d’un panel à l’organisation des entretiens. On a hâte d’en
+      découvrir davantage.
+    avatar: ''
   - author: La Grande Ourse
     content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
       au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
