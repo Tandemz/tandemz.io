@@ -87,23 +87,23 @@ sections:
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:
-  - author: UX Republic
+  - author: Julien de UX Republic
     content: Avec Tandemz, c’est un nouveau chapitre de la recherche utilisateur qui
       s’écrit ! Simple et didactique, le logiciel simplifie toute la démarche logistique,
       de la constitution d’un panel à l’organisation des entretiens. On a hâte d’en
       découvrir davantage.
     avatar: ''
-  - author: La Grande Ourse
+  - author: Julie de La Grande Ourse
     content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
       au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
       sans le moindre soucis et l'équipe Tandemz était très réactive !
     avatar: ''
-  - author: Ferpection
+  - author: Grégoire de Ferpection
     content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
       aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
       à l'international, aux Etats-Unis ou au Royaume-Uni par exemple !
     avatar: ''
-  - author: La faireparterie
+  - author: Cécile de La faireparterie
     content: Grâce à Tandemz, nous avons pu cibler et discuter avec des groupes de
       personne difficilement accessibles jusqu'ici. C'est tellement précieux pour
       mieux comprendre notre cible et développer des produits qui cartonnent !
