@@ -102,7 +102,7 @@ sections:
     content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
       aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
       à l'international, aux Etats-Unis ou au Royaume-Uni par exemple !
-    avatar: ''
+    avatar: "/images/logotype.png"
   - author: Julie de La Grande Ourse
     content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
       au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
