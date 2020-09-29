@@ -101,5 +101,6 @@ fields:
   default: article
 pages:
 - src/pages/posts/methode-recherche-utilisateur-qualitative.md
+- src/pages/posts/tip-eviter-no-show.md
 - src/pages/posts/ux-ergonomie-agence-interview-affordance.md
 - src/pages/posts/why-dark-patterns-creep-into-ux-designers-toolkits.md
