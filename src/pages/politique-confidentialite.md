@@ -17,8 +17,8 @@ metatags: []
 schema_org_data_list: []
 menus:
   legal:
-    title: Politique de confidentialité
-    weight: 3
+    title: Politique de confidentialité Participant
+    weight: 4
 legal: true
 updatedAt: 2020-08-26T18:48:00Z
 legal_name: privacy-policy

@@ -19,6 +19,10 @@ ogtitle: ''
 ogdescription: ''
 metatags: []
 schema_org_data_list: []
+menus:
+  legal:
+    title: Politique de confidentialité Client
+    weight: 3
 
 ---
 TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 199 Avenue de Choisy - 75013 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** ») est soucieuse de la protection des Données Personnelles et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée.

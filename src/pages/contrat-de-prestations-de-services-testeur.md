@@ -18,10 +18,6 @@ og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
-menus:
-  legal:
-    title: Contrat d'utilisation participant
-    weight: 4
 
 
 ---
