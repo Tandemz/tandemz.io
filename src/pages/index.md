@@ -15,11 +15,6 @@ sections:
   background: orange
 - template: recruitsection
   component: RecruitBlock
-- template: cards-grid-section
-  component: CardsGridBlock
-  title: Hassle-free recruiting
-  section_id: ''
-  cards: []
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
@@ -41,6 +36,17 @@ sections:
     illustration_titre: Rate participants
   title: Be in control of your recruitement
   bg: white
+- template: cards-grid-section
+  component: CardsGridBlock
+  title: Hassle-free recruiting
+  section_id: ''
+  cards:
+  - title: Anyone
+  - title: Anywhere
+  - title: For any method
+  - title: Top quality participants
+  - title: Easy scheduling
+  - title: Integrated incentive
 - template: valueblock
   component: ValueBlock
   bg: gray
