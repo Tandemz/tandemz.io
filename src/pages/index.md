@@ -47,36 +47,9 @@ sections:
   - title: Top quality participants
   - title: Easy scheduling
   - title: Integrated incentive
-- template: valueblock
-  component: ValueBlock
-  bg: gray
-  type: valueblock
-  section_id: Value
-  title: ''
-  subtitle: ''
-  valueblocks:
-  - title: Gagnez du temps
-    content: Lancez vos sessions de recherche en quelques minutes et gagnez jusqu'à
-      2 jours d'organisation de vos tests et interviews utilisateurs.
-    icon: "/images/Fast200h-1.png"
-    icon_alt: Fléches avance rapide rouges
-  - content: N'utilisez plus qu'un seul outil pour organiser vos tests utilisateurs.
-      Regroupez toutes les informations de vos participants au même endroit.
-    icon: "/images/Simple200h-1.png"
-    title: Centralisez votre logistique
-    icon_alt: Figures géométriques organisées
-  - title: Atteignez votre cible
-    content: Que vous recrutiez dans vos utilisateurs ou dans le panel de Tandemz,
-      trouvez les participants qui vous conviennent où qu'ils soient dans le monde.
-    icon: "/images/Centralized200h.png"
-    icon_alt: Rond bleu central
-  value_title_1: ''
-  value_content_1: ''
-  value_title_2: ''
-  value_content_2: ''
 - template: reviewsblock
   component: ReviewsBlock
-  bg: gray
+  bg: white
   type: reviewsblock
   title: Rejoignez nos early adopters
   reviews:

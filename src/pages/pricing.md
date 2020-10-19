@@ -1,9 +1,8 @@
 ---
 template: pricing
-title: Tarifs
-description: La beta de Tandemz est entièrement gratuite. Un abonnement sera proposé
-  plus tard pour de nouvelles fonctionnalités.
-keywords: pricings, prix, Trandemz, abonnement, tarifs
+title: Pricing
+description: ''
+keywords: pricing, Tandemz, recruit testers, recruit participants
 menus:
   main:
     title: Pricing
@@ -14,95 +13,44 @@ menus:
 sections:
 - template: pricingblock
   component: PricingBlock
-  bg: gray
+  bg: white
   type: pricingblock
   section_id: pricing
-  title: Tarifs
-  subtitle: Organisez vos entretiens et tests UX en un clin d'oeil.
+  title: Pricing
+  subtitle: Accessible recruitment of quality testers for all your user research needs
   pricingplans:
-  - title: Recherche de participants
-    price: 60€/participant
+  - title: Recruit
+    price: Pay as you go
     details: |-
-      * Recrutement clé en main
-      * Gestion de la contrepartie (refacturée)
-      * Rappel pour les participants
-      * Sélection selon vos critères
-      * Sans restriction géographique
+      * Starting at 10€ / participant for simple quantitative needs
+      * Starting at 20€ / participant for simple qualitative needs
+      * Prices scale according to difficulty of recruitment
+      * Incentive included
     highlight: true
     actions:
-    - label: Trouver des participants
-      url: "/recruitform"
-      title: Formulaire de recrutement
+    - label: Recruit now
+      url: https://app.staging.tandemz.io/recruit-participants
+      title: Find quality participant now
       button_priority: ''
-  - title: Gestion de panel Beta
-    price: Gratuit
-    details: |-
-      * Gestion de votre panel privé jusqu'à 1000 participants
-      * Nombre illimité de sessions
-      * Tags illimités pour personnaliser votre panel
-      * Prise automatique de rendez-vous
-      * Rappels automatiques
-      * Lien d'inscription public à votre panel
-    highlight: true
-    actions:
-    - label: Créer mon panel
-      url: https://app.tandemz.io/trouver-des-participants
-      title: Créez un compte sur Tandemz
-      button_priority: ''
-  - title: Gestion de panel Premium
-    price: Abonnement à venir
-    details: |-
-      * Toutes les fonctionnalités de la Beta
-      * Import de votre base client
-      * Questionnaire de sélection
-      * Intégration de votre calendrier
-      * Messagerie
-      * Gestion de panels multiples
-      * Nombre illimité de participants dans votre panel
+  - title: Custom plan
+    price: For teams with high volumes
+    details: Manage your team access. Pay yearly and get a special discount for all
+      your recruitment needs.
     highlight: false
     actions:
-    - label: Tenez-moi au courant
-      url: "#newsletter"
-      title: Contacter Tandemz
+    - label: Get in touch
+      url: "/contact"
+      title: Contact us to discuss the custom plan
       button_priority: ''
-- template: faqblock
-  component: FaqBlock
-  bg: gray
-  type: faqblock
-  section_id: faqpricing
-  title: Des doutes ou des questions ?
-  faqitems:
-  - answer: |-
-      Pour le recrutement de participant dans le panel Tandemz, nous pouvons nous charger du paiement de la contrepartie (en cartes cadeaux multi-enseignes).
-
-      Pour la gestion de votre propre panel et l'organisation de session auprès de vos beta-testeurs, il n'est pas encore possible de payer la contrepartie aux participants directement dans Tandemz.
-    question: Puis-je payer la contrepartie aux participants directement dans Tandemz
-      ?
-  - answer: Non, vous ne payez que les participants qui sont effectivement venus à
-      votre session.
-    question: Un participant qui ne vient pas est-il facturé ?
-  - question: Comment se font les règlements ?
-    answer: |-
-      Pour les prestations de recrutement clé en main, nous vous adressons une facture une fois la prestation terminée. Vous disposez alors d'un mois pour la régler.
-
-      Pour l'abonnement Premium, vous pourrez enregistrer votre carte bancaire directement sur votre compte, le prélèvement aura lieu tous les mois.
-  - question: Quand sera disponible la version Premium ?
-    answer: Nos développements sont toujours en cours. La version Premium sortira
-      à l'automne si tout va bien. Inscrivez-vous à la Newsletter pour être tenu au
-      courant de la sortie !
-  title_level_one: false
-  subtitle: ''
-- template: newsletter
-  component: NewsLetterBlock
 - template: ctablock
   component: CtaBlock
   type: ctablock
   section_id: cta
-  title: Faites de la recherche utilisateur un réflexe
+  title: Start talking to real users today!
   actions:
-  - label: Lancer une étude
-    url: https://app.tandemz.io/trouver-des-participants
-    title: Créez un compte sur Tandemz
+  - label: Recruit now
+    url: https://app.tandemz.io/recruit-participants
+    title: Recruit quality participants now
     button_priority: ''
   subtitle: ''
 ogtitle: ''
