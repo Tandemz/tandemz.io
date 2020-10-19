@@ -1,4 +1,22 @@
 ---
 label: Cards Grid Section
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre Principal
+- name: cards
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titre
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Cartes
