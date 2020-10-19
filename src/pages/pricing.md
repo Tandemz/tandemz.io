@@ -42,33 +42,6 @@ sections:
       url: "/contact"
       title: Contact us to discuss the custom plan
       button_priority: ''
-- template: faqblock
-  component: FaqBlock
-  bg: gray
-  type: faqblock
-  section_id: faqpricing
-  title: Des doutes ou des questions ?
-  faqitems:
-  - answer: |-
-      Pour le recrutement de participant dans le panel Tandemz, nous pouvons nous charger du paiement de la contrepartie (en cartes cadeaux multi-enseignes).
-
-      Pour la gestion de votre propre panel et l'organisation de session auprès de vos beta-testeurs, il n'est pas encore possible de payer la contrepartie aux participants directement dans Tandemz.
-    question: Puis-je payer la contrepartie aux participants directement dans Tandemz
-      ?
-  - answer: Non, vous ne payez que les participants qui sont effectivement venus à
-      votre session.
-    question: Un participant qui ne vient pas est-il facturé ?
-  - question: Comment se font les règlements ?
-    answer: |-
-      Pour les prestations de recrutement clé en main, nous vous adressons une facture une fois la prestation terminée. Vous disposez alors d'un mois pour la régler.
-
-      Pour l'abonnement Premium, vous pourrez enregistrer votre carte bancaire directement sur votre compte, le prélèvement aura lieu tous les mois.
-  - question: Quand sera disponible la version Premium ?
-    answer: Nos développements sont toujours en cours. La version Premium sortira
-      à l'automne si tout va bien. Inscrivez-vous à la Newsletter pour être tenu au
-      courant de la sortie !
-  title_level_one: false
-  subtitle: ''
 - template: newsletter
   component: NewsLetterBlock
 - template: ctablock
