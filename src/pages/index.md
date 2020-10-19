@@ -39,6 +39,7 @@ sections:
 - template: cards-grid-section
   title: ''
   cards:
+  - title: Integrated incentive
   - title: Easy scheduling
   - title: Top quality participants
   - title: For any method
