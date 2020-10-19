@@ -41,6 +41,10 @@
   }
 }
 
+.gutter {
+  margin-top: 24px;
+}
+
 .hero-block,
 .text-block,
 .image-block,
@@ -715,7 +719,6 @@ iframe {
 
 /* How It Works */
 .how-it-works {
-  margin-top: 24px;
   .steps-block {
     display: flex;
     flex-flow: column nowrap;
@@ -743,18 +746,48 @@ iframe {
   @media only screen and (min-width: 741px) {
     .steps-block {
       flex-flow: row wrap;
+      align-items: flex-start;
     }
   }
 }
 
 .cards-grid {
-  display: flex;
-
+  margin-bottom: 24px;
+  .inner {
+    padding-bottom: 24px;
+    padding-top: 24px;
+  }
   .cards-block {
+    margin-top: 40px;
   }
   .card-block {
+    height: 264px;
+    width: 100%;
+    flex: 1 1 32%;
+    margin: 0;
     border: 1px solid _palette(border);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &:first-child,
+    &:nth-child(4n) {
+      border-left: 0;
+    }
+    &:nth-child(-n + 3) {
+      border-top: 0;
+    }
+    &:nth-child(3n) {
+      border-right: 0;
+    }
+    &:nth-last-child(-n + 3) {
+      border-bottom: 0;
+    }
   }
   .card-block-title {
+    margin: 0;
+    color: _palette(secondary);
+    font-weight: bold;
   }
 }

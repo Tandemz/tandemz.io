@@ -9,7 +9,8 @@ export default class HowItWorksBlock extends React.Component {
       <section
         id={_.get(this.props, 'section.section_id')}
         className={
-          'how-it-works block cell-block bg-' + _.get(this.props, 'section.bg')
+          'how-it-works gutter block cell-block bg-' +
+          _.get(this.props, 'section.bg')
         }
       >
         <div className="block-header">
