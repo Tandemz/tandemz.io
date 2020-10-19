@@ -19,33 +19,23 @@ sections:
   component: HowItWorksBlock
   steps:
   - caption: Define your perfect participant profile
-    illustration: "/images/deroule.svg"
-    illustration_alt: ''
-    illustration_titre: ''
-  - caption: Select the participants you want feedback from
-    illustration: "/images/Researcher.svg"
-    illustration_alt: ''
-    illustration_titre: ''
+    illustration: "/images/target.svg"
+    illustration_alt: Search for the perfect participants
+    illustration_titre: Search for the perfect participants
+  - caption: Get final say on who participates
+    illustration: "/images/select.svg"
+    illustration_alt: Choose who participates
+    illustration_titre: Choose who participates
   - caption: Get actionnable insights
-    illustration: ''
-    illustration_alt: ''
-    illustration_titre: ''
-  - caption: Pay for those that went to the end
-    illustration: ''
-    illustration_alt: ''
-    illustration_titre: ''
+    illustration: "/images/insights.svg"
+    illustration_alt: Get actionnable insights
+    illustration_titre: Get actionnable insights
+  - caption: Pay for serious participations only
+    illustration: "/images/rate.svg"
+    illustration_alt: Rate participants
+    illustration_titre: Rate participants
   title: Be in control of your recruitement
   bg: white
-- template: cards-grid-section
-  title: Hassle-free recruiting
-  cards:
-  - title: Anyone
-  - title: Anywhere
-  - title: For any method
-  - title: Top quality participants
-  - title: Easy scheduling
-  - title: Integrated incentive
-  component: ''
 - template: valueblock
   component: ValueBlock
   bg: gray
