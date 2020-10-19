@@ -3,7 +3,6 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-img bg-white
   title: Get insights from real users
   component: HeroBlock
   content: The self-service testers recruiting platform for all your user research
@@ -13,18 +12,28 @@ sections:
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
-  background: white
+  background: orange
+- template: recruitsection
+  component: RecruitBlock
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
   - caption: Define your perfect participant profile
     illustration: "/images/deroule.svg"
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Select the participants you want feedback from
     illustration: "/images/Researcher.svg"
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Get actionnable insights
     illustration: ''
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Pay for those that went to the end
     illustration: ''
+    illustration_alt: ''
+    illustration_titre: ''
   title: Be in control of your recruitement
   bg: white
 - template: valueblock

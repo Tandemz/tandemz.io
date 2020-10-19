@@ -17,6 +17,7 @@ fields:
   - iconsblock
   - valueblock
   - how-it-works-section
+  - recruitsection
   description: Page sections
 - type: text
   name: template

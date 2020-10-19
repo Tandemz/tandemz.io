@@ -648,6 +648,11 @@ iframe {
       _palette(accent),
       _palette(accent-light)
     );
+    .underline:after {
+      border-color: currentColor;
+    }
+  }
+  &.bg-accent, &.bg-orange, &.bg-blue{
     color: #fff;
 
     .block-title {
@@ -657,10 +662,13 @@ iframe {
     .form-label {
       color: inherit;
     }
+  }
 
-    .underline:after {
-      border-color: currentColor;
-    }
+  &.bg-orange {
+    background-color: _palette(redBase);
+  }
+  &.bg-blue {
+    background-color: _palette(accent-alt);
   }
 
   &.bg-white + &.bg-white,
