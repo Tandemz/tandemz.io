@@ -15,4 +15,5 @@ export { default as StudiesBlock } from './StudiesBlock';
 export { default as ValueBlock } from './ValueBlock';
 export { default as NewsLetterBlock } from './NewsLetterBlock';
 export { default as HowItWorksBlock } from './HowItWorksBlock';
+export { default as RecruitBlock } from './RecruitBlock';
 export * from './posts';
