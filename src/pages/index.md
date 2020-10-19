@@ -13,6 +13,7 @@ sections:
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
+  background: white
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
@@ -24,6 +25,7 @@ sections:
     illustration: ''
   - caption: Pay for those that went to the end
     illustration: ''
+  title: ''
 - template: valueblock
   component: ValueBlock
   bg: gray

@@ -32,3 +32,17 @@ fields:
   label: component
   hidden: true
   default: HowItWorksBlock
+- name: bg
+  type: select
+  default: white
+  config:
+    required: false
+    options:
+    - gray
+    - white
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background Color
