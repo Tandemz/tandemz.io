@@ -33,6 +33,18 @@ sections:
       url: "/recruitform"
       title: Formulaire de recrutement
       button_priority: ''
+  - title: Custom plan
+    price: Contact us
+    details: |-
+      **For teams with high volumes of research**
+
+      Manage your team access. Pay yearly and get a special discount for all your recruitment needs.
+    highlight: false
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      title: Contact us to discuss the custom plan
+      button_priority: ''
 - template: faqblock
   component: FaqBlock
   bg: gray
