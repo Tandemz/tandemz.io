@@ -1,10 +1,10 @@
 {
-  "title": "Tandemz, organisez vos tests UX en un clin d'oeil",
-  "description": "Lancez vos interviews UX et vos tests utilisateurs sans prise de tête. Automatisez toute l'organisation de vos tests et la gestion de votre panel.",
+  "title": "Tandemz, get insights from real users",
+  "description": "The self-service testers recruiting platform for all your user research needs.",
   "keywords": "Test utilisateur, étude qualitative, UX, recherche utilisateur, panel",
   "favicon": "/images/Logo@200.png",
   "header": {
-    "title": "Tandemz - the self-service testers recruiting platform for all your user research needs",
+    "title": "Tandemz",
     "logo_img": "/images/logotype.svg",
     "has_nav": true,
     "menu": {
@@ -26,7 +26,7 @@
   },
   "footer": {
     "logo_img": "/images/logowhite_png.png",
-    "tagline": "Catalyseur de vos tests utilisateurs",
+    "tagline": "The self-service testers recruiting platform for all your user research needs",
     "has_nav": true,
     "nav_title": "En savoir plus",
     "has_social": true,
