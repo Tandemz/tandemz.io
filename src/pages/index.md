@@ -39,6 +39,8 @@ sections:
 - template: cards-grid-section
   title: ''
   cards:
+  - title: For any method
+  - title: Anywhere
   - title: Anyone
   component: ''
 - template: valueblock
