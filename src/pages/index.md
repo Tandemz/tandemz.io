@@ -13,6 +13,17 @@ sections:
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
+- template: how-it-works-section
+  component: HowItWorksBlock
+  steps:
+  - caption: Define your perfect participant profile
+    illustration: "/images/deroule.svg"
+  - caption: Select the participants you want feedback from
+    illustration: "/images/Researcher.svg"
+  - caption: Get actionnable insights
+    illustration: ''
+  - caption: Pay for those that went to the end
+    illustration: ''
 - template: valueblock
   component: ValueBlock
   bg: gray

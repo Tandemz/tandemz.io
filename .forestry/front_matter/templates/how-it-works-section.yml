@@ -1,0 +1,29 @@
+---
+label: How It Works Section
+hide_body: true
+fields:
+- name: steps
+  type: field_group_list
+  fields:
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: illustration
+    type: file
+    config:
+      maxSize: 64
+    label: Illustration
+  config:
+    min: 1
+    max: 
+    labelField: 
+  label: steps
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  hidden: true
+  default: HowItWorksBlock

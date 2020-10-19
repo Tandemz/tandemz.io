@@ -16,6 +16,7 @@ fields:
   - reviewsblock
   - iconsblock
   - valueblock
+  - how-it-works-section
   description: Page sections
 - type: text
   name: template
