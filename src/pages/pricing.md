@@ -28,9 +28,9 @@ sections:
       * Incentive included
     highlight: true
     actions:
-    - label: Trouver des participants
-      url: "/recruitform"
-      title: Formulaire de recrutement
+    - label: Recruit now
+      url: https://app.staging.tandemz.io/recruit-participants
+      title: Find quality participant now
       button_priority: ''
   - title: Custom plan
     price: For teams with high volumes
