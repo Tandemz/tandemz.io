@@ -705,19 +705,18 @@ iframe {
 
 /* How It Works */
 .how-it-works {
+  margin-top: 24px;
   .steps-block {
     display: flex;
     flex-flow: column nowrap;
     justify-content: space-around;
     align-items: center;
-    padding-left: 20px;
-    padding-right: 20px;
   }
   .block-title {
     text-align: center;
-    padding-bottom: 24px;
+    padding-top: 24px;
   }
-  .stepblock {
+  .step-block {
     width: 240px;
     text-align: center;
     padding: 20px;
@@ -729,6 +728,7 @@ iframe {
   .stepblock-caption {
     font-weight: bold;
     padding-top: 40px;
+    color: _palette(secondary);
   }
   @media only screen and (min-width: 741px) {
     .steps-block {

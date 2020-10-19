@@ -8,13 +8,17 @@ export default class HowItWorksBlock extends React.Component {
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
-        className={'how-it-works block bg-' + _.get(this.props, 'section.bg')}
+        className={
+          'how-it-works block cell-block bg-' + _.get(this.props, 'section.bg')
+        }
       >
-        <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+        <div className="block-header">
+          <h2 className="block-title">{_.get(this.props, 'section.title')}</h2>
+        </div>
         {_.get(this.props, 'section.steps') && (
-          <div className="steps-block">
+          <div className="steps-block inner">
             {_.map(_.get(this.props, 'section.steps'), (block, block_idx) => (
-              <div key={block_idx} className="stepblock">
+              <div key={block_idx} className="step-block">
                 <div>
                   {_.get(block, 'illustration') && (
                     <img
