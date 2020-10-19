@@ -37,14 +37,14 @@ sections:
   title: Be in control of your recruitement
   bg: white
 - template: cards-grid-section
-  title: ''
+  title: Hassle-free recruiting
   cards:
-  - title: Integrated incentive
-  - title: Easy scheduling
-  - title: Top quality participants
-  - title: For any method
-  - title: Anywhere
   - title: Anyone
+  - title: Anywhere
+  - title: For any method
+  - title: Top quality participants
+  - title: Easy scheduling
+  - title: Integrated incentive
   component: ''
 - template: valueblock
   component: ValueBlock
