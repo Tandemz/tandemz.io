@@ -1,5 +1,5 @@
 ---
-label: RecruitSection
+label: Recruit Link Section
 hide_body: true
 fields:
 - name: component
@@ -8,3 +8,4 @@ fields:
     required: false
   label: component
   default: RecruitBlock
+  hidden: true
