@@ -4,19 +4,15 @@ sections:
   template: heroblock
   section_id: hero
   className: bg-img bg-white
-  title: Avec Tandemz, organisez vos tests utilisateurs en un clin d'oeil
+  title: Get insights from real users
   component: HeroBlock
-  content: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
-    toute l'organisation de votre recherche utilisateur et la gestion de votre panel.
+  content: The self-service testers recruiting platform for all your user research
+    needs
   image: ''
-  actions:
-  - label: Lancer une étude
-    url: https://app.tandemz.io/trouver-des-participants
-    title: Créez un compte sur Tandemz
-    button_priority: ''
+  actions: []
   imageAlt: ''
   image_alt: ''
-  embed_youtube_video_id: KOOupubGqhs
+  embed_youtube_video_id: ''
 - template: valueblock
   component: ValueBlock
   bg: gray
@@ -44,43 +40,6 @@ sections:
   value_content_1: ''
   value_title_2: ''
   value_content_2: ''
-- type: featuresblock
-  template: featuresblock
-  section_id: Features
-  title: ''
-  component: FeaturesBlock
-  subtitle: ''
-  bg: white
-  featureslist:
-  - title: Créez et gérez votre propre panel utilisateur
-    content: |-
-      Ayez à portée de main toutes les informations de vos participants et invitez votre communauté à rejoindre votre panel.
-
-      Vous voulez faire un test utilisateur ? Publiez rapidement une annonce et partagez-la à votre panel : en quelques heures, votre planning se remplit automatiquement !
-    image: "/images/Illustration - Connect.svg"
-    actions:
-    - label: En savoir plus
-      url: "/panel"
-      title: Gestion de panels privés
-      button_priority: ''
-    coming_soon: false
-    image_alt: Profils d'utilisateurs venant de plusieurs sources
-    is_beta: true
-  - title: Accédez à de nouveaux testeurs quelle que soit votre cible
-    content: "Renseignez vos besoins en recrutement, notre algorithme se charge de
-      publier une annonce ciblée dans les réseaux sociaux et de sélectionner pour
-      vous les meilleurs profils. \n\nVos testeurs parfaits se trouvent certainement
-      parmi les millions d'internautes qui se connectent tous les jours sur les réseaux
-      sociaux !"
-    image: "/images/Illustration - Criteria.svg"
-    actions:
-    - label: En savoir plus
-      url: "/recruit"
-      title: Recrutement de participants sur les réseaux sociaux
-      button_priority: ''
-    coming_soon: false
-    image_alt: Femme mise en évidence dans un site web
-    is_beta: false
 - template: reviewsblock
   component: ReviewsBlock
   bg: gray
@@ -115,38 +74,15 @@ sections:
     avatar: ''
   section_id: ''
   subtitle: ''
-- template: iconsblock
-  component: IconsBlock
-  bg: white
-  type: iconsblock
-  iconblocks:
-  - title: UX Designer
-    content: Ne perdez plus de temps à organiser vos tests. Profitez-en pour en faire
-      plus et itérer rapidement sur votre produit !
-    icon: "/images/Designer.svg"
-    icon_alt: Illustration d'UX designer
-  - title: UX Researcher
-    content: Recrutez vos participants en autonomie. Passez à la vitesse supérieure
-      avec toute votre équipe !
-    icon: "/images/Researcher.svg"
-    icon_alt: Illustration d'UX researcher
-  - title: Responsable produit
-    content: Avec votre équipe produit, adoptez le réflexe test utilisateur ! Soyez
-      assuré de répondre aux besoins de vos clients.
-    icon: "/images/Manager.svg"
-    icon_alt: Illustration de responsable produit
-  title: A qui s’adresse Tandemz ?
-  section_id: roles
-  subtitle: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Faites de la recherche utilisateur un réflexe
+  title: Start talking to real users today!
   component: CtaBlock
   actions:
-  - label: Lancer une étude
-    url: https://app.tandemz.io/trouver-des-participants
-    title: Créez un compte sur Tandemz
+  - label: Recruit now
+    url: https://app.staging.tandemz.io/recruit-participants
+    title: Start recruiting participants now
     button_priority: ''
   subtitle: ''
 menus:
