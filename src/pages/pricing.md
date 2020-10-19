@@ -42,8 +42,6 @@ sections:
       url: "/contact"
       title: Contact us to discuss the custom plan
       button_priority: ''
-- template: newsletter
-  component: NewsLetterBlock
 - template: ctablock
   component: CtaBlock
   type: ctablock
