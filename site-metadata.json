@@ -10,7 +10,7 @@
     "menu": {
       "actions": [
         {
-          "label": "Se connecter",
+          "label": "Sign in",
           "url": "https://app.tandemz.io",
           "title": "Sign in",
           "button_priority": "secondary"
