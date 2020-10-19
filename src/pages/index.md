@@ -13,17 +13,27 @@ sections:
   image_alt: ''
   embed_youtube_video_id: ''
   background: orange
+- template: recruitsection
+  component: RecruitBlock
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
   - caption: Define your perfect participant profile
     illustration: "/images/deroule.svg"
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Select the participants you want feedback from
     illustration: "/images/Researcher.svg"
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Get actionnable insights
     illustration: ''
+    illustration_alt: ''
+    illustration_titre: ''
   - caption: Pay for those that went to the end
     illustration: ''
+    illustration_alt: ''
+    illustration_titre: ''
   title: Be in control of your recruitement
   bg: white
 - template: valueblock
