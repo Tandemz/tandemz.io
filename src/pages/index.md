@@ -39,6 +39,8 @@ sections:
 - template: cards-grid-section
   title: ''
   cards:
+  - title: Easy scheduling
+  - title: Top quality participants
   - title: For any method
   - title: Anywhere
   - title: Anyone
