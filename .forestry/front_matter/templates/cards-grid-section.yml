@@ -20,3 +20,9 @@ fields:
     max: 
     labelField: 
   label: Cartes
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: component
