@@ -19,14 +19,9 @@ sections:
   title: Pricing
   subtitle: Accessible recruitment of quality testers for all your user research needs
   pricingplans:
-  - title: One shot recruitment
-    price: 60€/participant
-    details: |-
-      * Recrutement clé en main
-      * Gestion de la contrepartie (refacturée)
-      * Rappel pour les participants
-      * Sélection selon vos critères
-      * Sans restriction géographique
+  - title: Pay as you go
+    price: starting at 10€ / participant
+    details: "* "
     highlight: true
     actions:
     - label: Trouver des participants
