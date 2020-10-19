@@ -4,7 +4,7 @@
   "keywords": "Test utilisateur, étude qualitative, UX, recherche utilisateur, panel",
   "favicon": "/images/Logo@200.png",
   "header": {
-    "title": "Tandemz - catalyseur de vos tests utilisateurs",
+    "title": "Tandemz - the self-service testers recruiting platform for all your user research needs",
     "logo_img": "/images/logotype.svg",
     "has_nav": true,
     "menu": {
@@ -12,13 +12,13 @@
         {
           "label": "Se connecter",
           "url": "https://app.tandemz.io",
-          "title": "Connexion à l'application Tandemz",
+          "title": "Sign in",
           "button_priority": "secondary"
         },
         {
-          "label": "Rejoindre la beta",
-          "url": "https://app.tandemz.io/trouver-des-participants",
-          "title": "Beta de l'application Tandemz",
+          "label": "Recruit testers",
+          "url": "https://app.staging.tandemz.io/recruit-participants",
+          "title": "Recruit participants now!",
           "button_priority": "primary"
         }
       ]
