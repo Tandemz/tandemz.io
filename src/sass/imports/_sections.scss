@@ -97,7 +97,7 @@
 
 iframe {
   position: absolute;
-  top : 0;
+  top: 0;
   left: 0;
   width: 100%;
   height: 100%;
@@ -165,7 +165,7 @@ iframe {
       -webkit-flex: 7;
       -ms-flex: 7;
       flex: 7;
-      margin-top : -80px;
+      margin-top: -80px;
     }
 
     .block-content {
@@ -184,7 +184,6 @@ iframe {
     }
   }
 
-  
   .text-block,
   .block-item:nth-child(2n + 1) {
     .grid {
@@ -513,7 +512,6 @@ iframe {
   }
 }
 
-
 /* FAQ */
 .faq-accordion {
   margin-bottom: 3.33333rem;
@@ -671,7 +669,7 @@ iframe {
   }
 
   @media only screen and (min-width: 801px) {
-    &.bg-img{
+    &.bg-img {
       background-image: url(/images/hero-bg-2.svg);
       background-size: contain;
       background-position: center;
@@ -702,5 +700,39 @@ iframe {
 
   .social-share-buttons__button {
     margin-left: 8px;
+  }
+}
+
+/* How It Works */
+.how-it-works {
+  .steps-block {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .block-title {
+    text-align: center;
+    padding-bottom: 24px;
+  }
+  .stepblock {
+    width: 240px;
+    text-align: center;
+    padding: 20px;
+  }
+  .stepblock-icon {
+    width: auto;
+    height: 140px;
+  }
+  .stepblock-caption {
+    font-weight: bold;
+    padding-top: 40px;
+  }
+  @media only screen and (min-width: 741px) {
+    .steps-block {
+      flex-flow: row wrap;
+    }
   }
 }
