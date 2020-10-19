@@ -1,4 +1,5 @@
 export { default as BlogCtaBlock } from './BlogCtaBlock';
+export { default as CardsGridBlock } from './CardsGridBlock';
 export { default as ContentBlock } from './ContentBlock';
 export { default as CtaBlock } from './CtaBlock';
 export { default as FaqBlock } from './FaqBlock';

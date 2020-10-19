@@ -652,7 +652,9 @@ iframe {
       border-color: currentColor;
     }
   }
-  &.bg-accent, &.bg-orange, &.bg-blue{
+  &.bg-accent,
+  &.bg-orange,
+  &.bg-blue {
     color: #fff;
 
     .block-title {
@@ -742,5 +744,17 @@ iframe {
     .steps-block {
       flex-flow: row wrap;
     }
+  }
+}
+
+.cards-grid {
+  display: flex;
+
+  .cards-block {
+  }
+  .card-block {
+    border: 1px solid _palette(border);
+  }
+  .card-block-title {
   }
 }
