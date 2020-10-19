@@ -80,10 +80,6 @@ sections:
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
-menus:
-  solutions:
-    title: Gestion de panel
-    weight: 2
 template: home
 title: Créez et gérez votre panel avec Tandemz
 description: Grâce à notre plateforme, organisez en un clin d'oeil vos entretiens

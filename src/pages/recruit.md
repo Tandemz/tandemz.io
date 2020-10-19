@@ -124,10 +124,6 @@ sections:
     is_beta: true
   title: ''
   subtitle: ''
-menus:
-  solutions:
-    title: Recrutement
-    weight: 2
 template: home
 title: Recrutez vos participants avec Tandemz
 description: Nous recrutons vos participants à la recherche utilisateur parmi les
