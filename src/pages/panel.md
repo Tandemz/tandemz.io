@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-img bg-gray
+  background: gray
   title: Gérez votre propre panel d'utilisateurs
   component: HeroBlock
   content: Organisez en un clin d'oeil vos entretiens et tests UX avec vos utilisateurs

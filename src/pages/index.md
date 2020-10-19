@@ -3,7 +3,6 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-img bg-white
   title: Get insights from real users
   component: HeroBlock
   content: The self-service testers recruiting platform for all your user research
@@ -13,7 +12,7 @@ sections:
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
-  background: white
+  background: orange
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:

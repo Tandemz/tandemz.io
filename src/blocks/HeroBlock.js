@@ -6,13 +6,18 @@ import { safePrefix, markdownify, Link, sendEvent } from '../utils';
 
 export default class HeroBlock extends React.Component {
   render() {
+    const bg = _.get(this.props, 'section.background');
+
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
-        className={classnames(
-          'block hero-block outer',
-          _.get(this.props, 'section.className'),
-        )}
+        className={classnames('block hero-block outer', {
+          'bg-white': bg === 'white',
+          'bg-gray': bg === 'gray',
+          'bg-orange': bg === 'orange',
+          'bg-blue': bg === 'blue',
+          'bg-img': !!_.get(this.props, 'section.embed_youtube_video_id'),
+        })}
       >
         <div className="inner">
           <div className="grid">

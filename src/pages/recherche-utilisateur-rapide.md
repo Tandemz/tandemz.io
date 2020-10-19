@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-white
+  background: white
   title: Recrutez pour vos tests utilisateurs en 2 jours
   component: HeroBlock
   content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
