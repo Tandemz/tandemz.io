@@ -25,7 +25,8 @@ sections:
     illustration: ''
   - caption: Pay for those that went to the end
     illustration: ''
-  title: ''
+  title: Be in control of your recruitement
+  bg: white
 - template: valueblock
   component: ValueBlock
   bg: gray
