@@ -19,9 +19,13 @@ sections:
   title: Pricing
   subtitle: Accessible recruitment of quality testers for all your user research needs
   pricingplans:
-  - title: Pay as you go
-    price: starting at 10€ / participant
-    details: "* "
+  - title: Recruit
+    price: Pay as you go
+    details: |-
+      * Starting at 10€ / participant for simple quantitative needs
+      * Starting at 20€ / participant for simple qualitative needs
+      * Prices scale according to difficulty of recruitment
+      * Incentive included
     highlight: true
     actions:
     - label: Trouver des participants
