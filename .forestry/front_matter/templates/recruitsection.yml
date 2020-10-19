@@ -1,4 +1,10 @@
 ---
 label: RecruitSection
 hide_body: true
-fields: []
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  default: RecruitBlock
