@@ -15,6 +15,11 @@ sections:
   background: orange
 - template: recruitsection
   component: RecruitBlock
+- template: cards-grid-section
+  component: CardsGridBlock
+  title: Hassle-free recruiting
+  section_id: ''
+  cards: []
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
