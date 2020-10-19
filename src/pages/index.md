@@ -38,7 +38,9 @@ sections:
   bg: white
 - template: cards-grid-section
   title: ''
-  cards: []
+  cards:
+  - title: Anyone
+  component: ''
 - template: valueblock
   component: ValueBlock
   bg: gray
