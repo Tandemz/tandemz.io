@@ -1,0 +1,29 @@
+.recruit-block {
+  width: 100%;
+  max-width: 972px;
+  margin: auto;
+
+  background-color: white;
+  box-shadow: 0px 4px 15px rgba(25, 41, 72, 0.15);
+
+  padding: 40px;
+
+  overflow: visible;
+
+
+  .recruit-block__content {
+    width: 100%;
+    max-width: 834px;
+    margin: auto;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+
+  select {
+    width: 232px;
+  }
+}
