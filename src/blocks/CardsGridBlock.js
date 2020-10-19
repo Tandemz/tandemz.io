@@ -6,7 +6,7 @@ export default class CardsGridBlock extends React.Component {
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
-        className="cards-grid block cell-block bg-white gutter"
+        className="cards-grid block cell-block bg-white gutter outer"
       >
         <div className="inner">
           <div className="block-header">

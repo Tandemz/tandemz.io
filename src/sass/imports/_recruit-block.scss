@@ -1,27 +1,59 @@
+.hero-block + .recruit-bg {
+  position: relative;
+
+  margin-bottom: 64px;
+
+  &:before {
+    position: absolute;
+    z-index: 0;
+    background-color: white;
+
+    bottom: 0;
+    right: 0;
+    left: 0;
+    height: 50%;
+    content:"";
+  }
+
+
+  .recruit-block {
+    box-shadow: 0px 4px 15px rgba(25, 41, 72, 0.15);
+  }
+}
+
+.hero-block.bg-orange + .recruit-bg {
+  background-color: _palette(redBase);
+}
+
+.hero-block.bg-blue + .recruit-bg {
+  background-color: _palette(accent-alt);
+}
+
 .recruit-block {
-  width: 100%;
+  position: relative;
+  z-index: 1;
+
   max-width: 972px;
   margin: auto;
 
   background-color: white;
-  box-shadow: 0px 4px 15px rgba(25, 41, 72, 0.15);
+  border-radius: 4px;
 
-  padding: 40px;
+  padding: 32px;
 
   overflow: visible;
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 
-  .recruit-block__content {
-    width: 100%;
-    max-width: 834px;
-    margin: auto;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
+  * {
+    margin-right: 24px;
+    margin-top: 8px;
+    margin-bottom: 8px;
   }
-
+  padding-right: 16px; /* 40 - 24 */
 
   select {
     width: 232px;

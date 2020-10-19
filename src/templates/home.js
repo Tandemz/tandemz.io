@@ -7,7 +7,7 @@ import * as blocks from '../blocks';
 export default class Home extends React.Component {
   render() {
     return (
-      <Layout {...this.props}>
+      <Layout {...this.props} className="bg-white">
         {_.map(
           _.get(this.props, 'pageContext.frontmatter.sections'),
           (section, section_idx) => {
