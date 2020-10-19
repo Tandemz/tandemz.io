@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
 - test utilisateur
 - recherche utilisateur
@@ -12,7 +12,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: tip eviter no show
 full_title: Comment éviter les no-shows lors de vos tests et interviews
-date: 2020-07-28T16:00:00Z
+date: 2020-07-28T16:00:00.000+00:00
 thumb_img_path: "/images/kelly-sikkema-e8h76ny1v6q-unsplash.jpg"
 content_img_path: ''
 excerpt: Voici nos conseils pour éviter les no shows ! Ecrit pour vous qui craignez
@@ -44,7 +44,7 @@ Mais imaginez-vous à la place d’un particulier qui n’a jamais participé à
 
 ![Offrez un cadeau, même virtuel !](/images/gift.gif "Cadeau virtuel")
 
-Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties.](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties")
+Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties") ou bien à vous inspirer des prix pratiqués par les outils de recrutement en ligne. Par exemple, lorsque vous recrutez dans la communauté Tandemz, nous choisissons pour vous la contrepartie, n'hésitez pas à simuler un recrutement sur [notre page de devis ](/recruit-participants "page-de-devis")pour voir quelle contrepartie nous semble adaptée à votre cible 😉 
 
 ## Ne recrutez pas trop en avance
 
