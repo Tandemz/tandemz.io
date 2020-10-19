@@ -2,6 +2,11 @@
 label: How It Works Section
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre principal
 - name: steps
   type: field_group_list
   fields:
