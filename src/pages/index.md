@@ -36,6 +36,9 @@ sections:
     illustration_titre: ''
   title: Be in control of your recruitement
   bg: white
+- template: cards-grid-section
+  title: ''
+  cards: []
 - template: valueblock
   component: ValueBlock
   bg: gray
