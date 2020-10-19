@@ -75,11 +75,11 @@ sections:
   component: CtaBlock
   type: ctablock
   section_id: cta
-  title: Faites de la recherche utilisateur un réflexe
+  title: Start talking to real users today!
   actions:
-  - label: Lancer une étude
-    url: https://app.tandemz.io/trouver-des-participants
-    title: Créez un compte sur Tandemz
+  - label: Recruit now
+    url: https://app.tandemz.io/recruit-participants
+    title: Recruit quality participants now
     button_priority: ''
   subtitle: ''
 ogtitle: ''
