@@ -26,3 +26,4 @@ fields:
     required: false
   hidden: true
   label: component
+  default: CardsGridBlock
