@@ -37,7 +37,11 @@
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
     "links": [
-
+      {
+        "text": "Recruit participants now!",
+        "url": "https://app.staging.tandemz.io/recruit-participants",
+        "new_window": true
+      }
     ]
   },
   "siteUrl": "https://www.tandemz.io"
