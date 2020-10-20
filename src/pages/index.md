@@ -42,11 +42,29 @@ sections:
   section_id: ''
   cards:
   - title: Anyone
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: Anywhere
+    icon: ''
+    icon_alt: ''
+    icon_title: ''
   - title: For any method
+    icon: ''
+    icon_alt: ''
+    icon_title: ''
   - title: Top quality participants
+    icon: ''
+    icon_alt: ''
+    icon_title: ''
   - title: Easy scheduling
+    icon: ''
+    icon_alt: ''
+    icon_title: ''
   - title: Integrated incentive
+    icon: ''
+    icon_alt: ''
+    icon_title: ''
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
