@@ -768,7 +768,7 @@ iframe {
   .steps-block {
     display: flex;
     flex-flow: column nowrap;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
   }
   .block-title {
@@ -776,17 +776,18 @@ iframe {
     padding-top: 24px;
   }
   .step-block {
-    width: 240px;
+    width: 220px;
     text-align: center;
-    padding: 20px;
+    margin: 20px;
   }
   .stepblock-icon {
     width: auto;
     height: 140px;
   }
   .stepblock-caption {
+    font-size: 20px;
     font-weight: bold;
-    padding-top: 40px;
+    padding-top: 36px;
     color: _palette(secondary);
   }
   @media only screen and (min-width: 741px) {
