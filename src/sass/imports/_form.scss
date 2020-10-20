@@ -89,6 +89,35 @@
   }
 }
 
+.select-container {
+  position: relative;
+  background-color: white;
+
+  .select-icon {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 14px;
+    z-index: 0;
+
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .select {
+    background-color: transparent;
+    z-index: 1;
+    position: relative;
+    padding-right: 40px;
+  }
+}
+
 .select {
-  background-color: red;
+  -webkit-appearance: button;
+  -moz-appearance: button;
+
+  padding-top: 0;
+  padding-bottom: 0;
 }
