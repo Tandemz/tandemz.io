@@ -76,7 +76,7 @@ menus:
     weight: 3
 template: pricing
 description: Frequently Asked Questions
-keywords: FAQ, Tandemz
+keywords: FAQ, Tandemz, user research, recruit testers, recruit participants
 ogtitle: 'FAQ Tandemz : everything about testers recruitment'
 ogdescription: 'FAQ Tandemz : everything about testers recruitment'
 ogtype: website
