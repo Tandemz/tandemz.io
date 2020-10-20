@@ -17,9 +17,9 @@ sections:
   section_id: ''
   subtitle: ''
 description: Nos articles sur la recherche utilisateur et l'UX
-keywords: recherche utilisateur, UX, blog
+keywords: recherche utilisateur, UX, blog, user research
 ogtitle: Le blog de Tandemz
-ogdescription: ''
+ogdescription: Le blog de Tandemz
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
 ogimagealt: Logo Tandemz

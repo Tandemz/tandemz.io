@@ -37,7 +37,6 @@
 .number-input {
   display: flex;
   padding: 0;
-  max-width: 232px;
 
   .number-input__increment-button {
     box-sizing: border-box;
@@ -87,4 +86,38 @@
       margin: 0;
     }
   }
+}
+
+.select-container {
+  position: relative;
+  background-color: white;
+
+  .select-icon {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 14px;
+    z-index: 0;
+
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .select {
+    background-color: transparent;
+    z-index: 1;
+    position: relative;
+    padding-right: 40px;
+  }
+}
+
+.select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  padding-top: 0;
+  padding-bottom: 0;
 }

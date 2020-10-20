@@ -278,10 +278,6 @@ sections:
       Si un participant ne souhaite plus faire partie d'un panel, il contacte directement le support Tandemz qui s'occupe d'effacer ses données (après avoir prévenu le propriétaire de son panel bien sûr).
   title_level_one: false
   subtitle: ''
-menus:
-  secondary:
-    title: Aide en ligne
-    weight: 5
 template: pricing
 description: Toutes les questions sur l'utilisation de Tandemz
 keywords: ''

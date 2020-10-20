@@ -53,8 +53,9 @@ sections:
     title: Recruit quality participants now
     button_priority: ''
   subtitle: ''
-ogtitle: ''
-ogdescription: ''
+  bg: ''
+ogtitle: Pricing of testers recruitment with Tandemz
+ogdescription: Pricing of testers recruitment with Tandemz
 ogtype: ''
 ogimage: ''
 ogimagealt: ''

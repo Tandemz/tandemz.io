@@ -28,16 +28,20 @@
     "logo_img": "/images/logowhite_png.png",
     "tagline": "The self-service testers recruiting platform for all your user research needs",
     "has_nav": true,
-    "nav_title": "To know more",
+    "nav_title": "Learn more",
     "has_social": true,
     "social_title": "Our communities",
-    "legal_title": "Légal",
+    "legal_title": "Legal",
     "has_subscribe": false,
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
     "links": [
-
+      {
+        "text": "Recruit participants now!",
+        "url": "https://app.staging.tandemz.io/recruit-participants",
+        "new_window": true
+      }
     ]
   },
   "siteUrl": "https://www.tandemz.io"

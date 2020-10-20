@@ -1,33 +1,35 @@
 import * as React from 'react';
 import NumberInput from '../components/form/NumberInput';
+import Select from '../components/form/Select';
 
-const requestQuotationUrl = 'https://staging.tandemz.io/recruit-participants';
+const requestQuotationUrl =
+  'https://app.staging.tandemz.io/recruit-participants';
 // const requestQuotationUrl = 'http://localhost:3000/recruit-participants';
 
 const options = [
   {
-    key: 'PHYSICAL',
-    label: 'in person meeting',
+    value: 'PHYSICAL',
+    label: 'in person meetings',
   },
   {
-    key: 'ONLINE_MEETING',
-    label: 'in online meeting',
+    value: 'ONLINE_MEETING',
+    label: 'online meetings',
   },
   {
-    key: 'ONLINE_SURVEY',
-    label: 'with online survey',
+    value: 'ONLINE_SURVEY',
+    label: 'online survey',
   },
   {
-    key: 'UNMODERATED_USABILITY_TEST',
-    label: 'with unmoderated usability test',
+    value: 'UNMODERATED_USABILITY_TEST',
+    label: 'unmoderated usability tests',
   },
   {
-    key: 'TREE_TESTING_CARD_SORTING',
-    label: 'with tree testing / card sort',
+    value: 'TREE_TESTING_CARD_SORTING',
+    label: 'a tree testing / card sort',
   },
   {
-    key: 'FIRST_CLICK_FIVE_SECONDS',
-    label: 'with first click / five seconds test',
+    value: 'FIRST_CLICK_FIVE_SECONDS',
+    label: 'a first click / five seconds test',
   },
 ];
 
@@ -49,16 +51,11 @@ class RecruitBlock extends React.PureComponent {
             defaultValue={6}
             min="1"
           />
-          <label for="studyType">users for an</label>
-          <select id="studyType" name="type">
-            {options.map((option, index) => (
-              <option key={option.key} value={option.key}>
-                {option.label}
-              </option>
-            ))}
-          </select>
-          <button type="submit" className="button primary">
+          <label for="studyType">users for</label>
+          <Select id="studyType" name="type" options={options} />
+          <button type="submit" className="button primary button--with-arrow">
             Recruit now
+            <i className="ri-arrow-right-line" />
           </button>
         </form>
       </div>

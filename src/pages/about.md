@@ -4,13 +4,13 @@ subtitle: ''
 img_path: "/images/photo-equipe-coupee-min.jpg"
 menus:
   secondary:
-    title: A propos de nous
+    title: About us
     weight: 1
 template: page
 description: Want to know more about the Tandemz team ?
-keywords: tandemz, about us
-ogtitle: About Tandemz Team
-ogdescription: About Tandemz Team
+keywords: tandemz, about us, history
+ogtitle: About the Tandemz Team
+ogdescription: About the Tandemz Team
 ogtype: ''
 ogimage: "/images/team_2-1-1.jpg"
 ogimagealt: Tandemz Team

@@ -21,7 +21,7 @@ updatedAt: 2020-08-26T08:15:00Z
 legal_name: cgu-client
 menus:
   legal:
-    title: CGU
+    title: Terms and conditions (client)
     weight: 2
 
 ---

@@ -42,54 +42,87 @@ sections:
   section_id: ''
   cards:
   - title: Anyone
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: Anywhere
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: For any method
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: Top quality participants
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: Easy scheduling
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
   - title: Integrated incentive
+    icon: "/images/testicon.svg"
+    icon_alt: ''
+    icon_title: ''
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
   type: reviewsblock
-  title: Rejoignez nos early adopters
+  title: Join our happy clients
   reviews:
-  - author: Ulysse de Mozza
-    content: 'En un rien de temps, Tandemz me met à disposition des participants qualifiés,
-      ce qui me laisse plus de temps pour faire mon métier. Je me concentre enfin
-      sur ce qui a le plus de valeur : partir à la rencontre de mes utilisateurs !'
+  - author: Ulysse from Mozza
+    content: 'In no time, Tandemz provides me qualified participants for interviews,
+      which gives me more time to do my job. I’m finally focusing on what is the most
+      valuable: talking to my users!'
     avatar: ''
-  - author: Julien de UX Republic
-    content: Avec Tandemz, c’est un nouveau chapitre de la recherche utilisateur qui
-      s’écrit ! Simple et didactique, le logiciel simplifie toute la démarche logistique,
-      de la constitution d’un panel à l’organisation des entretiens. On a hâte d’en
-      découvrir davantage.
+  - author: Grégoire from Ferpection
+    content: Tandemz’s service is simple and reliable. What I liked the most was being
+      able to quickly reach international targets, in the US or in the UK for example.
     avatar: ''
-  - author: Grégoire de Ferpection
-    content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
-      aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
-      à l'international, aux Etats-Unis ou au Royaume-Uni par exemple !
-    avatar: ''
-  - author: Julie de La Grande Ourse
-    content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
-      au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
-      sans le moindre soucis et l'équipe Tandemz était très réactive !
-    avatar: ''
-  - author: Cécile de La faireparterie
-    content: Grâce à Tandemz, nous avons pu cibler et discuter avec des groupes de
-      personne difficilement accessibles jusqu'ici. C'est tellement précieux pour
-      mieux comprendre notre cible et développer des produits qui cartonnent !
+  - author: Julie from La Grande Ourse
+    content: The participants recruited by Tandemz were amazing! Reliable, involved,
+      they all played the game. My user tests took place without the slightest problem
+      and the Tandemz team was very reactive!
     avatar: ''
   section_id: ''
   subtitle: ''
   logos:
-  - logo: "/images/Like200h-1.png"
-    alt: ''
-    title: ''
-  - logo: "/images/logotype.png"
-    alt: ''
-    title: ''
+  - logo: "/images/mozza.png"
+    alt: Mozza Logo
+    title: Mozza
+  - logo: "/images/affordance.png"
+    alt: Affordance Logo
+    title: Affordance
+  - logo: "/images/faireparterie.png"
+    alt: Faireparterie Logo
+    title: Faireparterie
+  - logo: "/images/ferpection.png"
+    alt: Ferpection Logo
+    title: Ferpection
+  - logo: "/images/ux-republic-black-h.png"
+    alt: UX Republic Logo
+    title: UX Republic
 - template: recruitsection
   component: RecruitBlock
+- template: reviewsblock
+  component: ReviewsBlock
+  bg: white
+  type: reviewsblock
+  title: They support us!
+  logos:
+  - logo: "/images/psl.jpg"
+    alt: PSL Pépite Logo
+    title: PSL Pépite
+  - logo: "/images/pepiniere.png"
+    alt: Pépinière 27 Logo
+    title: Pépinière 27
+  - logo: "/images/cci.png"
+    alt: CCI Paris Ile de France Logo
+    title: CCI Paris Ile de France
+  section_id: ''
+  subtitle: ''
+  reviews: []
 - type: ctablock
   template: ctablock
   section_id: call-to-action
