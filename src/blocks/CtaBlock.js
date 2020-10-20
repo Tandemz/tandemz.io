@@ -8,7 +8,11 @@ export default class CtaBlock extends React.Component {
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
-        className="block cta-block bg-accent outer"
+        className={`block cta-block bg-accent bg-accent-${
+          _.get(this.props, 'section.bg') === 'blue'
+            ? ''
+            : _.get(this.props, 'section.bg') || ''
+        } outer`}
       >
         <div className="inner-large">
           <div className="grid">

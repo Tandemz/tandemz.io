@@ -709,8 +709,41 @@ iframe {
   &.bg-orange {
     background-color: _palette(redBase);
   }
+  &.bg-accent-orange {
+    background: _palette(redBase);
+    background: -webkit-linear-gradient(
+      to right,
+      _palette(redAccessible),
+      _palette(redBase)
+    );
+    background: linear-gradient(
+      to right,
+      _palette(redAccessible),
+      _palette(redBase)
+    );
+    .underline:after {
+      border-color: currentColor;
+    }
+  }
   &.bg-blue {
     background-color: _palette(accent-alt);
+  }
+
+  &.bg-accent-gray {
+    background: _palette(primary);
+    background: -webkit-linear-gradient(
+      to right,
+      _palette(secondary),
+      _palette(primary)
+    );
+    background: linear-gradient(
+      to right,
+      _palette(secondary),
+      _palette(primary)
+    );
+    .underline:after {
+      border-color: currentColor;
+    }
   }
 
   &.bg-white + &.bg-white,
