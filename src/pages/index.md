@@ -70,12 +70,21 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
-  - logo: "/images/Like200h-1.png"
-    alt: ''
-    title: ''
-  - logo: "/images/logotype.png"
-    alt: ''
-    title: ''
+  - logo: "/images/mozza.png"
+    alt: Mozza Logo
+    title: Mozza
+  - logo: "/images/affordance.png"
+    alt: Affordance Logo
+    title: Affordance
+  - logo: "/images/faireparterie.png"
+    alt: Faireparterie Logo
+    title: Faireparterie
+  - logo: "/images/ferpection.png"
+    alt: Ferpection Logo
+    title: Ferpection
+  - logo: "/images/ux-republic-black-h.png"
+    alt: UX Republic Logo
+    title: UX Republic
 - template: recruitsection
   component: RecruitBlock
 - type: ctablock
