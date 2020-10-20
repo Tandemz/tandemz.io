@@ -51,7 +51,7 @@ sections:
   component: ReviewsBlock
   bg: white
   type: reviewsblock
-  title: Rejoignez nos early adopters
+  title: Join our happy clients
   reviews:
   - author: Ulysse de Mozza
     content: 'En un rien de temps, Tandemz me met à disposition des participants qualifiés,
