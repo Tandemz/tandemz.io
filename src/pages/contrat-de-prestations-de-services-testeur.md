@@ -20,7 +20,7 @@ metatags: []
 schema_org_data_list: []
 menus:
   legal:
-    title: Contrat d'utilisation participant
+    title: Terms and conditions (testers)
     weight: 4
 
 
