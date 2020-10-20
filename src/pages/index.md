@@ -54,11 +54,11 @@ sections:
     icon_alt: ''
     icon_title: ''
   - title: Top quality participants
-    icon: ''
+    icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
   - title: Easy scheduling
-    icon: ''
+    icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
   - title: Integrated incentive
