@@ -485,7 +485,6 @@ iframe {
 }
 
 .review-logo {
-  height: 100%;
   text-align: center;
   margin-top: 36px;
   margin-bottom: 36px;
@@ -820,6 +819,7 @@ iframe {
     border-top: 1px solid _palette(border);
 
     display: flex;
+    flex-flow: column wrap;
     align-items: center;
     justify-content: center;
 
