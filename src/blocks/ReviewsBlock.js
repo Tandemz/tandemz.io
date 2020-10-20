@@ -20,6 +20,20 @@ export default class ReviewsBlock extends React.Component {
             </p>
           )}
         </div>
+        {_.get(this.props, 'section.logos') && (
+          <div className="inner">
+            <div className="grid review-logo-line">
+              {_.map(_.get(this.props, 'section.logos'), (logo, logo_idx) => (
+                <img
+                  className="review-logo"
+                  src={safePrefix(_.get(logo, 'logo'))}
+                  title={_.get(this.props, 'logo.title')}
+                  alt={_.get(this.props, 'logo.alt')}
+                />
+              ))}
+            </div>
+          </div>
+        )}
         {_.get(this.props, 'section.reviews') && (
           <div className="inner">
             <div className="grid">

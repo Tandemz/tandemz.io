@@ -163,7 +163,6 @@ iframe {
 
           font-size: 20px;
           font-weight: bold;
-
         }
       }
     }
@@ -475,6 +474,20 @@ iframe {
   }
 }
 
+.review-logo-line {
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+}
+
+.review-logo {
+  height: 100%;
+  text-align: center;
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
 @media only screen and (min-width: 741px) {
   .cell-block {
     .grid {
@@ -486,6 +499,19 @@ iframe {
       flex-wrap: wrap;
       margin: 0 -0.83333rem;
       justify-content: center;
+    }
+
+    .review-logo-line {
+      height: 88px;
+      justify-content: space-around;
+      margin-top: 36px;
+      margin-bottom: 36px;
+    }
+
+    .review-logo {
+      margin: 0;
+      margin-left: 36px;
+      margin-right: 36px;
     }
 
     .cell {
