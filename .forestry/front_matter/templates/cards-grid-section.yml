@@ -20,6 +20,21 @@ fields:
     config:
       required: false
     label: Titre
+  - name: icon
+    type: file
+    config:
+      maxSize: 64
+    label: Icône
+  - name: icon_alt
+    type: file
+    config:
+      maxSize: 64
+    label: Icône (Alt)
+  - name: icon_title
+    type: text
+    config:
+      required: false
+    label: Icône (Titre)
   config:
     min: 
     max: 
