@@ -1,6 +1,8 @@
 import React from 'react';
 import _ from 'lodash';
 
+import { safePrefix } from '../utils';
+
 export default class CardsGridBlock extends React.Component {
   render() {
     return (
@@ -18,7 +20,13 @@ export default class CardsGridBlock extends React.Component {
             <div className="cards-block grid">
               {_.map(_.get(this.props, 'section.cards'), (block, block_idx) => (
                 <div key={block_idx} className="card-block cell">
-                  <p className="card-block-title">{_.get(block, 'title')}</p>
+                  <img
+                    alt={_.get(block, 'icon_alt')}
+                    title={_.get(block, 'icon_title')}
+                    src={safePrefix(_.get(block, 'icon'))}
+                    className="cards-block-img"
+                  />
+                  <h3 className="card-block-title">{_.get(block, 'title')}</h3>
                 </div>
               ))}
             </div>
