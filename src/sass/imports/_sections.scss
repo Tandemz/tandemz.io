@@ -765,29 +765,37 @@ iframe {
     width: 100%;
     flex: 1 1 32%;
     margin: 0;
-    border: 1px solid _palette(border);
+    border-top: 1px solid _palette(border);
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    &:first-child,
-    &:nth-child(4n) {
-      border-left: 0;
-    }
-    &:nth-child(-n + 3) {
+    &:first-child {
       border-top: 0;
-    }
-    &:nth-child(3n) {
-      border-right: 0;
-    }
-    &:nth-last-child(-n + 3) {
-      border-bottom: 0;
     }
   }
   .card-block-title {
     margin: 0;
     color: _palette(secondary);
     font-weight: bold;
+  }
+  @media only screen and (min-width: 741px) {
+    .card-block {
+      border: 1px solid _palette(border);
+      &:first-child,
+      &:nth-child(4n) {
+        border-left: 0;
+      }
+      &:nth-child(-n + 3) {
+        border-top: 0;
+      }
+      &:nth-child(3n) {
+        border-right: 0;
+      }
+      &:nth-last-child(-n + 3) {
+        border-bottom: 0;
+      }
+    }
   }
 }
