@@ -82,7 +82,12 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/Like200h-1.png"
+    alt: ''
+    title: ''
   - logo: "/images/logotype.png"
+    alt: ''
+    title: ''
 - type: ctablock
   template: ctablock
   section_id: call-to-action
