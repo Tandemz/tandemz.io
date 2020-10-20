@@ -62,7 +62,7 @@ sections:
     icon_alt: ''
     icon_title: ''
   - title: Integrated incentive
-    icon: ''
+    icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
 - template: reviewsblock
