@@ -89,9 +89,9 @@ sections:
   component: RecruitBlock
 - template: reviewsblock
   component: ReviewsBlock
-  bg: gray
+  bg: white
   type: reviewsblock
-  title: They are supportive
+  title: They support us!
   logos:
   - logo: "/images/psl.jpg"
     alt: PSL Pépite Logo
