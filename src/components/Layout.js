@@ -2,6 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import moment from 'moment';
 import 'moment/locale/fr';
+import className from 'classnames';
 
 import Header from './Header';
 import Footer from './Footer';
@@ -30,7 +31,10 @@ export default class Body extends React.Component {
           }
         >
           <Header {...this.props} />
-          <main id="content" className="site-content">
+          <main
+            id="content"
+            className={className('site-content', this.props.className)}
+          >
             {this.props.children}
           </main>
           <Footer {...this.props} />

@@ -57,7 +57,7 @@ Par exemple, un virement, des chèques cadeaux Amazon ou multi-enseignes…
 | Avantages | Inconvénients |
 | --- | --- |
 | Votre étude reste plus facilement anonyme</br>Le plus versatile, généralement considéré comme le plus efficace | Attire plus facilement des personnes en besoin d'argent (étudiants, retraités...)</br>Le budget est proportionnel au nombre de participants, donc vite cher |
-| **Utiliser quand...** | **A éviter si...** |
+| Utiliser quand... | A éviter si... |
 | Votre cible est large</br>Vous n'avez pas facilement accès à cette cible à travers votre réseau / parmi vos clients et utilisateurs | En soi, toujours un bon choix, mais si vous donnez le mauvais montant pour la mauvaise cible, vous allez attirer des profils moins qualifiés (cf notre grille de rémunération plus bas) |
 
 ### **La contrepartie en nature**
@@ -67,7 +67,7 @@ Par exemple, un cadeau, un accès premium gratuit pendant quelques mois, une rem
 | Avantages | Inconvénients |
 | --- | --- |
 | Potentiellement plus économique</br>Peut renforcer l'image de votre marque auprès de vos utilisateurs | Peut dévoiler votre marque</br>Vos utilisateurs convaincus seront potentiellement moins critiques</br>Attirera plus difficilement ceux qui ne vous aiment pas / ne vous connaissent pas |
-| **Utiliser quand...** | **A éviter si...** |
+| Utiliser quand... | A éviter si... |
 | Vous voulez parler à vos utilisateurs déjà convaincus / aux "fans" de votre marque / à votre communauté engagée | Vous voulez attirer les utilisateurs de vos concurrents / les utilisateurs qui vous ont quitté </br> Si vous voulez rester anonyme pendant le recrutement |
 
 ### **La loterie**
@@ -77,7 +77,7 @@ Il s'agit souvent de tirer au sort un ou plusieurs participants pour gagner un l
 | Avantages | Inconvénients |
 | --- | --- |
 | Pour un budget plus faible, vous pouvez promettre une plus grosse somme / un plus gros cadeau | Le gain n'étant pas systématique, n'attirera pas les profils moins joueurs et avec une certaine aversion du risque |
-| **Utiliser quand...** | **A éviter si...** |
+| Utiliser quand... | A éviter si... |
 | Sur des tests à grosse échelle et demandant peu d'investissement (études quanti ou non modérées de moins de 20min par exemple) | Si vous savez que vos utilisateurs cibles ont une aversion au risque</br>Si votre recherche utilisateur demande beaucoup de temps / d'énergie au participant |
 
 ### **Le don**
@@ -87,7 +87,7 @@ Par exemple, une promesse de don à une association / ONG / cause de votre choix
 | Avantages | Inconvénients |
 | --- | --- |
 | Positif pour votre image et pour celle des participants</br>Même un petit montant par don peut suffir pour motiver les participants | Attire surtout les personnes sensibles à la cause de la ou les associations / ONG choisies </br> Pas adapté à tous les projets |
-| **Utiliser quand...** | **A éviter si...** |
+| Utiliser quand... | A éviter si... |
 | Quand votre cible est peu sensible au gain personnel</br>Quand vous ciblez des personnes sensibles à une certaine cause | Si vous visez un public très large |
 
 ### **Comment gérer le biais de sélection ?**
@@ -115,11 +115,13 @@ Pour vous simplifier la tâche, nous avons compilé une grille de montants minim
 | Cible B2C peu accessible | min : 60€ / h </br> idéal : 80€ / h | min : 30€ / h</br>idéal : 60€ / h | min: 15€ / h</br>idéal : 40€ / h |
 | Cible B2B (cible professionnelle) - à moduler en fonction du TJM de la cible | à partir de 200€ / h | à partir de 100€ / h | à partir de 60€ / h |
 
+Pour vous simplifier la tâche, chez Tandemz nous choisissons la contrepartie adaptée à votre cible pour vous. N'hésitez pas à simuler un recrutement sur [notre page de devis](/recruit-participants "page de devis") pour vous inspirer du montant que nous prévoyons pour vous !
+
 ## J’ai déterminé comment indemniser mes participants. Et maintenant ?
 
 Félicitations, c’est une grosse étape de passée ! Cela vous aidera à maximiser vos chances de recruter les bons profils de participants. Maintenant, vous vous en doutez bien, cela ne suffira pas. Pour optimiser votre campagne de recrutement, pensez aussi à :
 
 * **Rédiger un message d’accroche court et impactant**, pour que vos participants potentiels comprennent à la fois l’importance de leur participation, ce qu’ils ont à y gagner, et le degré d’effort qu’ils devront fournir.
 * **Faire un bon questionnaire de sélection**, qui permettra d’écarter les mauvais profils : les opportunistes, ceux qui ont mal compris vos attentes, ou encore, éviter d’avoir trop de profils similaires si vous visez une répartition en particulier
-* **Définir où recruter vos participants** : qu’ils viennent de votre CRM, de votre communauté de followers sur Twitter ou Facebook, ou d’un forum dédié à un centre d’intérêt particulier, trouver le bon vivier est essentiel. C’est [notre spécialité chez Tandemz](/recruit "offre de recrutement Tandemz"), donc n’hésitez pas à [nous contacter](/contact "nous contacter") pour nous parler de vos besoins !
+* **Définir où recruter vos participants** : qu’ils viennent de votre CRM, de votre communauté de followers sur Twitter ou Facebook, ou d’un forum dédié à un centre d’intérêt particulier, trouver le bon vivier est essentiel. C’est [notre spécialité chez Tandemz](/recruit-participants "recrutement de participants"), donc n’hésitez pas à [nous contacter](/contact "nous contacter") pour nous parler de vos besoins !
 * **Affiner votre message et la contrepartie selon les résultats** : si vous avez du mal à recruter, ou si vous attirez beaucoup de profils qui ne correspondent pas à votre cible, c’est peut-être que le message n’est pas clair ou que l’indemnisation promise n’est pas adéquate !
