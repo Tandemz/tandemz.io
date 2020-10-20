@@ -81,6 +81,8 @@ sections:
     avatar: ''
   section_id: ''
   subtitle: ''
+  logos:
+  - logo: "/images/logotype.png"
 - type: ctablock
   template: ctablock
   section_id: call-to-action
