@@ -8,7 +8,7 @@ menus:
     weight: 1
 template: page
 description: Want to know more about the Tandemz team ?
-keywords: tandemz, about us
+keywords: tandemz, about us, history
 ogtitle: About the Tandemz Team
 ogdescription: About the Tandemz Team
 ogtype: ''
