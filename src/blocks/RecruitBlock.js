@@ -1,32 +1,33 @@
 import * as React from 'react';
 import NumberInput from '../components/form/NumberInput';
+import Select from '../components/form/Select';
 
 const requestQuotationUrl = 'https://staging.tandemz.io/recruit-participants';
 // const requestQuotationUrl = 'http://localhost:3000/recruit-participants';
 
 const options = [
   {
-    key: 'PHYSICAL',
+    value: 'PHYSICAL',
     label: 'in person meeting',
   },
   {
-    key: 'ONLINE_MEETING',
+    value: 'ONLINE_MEETING',
     label: 'in online meeting',
   },
   {
-    key: 'ONLINE_SURVEY',
+    value: 'ONLINE_SURVEY',
     label: 'with online survey',
   },
   {
-    key: 'UNMODERATED_USABILITY_TEST',
+    value: 'UNMODERATED_USABILITY_TEST',
     label: 'with unmoderated usability test',
   },
   {
-    key: 'TREE_TESTING_CARD_SORTING',
+    value: 'TREE_TESTING_CARD_SORTING',
     label: 'with tree testing / card sort',
   },
   {
-    key: 'FIRST_CLICK_FIVE_SECONDS',
+    value: 'FIRST_CLICK_FIVE_SECONDS',
     label: 'with first click / five seconds test',
   },
 ];
@@ -50,13 +51,7 @@ class RecruitBlock extends React.PureComponent {
             min="1"
           />
           <label for="studyType">users for an</label>
-          <select id="studyType" name="type">
-            {options.map((option, index) => (
-              <option key={option.key} value={option.key}>
-                {option.label}
-              </option>
-            ))}
-          </select>
+          <Select id="studyType" name="type" options={options} />
           <button type="submit" className="button primary">
             Recruit now
           </button>

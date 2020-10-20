@@ -61,7 +61,6 @@ class NumberInput extends React.PureComponent {
   decrement = () => this.addToValue(-1);
 
   render() {
-    const classes = {};
     const props = this.props;
     const value = this.getValue();
     return (
@@ -77,7 +76,6 @@ class NumberInput extends React.PureComponent {
         </button>
         <input
           {...this.props}
-          className={classes.input}
           value={value}
           className="number-input__input"
           onChange={this.onInputChange}
