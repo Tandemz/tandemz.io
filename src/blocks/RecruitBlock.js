@@ -1,4 +1,5 @@
 import * as React from 'react';
+import NumberInput from '../components/form/NumberInput';
 
 const requestQuotationUrl = 'https://staging.tandemz.io/recruit-participants';
 // const requestQuotationUrl = 'http://localhost:3000/recruit-participants';
@@ -41,7 +42,7 @@ class RecruitBlock extends React.PureComponent {
           method="GET"
         >
           <label for="numberOfParticipantRequired">I need</label>
-          <input
+          <NumberInput
             type="number"
             id="numberOfParticipantRequired"
             name="numberOfParticipantRequired"
