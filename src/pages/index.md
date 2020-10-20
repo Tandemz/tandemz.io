@@ -46,11 +46,11 @@ sections:
     icon_alt: ''
     icon_title: ''
   - title: Anywhere
-    icon: ''
+    icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
   - title: For any method
-    icon: ''
+    icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
   - title: Top quality participants
