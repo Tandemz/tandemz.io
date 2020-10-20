@@ -91,7 +91,7 @@ sections:
   component: ReviewsBlock
   bg: gray
   type: reviewsblock
-  title: ''
+  title: They are supportive
   logos:
   - logo: "/images/psl.jpg"
     alt: PSL Pépite Logo
