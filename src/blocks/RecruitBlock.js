@@ -53,8 +53,9 @@ class RecruitBlock extends React.PureComponent {
           />
           <label for="studyType">users for</label>
           <Select id="studyType" name="type" options={options} />
-          <button type="submit" className="button primary">
+          <button type="submit" className="button primary button--with-arrow">
             Recruit now
+            <i className="ri-arrow-right-line" />
           </button>
         </form>
       </div>

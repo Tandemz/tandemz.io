@@ -55,7 +55,10 @@
   }
   padding-right: 16px; /* 40 - 24 */
 
+  .number-input {
+    max-width: 250px;
+  }
   select {
-    width: 232px;
+    width: 250px;
   }
 }
