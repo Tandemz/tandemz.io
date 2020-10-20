@@ -88,6 +88,8 @@ sections:
   - logo: "/images/logotype.png"
     alt: ''
     title: ''
+- template: recruitsection
+  component: RecruitBlock
 - type: ctablock
   template: ctablock
   section_id: call-to-action
@@ -99,6 +101,7 @@ sections:
     title: Start recruiting participants now
     button_priority: ''
   subtitle: ''
+  bg: ''
 menus:
   main:
     title: Home
