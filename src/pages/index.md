@@ -87,6 +87,24 @@ sections:
     title: UX Republic
 - template: recruitsection
   component: RecruitBlock
+- template: reviewsblock
+  component: ReviewsBlock
+  bg: gray
+  type: reviewsblock
+  title: ''
+  logos:
+  - logo: "/images/psl.jpg"
+    alt: PSL Pépite Logo
+    title: PSL Pépite
+  - logo: "/images/pepiniere.png"
+    alt: Pépinière 27 Logo
+    title: Pépinière 27
+  - logo: "/images/cci.png"
+    alt: CCI Paris Ile de France Logo
+    title: CCI Paris Ile de France
+  section_id: ''
+  subtitle: ''
+  reviews: []
 - type: ctablock
   template: ctablock
   section_id: call-to-action
