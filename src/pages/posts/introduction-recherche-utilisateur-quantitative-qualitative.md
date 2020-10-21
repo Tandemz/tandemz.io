@@ -119,6 +119,6 @@ Pour plus de détails, je vous invite à lire [l’article expliquant le graphiq
 
 ## Conclusion
 
-Aujourd’hui, le quantitatif a plus la côte ! Il est vrai que dans ce monde de data, le quantitatif est terriblement sexy. Mais attention, il ne répond pas à toutes les questions et parfois en créer de nouvelles. Le qualitatif vous sera toujours nécessaire dès lors que vous chercherez à réellement comprendre le comportement de vos utilisateurs, leurs problèmes et besoins - en somme, dès que vous vous demandez “Mais pourquoi ?”. Et puis, la recherche qualitative est passionnante ! N’hésitez plus, lancez-vous et [recrutez vos premiers utilisateurs sur en quelques clics sur notre plateforme](https://app.staging.tandemz.io/recruit-participants "page de devis recrutement") 🤩
+Aujourd’hui, le quantitatif a plus la côte ! Il est vrai que dans ce monde de data, le quantitatif est terriblement sexy. Mais attention, il ne répond pas à toutes les questions et parfois en créer de nouvelles. Le qualitatif vous sera toujours nécessaire dès lors que vous chercherez à réellement comprendre le comportement de vos utilisateurs, leurs problèmes et besoins - en somme, dès que vous vous demandez “Mais pourquoi ?”. Et puis, la recherche qualitative est passionnante ! N’hésitez plus, lancez-vous et [recrutez vos premiers utilisateurs en quelques clics sur notre plateforme](https://app.staging.tandemz.io/recruit-participants "page de devis recrutement") 🤩
 
 On se revoit très bientôt pour de prochains articles 😊
