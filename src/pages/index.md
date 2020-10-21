@@ -125,7 +125,7 @@ sections:
   - logo: "/images/logofaireparterie.png"
     alt: Faireparterie Logo
     title: Faireparterie
-  - logo: "/images/ferpection.png"
+  - logo: "/images/logo-ferpection.png"
     alt: Ferpection Logo
     title: Ferpection
   - logo: "/images/ux-republic-black-h.png"
