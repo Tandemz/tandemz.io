@@ -137,10 +137,10 @@ sections:
   type: reviewsblock
   title: They support us!
   logos:
-  - logo: "/images/psl.jpg"
+  - logo: "/images/logopsl.png"
     alt: PSL Pépite Logo
     title: PSL Pépite
-  - logo: "/images/pepiniere.png"
+  - logo: "/images/pepiniere-27.png"
     alt: Pépinière 27 Logo
     title: Pépinière 27
   - logo: "/images/cci.png"
