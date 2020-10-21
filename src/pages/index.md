@@ -87,10 +87,8 @@ sections:
     is_beta: false
     coming_soon: false
     actions: []
-  - title: Your user research, you decide!
+  - title: Stay in control of your recruitment
     content: |-
-      Stay in control with your recruitment:
-
       * Pick and choose participants you want
       * Message participants directly if you need more information
       * Integrate your calendar for simple scheduling
