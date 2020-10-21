@@ -199,7 +199,7 @@ schema_org_data_list:
        "name":"Tandemz",
        "email":"contact@tandemz.io",
        "logo":"https://www.tandemz.io/images/Logo@200.png",
-       "slogan":"Catalyseur de vos tests utilisateurs",
+       "slogan":"The self-service testers recruiting platform",
        "sameAs" : [
            "https://www.facebook.com/TandemzUX/",
            "https://twitter.com/TandemzUX",
@@ -236,7 +236,8 @@ schema_org_data_list:
        "url":"http://www.tandemz.io",
        "downloadUrl":"http://app.tandemz.io",
        "name":"Tandemz",
-       "description":"Grâce à Tandemz, lancez vos interviews UX et vos tests utilisateurs sans prise de tête.",
+       "description":"Get insights from real users with Tandemz, the self-service testers recruiting
+  platform for all your user research needs.",
        "browserRequirements":"Requires JavaScript. Requires HTML5.",
        "version":"1.0.0",
        "screenshot":"https://www.tandemz.io/images/Entreprises%20-%20Liste%20des%20Annonces.svg",
@@ -248,7 +249,7 @@ schema_org_data_list:
           "name":"Tandemz",
           "email":"contact@tandemz.io",
           "logo":"https://www.tandemz.io/images/Logo@200.png",
-          "slogan":"Catalyseur de vos tests utilisateurs",
+          "slogan":"The self-service testers recruiting platform",
           "address":{
              "@type":"PostalAddress",
              "streetAddress":"33 Rue Censier",
