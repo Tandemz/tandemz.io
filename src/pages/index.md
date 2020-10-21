@@ -89,9 +89,11 @@ sections:
     actions: []
   - title: Stay in control of your recruitment
     content: |-
-      * Pick and choose participants you want
-      * Message participants directly if you need more information
-      * Integrate your calendar for simple scheduling
+      Review participant profiles and handpick who gets to participate in your study. Need more information?
+
+      Message participants directly in the app, centralise your exchanges and say goodbye to annoying email back and forth!
+
+      Sync your availabilities and let participants book themselves on your calendar.
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
