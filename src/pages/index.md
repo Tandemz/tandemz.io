@@ -134,7 +134,7 @@ sections:
     title: Start recruiting participants now
     button_priority: ''
   subtitle: ''
-  bg: ''
+  bg: orange
 menus:
   main:
     title: Home
