@@ -42,29 +42,35 @@ sections:
   section_id: ''
   cards:
   - title: Anyone
-    icon: "/images/testicon.svg"
+    icon: "/images/anyone.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Find anyone
+    icone_alt: Find anyone
   - title: Anywhere
-    icon: "/images/testicon.svg"
+    icon: "/images/anywhere.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Worldwide recruiting
+    icone_alt: Worldwide recruiting
   - title: For any method
-    icon: "/images/testicon.svg"
+    icon: "/images/tools.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Recruit for any method
+    icone_alt: Recruit for any method
   - title: Top quality participants
-    icon: "/images/testicon.svg"
+    icon: "/images/thumbsup.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Top rated participants
+    icone_alt: Top rated participants
   - title: Easy scheduling
-    icon: "/images/testicon.svg"
+    icon: "/images/easycalendar.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Integrate your calendar
+    icone_alt: Integrate your calendar
   - title: Integrated incentive
-    icon: "/images/testicon.svg"
+    icon: "/images/incentivegift.svg"
     icon_alt: ''
-    icon_title: ''
+    icon_title: Don't worry about incentive
+    icone_alt: Don't worry about incentive
 - template: featuresblock
   component: FeaturesBlock
   bg: white
