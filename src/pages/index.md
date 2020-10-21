@@ -243,8 +243,7 @@ schema_org_data_list:
          "url":"http://www.tandemz.io",
          "downloadUrl":"http://app.tandemz.io",
          "name":"Tandemz",
-         "description":"Get insights from real users with Tandemz, the self-service testers
-  recruiting platform for all your user research needs.",
+         "description":"Get insights from real users with Tandemz, the self-service testers recruiting platform for all your user research needs.",
          "browserRequirements":"Requires JavaScript. Requires HTML5.",
          "version":"1.0.0",
          "screenshot":"https://www.tandemz.io/images/Entreprises%20-%20Liste%20des%20Annonces.svg",
