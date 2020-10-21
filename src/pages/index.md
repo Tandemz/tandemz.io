@@ -79,7 +79,7 @@ sections:
   featureslist:
   - title: Target the best audience for your user research
     content: |-
-      Get access to detailed targeting criteria: location, age, interests, job title... Need more? Add a screener to pinpoint your audience!
+      Access detailed targeting criteria: location, age, interests, job title... Need more? Add a screener to pinpoint your audience!
 
       Get an estimation in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
     image: "/images/illustration-screening.svg"
