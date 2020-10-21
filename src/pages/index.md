@@ -65,6 +65,28 @@ sections:
     icon: "/images/testicon.svg"
     icon_alt: ''
     icon_title: ''
+- template: featuresblock
+  component: FeaturesBlock
+  bg: white
+  type: featuresblock
+  title: Some more paragraphs
+  featureslist:
+  - title: blablabla
+    content: blablabla
+    image: "/images/profile.svg"
+    image_alt: ''
+    is_beta: false
+    coming_soon: false
+    actions: []
+  - title: Blablabla
+    content: blablabla
+    image: "/images/illustration-schedule.svg"
+    image_alt: ''
+    is_beta: false
+    coming_soon: false
+    actions: []
+  section_id: ''
+  subtitle: ''
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
@@ -103,8 +125,6 @@ sections:
   - logo: "/images/ux-republic-black-h.png"
     alt: UX Republic Logo
     title: UX Republic
-- template: recruitsection
-  component: RecruitBlock
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
@@ -134,7 +154,7 @@ sections:
     title: Start recruiting participants now
     button_priority: ''
   subtitle: ''
-  bg: ''
+  bg: orange
 menus:
   main:
     title: Home
