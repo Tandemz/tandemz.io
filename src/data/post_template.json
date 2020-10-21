@@ -1,7 +1,5 @@
 {
-  "before": [
-
-  ],
+  "before": [],
   "header": [
     {
       "template": "post-title-section",
@@ -20,7 +18,7 @@
       "component": "BlogCtaBlock",
       "actions": [
         {
-          "url": "/",
+          "url": "https://app.staging.tandemz.io/recruit-participants",
           "label": "Découvrir Tandemz"
         }
       ],
@@ -36,7 +34,5 @@
       "component": "NewsLetterBlock"
     }
   ],
-  "after": [
-
-  ]
+  "after": []
 }
