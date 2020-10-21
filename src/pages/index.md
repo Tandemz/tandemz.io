@@ -90,8 +90,9 @@ sections:
   - title: Stay in control of your recruitment
     content: "Review participant profiles and handpick who gets to participate in
       your study. \n\nCentralise all your exchanges on Tandemz: message participants
-      directly, sync your calendar availabilities, and say goodbye to email back and
-      forth!"
+      directly from the app, sync your calendar availabilities and take notes on each
+      profile as needed. Say goodbye to the multitude of tools that clutter your user
+      research!"
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
