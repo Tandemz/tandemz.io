@@ -122,7 +122,7 @@ sections:
   - logo: "/images/affordance.png"
     alt: Affordance Logo
     title: Affordance
-  - logo: "/images/faireparterie.png"
+  - logo: "/images/logofaireparterie.png"
     alt: Faireparterie Logo
     title: Faireparterie
   - logo: "/images/ferpection.png"
