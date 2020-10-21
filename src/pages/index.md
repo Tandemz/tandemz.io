@@ -89,9 +89,11 @@ sections:
     actions: []
   - title: Stay in control with your recruitment
     content: |-
-      Check every profile in details on our specific interface : you have the power to select which participant you need the insight of.
+      Your user research, you decide!
 
-      Message your participants to get additional information, integrate your calendar to record meeting's details easily and grade the profiles after the study.
+      * Pick and choose participants you want
+      * Message participants directly if you need more information
+      * Integrate your calendar for simple scheduling
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
