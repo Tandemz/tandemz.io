@@ -82,7 +82,7 @@ sections:
       : location, age, interest, consuming habits, job... Need more information? Add
       a screening survey easily!\n\nGet an estimation in no-time. Everything is ready?
       Let's go, your recruitment start as soon as you launch! "
-    image: "/images/profile.svg"
+    image: "/images/illustration-ads-1.jpg"
     image_alt: ''
     is_beta: false
     coming_soon: false
