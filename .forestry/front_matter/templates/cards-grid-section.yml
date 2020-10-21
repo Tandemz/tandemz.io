@@ -25,16 +25,16 @@ fields:
     config:
       maxSize: 64
     label: Icône
-  - name: icon_alt
-    type: file
-    config:
-      maxSize: 64
-    label: Icône (Alt)
   - name: icon_title
     type: text
     config:
       required: false
     label: Icône (Titre)
+  - name: icone_alt
+    type: text
+    config:
+      required: false
+    label: Icône (Alt)
   config:
     min: 
     max: 
