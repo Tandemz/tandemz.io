@@ -19,10 +19,10 @@
       "actions": [
         {
           "url": "https://app.staging.tandemz.io/recruit-participants",
-          "label": "Découvrir Tandemz"
+          "label": "Recruit Now"
         }
       ],
-      "title": "Des problèmes pour organiser vos tests utilisateurs ?"
+      "title": "Need to recruit participants for your user research ?"
     },
     {
       "template": "post-author-section",
