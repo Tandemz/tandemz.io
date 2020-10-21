@@ -478,16 +478,25 @@ iframe {
 }
 
 .review-logo-line {
-  flex-flow: column nowrap;
+  display: flex;
+  flex-flow: row wrap;
   justify-content: center;
   align-items: center;
   margin: 0;
+}
+
+.review-logo-block {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .review-logo {
   text-align: center;
   margin-top: 36px;
   margin-bottom: 36px;
+  max-height: 40px;
 }
 
 @media only screen and (min-width: 741px) {
@@ -508,6 +517,11 @@ iframe {
       margin-top: 36px;
       margin-bottom: 36px;
       flex-flow: row wrap;
+    }
+
+    .review-logo-block {
+      width: auto;
+      display: block;
     }
 
     .review-logo {
