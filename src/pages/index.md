@@ -119,7 +119,7 @@ sections:
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
-  - logo: "/images/affordance.png"
+  - logo: "/images/logoaffordance.png"
     alt: Affordance Logo
     title: Affordance
   - logo: "/images/logofaireparterie.png"
