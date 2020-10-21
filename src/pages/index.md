@@ -84,8 +84,11 @@ sections:
     is_beta: false
     coming_soon: false
     actions: []
-  - title: Blablabla
-    content: blablabla
+  - title: Stay in control with your recruitment
+    content: |-
+      Check every profile in details on our specific interface : you have the power to select which participant you need the insight of.
+
+      Message your participants to get additional information, integrate your calendar to record meeting's details easily and grade the profiles after the study.
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
