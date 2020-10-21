@@ -172,14 +172,13 @@ menus:
     title: Home
     weight: 1
 template: home
-title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
-description: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
-  l'organisation de votre recherche utilisateur et la gestion de votre panel.
+title: The self-service testers recruiting platform
+description: Get insights from real users with Tandemz, the self-service testers recruiting
+  platform for all your user research needs.
 keywords: user test, user interview, testers recruitment, UX, user research, panel
 ogtitle: The self-service testers recruiting platform
-ogdescription: Lancez vos interviews et vos tests utilisateurs sans prise de tête.
-  Automatisez l'organisation de votre recherche utilisateur et la gestion de votre
-  panel.
+ogdescription: Get insights from real users with Tandemz, the self-service testers
+  recruiting platform for all your user research needs.
 ogtype: website
 ogimage: "/images/logotype.png"
 ogimagealt: Logo Tandemz
