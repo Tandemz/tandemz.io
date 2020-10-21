@@ -11,8 +11,8 @@ fields:
   default: ''
 - name: description
   type: textarea
-  default: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-    Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+  default: Get insights from real users with Tandemz, the self-service testers
+  recruiting platform for all your user research needs.
   config:
     required: false
     wysiwyg: false
@@ -24,8 +24,8 @@ fields:
   type: text
   config:
     required: false
-  label: Mots Clés
-  default: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
+  label: Keywords
+  default: user test, user interview, testers recruitment, UX, user research, panel
 - name: ogtitle
   type: text
   config:
