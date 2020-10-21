@@ -41,7 +41,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="surname" className="form-label">
-                      Nom *
+                      Last Name *
                     </label>
                     <input
                       type="text"
@@ -53,7 +53,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="name" className="form-label">
-                      Prénom *
+                      First Name *
                     </label>
                     <input
                       type="text"
@@ -65,7 +65,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="company" className="form-label">
-                      Entreprise *
+                      Company *
                     </label>
                     <input
                       type="text"
@@ -77,7 +77,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="email" className="form-label">
-                      Adresse email *
+                      Email *
                     </label>
                     <input
                       type="email"
@@ -89,7 +89,7 @@ export default class Contact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label htmlFor="message" className="form-label">
-                      Laissez-nous un message
+                      Leave us a message
                     </label>
                     <textarea
                       id="message"
@@ -101,7 +101,7 @@ export default class Contact extends React.Component {
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row form-submit">
                     <button type="submit" className="button">
-                      Envoyer
+                      Send
                     </button>
                   </p>
                 </form>
