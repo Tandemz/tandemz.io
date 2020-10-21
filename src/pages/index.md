@@ -78,10 +78,10 @@ sections:
   title: Some more paragraphs
   featureslist:
   - title: Target the best audience for your user research
-    content: "Describe your ideal participants in details directly on our platform
-      : location, age, interest, consuming habits, job... Need more information? Add
-      a screening survey easily!\n\nGet an estimation in no-time. Everything is ready?
-      Let's go, your recruitment starts as soon as you launch! "
+    content: |-
+      Get access to detailed targeting criteria: location, age, interests, job title... Need more information? Add a screener to pinpoint your audience!
+
+      Get an estimation in real time, and launch your study with a simple click. Your recruitment starts immediately!
     image: "/images/illustration-screening.svg"
     image_alt: Targeting
     is_beta: false
