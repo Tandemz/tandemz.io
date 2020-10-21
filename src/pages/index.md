@@ -89,9 +89,9 @@ sections:
     actions: []
   - title: Stay in control of your recruitment
     content: "Review participant profiles and handpick who gets to participate in
-      your study. \n\nNeed more information? Message participants directly in the
-      app, centralise your exchanges and say goodbye to annoying email back and forth!\n\nSync
-      your availabilities and let participants book themselves on your calendar."
+      your study. \n\nCentralise all your exchanges on Tandemz: message participants
+      directly, sync your calendar availabilities, and say goodbye to email back and
+      forth!"
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
