@@ -77,8 +77,11 @@ sections:
   type: featuresblock
   title: Some more paragraphs
   featureslist:
-  - title: blablabla
-    content: blablabla
+  - title: Target the best audience for your user research
+    content: "Describe your ideal participants in details directly on our platform
+      : location, age, interest, consuming habits, job... Need more information? Add
+      a screening survey easily!\n\nGet an estimation in no-time. Everything is ready?
+      Let's go, your recruitment start as soon as you launch! "
     image: "/images/profile.svg"
     image_alt: ''
     is_beta: false
