@@ -44,7 +44,7 @@ Mais imaginez-vous à la place d’un particulier qui n’a jamais participé à
 
 ![Offrez un cadeau, même virtuel !](/images/gift.gif "Cadeau virtuel")
 
-Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties") ou bien à vous inspirer des prix pratiqués par les outils de recrutement en ligne. Par exemple, lorsque vous recrutez dans la communauté Tandemz, nous choisissons pour vous la contrepartie, n'hésitez pas à simuler un recrutement sur [notre page de devis ](/recruit-participants "page-de-devis")pour voir quelle contrepartie nous semble adaptée à votre cible 😉 
+Vous ne savez pas quelle contrepartie choisir pour votre cible ? N’hésitez pas à lire [cet article de notre blog consacré au choix du montant des contreparties](https://www.tandemz.io/posts/comment-combien-remunerer-participants-ux-research/ "article consacré aux contreparties") ou bien à vous inspirer des prix pratiqués par les outils de recrutement en ligne. Par exemple, lorsque vous recrutez dans la communauté Tandemz, nous choisissons pour vous la contrepartie, n'hésitez pas à simuler un recrutement sur [notre page de devis ](https://app.staging.tandemz.io/recruit-participants "page-de-devis")pour voir quelle contrepartie nous semble adaptée à votre cible 😉
 
 ## Ne recrutez pas trop en avance
 
