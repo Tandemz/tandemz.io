@@ -81,7 +81,7 @@ sections:
     content: |-
       Access detailed targeting criteria: location, age, interests, job title... Need more? Add a screener to pinpoint your audience!
 
-      Get an estimation in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
+      Get an estimate in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
     image: "/images/illustration-screening.svg"
     image_alt: Targeting
     is_beta: false
@@ -175,8 +175,8 @@ template: home
 title: Avec Tandemz, organisez vos tests UX en un clin d'oeil
 description: Lancez vos interviews et vos tests utilisateurs sans prise de tête. Automatisez
   l'organisation de votre recherche utilisateur et la gestion de votre panel.
-keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
-ogtitle: Avec Tandemz, organisez vos tests UX en un clin d'oeil
+keywords: user test, user interview, testers recruitment, UX, user research, panel
+ogtitle: The self-service testers recruiting platform
 ogdescription: Lancez vos interviews et vos tests utilisateurs sans prise de tête.
   Automatisez l'organisation de votre recherche utilisateur et la gestion de votre
   panel.
