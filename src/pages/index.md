@@ -81,7 +81,7 @@ sections:
     content: "Describe your ideal participants in details directly on our platform
       : location, age, interest, consuming habits, job... Need more information? Add
       a screening survey easily!\n\nGet an estimation in no-time. Everything is ready?
-      Let's go, your recruitment start as soon as you launch! "
+      Let's go, your recruitment starts as soon as you launch! "
     image: "/images/illustration-ads-1.jpg"
     image_alt: ''
     is_beta: false
