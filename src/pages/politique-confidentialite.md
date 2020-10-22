@@ -17,7 +17,7 @@ metatags: []
 schema_org_data_list: []
 menus:
   legal:
-    title: Privacy policy
+    title: Privacy policy (testers)
     weight: 3
 legal: true
 updatedAt: 2020-08-26T18:48:00Z
