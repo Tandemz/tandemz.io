@@ -3,77 +3,82 @@ title: FAQ - Tandemz
 sections:
 - template: faqblock
   component: FaqBlock
-  bg: gray
+  bg: white
   type: faqblock
-  title: Foire Aux Questions
+  title: Frequently Asked Questions
   section_id: faqcompany
-  subtitle: La réponse à votre question ne se trouve pas ci-dessous? N'hésitez pas
-    à nous contacter directement par mail à contact@tandemz.io.
+  subtitle: Is the answer to your question missing? Let us know directly by chat or
+    by email (contact@tandemz.io).
   faqitems:
-  - question: Puis-je créer mon propre panel directement sur Tandemz?
+  - question: For what type of user research can participants be recruited on Tandemz?
+    answer: 'Tandemz allows you to recruit participants for all your research studies
+      : surveys, in person or online interviews / usability tests, unmoderated usability
+      tests, tree testing, card sorting, 1st click, 5seconds test...'
+  - question: How are participants sourced?
+    answer: Participants are recruited from our worldwide community, and when the
+      community is insufficient to meet your study needs, we source them directly
+      on social networks such as Facebook, Twitter, LinkedIn. Our algorithm uses the
+      power of social networks' ads targeting to display your study directly to the
+      right users.
+  - question: In which countries can I recruit my participants?
+    answer: 'Many countries are already represented in our community: USA, Canada,
+      Brazil, Argentina, Chile, France, Spain, Italy, Germany, UK, Belgium, Netherlands,
+      Saudi Arabia, Korea, Japan, Hong Kong… Participants are sourced in English.
+      If you want us to source participants in another language, translation fees
+      will be added.'
+  - question: 'How is the price calculated? '
     answer: |-
-      Oui tout à fait, il est possible de créer votre propre panel directement sur la plateforme. Vous définissez les critères spécifiques pour votre panel et Tandemz génère un formulaire d'inscription. Vous pouvez alors partager ce formulaire à votre communauté, dans une Newsletter ou sur votre site par exemple. Dès qu'un participant s'inscrit, vous le verrez apparaître dans votre section "Mon panel".
+      Our pricing includes participants incentive and our service fee. Our algorithm adjusts each part according to the type of study, cost of living in selected countries (to keep our incentives attractive) and complexity of recruitment. Each criteria can have an impact on the incentive and/or on the fees.
 
-      Vous pouvez également importer un fichier csv pour peupler votre panel ou bien ajouter manuellement les participants.
-  - question: Combien de temps me prend l'organisation d'une étude sur Tandemz ?
-    answer: |-
-      Pour lancer votre session, il vous suffit de quelques minutes seulement, le temps d'indiquer toutes les modalités de votre session et de sélectionner vos critères de recrutement.
-
-      L'inscription des participants peut prendre quelques jours mais comme vous n'avez plus à intervenir auprès d'eux individuellement et que vous êtes prévenus par mail dès qu'une inscription est réalisée, vous ne vous en rendrez même pas compte.
-  - question: Comment se passe l'inscription à une étude pour mes participants ?
-    answer: Lorsque vous avez invité les membres de votre panel à une session, ils
-      sont notifiés par mail. En cliquant sur le lien contenu dans l'email, ils accèdent
-      à l'annonce que vous avez publiée et découvrent toutes les modalités de l'étude.
-      Ils peuvent ensuite répondre à l'éventuel questionnaire de sélection et choisir
-      un créneau pour leur session. Ils sont ensuite contactés automatiquement par
-      mail pour la confirmation et le rappel. Ils sont également autonomes pour décaler
-      ou annuler le créneau sélectionné.
-  - question: Mes participants savent-ils qu'ils sont sur la plateforme Tandemz ?
-    answer: |-
-      Lorsque vos participants s'inscrivent à une de vos sessions, ils se rendent sur une annonce sur la plateforme Tandemz (l'URL est donc bien localisée sur Tandemz).
-
-      Tous les emails reçus par les participants sont personnalisés avec votre logo mais cependant envoyés à partir de l'adresse contact@tandemz.io.
-  - question: J'aurais besoin d'être accompagné(e) pour mon étude.
-    answer: |-
-      Nous pouvons vous proposer des prestations complémentaires afin de vous accompagner et de vous former lors de votre étude, afin que vous soyez de plus en plus autonome pour vos prochaines sessions !
-
-      N'hésitez pas à nous contacter par tchat ou par mail à contact@tandemz.io pour nous faire part de votre besoin.
-  - question: Puis-je collaborer en équipe sur Tandemz ?
-    answer: "Pour l'instant, la fonctionnalité de collaboration en équipe n'est pas
-      disponible à l'ensemble de nos clients. \n\nMais si vous souhaitez utiliser
-      cette fonctionnalité en avant-première, contactez-nous par tchat ou par mail
-      à contact@tandemz.io, nous serons ravis de vous la débloquer !"
-  - question: Y a-t-il une limite pour le nombre de personnes constituant mon panel
-      ?
-    answer: Non, le nombre de personnes dans votre panel est illimité.
-  - question: Mes critères sont difficiles, mes participants sont durs à recruter
-      et/ou je recherche des participants en B2B.
-    answer: |-
-      Si vous recrutez vos participants dans votre panel privé, il est tout à fait possible  d'utiliser la plateforme Tandemz.
-
-      Par contre, le panel Tandemz est constitué de participants B2C aux critères relativement simples pour l'instant. Nous ne pouvons donc pas vous aider à recruter des professionnels. Mais n'hésitez pas à nous contacter afin d'échanger avec nous sur votre problématique.
-  - question: Combien coûte le service Tandemz ?
-    answer: |-
-      Créer et gérer votre propre panel sur Tandemz est gratuit ! Il vous suffit de vous créer un compte et de commencer à constituer votre panel.
-
-      Vous pouvez également lancer vos sessions gratuitement sur Tandemz, en recrutant vos participants dans vos utilisateurs ou votre communauté.
-
-      Si vous choisissez de faire appel à nous pour recruter vos participants dans le panel Tandemz, le coût par participant est de 60€ HT par participant recruté, hors contrepartie.
-  - question: Puis-je connecter Tandemz à mon CRM ?
-    answer: |-
-      Il est tout à fait possible de connecter votre compte Tandemz à votre CRM afin de visualiser directement dans Tandemz vos différents utilisateurs et les sélectionner lors d'une session.
-
-      Pour savoir si le connecteur de votre CRM a été développé par nos équipes, contactez-nous par tchat ou bien par mail à contact@tandemz.io.
+      [Evaluate the price of your needs in a few clicks!](https://app.staging.tandemz.io/recruter-des-participants "Pricing page")
+  - question: How does each criteria impact the final price?
+    answer: Our algorithm takes into account the difficulty of each criteria to offer
+      you the best price according to your needs! This difficulty is evaluated according
+      to the size of your potential target audience, and as such, price adjustments
+      might differ from one criteria to the other.
+  - question: How does the profile selection work?
+    answer: Once you launch the recruitment, our algorithm will automatically contact
+      the profile that best suits your target audience. On the Tandemz platform, you
+      can view each participant's answers to your screener and check their profile.
+      You can pick and choose which participants are best suited to your study, and
+      reject the other profiles!
+  - question: Can I make my study directly on Tandemz (such as a survey form, an unmoderated
+      usability test or an online session)?
+    answer: Not yet! But you can add a link to your current tools so that participants
+      can be redirected to the study.
+  - question: How long does it take to start the recruitment?
+    answer: As soon as you launch recruitment, our algorithm starts contacting the
+      best profiles for your study. Your get your first participants in just a few
+      hours!
+  - question: I need to recruit B2B participants or a difficult target. Is it possible
+      on Tandemz?
+    answer: It is possible to target B2B participants or a difficult target on Tandemz.
+      Both the incentive and the fees will be higher, as the recruitment will be more
+      complex.
+  - question: I need more criteria than the ones available on the pricing page.
+    answer: You can add a screener before launching the recruitment. Use the screener
+      to ask any question you need in order to gain better knowledge of your participants'
+      profiles. You will then be able to select the ones you really want to connect
+      with. If this solution does not fit you, contact us, we'd be happy to help and
+      find an alternative way of targeting your dream participants!
+  - question: I need help to choose the right user research method or to lead my study.
+    answer: We can offer you additional services to help you during your study. Do
+      not hesitate to contact us by chat or by email at contact@tandemz.io to let
+      us know your needs.
+  - question: How do I get started?
+    answer: You are ready to recruit your first participants? [Click here](https://app.staging.tandemz.io/recruter-des-participants
+      "Pricing page") and start describing your target audience. Your first participants
+      are just a few clicks away!
   title_level_one: true
 menus:
   main:
     title: FAQ
-    weight: 5
+    weight: 3
 template: pricing
-description: Foire aux questions de Tandemz
-keywords: ''
-ogtitle: ''
-ogdescription: ''
+description: Frequently Asked Questions
+keywords: FAQ, Tandemz, user research, recruit testers, recruit participants
+ogtitle: 'FAQ Tandemz : everything about testers recruitment'
+ogdescription: 'FAQ Tandemz : everything about testers recruitment'
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
 ogimagealt: Tandemz Logo

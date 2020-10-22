@@ -1,0 +1,49 @@
+---
+label: Cards Grid Section
+hide_body: true
+fields:
+- name: section_id
+  type: text
+  config:
+    required: false
+  label: ID de section
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre Principal
+- name: cards
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: icon
+    type: file
+    config:
+      maxSize: 64
+    label: Icône
+  - name: icon_title
+    type: text
+    config:
+      required: false
+    label: Icône (Titre)
+  - name: icone_alt
+    type: text
+    config:
+      required: false
+    label: Icône (Alt)
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Cartes
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: component
+  default: CardsGridBlock

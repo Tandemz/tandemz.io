@@ -1,0 +1,58 @@
+---
+label: How It Works Section
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Titre principal
+- name: steps
+  type: field_group_list
+  fields:
+  - name: caption
+    type: text
+    config:
+      required: false
+    label: Titre
+  - name: illustration
+    type: file
+    config:
+      maxSize: 64
+    label: Illustration
+  - name: illustration_alt
+    type: text
+    config:
+      required: false
+    label: Illustration (Alt)
+  - name: illustration_titre
+    type: text
+    config:
+      required: false
+    label: Illustration (Titre)
+  config:
+    min: 1
+    max: 
+    labelField: 
+  label: steps
+- name: component
+  type: text
+  config:
+    required: false
+  label: component
+  hidden: true
+  default: HowItWorksBlock
+- name: bg
+  type: select
+  default: white
+  config:
+    required: false
+    options:
+    - gray
+    - white
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background Color

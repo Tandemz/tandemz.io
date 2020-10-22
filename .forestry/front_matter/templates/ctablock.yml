@@ -39,3 +39,19 @@ fields:
   default: ctablock
   config:
     required: true
+- name: bg
+  type: select
+  default: blue
+  config:
+    required: false
+    options:
+    - white
+    - gray
+    - orange
+    - blue
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background

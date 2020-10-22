@@ -1,4 +1,5 @@
 export { default as BlogCtaBlock } from './BlogCtaBlock';
+export { default as CardsGridBlock } from './CardsGridBlock';
 export { default as ContentBlock } from './ContentBlock';
 export { default as CtaBlock } from './CtaBlock';
 export { default as FaqBlock } from './FaqBlock';
@@ -14,4 +15,6 @@ export { default as SocialShareButtonsBlock } from './SocialShareButtonsBlock';
 export { default as StudiesBlock } from './StudiesBlock';
 export { default as ValueBlock } from './ValueBlock';
 export { default as NewsLetterBlock } from './NewsLetterBlock';
+export { default as HowItWorksBlock } from './HowItWorksBlock';
+export { default as RecruitBlock } from './RecruitBlock';
 export * from './posts';

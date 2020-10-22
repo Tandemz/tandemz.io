@@ -15,6 +15,22 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- name: background
+  type: select
+  default: white
+  config:
+    required: false
+    options:
+    - white
+    - gray
+    - orange
+    - blue
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Background
 - type: text
   name: component
   label: Component

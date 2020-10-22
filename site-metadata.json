@@ -1,24 +1,24 @@
 {
-  "title": "Tandemz, organisez vos tests UX en un clin d'oeil",
-  "description": "Lancez vos interviews UX et vos tests utilisateurs sans prise de tête. Automatisez toute l'organisation de vos tests et la gestion de votre panel.",
+  "title": "Tandemz, get insights from real users",
+  "description": "The self-service testers recruiting platform for all your user research needs.",
   "keywords": "Test utilisateur, étude qualitative, UX, recherche utilisateur, panel",
   "favicon": "/images/Logo@200.png",
   "header": {
-    "title": "Tandemz - catalyseur de vos tests utilisateurs",
+    "title": "Tandemz",
     "logo_img": "/images/logotype.svg",
     "has_nav": true,
     "menu": {
       "actions": [
         {
-          "label": "Se connecter",
+          "label": "Sign in",
           "url": "https://app.tandemz.io",
-          "title": "Connexion à l'application Tandemz",
+          "title": "Sign in",
           "button_priority": "secondary"
         },
         {
-          "label": "Rejoindre la beta",
-          "url": "https://app.tandemz.io/trouver-des-participants",
-          "title": "Beta de l'application Tandemz",
+          "label": "Recruit testers",
+          "url": "https://app.tandemz.io/recruit-participants",
+          "title": "Recruit participants now!",
           "button_priority": "primary"
         }
       ]
@@ -26,18 +26,22 @@
   },
   "footer": {
     "logo_img": "/images/logowhite_png.png",
-    "tagline": "Catalyseur de vos tests utilisateurs",
+    "tagline": "The self-service testers recruiting platform for all your user research needs",
     "has_nav": true,
-    "nav_title": "En savoir plus",
+    "nav_title": "Learn more",
     "has_social": true,
-    "social_title": "Nos communautés",
-    "legal_title": "Légal",
+    "social_title": "Our communities",
+    "legal_title": "Legal",
     "has_subscribe": false,
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
     "links": [
-
+      {
+        "text": "Recruit participants now!",
+        "url": "https://app.tandemz.io/recruit-participants",
+        "new_window": true
+      }
     ]
   },
   "siteUrl": "https://www.tandemz.io"

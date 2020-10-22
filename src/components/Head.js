@@ -65,6 +65,8 @@ const Head = props => {
         url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i&display=swap');
       </style>
 
+      <link rel="stylesheet" href={safePrefix('/assets/fonts/remixicon.css')} />
+
       {meta.metatags &&
         meta.metatags.map(({ name, property, content }) => (
           <meta name={name} property={property} content={content} key={name} />

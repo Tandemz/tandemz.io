@@ -8,12 +8,16 @@ export default class CtaBlock extends React.Component {
     return (
       <section
         id={_.get(this.props, 'section.section_id')}
-        className="block cta-block bg-accent outer"
+        className={`block cta-block bg-${
+          _.get(this.props, 'section.bg') === 'blue'
+            ? 'accent'
+            : _.get(this.props, 'section.bg') || 'accent'
+        } outer`}
       >
         <div className="inner-large">
           <div className="grid">
             <div className="cell block-content">
-              <h2 className="block-title">
+              <h2 className="cta-title bg-gray block-title">
                 {_.get(this.props, 'section.title')}
               </h2>
               {_.get(this.props, 'section.subtitle') && (

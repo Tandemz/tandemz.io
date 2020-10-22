@@ -62,10 +62,10 @@ module.exports = {
         menus: {
           main: [
             {
-              identifier: 'solutions',
-              title: 'Solutions',
-              weight: 2,
-              url: '/recruit',
+              identifier: 'participants',
+              title: 'Get paid to participate',
+              weight: 4,
+              url: 'https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8',
             },
           ],
         },

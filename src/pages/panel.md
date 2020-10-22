@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-img bg-gray
+  background: gray
   title: Gérez votre propre panel d'utilisateurs
   component: HeroBlock
   content: Organisez en un clin d'oeil vos entretiens et tests UX avec vos utilisateurs
@@ -80,10 +80,6 @@ sections:
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
-menus:
-  solutions:
-    title: Gestion de panel
-    weight: 2
 template: home
 title: Créez et gérez votre panel avec Tandemz
 description: Grâce à notre plateforme, organisez en un clin d'oeil vos entretiens

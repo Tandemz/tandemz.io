@@ -1,7 +1,5 @@
 {
-  "before": [
-
-  ],
+  "before": [],
   "header": [
     {
       "template": "post-title-section",
@@ -20,11 +18,11 @@
       "component": "BlogCtaBlock",
       "actions": [
         {
-          "url": "/",
-          "label": "Découvrir Tandemz"
+          "url": "https://app.tandemz.io/recruit-participants",
+          "label": "Recruit Now"
         }
       ],
-      "title": "Des problèmes pour organiser vos tests utilisateurs ?"
+      "title": "Need to recruit participants for your user research?"
     },
     {
       "template": "post-author-section",
@@ -36,7 +34,5 @@
       "component": "NewsLetterBlock"
     }
   ],
-  "after": [
-
-  ]
+  "after": []
 }

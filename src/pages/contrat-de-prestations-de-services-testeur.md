@@ -13,14 +13,17 @@ ogdescription: ''
 ogtype: ''
 ogimage: ''
 ogimagealt: ''
-og_image_width: 
-og_image_height: 
+og_image_width:
+og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
-
-
+menus:
+  legal:
+    title: Terms and conditions (testers)
+    weight: 4
 ---
+
 _Entre,_
 
 La société **Tandemz**. D’une part,
@@ -111,7 +114,7 @@ L’utilisation des informations ci-dessus peut être autorisée par Tandemz et/
 
 ## 7. Confidentialité
 
-Dans les limites ci-dessus, Tandemz traite votre confidentialité et celle de vos données avec attention. Pour de plus amples renseignements au sujet de la façon dont sont utilisés les renseignements recueillis auprès des testeurs, consulter la [confidentialité des données](https://staging.tandemz.io/confidentialit%C3%A9-et-protection-des-donn%C3%A9es/ "Charte de confidentialité des données") du Site web.
+Dans les limites ci-dessus, Tandemz traite votre confidentialité et celle de vos données avec attention. Pour de plus amples renseignements au sujet de la façon dont sont utilisés les renseignements recueillis auprès des testeurs, consulter la [confidentialité des données](https://staging.tandemz.io/confidentialit%C3%A9-et-protection-des-donn%C3%A9es/ 'Charte de confidentialité des données') du Site web.
 
 ## 8. Rétribution liée à la participation aux tests
 
@@ -171,9 +174,9 @@ Le Site, y compris lors de son utilisation par les testeurs ainsi que pour l’e
 
 Tandemz ne garantit pas que :
 
-* les fonctions contenues dans ce Site, pas plus que le matériel ou contenus qu’il propose, ne seront pas interrompues ou exemptes d’erreurs,
-* les défauts seront corrigés ou que le Site ou le serveur qui le développe seront ajustés et modifiés en fonction des erreurs ou défauts,
-* le Site ou le serveur qui le fournit sera exempt de virus ou d’autres éléments nuisibles. Les testeurs ne pourront pas être indemnisés pour les préjudices qu’ils pourraient subir dans les cas visés ci-dessus.
+- les fonctions contenues dans ce Site, pas plus que le matériel ou contenus qu’il propose, ne seront pas interrompues ou exemptes d’erreurs,
+- les défauts seront corrigés ou que le Site ou le serveur qui le développe seront ajustés et modifiés en fonction des erreurs ou défauts,
+- le Site ou le serveur qui le fournit sera exempt de virus ou d’autres éléments nuisibles. Les testeurs ne pourront pas être indemnisés pour les préjudices qu’ils pourraient subir dans les cas visés ci-dessus.
 
 La responsabilité juridique civile, contractuelle ou autre de Tandemz ne sera en aucun cas engagée vis-à-vis des testeurs, pour tout préjudice, pour la perte de profit, la perte de données, la perte d’opportunité, les coûts de couverture, de dommages-intérêts, les blessures personnelles ou un décès imputable à une faute non intentionnelle de Tandemz. Ceci y compris les dommages accessoires particuliers ou autres dommages indirects.
 

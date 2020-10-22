@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  className: bg-white
+  background: white
   title: Recrutez vos utilisateurs partout dans le monde
   component: HeroBlock
   content: Avec 3 milliards d'utilisateurs dans le monde à portée de main, la recherche

@@ -1,10 +1,11 @@
 ---
 template: page
-description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
+description:
+  Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
   Automatisez toute l'organisation de vos tests et la gestion de votre panel.
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtype: website
-ogimage: "/images/Logo@200-1.png"
+ogimage: '/images/Logo@200-1.png'
 ogimagealt: Tandemz Logo
 og_image_width: 200
 og_image_height: 200
@@ -21,25 +22,25 @@ updatedAt: 2020-08-26T08:15:00Z
 legal_name: cgu-client
 menus:
   legal:
-    title: Conditions générales d'utilisation
+    title: Terms and conditions (client)
     weight: 2
-
 ---
+
 Les présentes conditions générales d’utilisation ont pour objet de définir les modalités et conditions d’accès et d’utilisation de la plateforme d’organisation et de suivi de tests Tandemz, mise à disposition par la société TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 199 Avenue de Choisy - 75013 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** »), ainsi que les droits et obligations des Utilisateurs dans ce cadre.
 
 ## 1. Définitions
 
 Dans les CGU, les termes identifiés ci-dessous par une majuscule ont la signification suivante, qu’ils soient employés au singulier ou au pluriel :
 
- 1. **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version gratuite de la Plateforme ou à un abonnement payant à la Plateforme;
- 2. **CGU** : désigne les présentes conditions générales d’utilisation.
- 3. **Compte Utilisateur** : désigne l’espace personnel créé par l’Utilisateur sur la Plateforme, tel que décrit à l’article 3.1 ci-après.
- 4. **Données** : désigne toutes les données collectées, générées ou traitées par l’intermédiaire de la Plateforme par l’Utilisateur.
- 5. **Données Personnelles** : désigne les Données qui, au sens de la Réglementation applicable à la protection des données personnelles, permettent de désigner ou d'identifier, directement ou indirectement, une personne physique.
- 6. **Plateforme** : désigne la plateforme de sélection, d’organisation et de suivi de tests, éditée par TANDEMZ et mise à disposition de l’Utilisateur par le biais d’internet, sur le Site.
- 7. **Réglementation applicable à la protection des données personnelles** : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».
- 8. **Services** : désigne les services de sélection de panels, d’organisation et de suivi de tests, proposés sur la Plateforme.
- 9. **Site** : désigne le site internet [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") édité par TANDEMZ et permettant d’accéder à la Plateforme et aux Services.
+1.  **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version gratuite de la Plateforme ou à un abonnement payant à la Plateforme;
+2.  **CGU** : désigne les présentes conditions générales d’utilisation.
+3.  **Compte Utilisateur** : désigne l’espace personnel créé par l’Utilisateur sur la Plateforme, tel que décrit à l’article 3.1 ci-après.
+4.  **Données** : désigne toutes les données collectées, générées ou traitées par l’intermédiaire de la Plateforme par l’Utilisateur.
+5.  **Données Personnelles** : désigne les Données qui, au sens de la Réglementation applicable à la protection des données personnelles, permettent de désigner ou d'identifier, directement ou indirectement, une personne physique.
+6.  **Plateforme** : désigne la plateforme de sélection, d’organisation et de suivi de tests, éditée par TANDEMZ et mise à disposition de l’Utilisateur par le biais d’internet, sur le Site.
+7.  **Réglementation applicable à la protection des données personnelles** : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».
+8.  **Services** : désigne les services de sélection de panels, d’organisation et de suivi de tests, proposés sur la Plateforme.
+9.  **Site** : désigne le site internet [https://www.tandemz.io/](https://www.tandemz.io/ 'https://www.tandemz.io/') édité par TANDEMZ et permettant d’accéder à la Plateforme et aux Services.
 10. **Utilisateur** : désigne le Client et/ou toute personne physique désignée par le Client qui accède à la Plateforme en vue d’utiliser les Services, quel que soit le lieu où elle se trouve et les modalités de son accès.
 
 ## 2. Acceptation des CGU
@@ -108,10 +109,10 @@ Dans l’hypothèse où une revendication d’un participant au test ou d’un t
 
 Il est strictement interdit d’utiliser la Plateforme aux fins suivantes :
 
-* l’exercice d’actions illégales, discriminatoires, frauduleuses ou portant atteinte aux droits ou à la sécurité des tiers et, en particulier, des locataires de l’Utilisateur,
-* l’atteinte à l’ordre public ou la violation des lois et règlements en vigueur,
-* l’aide ou l’incitation, sous quelque forme et de quelque manière que ce soit, à un ou plusieurs des actes décrits ci-dessus,
-* et plus généralement toute pratique détournant la Plateforme à des fins autres que celles pour lesquelles elle a été conçue.
+- l’exercice d’actions illégales, discriminatoires, frauduleuses ou portant atteinte aux droits ou à la sécurité des tiers et, en particulier, des locataires de l’Utilisateur,
+- l’atteinte à l’ordre public ou la violation des lois et règlements en vigueur,
+- l’aide ou l’incitation, sous quelque forme et de quelque manière que ce soit, à un ou plusieurs des actes décrits ci-dessus,
+- et plus généralement toute pratique détournant la Plateforme à des fins autres que celles pour lesquelles elle a été conçue.
 
 TANDEMZ pourra résilier l’accès de l’Utilisateur à la Plateforme en cas de non-respect du présent article, sans préjudice de tous dommages et intérêts que pourrait solliciter TANDEMZ.
 
@@ -174,4 +175,4 @@ La résiliation de l’abonnement gratuit par le Client entraîne la désactivat
 
 ## 11. Contact
 
-Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io "contact@tandemz.io")
+Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io 'contact@tandemz.io')
