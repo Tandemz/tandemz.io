@@ -167,7 +167,7 @@ sections:
     component: CtaBlock
     actions:
       - label: Recruit now
-        url: https://app.staging.tandemz.io/recruit-participants
+        url: https://app.tandemz.io/recruit-participants
         title: Start recruiting participants now
         button_priority: ''
     subtitle: ''

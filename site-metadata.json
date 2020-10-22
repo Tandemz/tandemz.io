@@ -17,7 +17,7 @@
         },
         {
           "label": "Recruit testers",
-          "url": "https://app.staging.tandemz.io/recruit-participants",
+          "url": "https://app.tandemz.io/recruit-participants",
           "title": "Recruit participants now!",
           "button_priority": "primary"
         }
@@ -39,7 +39,7 @@
     "links": [
       {
         "text": "Recruit participants now!",
-        "url": "https://app.staging.tandemz.io/recruit-participants",
+        "url": "https://app.tandemz.io/recruit-participants",
         "new_window": true
       }
     ]
