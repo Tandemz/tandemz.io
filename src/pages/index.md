@@ -143,7 +143,7 @@ sections:
   - logo: "/images/logopsl.png"
     alt: PSL Pépite Logo
     title: PSL Pépite
-  - logo: "/images/ferpection-logo-fr.png"
+  - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
   - logo: "/images/pepiniere-27.png"
