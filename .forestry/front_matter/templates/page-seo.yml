@@ -11,8 +11,7 @@ fields:
   default: ''
 - name: description
   type: textarea
-  default: Get insights from real users with Tandemz, the self-service testers
-  recruiting platform for all your user research needs.
+  default: Get insights from real users with Tandemz, the self-service testers recruiting platform for all your user research needs.
   config:
     required: false
     wysiwyg: false
