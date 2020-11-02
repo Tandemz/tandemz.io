@@ -146,7 +146,7 @@ sections:
   - logo: "/images/logo-schoolab.png"
     alt: Schoolab logo
     title: Schoolab logo
-  - logo: "/images/logo_stationf.png"
+  - logo: "/images/logo_stationf-1.png"
     alt: Station F logo
     title: Station F logo
   - logo: "/images/logopsl.png"
