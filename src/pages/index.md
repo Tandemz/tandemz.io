@@ -81,7 +81,7 @@ sections:
     content: |-
       Access detailed targeting criteria: location, age, interests, job title... Need more? Add a screener to pinpoint your audience!
 
-      Get an estimate in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
+      Get a price estimate in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
     image: "/images/illustration-screening.svg"
     image_alt: Targeting
     is_beta: false
