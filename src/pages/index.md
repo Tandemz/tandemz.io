@@ -143,7 +143,7 @@ sections:
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
-  - logo: "/images/cropped-logo-schoolab-city.png"
+  - logo: "/images/logo-schoolab.png"
     alt: Schoolab logo
     title: Schoolab logo
   - logo: "/images/logo_stationf.png"
@@ -152,7 +152,7 @@ sections:
   - logo: "/images/logopsl.png"
     alt: PSL Pépite Logo
     title: PSL Pépite
-  - logo: "/images/logo-region-ile-de-france.png"
+  - logo: "/images/logo-ile-de-france.png"
     alt: Logo région Ile de France
     title: Logo région Ile de France
   - logo: "/images/pepiniere-27.png"
