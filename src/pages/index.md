@@ -140,12 +140,21 @@ sections:
   type: reviewsblock
   title: They support us!
   logos:
-  - logo: "/images/logopsl.png"
-    alt: PSL Pépite Logo
-    title: PSL Pépite
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
+  - logo: "/images/cropped-logo-schoolab-city.png"
+    alt: Schoolab logo
+    title: Schoolab logo
+  - logo: "/images/logo_stationf.png"
+    alt: Station F logo
+    title: Station F logo
+  - logo: "/images/logopsl.png"
+    alt: PSL Pépite Logo
+    title: PSL Pépite
+  - logo: "/images/logo-region-ile-de-france.png"
+    alt: Logo région Ile de France
+    title: Logo région Ile de France
   - logo: "/images/pepiniere-27.png"
     alt: Pépinière 27 Logo
     title: Pépinière 27
