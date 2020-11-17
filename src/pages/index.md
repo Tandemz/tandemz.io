@@ -140,6 +140,9 @@ sections:
   type: reviewsblock
   title: They support us!
   logos:
+  - logo: "/images/logo.svg"
+    alt: Logo the design crew
+    title: Logo the design crew
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
