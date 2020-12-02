@@ -1,7 +1,10 @@
 ---
 og_image_width: 
 og_image_height: 
-hashtags: []
+hashtags:
+- ux research
+- ux
+- user interviews
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -13,7 +16,7 @@ thumb_img_path: "/images/screenshot-2020-11-18-at-14-59-07.png"
 content_img_path: ''
 excerpt: test
 author: src/data/authors/francew.json
-keywords: ''
+keywords: user research, ux, user interviews, interviews utilisateurs
 ogimage: "/images/screenshot-2020-11-18-at-14-59-07.png"
 
 ---
