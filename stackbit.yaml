@@ -551,24 +551,6 @@ models:
               label: Action Buttons
               items:
                 type: action
-  annoucementblok:
-    label: Announcement block
-    type: object
-    extends:
-      - section
-    fields:
-    - name: component
-      default: AnnouncementBlock
-    - name: title
-      type: text
-      config:
-        required: false
-      label: Title
-    - name: description
-      type: text
-      config:
-        required: false
-      label: Description
   heroblock:
     type: object
     label: Hero Section
