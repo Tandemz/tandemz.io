@@ -9,12 +9,12 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: 'webinar-replay-user-research-live-interview '
-full_title: REPLAY WEBINAR Tandemz x Mozza - LIVE RESEARCH - Comment faire une bonne
-  interview utilisateur
+full_title: REPLAY WEBINAR - LIVE RESEARCH - Comment faire une bonne interview utilisateur
 date: 2020-11-23T23:00:00.000+00:00
 thumb_img_path: "/images/screenshot-2020-11-18-at-14-59-07.png"
 content_img_path: ''
-excerpt: test
+excerpt: Redécouvrez le webinar Tandemz x Mozza où on vous invite à découvrir les
+  secrets des interviews utilisateurs à travers un exemple concret et pratique !
 author: src/data/authors/francew.json
 keywords: user research, ux, user interviews, interviews utilisateurs
 ogimage: "/images/screenshot-2020-11-18-at-14-59-07.png"
