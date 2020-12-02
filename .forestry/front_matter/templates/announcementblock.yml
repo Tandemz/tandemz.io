@@ -12,3 +12,10 @@ fields:
   config:
     required: false
   label: Description
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Component
+  default: AnnouncementBlock
