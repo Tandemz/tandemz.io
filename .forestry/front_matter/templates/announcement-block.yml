@@ -16,6 +16,6 @@ fields:
   type: text
   config:
     required: false
-  hidden: true
+  hidden: false
   label: Component
   default: AnnouncementBlock
