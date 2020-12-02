@@ -551,6 +551,20 @@ models:
               label: Action Buttons
               items:
                 type: action
+  annoucementblok:
+    label: Announcement block
+    type: object
+    fields:
+    - name: title
+      type: text
+      config:
+        required: false
+      label: Title
+    - name: description
+      type: text
+      config:
+        required: false
+      label: Description
   heroblock:
     type: object
     label: Hero Section
