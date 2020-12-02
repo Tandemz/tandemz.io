@@ -67,6 +67,7 @@
 
   .site-description {
     margin: 0.5rem 0 2.5rem;
+    color: _palette(tertiary);
   }
 }
 
@@ -79,6 +80,7 @@
   flex: 1 1 150px;
   padding-left: 0.83333rem;
   padding-right: 0.83333rem;
+  color: _palette(tertiary);
 
   ul {
     list-style: none;
@@ -96,14 +98,13 @@
 }
 
 .site-info {
-  border-top: 1px solid _palette(primary);
+  border-top: 1px solid _palette(tertiary);
   font-size: 14px;
   line-height: 1.5;
   padding-bottom: 1.66667rem;
   padding-top: 1.66667rem;
   text-align: center;
 }
-
 
 .footer-navigation {
   -webkit-flex: 1;
