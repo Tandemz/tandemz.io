@@ -557,6 +557,8 @@ models:
     extends:
       - section
     fields:
+    - name: component
+      default: AnnouncementBlock
     - name: title
       type: text
       config:
