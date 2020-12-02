@@ -1,5 +1,9 @@
 ---
 sections:
+  - type: announcementblock
+    component: AnnouncementBlock
+    title: It's Black Friday
+    description: get 40% off!
   - type: heroblock
     template: heroblock
     section_id: hero
