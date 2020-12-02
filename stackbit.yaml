@@ -554,6 +554,8 @@ models:
   annoucementblok:
     label: Announcement block
     type: object
+    extends:
+      - section
     fields:
     - name: title
       type: text
