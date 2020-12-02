@@ -11,9 +11,10 @@ full_title: REPLAY WEBINAR Tandemz x Mozza - LIVE RESEARCH - Comment faire une b
 date: 2020-11-23T23:00:00Z
 thumb_img_path: "/images/screenshot-2020-11-18-at-14-59-07.png"
 content_img_path: "/images/screenshot-2020-11-18-at-14-59-07.png"
-excerpt: ''
+excerpt: test
 author: src/data/authors/francew.json
 keywords: ''
 ogimage: ''
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HNqi42Fu6wk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
