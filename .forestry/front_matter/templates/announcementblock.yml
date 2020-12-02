@@ -1,20 +1,14 @@
 ---
 label: Announcement block
+hide_body: false
 fields:
-  - name: title
-    type: text
-    config:
-      required: false
-    label: Title
-  - name: description
-    type: text
-    config:
-      required: false
-    label: Description
-- name: component
+- name: title
   type: text
   config:
     required: false
-  hidden: true
-  label: component
-  default: announcementblock
+  label: Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
