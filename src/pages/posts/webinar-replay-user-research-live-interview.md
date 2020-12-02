@@ -24,10 +24,10 @@ ogimage: "/images/screenshot-2020-11-18-at-14-59-07.png"
 
 Quoi de mieux que d'aller interroger directement vos utilisateurs pour comprendre leurs besoins ? Oui, mais attention aux pièges : certaines questions doivent être formulées avec attention, d'autres pas posées du tout, et surtout, il ne faut pas mêler compréhension du besoin et pitch commercial !
 
-Pas de panique, dans ce meetup vous découvrirez que cette discipline, appelée recherche utilisateur, n'est en fait pas si complexe, et qu'il suffit de faire preuve de beaucoup de bon sens. 
+Pas de panique, dans ce webinar vous découvrirez que cette discipline, appelée recherche utilisateur, n'est en fait pas si complexe, et qu'il suffit de faire preuve de beaucoup de bon sens.
 
-Au programme : Chez nous, on croit dur comme fer à l'apprentissage par la pratique ! C'est pourquoi nous vous offrons un menu inédit :
+Au programme : chez nous, on croit dur comme fer à l'apprentissage par la pratique ! C'est pourquoi le menu est inédit :
 
-* Entrée : Qu'est-ce qu'une interview utilisateur ? Grégoire, UX researcher chez Mozza, nous expliquera la méthode, sa démarche, et nous partagera ses tips pour une interview réussie.
+* Entrée : Qu'est-ce qu'une interview utilisateur ? Grégoire, UX researcher chez Mozza, vous explique la méthode, sa démarche, et vous partage ses tips pour une interview réussie.
 * Plat de résistance : Une séance d'interview live ! Pour vous montrer comment ça se passe en conditions réelles, nous avons invité un entrepreneur ainsi qu'un utilisateur dans la cible de son produit, pour réaliser une vraie interview sous vos yeux !
-* Dessert : Débrief et questions réponses. L'occasion d'échanger sur le déroulé de l'interview, et poser toutes vos questions sur la recherche utilisateur en général !
+* Dessert : Débrief et questions réponses du public. L'occasion d'échanger sur le déroulé de l'interview, et de répondre à toutes les questions sur la recherche utilisateur en général !

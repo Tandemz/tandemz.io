@@ -25,3 +25,4 @@ fields:
     required: false
   label: ELEMENT ID
   default: announcement_block
+  hidden: true
