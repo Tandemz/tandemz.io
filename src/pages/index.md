@@ -5,7 +5,7 @@ sections:
     9th!"
   description: Applicable on all recruitment orders passed before December 9th with
     actual recruitment starting any time in December.
-  component: ''
+  component: AnnouncementBlock
 - type: heroblock
   template: heroblock
   section_id: hero
