@@ -19,10 +19,3 @@ fields:
   hidden: true
   label: Component
   default: AnnouncementBlock
-- name: id
-  type: text
-  config:
-    required: false
-  label: ELEMENT ID
-  default: announcement_block
-  hidden: true
