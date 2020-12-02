@@ -1,6 +1,5 @@
 ---
 label: Announcement block
-display_field: title
 fields:
   - name: title
     type: text
@@ -12,11 +11,3 @@ fields:
     config:
       required: false
     label: Description
-- type: text
-  name: type
-  label: Reference Type Name
-  description: Name of the Stackbit object model, used by fields of type reference
-  hidden: true
-  default: announcementblock
-  config:
-    required: true
