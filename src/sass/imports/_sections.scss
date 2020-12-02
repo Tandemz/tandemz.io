@@ -774,6 +774,23 @@ iframe {
   }
 }
 
+/* Announcement */
+
+.banner {
+  padding: 16px;
+  background-color: _palette(secondary);
+  color: white;
+}
+
+.banner-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.banner-description {
+  font-size: 14px;
+}
+
 /* How It Works */
 .how-it-works {
   .steps-block {
