@@ -1,9 +1,9 @@
 ---
 sections:
-  - type: announcementblock
-    component: AnnouncementBlock
-    title: It's Black Friday! Get 40% off on all recruitment orders until December 9th!
-    description: For all recruitments starting in December 2020 and ordered between 02/12/2020 and 09/12/2020
+  - template: announcement-block	
+    title: It's Black Friday! Get 40% off on all recruitments until December 9th!	
+    description: Applicable on all recruitment orders passed before December 9th with	
+      actual recruitment starting any time in December.
   - type: heroblock
     template: heroblock
     section_id: hero
