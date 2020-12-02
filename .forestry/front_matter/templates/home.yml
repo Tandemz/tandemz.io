@@ -19,6 +19,7 @@ fields:
   - how-it-works-section
   - recruitsection
   - cards-grid-section
+  - announcement-block
   description: Page sections
 - type: text
   name: template
