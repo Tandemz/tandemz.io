@@ -20,7 +20,7 @@ keywords: user research, ux, user test, tests utilisateurs
 ogimage: "/images/mozza-tandemz.jpg"
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-xXtW0QQOtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Quoi de mieux que d'aller interroger directement vos utilisateurs pour comprendre leurs besoins ? Oui, mais attention aux pièges : certaines questions doivent être formulées avec attention, d'autres pas posées du tout, et surtout, il ne faut pas mêler compréhension du besoin et pitch commercial !
 
