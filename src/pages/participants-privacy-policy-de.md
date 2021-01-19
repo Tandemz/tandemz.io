@@ -1,9 +1,9 @@
 ---
 template: page
-title: Participants Privacy Policy (DE)
+title: Datenschutzrichtlinie für Teilnehmer
 subtitle: ''
 img_path: ''
-description: Privacy policy for participants on Tandemz
+description: Datenschutzrichtlinie für Teilnehmer
 keywords: ''
 ogtitle: ''
 ogdescription: ''
@@ -21,158 +21,157 @@ menus:
     weight: 3
 legal: true
 updatedAt: 2020-08-26T18:48:00.000+00:00
-legal_name: privacy-policy-en
+legal_name: privacy-policy-de
 
 ---
-TANDEMZ, a simplified joint stock company with a capital of €2,400, whose head office is located at 199 Avenue de Choisy - 75013 PARIS, registered with the Paris Trade and Companies Registry under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL (hereafter "TANDEMZ") is concerned about the protection of Personal Data and undertakes to protect them in accordance with the applicable regulations and in particular with the EU Regulation no. 2016/679 of April 27, 2016 called "Règlement Général sur la Protection des Données" or "RGPD", and the Law no. 78-17 of January 6, 1978 as amended, called "Loi Informatique et Liberté".
+TANDEMZ, eine vereinfachte Aktiengesellschaft mit einem Kapital von 2.400 €, mit Sitz in der Avenue de Choisy 199, 75013 PARIS, eingetragen im Pariser Handels- und Gesellschaftsregister unter der Nummer 881 896 187, vertreten durch ihre Präsidentin, Frau Marine WOLFFHUGEL (nachfolgend "TANDEMZ"), ist um den Schutz personenbezogener Daten besorgt und verpflichtet sich, diese gemäß den geltenden Vorschriften und insbesondere der Verordnung (EU) Nr. 2016/679 vom 27. April 2016, genannt "Datenschutz-Grundverordnung" oder "DSGVO" und dem Gesetz Nr. 78-17 vom 6. Januar 1978, genannt "Datenschutzgesetz", in der jeweils gültigen Fassung zu schützen.
 
-When it collects the Personal Data of the Participants, TANDEMZ carries out processing operations for which it is qualified as "data controller", in the sense of the above-mentioned texts. 
+Bei der Erfassung der persönlichen Daten der Teilnehmer führt TANDEMZ Verarbeitungsvorgänge durch, für die sie als "Datenverantwortlicher" im Sinne der oben genannten Texte qualifiziert ist.
 
-The Participants are also hereinafter referred to as the "Concerned Persons" within the meaning of the applicable Personal Data Protection Regulations.
+Die Teilnehmer werden im Folgenden auch als "Betroffene Personen" im Sinne der geltenden Datenschutzbestimmungen bezeichnet.
 
-TANDEMZ undertakes to comply at all times with the requirements of the applicable Personal Data Protection Regulations and to process Personal Data only under the conditions set out below.
+TANDEMZ verpflichtet sich, jederzeit die Anforderungen der geltenden Datenschutzbestimmungen einzuhalten und personenbezogene Daten nur unter den nachstehend aufgeführten Bedingungen zu verarbeiten.
 
-### 1.Definitions
+### 1. Definitionen
 
-In this Privacy Policy, capitalized terms identified below shall have the following meanings, whether used in the singular or plural:
+In dieser Datenschutzrichtlinie haben die nachstehend mit Großbuchstaben gekennzeichneten Wörter die folgende Bedeutung, unabhängig davon, ob sie im Singular oder Plural verwendet werden:
 
-* **Personal Data**: means data which, within the meaning of the applicable Regulation on the protection of personal data, allows to designate or identify, directly or indirectly, a natural person.
-* **Participant:** refers to any natural person of legal age and capacity who accesses the Platform in order to participate in a Session, regardless of his or her location and the means of access.
-* **Platform:** refers to the test platform entitled "Tandemz", published by TANDEMZ and made available to the Participant via the Internet on the Website.
-* **Regulations applicable to the protection of personal data:** refers to all regulations applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of April 27, 2016, known as the "Règlement Général sur la Protection des Données" or "RGPD", and Law No. 78-17 of January 6, 1978 as amended, known as the "Loi Informatique et Libertés".
-* **Sessions:** refers to the study and test sessions offered on the Platform, allowing a Participant to participate in a study on a product, a service, a Participant test, a Participant interview, a focus group.
-* **Site:** refers to the website [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") published by TANDEMZ and providing access to the Platform and the Sessions.
+* **Personenbezogene Daten:** sind Daten, die es im Sinne der geltenden Verordnung über den Schutz personenbezogener Daten ermöglichen, eine natürliche Person direkt oder indirekt zu bezeichnen oder zu identifizieren.
+* **Teilnehmer:** bezeichnet jede volljährige und geschäftsfähige natürliche Person, die auf die Plattform zugreift, um an einer Sitzung teilzunehmen, unabhängig von ihrem Standort und der Art des Zugangs.
+* **Plattform:** bezieht sich auf die von TANDEMZ herausgegebene und dem Teilnehmer über das Internet auf der Website zur Verfügung gestellte Testplattform mit dem Namen "Tandemz".
+* **Auf den Schutz personenbezogener Daten anwendbare Vorschrift:** bezieht sich auf alle auf den Schutz personenbezogener Daten anwendbaren Vorschriften und insbesondere auf die Verordnung (EU) Nr. 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016, bekannt als die "Datenschutz-Grundverordnung" oder "DSGVO", und das Gesetz Nr. 78-17 vom 6. Januar 1978 in der jeweils gültigen Fassung, bekannt als das "Datenschutzgesetz".
+* **Sitzungen:** bezieht sich auf die auf der Plattform angebotenen Studien- und Testssitzungen, die es einem Teilnehmer ermöglichen, an einer Studie zu einem Produkt, einer Dienstleistung, einem Teilnehmertest, einem Teilnehmerinterview oder einer Fokusgruppe teilzunehmen.
+* **Website:** bezieht sich auf die Website [https://www.tandemz.io/,](https://www.tandemz.io/, "https://www.tandemz.io/,") die von TANDEMZ veröffentlicht wird und Zugang zur Plattform und zu den Sitzungen bietet.
 
-### 2.**Purposes of the processing of Personal Data**
+### 2. Zwecke der Verarbeitung von personenbezogenen Daten
 
-TANDEMZ processes the Participant's Personal Data for the following purposes:
+TANDEMZ verarbeitet die persönlichen Daten des Teilnehmers für die folgenden Zwecke:
 
-* Registration of the Participant to the Tandemz panel;
-* Eligibility and participation of the Participant in Sessions;
-* Propose Sessions to the Participant according to his/her profile;
-* Improving the performance and functionality of the Platform;
-* Prevention and detection of fraud, malware (malicious software or malicious software) and management of security incidents; Improvement of the performance and functionalities of the Platform;
-* Prevention and detection of fraud, malware, and security incident management;
-* Management of possible disputes;
-* Monitoring and analysis of the Platform's traffic;
-* and For statistical purposes.
+* Registrierung des Teilnehmers im Tandemz-Panel;
+* Teilnahmeberechtigung und Teilnahme des Teilnehmers an Sitzungen;
+* Vorschlag von Sitzungen, die seinem Profil entsprechen, an den Teilnehmer;
+* Verbesserung der Leistung und Funktionalität der Plattform;
+* Vorbeugung und Erkennung von Betrug, Malware (bösartige Software oder Schadsoftware) und Management von Sicherheitsvorfällen;
+* Verbesserung der Leistung und der Funktionalitäten der Plattform;
+* Vorbeugung und Erkennung von Betrug, Malware (bösartige Software oder Schadsoftware) und Management von Sicherheitsvorfällen;
+* Management von möglichen Rechtsstreitigkeiten;
+* Überwachung und Analyse des Datenverkehrs auf der Plattform; und Für statistische Zwecke.
 
-### 3.**Personal data processed**
+### 3. Verarbeitete persönliche Daten
 
-As data controller, TANDEMZ processes the following Personal Data:
+Als der Eigenschaft als Datenverantwortlicher verarbeitet TANDEMZ die folgenden personenbezogenen Daten:
 
-Participant Data collected during registration on the Panel Platform:
+Teilnehmerdaten, die bei der Registrierung auf der Panel-Plattform erfasst werden:
 
-* Name and surname;
-* Email address;
-* Phone number;
-* Date of birth;
-* Occupation;
-* City;
-* Postal Code;
-* Gender;
-* Consumption habits: owner of an iOS or Android phone; 
+* Vor- und Nachname;
+* E-Mail-Adresse;
+* Telefonnummer;
+* Geburtsdatum;
+* Beruf;
+* Ort, Postleitzahl, Geschlecht;
+* Konsumgewohnheiten: Besitzer eines iOS- oder Android-Telefons;
 
-Participant Data collected when browsing the Platform:
+Teilnehmerdaten, die beim Browsen auf der Plattform gesammelt werden:
 
-* IP address, connection data;
+* IP-Adresse, Verbindungsdaten;
 
-Participant Data that may be collected when requesting participation in a Session, depending on the specific needs of each Session:
+Teilnehmerdaten, die bei der Bewerbung um die Teilnahme an einer Sitzung erhoben werden können, je nach den spezifischen Anforderungen der jeweiligen Sitzung: 
 
-* Age
-* Occupation
-* Average Income
-* Gender
-* Consumption habits
-* Spoken languages
-* Digital equipment owned
-* Ease with the digital or operating system used
-* Areas of interest.
+* Alter
+* Beruf
+* Durchschnittliches Einkommen
+* Geschlecht
+* Konsumgewohnheiten
+* Gesprochene Sprachen
+* Digitale Geräte im Besitz
+* Vertrautheit mit dem verwendeten Gerät oder dem Betriebssystem Interessen.
 
-The compulsory or optional nature of the data entry is specified at the time of collection by an asterisk next to the data to be filled in in a compulsory manner. TANDEMZ requires the mandatory disclosure of certain personal data in order to implement the above mentioned purposes. The optional data allow TANDEMZ to get to know the Participant better and to offer the Participant Sessions adapted to his/her profile.
+Der obligatorische oder fakultative Charakter der Dateneingabe wird zum Zeitpunkt der Erfassung durch einen Asterisken neben den obligatorisch auszufüllenden Daten angezeigt. TANDEMZ benötigt die obligatorische Offenlegung bestimmter personenbezogener Daten, um die oben genannten Zwecke zu erfüllen. Die optionalen Daten ermöglichen es TANDEMZ, den Teilnehmer besser kennenzulernen und ihm auf sein Profil abgestimmte Sitzungen anzubieten.
 
-If the application questionnaire for a Session contains questions asking for sensitive Personal Data, additional express consent will be requested from the Participant to process such Personal Data. Sensitive Data is, pursuant to the applicable Personal Data Protection Regulations, information that reveals the alleged racial or ethnic origin, political opinions, religious or philosophical beliefs or trade union membership, data concerning health, data concerning the sexual life or sexual orientation of a natural person.
+Wenn der Bewerbungsfragebogen für eine Sitzung Fragen enthält, in denen sensible personenbezogene Daten abgefragt werden, wird der Teilnehmer zusätzlich um seine ausdrückliche Zustimmung zur Verarbeitung dieser personenbezogenen Daten gebeten. Sensible Daten sind gemäß der geltenden Datenschutzverordnung Informationen, aus denen die mutmaßliche rassische oder ethnische Herkunft, politische Meinungen, religiöse oder philosophische Überzeugungen oder die Gewerkschaftszugehörigkeit hervorgehen, Daten über die Gesundheit, Daten über das Sexualleben oder die sexuelle Orientierung einer natürlichen Person.
 
-### **4. Storage period of Personal Data**
+### 4. Aufbewahrungsdauer der persönlichen Daten
 
-The Participant's Personal Data collected for the purposes of registering for the panel as well as to offer the Participant Sessions adapted to his/her profile are kept for a maximum of 2 years after the last participation. At the end of this retention period, TANDEMZ will send an informative email to the Participant informing him/her of the upcoming deletion of his/her Personal Data. Beyond that, the Personal Data are archived by TANDEMZ, in a secure environment, for the legal period of limitation for the purpose of evidence for the establishment, exercise or defense of a right in court
+Die persönlichen Daten des Teilnehmers, die zum Zwecke der Registrierung für das Panel sowie zum Angebot von an das Profil des Teilnehmers angepassten Sitzungen erhoben werden, werden für maximal 2 Jahre nach der letzten Teilnahme aufbewahrt. Am Ende dieser Aufbewahrungsfrist sendet TANDEMZ eine Informations-E-Mail an den Teilnehmer, in der er darüber informiert wird, dass seine personenbezogenen Daten in naher Zukunft gelöscht werden. Darüber hinaus werden die personenbezogenen Daten von TANDEMZ für die gesetzliche Verjährungsfrist in einer sicheren Umgebung zu Beweiszwecken für die Begründung, Ausübung oder Verteidigung eines Rechts vor Gericht archiviert.
 
-The Participant's Personal Data collected in the context of the Participant's participation in Sessions are kept for the duration of the Session. Beyond that, Personal Data are anonymized for scientific research and statistical purposes (art. 89, paragraphs 1 and 2 of the General Regulations on Data Protection of April 27, 2016), the anonymization of such data no longer allowing the identification of the persons concerned.
+Die personenbezogenen Daten des Teilnehmers, die im Rahmen der Teilnahme des Teilnehmers an Sitzungen erhoben werden, werden für die Dauer der Sitzung aufbewahrt. Darüber hinaus werden die personenbezogenen Daten für wissenschaftliche Forschung und statistische Zwecke anonymisiert (Art. 89, Abs. 1 und 2 der Datenschutz-Grundverordnung vom 27. April 2016); durch die Anonymisierung dieser Daten ist eine Identifizierung der betroffenen Personen nicht mehr möglich. 
 
-### **5.Recipients of Personal Data**
+### 5. Empfänger von persönlichen Daten
 
-The Personal Data of the Participant is strictly confidential and is intended exclusively for TANDEMZ and the client organizing the Session(s) in which the Participant participates. In the context of a Session, TANDEMZ will transmit to the client involved in the Session:
+Die persönlichen Daten des Teilnehmers sind streng vertraulich und ausschließlich für TANDEMZ und den Kunden bestimmt, der die Sitzung(en) organisiert, an denen der Teilnehmer teilnimmt. Im Rahmen einer Sitzung wird TANDEMZ an den an der Sitzung beteiligten Kunden übertragen: 
 
-* The first name of the Participant;
-* The first letter of the last name;
-* The address chosen by the Participant for the meeting;
-* The address chosen by the Participant for the meeting;
+* Der Vorname des Teilnehmers;
+* Der erste Buchstabe des Nachnamens;
+* Die vom Teilnehmer gewählte Adresse für die Besprechung. Die Antworten des Teilnehmers auf den Fragebogen zur Registrierung für die Sitzung.
 
-If the Client agrees to meet the Participant, the following data will then be transmitted:
+Wenn der Kunde zustimmt, den Teilnehmer zu treffen, werden dann die folgenden Daten übermittelt:
 
-* The phone number
-* The email address.
+* Die Rufnummer
+* Die E-Mail-Adresse.
 
-Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose, transfer, rent or transmit Personal Data that are processed on the Platform to third parties other than its clients and the following technical service providers:
+TANDEMZ wird personenbezogene Daten, die auf der Plattform verarbeitet werden, niemals an Dritte weitergeben, übertragen, vermieten oder übermitteln, es sei denn, es besteht eine gesetzliche oder gerichtliche Verpflichtung dazu, außer an seine Kunden und die folgenden technischen Dienstleister:
 
-* the Platform's hosting service providers, for the purpose of performing technical hosting and database management services: 
-  * Clever Cloud SAS: 3 rue de l'Allier, 44000 Nantes, France, host of the TANDEMZ database, [https://www.clever-cloud.com/en/legal-terms;](https://www.clever-cloud.com/en/legal-terms; "https://www.clever-cloud.com/en/legal-terms;")
-  * Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, host of the Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/. "https://www.netlify.com/privacy/.")
-* TANDEMZ subcontractors for the functional needs of the Platform, in particular:
-  * Datadog, Inc. 620 8th Avenue, Floor 45, New York, NY 10018, providing a logging service to fix bugs and improve the Platform.
-  * SendinBlue, located at 55 rue d'Amsterdam, 75008 Paris, providing the Sendinblue service for sending automatic emails.
-  * Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA providing the Google Suite service as an internal office for emails, calendars, documents and file storage.
-  * TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) providing the Typeform service to generate the questionnaire to participate in a Test and collect the answers.
-  * HubSpot, Inc, 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, providing the Hubspot service for tracking sales prospects and customers.
-  * Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France providing the Crisp service for conversation tracking and support.
+Die Hosting-Dienstleister der Plattform, um die technischen Dienstleistungen des Hostings und der Datenbankverwaltung zu erbringen. :
 
-These service providers act as subcontractors of TANDEMZ in the sense of the applicable regulations for the protection of Personal Data, on the instructions of TANDEMZ and in accordance with the contractual conditions signed with TANDEMZ respecting the applicable regulations for the protection of Personal Data.
+* Die Firma Clever Cloud SAS : Rue de l'Allier 3, 44000 Nantes, Frankreich, Host der TANDEMZ-Datenbank, [https://www.clever-cloud.com/en/legal-terms;](https://www.clever-cloud.com/en/legal-terms; "https://www.clever-cloud.com/en/legal-terms;")
+* Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, Host der Website, [https://www.netlify.com/privacy/.](https://www.netlify.com/privacy/. "https://www.netlify.com/privacy/.")
 
-### **6. Security measures implemented**
+TANDEMZ-Subunternehmer für die funktionalen Bedürfnisse der Plattform, insbesondere:
 
-TANDEMZ undertakes to ensure the security and integrity of the Personal Data processed on the Platform. To this end, TANDEMZ implements and maintains technical and organizational security measures for the Platform and, more generally, for its information system, adapted to the nature of the Personal Data processed and the risks presented by their processing. These measures aim to (i) protect Personal Data against destruction, loss, alteration, and disclosure to unauthorized third parties, (ii) ensure the restoration of the availability of Personal Data and access to it within appropriate time limits in the event of a physical or technical incident.
+* Datadog, Inc. 620 8th Avenue, Floor 45, New York, NY 10018 stellt einen Protokollierungsdienst zur Verfügung, um Fehler zu beheben und die Plattform zu verbessern.
+* SendinBlue mit Sitz in der Rue d'Amsterdam 55, 75008 Paris, das den Dienst Sendinblue für den automatischen Versand von E-Mails anbietet. Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA, das den Dienst Google Suite als internes Büro für E-Mails, Kalender, Dokumente und Dateiablage zur Verfügung stellt.
+* TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spanien) stellt den Typeform-Service zur Verfügung, um den Fragebogen zur Teilnahme an einem Test zu erstellen und die Antworten zu sammeln.
+* HubSpot, Inc, 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, das den Hubspot-Service für das Follow-up von gewerblichen Interessenten und Kunden anbietet.
+* Crisp IM SARL, Boulevard de Launay 2, 44100 Nantes, Frankreich, das den Crisp-Dienst für die Gesprächsnachverfolgung und den Support bereitstellt.
 
-### **7. Transfers of Personal Data outside the European Union**
+Diese Dienstleister handeln als Unterauftragnehmer von TANDEMZ im Sinne der geltenden Vorschriften zum Schutz personenbezogener Daten, auf Anweisung von TANDEMZ und unter den mit TANDEMZ vereinbarten Vertragsbedingungen, die die geltenden Vorschriften zum Schutz personenbezogener Daten einhalten.
 
-The Participant acknowledges having been informed that the Personal Data concerning him/her are hosted on the servers of the company Clever Cloud SAS located in the European Union.
+### 6. Implementierte Sicherheitsmaßnahmen
 
-The Participant acknowledges having been informed and accepts that the Personal Data concerning him/her may be communicated to subcontractors whose services are hosted in countries outside the European Union. TANDEMZ's subcontractors guarantee that such transfers are carried out under appropriate and adequate security and confidentiality conditions that guarantee a level of protection of the Participant's Personal Data equivalent to the level required within the European Union, in accordance with the applicable Personal Data Protection Regulations.
+TANDEMZ verpflichtet sich, die Sicherheit und Integrität der auf der Plattform verarbeiteten personenbezogenen Daten zu gewährleisten. Zu diesem Zweck implementiert und unterhält TANDEMZ technische und organisatorische Sicherheitsmaßnahmen für die Plattform und, allgemeiner, für sein Informationssystem, die an die Art der verarbeiteten personenbezogenen Daten und die mit ihrer Verarbeitung verbundenen Risiken angepasst sind. Diese Maßnahmen zielen darauf ab, (i) die personenbezogenen Daten gegen ihre Zerstörung, ihren Verlust, ihre Veränderung und ihre Weitergabe an unbefugte Dritte zu schützen, (ii) die Wiederherstellung der Verfügbarkeit der personenbezogenen Daten und den Zugang zu ihnen innerhalb eines angemessenen Zeitrahmens im Falle eines physischen oder technischen Vorfalls zu gewährleisten.
 
-### **8. Rights of Data Subjects with respect to their Personal Data**
+### 7. Übermittlung von personenbezogenen Daten außerhalb der Europäischen Union
 
-The Persons Concerned have, at any time, the following rights over their Personal Data:
+Der Teilnehmer bestätigt, darüber informiert worden zu sein, dass die ihn betreffenden personenbezogenen Daten auf den Servern der Firma Clever Cloud SAS mit Sitz in der Europäischen Union gehostet werden.
 
-* **Right of access:** to obtain information on the processing of their Personal Data as well as a certain amount of information on the processing, it being understood that this information is in any case given in the present Personal Data Protection Policy;
-* **Right of rectification:** obtain the rectification of Personal Data when they are inaccurate or incomplete;
-* **Right to erasure** ("right of oblivion"): to obtain the erasure of Personal Data when it is no longer necessary for the purposes for which it was collected or when the Data Subject objects to the processing of his or her Personal Data;
-* **Right to limitation of processing:** to obtain the limitation of the processing of Personal Data when the Data Subject contests the accuracy of the data, when the time limit for storing the data has expired but the Data Subject still needs to keep the Personal Data for the establishment, exercise or defense of a right in court, or if the Data Subject has opposed the processing;
-* **Right to portability:** to obtain the communication of the Personal Data that the Concerned Person has communicated to TANDEMZ in a readable format, or to ask TANDEMZ to transmit the Personal Data that the Concerned Person has communicated to another data controller;
-* **Right of opposition:** to oppose at any time, for reasons related to his/her personal situation, to the processing of his/her Personal Data, in particular in case this opposition concerns commercial prospecting, including profiling;;
-* **Withdrawal of Consent:** to withdraw one's consent to the future processing of one's Personal Data by TANDEMZ, when the processing is based on consent;
-* **Right to lodge a complaint:** lodge a complaint with the National Commission for Information Technology and Civil Liberties if the Concerned Person considers that the processing carried out by TANDEMZ constitutes a violation of his/her Personal Data, online at [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") or by post at the following address: CNIL - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07.
+Der Teilnehmer bestätigt, darüber informiert worden zu sein, und akzeptiert, dass die ihn betreffenden personenbezogenen Daten an Unterauftragnehmer übermittelt werden können, deren Dienste in Ländern außerhalb der Europäischen Union gehostet werden. Die Unterauftragnehmer von TANDEMZ garantieren, dass solche Übermittlungen unter angemessenen und ausreichenden Sicherheits- und Vertraulichkeitsbedingungen erfolgen, um ein Schutzniveau der personenbezogenen Daten des Teilnehmers zu gewährleisten, das dem in der Europäischen Union geforderten Niveau entspricht, in Übereinstimmung mit den geltenden Datenschutzbestimmungen.
 
-The rights of the Persons Concerned regarding their Personal Data can be exercised at any time by contacting TANDEMZ by email at the following address: contact@tandemz.io. The Concerned Person will be asked to provide proof of his/her identity.
+### 8. Rechte der betroffenen Personen in Bezug auf ihre persönlichen Daten
 
-### 9. Cookie management
+Die betroffenen Personen haben jederzeit die folgenden Rechte bezüglich ihrer persönlichen Daten:
 
-TANDEMZ uses cookies for the proper functioning of the Platform and to track and analyze the traffic on the Platform. A "cookie" is a small data file sent to the Participant's browser by a web server and stored on the hard disk of his computer. Under no circumstances can they damage the computer.
+* **Recht auf Zugang**: eine Bestätigung der Verarbeitung ihrer persönlichen Daten zu erhalten sowie bestimmter Informationen über die Verarbeitung, wobei diese Informationen in jedem Fall in der vorliegenden Datenschutzrichtlinie enthalten sind;
+* **Recht auf Berichtigung**: die Berichtigung von personenbezogenen Daten zu erwirken, wenn diese unrichtig oder unvollständig sind;
+* **Recht auf Löschung ("Recht auf Vergessen")**: die Löschung der personenbezogenen Daten zu erwirken, wenn sie für die Zwecke, für die sie erhoben wurden, nicht mehr erforderlich sind oder wenn die betroffene Person der Verarbeitung ihrer personenbezogenen Daten widerspricht;
+* **Recht auf Einschränkung der Verarbeitung**: die Einschränkung der Verarbeitung personenbezogener Daten zu erwirken, wenn die betroffene Person die Richtigkeit der Daten bestreitet, wenn die Frist für die Speicherung der Daten abgelaufen ist, die betroffene Person die personenbezogenen Daten aber noch benötigt, um ein Recht vor Gericht zu begründen, auszuüben oder zu verteidigen, oder wenn die betroffene Person Widerspruch gegen die Verarbeitung eingelegt hat;
+* **Recht auf Übertragbarkeit:** die Mitteilung der personenbezogenen Daten, die die betroffene Person TANDEMZ mitgeteilt hat, in einem lesbaren Format zu erhalten, oder TANDEMZ zu bitten, die personenbezogenen Daten, die die betroffene Person mitgeteilt hat, an einen anderen Datenverantwortlichen zu übermitteln;
+* **Widerspruchsrecht**: aus Gründen, die sich aus ihrer persönlichen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten Widerspruch einzulegen; dies gilt insbesondere für den Fall, dass der Widerspruch sich auf eine kommerzielle Anpreisung, einschließlich Profiling, bezieht;
+* **Widerruf der Einwilligung**: ihre Einwilligung zur zukünftigen Verarbeitung ihrer persönlichen Daten durch TANDEMZ zu widerrufen, wenn die Verarbeitung auf einer Einwilligung beruht;
+* **Recht auf Beschwerde:** eine Beschwerde bei der Nationalen Kommission für Informationstechnologie und bürgerliche Freiheiten einzureichen, wenn die betroffene Person der Meinung ist, dass die von TANDEMZ durchgeführte Verarbeitung eine Verletzung ihrer persönlichen Daten darstellt, online unter [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") oder per Post an folgende Adresse: CNIL - Place de Fontenoy 3 - TSA 80715 - 75334 PARIS CEDEX 07.
 
-The information collected by means of cookies is solely and strictly intended for TANDEMZ, in compliance with the Personal Data Protection Regulations. Cookies from third party publishers (Google, Facebook) allow these publishers to access the information collected through their cookies, according to the modalities specified in the table and the clause "Social Networks" below.
+Die Betroffenen können ihre Rechte in Bezug auf ihre personenbezogenen Daten jederzeit ausüben, indem sie sich per E-Mail an TANDEMZ unter folgender Adresse wenden: contact@tandemz.io. Die Betroffene Person wird aufgefordert, ihre Identität nachzuweisen.
 
-The list of cookies used by TANDEMZ is available in its acceptance window. Click here to see it again.
+### 9. Cookie-Verwaltung
 
-The Participant is free to consent to the use of all or part of the cookies (other than cookies strictly necessary for the operation of the Platform) used by TANDEMZ on the Platform. The Participant can make his choice when logging in for the first time by clicking on the categories of cookies he accepts. The Participant is also free to withdraw his consent to the use of cookies at any time by clicking here.
+TANDEMZ verwendet Cookies für das ordnungsgemäße Funktionieren der Plattform und zur Überwachung und Analyse des Datenverkehrs auf der Plattform. Ein "Cookie" ist eine kleine Datendatei, die von einem Webserver an den Browser des Teilnehmers gesendet und auf der Festplatte seines Computers gespeichert wird. Sie sind in keiner Weise geeignet, den Computer zu beschädigen.
 
-The Participant may also set his or her browser to accept or disable cookies.
+Die mit Hilfe von Cookies gesammelten Informationen sind ausschließlich und strikt für TANDEMZ bestimmt, in Übereinstimmung mit den geltenden Vorschriften zum Schutz personenbezogener Daten. Cookies von Drittanbietern (Google, Facebook) ermöglichen diesen Anbietern den Zugriff auf die durch ihre Cookies gesammelten Informationen, gemäß den in der Tabelle und im Abschnitt "Soziale Netzwerke" unten angegebenen Modalitäten.
 
-Cookie instructions for the most commonly used browsers are available at the following links:
+Die Liste der von TANDEMZ verwendeten Cookies ist im Annahmefenster verfügbar. Klicken Sie hier, um sie noch einmal zu sehen.
 
-* Windows Internet Explorer®: [https://support.microsoft.com/en-us/help/17442/delete-and-manage-cookies](https://support.microsoft.com/en-us/help/17442/delete-and-manage-cookies "https://support.microsoft.com/en-us/help/17442/delete-and-manage-cookies")
-* Mozilla Firefox®: [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop")
-* Google Chrome®: [https://support.google.com/accounts/answer/61416?co=GENIE.](https://support.google.com/accounts/answer/61416?co=GENIE. "https://support.google.com/accounts/answer/61416?co=GENIE.") Platform%3DiOS&hl=en
-* Apple Safari® (iPhone; iPad): [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-us/HT201265 "https://support.apple.com/en-us/HT201265") Apple Safari® (Mac): [https://support.apple.com/en-ca/guide/safari/sfri11471/mac](https://support.apple.com/en-ca/guide/safari/sfri11471/mac "https://support.apple.com/en-ca/guide/safari/sfri11471/mac")
-* Disabling Google Analytics: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
+Es steht dem Teilnehmer frei, der Verwendung aller oder eines Teils der von TANDEMZ auf der Plattform verwendeten Cookies (mit Ausnahme der für den Betrieb der Plattform unbedingt erforderlichen Cookies) zuzustimmen. Der Teilnehmer kann beim erstmaligen Einloggen seine Wahl treffen, indem er die Kategorien der Cookies anklickt, die er akzeptiert. Es steht dem Teilnehmer auch frei, seine Zustimmung zur Verwendung von Cookies jederzeit zu widerrufen, indem er hier klickt.
 
-### **10. Do Not Track**
+Der Teilnehmer kann seinen Browser auch so einstellen, dass er Cookies akzeptiert, oder diese deaktivieren.
 
-Do Not Track The Site and Platform respond to the Do Not Track ("DNT") signal. For more information on the DNT parameter, visit [https://allaboutdnt.com/.](https://allaboutdnt.com/. "https://allaboutdnt.com/.")
+Cookie-Anweisungen für die am häufigsten verwendeten Browser finden Sie unter den folgenden Links:
+
+* Windows Internet Explorer®: [https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies "https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies") 
+* Mozilla Firefox®: [https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites](https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites "https://support.mozilla.org/fr/kb/autoriser-bloquer-cookies-preferences-sites") 
+* Google Chrome®: [https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr "https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DiOS&hl=fr") 
+* Apple Safari® (iPhone; iPad): [https://support.apple.com/fr-fr/HT201265](https://support.apple.com/fr-fr/HT201265 "https://support.apple.com/fr-fr/HT201265") 
+* Apple Safari® (Mac): [https://support.apple.com/fr-fr/guide/safari/sfri11471/mac](https://support.apple.com/fr-fr/guide/safari/sfri11471/mac "https://support.apple.com/fr-fr/guide/safari/sfri11471/mac") 
+* Deaktivieren von Google Analytics: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
+
+### 10. Do Not Track 
+
+Die Website und die Plattform reagieren auf das "Do Not Track"-Signal ("DNT"). Weitere Informationen über den DNT-Parameter finden Sie unter [https://allaboutdnt.com/.](https://allaboutdnt.com/. "https://allaboutdnt.com/.")
