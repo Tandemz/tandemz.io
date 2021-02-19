@@ -125,6 +125,9 @@ sections:
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
+  - logo: "/images/eh_logo.png"
+    alt: Euler Hermes
+    title: Euler Hermes
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
