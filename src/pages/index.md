@@ -128,7 +128,7 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
-  - logo: "/images/ulysse-logo.png"
+  - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
   - logo: "/images/mozza.png"
