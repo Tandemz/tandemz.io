@@ -1,11 +1,5 @@
 ---
 sections:
-- template: announcement-block
-  title: "\U0001F381 It's Black Friday! Get 40% off on all recruitments until December
-    9th!"
-  description: Applicable on all recruitment orders passed before December 9th with
-    actual recruitment starting any time in December.
-  component: AnnouncementBlock
 - type: heroblock
   template: heroblock
   section_id: hero
