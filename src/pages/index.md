@@ -122,12 +122,12 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/logo-bam.svg"
+    alt: 'BAM '
+    title: BAM
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
-  - logo: "/images/eh_logo.png"
-    alt: Euler Hermes
-    title: Euler Hermes
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
