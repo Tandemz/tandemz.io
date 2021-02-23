@@ -134,15 +134,15 @@ sections:
   - logo: "/images/logo-bam.svg"
     alt: 'BAM '
     title: BAM
+  - logo: "/images/ux-republic-black-h.png"
+    alt: UX Republic Logo
+    title: UX Republic
   - logo: "/images/logoaffordance-1.png"
     alt: Affordance Logo
     title: Affordance
   - logo: "/images/logofaireparterie.png"
     alt: Faireparterie Logo
     title: Faireparterie
-  - logo: "/images/ux-republic-black-h.png"
-    alt: UX Republic Logo
-    title: UX Republic
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
