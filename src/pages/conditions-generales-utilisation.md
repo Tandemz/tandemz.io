@@ -167,7 +167,7 @@ La résiliation de l’abonnement gratuit par le Client entraîne la désactivat
 
 **9.3.** En cas de désactivation du Compte Utilisateur, les Données, et notamment, les Données Personnelles de l’Utilisateur, seront alors archivées dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice, conformément à la réglementation applicable à la protection des données personnelles.
 
-**9.4.** TANDEMZ restituera à l’Utilisateur qui en fait la demande les Données qu’il aura intégrées sur la Plateforme, sur simple demande adressée par email à l’adresse suivante : [mailto:contact@tandemz.io](contact@tandemz.io)
+**9.4.** TANDEMZ restituera à l’Utilisateur qui en fait la demande les Données qu’il aura intégrées sur la Plateforme, sur simple demande adressée par email à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io)
 
 ## 10. Droit applicable et juridictions compétentes
 
