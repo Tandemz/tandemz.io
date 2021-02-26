@@ -164,7 +164,9 @@ TANDEMZ est soucieuse de la protection des données personnelles des Utilisateur
 La résiliation de l’abonnement gratuit par le Client entraîne la désactivation du Compte Utilisateur à la date de résiliation effective de l’abonnement. En cas de résiliation de l’abonnement payant par le Client, et de refus de sa part de conserver son compte en version gratuite, le Compte Utilisateur sera désactivé à la date de résiliation effective de l’abonnement.
 
 **9.2.** En cas d’utilisation de la Plateforme par l’Utilisateur non conforme aux CGU, en cas de manquement de l’Utilisateur aux CGU, ou plus généralement en cas de violation des lois et réglementations applicables, TANDEMZ pourra résilier de plein droit, sans mise en demeure préalable, sans préavis ni indemnité, tout ou partie de l’accès de l’Utilisateur à la Plateforme. TANDEMZ pourra prononcer cette résiliation sans préjudice de tous les autres droits, actions et recours dont TANDEMZ pourrait disposer en vue de la réparation du préjudice qu’elle pourrait avoir subi du fait de ces manquements.
+
 **9.3.** En cas de désactivation du Compte Utilisateur, les Données, et notamment, les Données Personnelles de l’Utilisateur, seront alors archivées dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice, conformément à la réglementation applicable à la protection des données personnelles.
+
 **9.4.** TANDEMZ restituera à l’Utilisateur qui en fait la demande les Données qu’il aura intégrées sur la Plateforme, sur simple demande adressée par email à l’adresse suivante : [mailto:contact@tandemz.io](contact@tandemz.io)
 
 ## 10. Droit applicable et juridictions compétentes
