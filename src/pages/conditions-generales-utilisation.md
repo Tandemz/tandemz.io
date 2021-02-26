@@ -172,6 +172,7 @@ La résiliation de l’abonnement gratuit par le Client entraîne la désactivat
 ## 10. Droit applicable et juridictions compétentes
 
 **10.1.** Les CGU seront exécutées et interprétées conformément au droit français.
+
 **10.2.** Les parties déclarent leur intention de chercher une solution amiable à toute difficulté qui pourrait surgir à propos de la validité, de l’interprétation ou de l’exécution des CGU. En cas de désaccord persistant, le litige sera porté à la connaissance des tribunaux compétents.
 
 ## 11. Contact
