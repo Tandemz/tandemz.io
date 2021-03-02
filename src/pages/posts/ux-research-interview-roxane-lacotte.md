@@ -16,7 +16,7 @@ full_title: Le métier d’UX Researcher, entretien avec Roxane Lacotte
 date: 2021-02-17T23:00:00Z
 thumb_img_path: "/images/enteteroxane.jpg"
 content_img_path: ''
-excerpt: Débutant ou expert d'UX, vous trouverez des conseils précieux et des insights
+excerpt: Débutant ou expert UX, vous trouverez des conseils précieux et des insights
   fascinants sur le métier d'UX Researcher dans notre interview avec Roxane Lacotte.
 author: src/data/authors/francew.json
 keywords: UX, UX-Research, UX-Researcher, freelance, entreprenariat, design, user-research
