@@ -1,5 +1,5 @@
 ---
-og_image_width: 650
+og_image_width: 750
 og_image_height: 375
 hashtags:
 - ux
@@ -16,7 +16,8 @@ full_title: Le métier d’UX Researcher, entretien avec Roxane Lacotte
 date: 2021-02-17T23:00:00Z
 thumb_img_path: "/images/enteteroxane.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: 'Découvrez le métier d''UX Researcher en agence et en freelance dans notre
+  interview avec Roxanne Lacotte.  '
 author: src/data/authors/francew.json
 keywords: UX, UX-Research, UX-Researcher, freelance, entreprenariat, design, user-research
 ogimage: "/images/enteteroxane.jpg"
