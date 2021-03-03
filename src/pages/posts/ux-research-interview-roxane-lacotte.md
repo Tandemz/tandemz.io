@@ -13,7 +13,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: UX-Research-Interview-Roxane-Lacotte
 full_title: Le métier d’UX Researcher, entretien avec Roxane Lacotte
-date: 2021-02-17T23:00:00Z
+date: 2021-02-17T23:00:00.000+00:00
 thumb_img_path: "/images/enteteroxane.jpg"
 content_img_path: ''
 excerpt: Débutant ou expert UX, vous trouverez des conseils précieux et des insights
@@ -59,7 +59,7 @@ C’est émouvant et parfois ça marque : par exemple, dans le cadre d'une étud
 
 J’aime beaucoup aussi le fait d’être un conseiller et une personne neutre en arrivant chez le client. J’apporte les besoins des utilisateurs et l’information sur ce qu’ils apprécient ou pas, et ce n’est jamais mon avis personnel.
 
-## **Je voulais te poser une question justement à propos de ça: comment est-ce tu vois, en tant que freelance, la façon dont la position de l’UX Researcher est vue/reçue dans les entreprises ? Est-ce qu’elle est toujours écoutée ?**
+## **Je voulais te poser une question justement à propos de ça: comment est-ce que tu vois, en tant que freelance, la façon dont la position de l’UX Researcher est vue/reçue dans les entreprises ? Est-ce qu’elle est toujours écoutée ?**
 
 Évidemment elle n’est pas toujours écoutée et elle ne le sera pas pendant encore longtemps, c’est quand même un métier très neuf. Il y a encore beaucoup de travail à faire et de poussière à enlever avant de pouvoir mettre une nouvelle dynamique dans les boîtes pour qu’elles soient vraiment centrées sur l'utilisateur dans leurs démarches. Aujourd’hui pour moi ça dépend des profils avec qui je travaille : est-ce que la boîte est user centric et si oui, quelles méthodes sont utilisées.
 
