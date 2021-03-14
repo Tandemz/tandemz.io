@@ -192,6 +192,12 @@ sections:
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
+  - logo: "/images/logo-cousto.svg"
+    alt: Cousto
+    title: Cousto
+  - logo: "/images/logo-haigo.svg"
+    alt: Haigo
+    title: Haigo
   - logo: "/images/logo.svg"
     alt: Logo the design crew
     title: The design crew
