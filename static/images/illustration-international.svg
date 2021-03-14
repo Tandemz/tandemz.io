@@ -1,31 +1,30 @@
 <svg width="788" height="640" viewBox="0 0 788 640" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="788" height="640" fill="white"/>
-<path d="M47.5634 245.203L113.337 64.3307L237.091 211.729L47.5634 245.203Z" fill="#00BD66"/>
-<path d="M463.241 458.813L595.662 435.745L549.429 561.959L463.241 458.813Z" fill="#1493FF"/>
-<path d="M241 321.159L377.841 261L438 397.841L301.159 458L241 321.159Z" fill="#FF5533"/>
-<path d="M582.127 120.581L709.431 178.127L651.885 305.431L524.581 247.885L582.127 120.581Z" fill="#8D4FF8"/>
+<path d="M473 93.5082L496.24 29.5997L539.967 81.6806L473 93.5082Z" fill="#00BD66"/>
+<path d="M577.263 514.526L661.727 499.813L632.238 580.318L577.263 514.526Z" fill="#1493FF"/>
+<path d="M70 416.819L124.181 393L148 447.181L93.8193 471L70 416.819Z" fill="#FF5533"/>
 <g filter="url(#filter0_d)">
-<circle cx="289.5" cy="489.5" r="100.5" fill="#E7FFE8"/>
-<circle cx="365" cy="100" r="60" fill="#E7FFE8"/>
-<circle cx="411" cy="326" r="60" fill="#E7FFE8"/>
-<circle cx="153.5" cy="273.5" r="75.5" fill="#E7FFE8"/>
-<circle cx="654" cy="377" r="49" fill="#E7FFE8"/>
-<circle cx="509.5" cy="510.5" r="39.5" fill="#E7FFE8"/>
-<circle cx="723.5" cy="117.5" r="35.5" fill="#E7FFE8"/>
-<circle cx="174.5" cy="107.5" r="35.5" fill="#E7FFE8"/>
-<circle cx="550.5" cy="187.5" r="51.5" fill="#E7FFE8"/>
-<path d="M230 552.4H350V432.4H230V552.4Z" fill="url(#pattern0)"/>
-<path d="M325 139.6H405V59.6H325V139.6Z" fill="url(#pattern1)"/>
-<path d="M370 365.6H450V285.6H370V365.6Z" fill="url(#pattern2)"/>
-<path d="M102 323H202V223H102V323Z" fill="url(#pattern3)"/>
-<path d="M623 405.2H683V345.2H623V405.2Z" fill="url(#pattern4)"/>
-<path d="M485 535.5H535V485.5H485V535.5Z" fill="url(#pattern5)"/>
-<path d="M701 140.15H746V95.15H701V140.15Z" fill="url(#pattern6)"/>
-<path d="M152 130.15H197V85.15H152V130.15Z" fill="url(#pattern7)"/>
-<path d="M520 217.2H580V157.2H520V217.2Z" fill="url(#pattern8)"/>
+<circle cx="281.5" cy="489.5" r="100.5" fill="#E7FFE8"/>
+<circle cx="341" cy="156" r="60" fill="#E7FFE8"/>
+<circle cx="403" cy="326" r="60" fill="#E7FFE8"/>
+<circle cx="145.5" cy="281.5" r="75.5" fill="#E7FFE8"/>
+<circle cx="638" cy="361" r="49" fill="#E7FFE8"/>
+<circle cx="501.5" cy="486.5" r="39.5" fill="#E7FFE8"/>
+<circle cx="535.5" cy="227.5" r="35.5" fill="#E7FFE8"/>
+<circle cx="190.5" cy="91.5" r="35.5" fill="#E7FFE8"/>
+<circle cx="664.5" cy="123.5" r="51.5" fill="#E7FFE8"/>
+<path d="M222 552.4H342V432.4H222V552.4Z" fill="url(#pattern0)"/>
+<path d="M301 195.6H381V115.6H301V195.6Z" fill="url(#pattern1)"/>
+<path d="M362 365.6H442V285.6H362V365.6Z" fill="url(#pattern2)"/>
+<path d="M94 331H194V231H94V331Z" fill="url(#pattern3)"/>
+<path d="M607 389.2H667V329.2H607V389.2Z" fill="url(#pattern4)"/>
+<path d="M477 511.5H527V461.5H477V511.5Z" fill="url(#pattern5)"/>
+<path d="M513 250.15H558V205.15H513V250.15Z" fill="url(#pattern6)"/>
+<path d="M168 114.15H213V69.15H168V114.15Z" fill="url(#pattern7)"/>
+<path d="M634 153.2H694V93.2H634V153.2Z" fill="url(#pattern8)"/>
 </g>
 <defs>
-<filter id="filter0_d" x="60" y="26" width="717" height="586" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_d" x="52" y="42" width="682" height="570" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
 <feOffset dy="4"/>
