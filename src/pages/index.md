@@ -77,27 +77,70 @@ sections:
   type: featuresblock
   title: Some more paragraphs
   featureslist:
-  - title: Target the best audience for your user research
-    content: |-
-      Access detailed targeting criteria: location, age, interests, job title... Need more? Add a screener to pinpoint your audience!
-
-      Get a price estimate in real time, and as soon as you're happy with everything, launch your study in one click. Your recruitment starts immediately!
+  - title: Find exactly who you need for your user research
+    content: 'Access detailed targeting criteria: location, age, interests, job title...
+      Need more? Add a screener to pinpoint your audience!'
     image: "/images/illustration-screening.svg"
     image_alt: Targeting
     is_beta: false
     coming_soon: false
     actions: []
-  - title: Stay in control of your recruitment
-    content: "Review participant profiles and handpick who gets to participate in
-      your study. \n\nCentralise all your exchanges on Tandemz: message participants
-      directly from the app and sync your calendar availabilities. Say goodbye to
-      the multitude of tools that clutter your user research!"
+  - title: Target your audience, wherever in the world
+    content: Nowadays, products are borderless, so why should your user research be?
+      With Tandemz, finding participants outside of your country has never been this
+      easy!
+    image: "/images/illustration-international.svg"
+    image_alt: International user research
+    is_beta: false
+    coming_soon: false
+    actions: []
+  - content: Review participant profiles and handpick who gets to participate in your
+      study - or automatise your validation workflow via your screener!
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
     coming_soon: false
     actions: []
+    title: Stay in control of your study
+  - content: 'Centralise all your communication with participants on Tandemz: message
+      them directly from the app, sync your calendar availabilities, and let the platform
+      handle the incentives. Say goodbye to the multitude of tools that clutter your
+      user research!'
+    image: "/images/illustration-logistics.svg"
+    image_alt: Logistics
+    is_beta: false
+    coming_soon: false
+    actions: []
+    title: We remove all the logistics so you can concentrate on what matters
   section_id: ''
+  subtitle: ''
+- template: faqblock
+  component: FaqBlock
+  bg: white
+  type: faqblock
+  faqitems:
+  - question: How are participants recruited?
+    answer: We mainly recruit participants through social media ads - this allows
+      us to be very precise in our targeting and to recruit worldwide!
+  - question: How long does it take to recruit participants?
+    answer: "For general targets, the first couple of qualified participants generally
+      appear within 24h after your project launch. The session will then fill itself
+      within 3 to 5 working days.  \nFor professional targets, timing is trickier,
+      therefore we usually set up a call with you in order to be able to estimate
+      the time it would take to recruit."
+  - question: In what countries exactly do you recruit?
+    answer: "Our recruitment method through social network ads allows us to people
+      in any country! For now our clients mainly recruit in the US, France, the UK,
+      Germany, Italy, Spain, Brazil and HongKong.  \nThe only country that is for
+      now unavailable is China, as most of the social networks we use are banned there."
+  - question: Do you recruit professionals for B2B products?
+    answer: Yes we do! However, we will need to discuss your target directly before
+      we can start recruiting in order to study the project's complexity and timing
+      needs. Just choose the "Professionals" option in our recruit page to send us
+      your requirements, and we will be in touch!
+  section_id: ''
+  title: ''
+  title_level_one: false
   subtitle: ''
 - template: reviewsblock
   component: ReviewsBlock
@@ -131,18 +174,15 @@ sections:
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
-  - logo: "/images/logo-bam.svg"
-    alt: 'BAM '
-    title: BAM
-  - logo: "/images/ux-republic-black-h.png"
-    alt: UX Republic Logo
-    title: UX Republic
   - logo: "/images/logoaffordance-1.png"
     alt: Affordance Logo
     title: Affordance
   - logo: "/images/logofaireparterie.png"
     alt: Faireparterie Logo
     title: Faireparterie
+  - logo: "/images/ux-republic-black-h.png"
+    alt: UX Republic Logo
+    title: UX Republic
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
