@@ -174,6 +174,9 @@ sections:
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
+  - logo: "/images/logo-bam.svg"
+    alt: BAM Logo
+    title: BAM logo
   - logo: "/images/logoaffordance-1.png"
     alt: Affordance Logo
     title: Affordance
