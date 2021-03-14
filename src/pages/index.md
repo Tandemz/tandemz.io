@@ -119,7 +119,7 @@ sections:
   bg: white
   type: faqblock
   faqitems:
-  - question: How are participants recruited?
+  - question: How are participants and testers recruited?
     answer: We mainly recruit participants through social media ads - this allows
       us to be very precise in our targeting and to recruit worldwide!
   - question: How long does it take to recruit participants?
@@ -128,12 +128,12 @@ sections:
       within 3 to 5 working days.  \nFor professional targets, timing is trickier,
       therefore we usually set up a call with you in order to be able to estimate
       the time it would take to recruit."
-  - question: In what countries exactly do you recruit?
+  - question: In what countries exactly do you recruit participants?
     answer: "Our recruitment method through social network ads allows us to people
       in any country! For now our clients mainly recruit in the US, France, the UK,
       Germany, Italy, Spain, Brazil and HongKong.  \nThe only country that is for
       now unavailable is China, as most of the social networks we use are banned there."
-  - question: Do you recruit professionals for B2B products?
+  - question: Do you recruit professionals for studies on B2B products?
     answer: Yes we do! However, we will need to discuss your target directly before
       we can start recruiting in order to study the project's complexity and timing
       needs. Just choose the "Professionals" option in our recruit page to send us
