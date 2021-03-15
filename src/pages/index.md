@@ -216,7 +216,7 @@ sections:
   - logo: "/images/logo-ile-de-france.png"
     alt: Logo région Ile de France
     title: Logo région Ile de France
-  - logo: "/images/pepiniere-27.png"
+  - logo: "/images/logo-pep27-vertical-fond-blanc.png"
     alt: Pépinière 27 Logo
     title: Pépinière 27
   - logo: "/images/cci.png"
