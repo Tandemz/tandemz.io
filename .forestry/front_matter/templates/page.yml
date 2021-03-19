@@ -55,5 +55,6 @@ fields:
   label: SEO
 pages:
 - src/pages/about.md
+- src/pages/accord-de-confidentialite.md
 - src/pages/politique-de-confidentialite-client.md
 - src/pages/politique-relative-aux-cookies.md
