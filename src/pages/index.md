@@ -165,6 +165,9 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/logo_lagrandeourse_rvb_hd.jpg"
+    alt: La Grande Ourse logo
+    title: La Grande Ourse
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
