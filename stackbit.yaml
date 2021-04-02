@@ -1,5 +1,7 @@
 stackbitVersion: ~0.2.0
 ssgName: gatsby
+nodeVersion: 12
+ssgVersion: 0.1.12
 buildCommand: ./ssg-build.sh
 publishDir: public
 staticDir: static
@@ -7,7 +9,6 @@ uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
-nodeVersion: 12
 metadata:
   title: Azimuth
   description: A sleek SaaS theme
