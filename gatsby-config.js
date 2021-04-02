@@ -1,3 +1,25 @@
+const GTMEnvs = {
+  dev: {
+    gtmPreview: 'env-5',
+    gtmAuth: '9APlEd5ZFUghA6qmaCok8w',
+  },
+  staging: {
+    gtmPreview: 'env-7',
+    gtmAuth: 'WlR5Tyk1UZLjDaikEPK7uQ',
+  },
+  prod: {
+    gtmPreview: 'env-1',
+    gtmAuth: '89zgLvQPHqBx2C2wn6XNwg',
+  },
+};
+
+const env =
+  process.env.BRANCH === 'master'
+    ? 'prod'
+    : process.env.BRANCH === 'staging'
+    ? 'staging'
+    : 'dev';
+
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
@@ -65,10 +87,20 @@ module.exports = {
               identifier: 'participants',
               title: 'Get paid to participate',
               weight: 4,
-              url: 'https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8',
+              url:
+                'https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8',
             },
           ],
         },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-google-tagmanager',
+      options: {
+        id: 'GTM-MZBWH9T',
+        includeInDevelopment: true,
+        defaultDataLayer: { platform: 'landing' },
+        ...GTMEnvs[env],
       },
     },
   ],

@@ -17,6 +17,7 @@
     "gatsby": "^2.23.22",
     "gatsby-cli": "^2.12.59",
     "gatsby-plugin-google-gtag": "^1.2.1",
+    "gatsby-plugin-google-tagmanager": "^3.2.0",
     "gatsby-plugin-html-attributes": "^1.0.5",
     "gatsby-plugin-react-helmet": "^3.3.9",
     "gatsby-plugin-robots-txt": "^1.5.1",
