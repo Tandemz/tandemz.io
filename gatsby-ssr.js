@@ -55,9 +55,9 @@ exports.onRenderBody = function ({
   const { gtmAuth, gtmPreview } = GTMEnvs[env];
   const environmentParamStr = `&gtm_auth=${gtmAuth}&gtm_preview=${gtmPreview}&gtm_cookies_win=x`;
 
-  let defaultDataLayerCode = (defaultDataLayerCode = generateDefaultDataLayer({
+  let defaultDataLayerCode = generateDefaultDataLayer({
     platform: 'landing',
-  }));
+  });
 
   setHeadComponents([
     // <script
