@@ -8,6 +8,7 @@ uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
+nodeVersion: 12
 metadata:
   title: Azimuth
   description: A sleek SaaS theme
