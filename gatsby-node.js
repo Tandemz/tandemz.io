@@ -37,6 +37,6 @@ exports.onCreatePage = ({ page }) => {
     () => {
       console.log(`File created : ${file}`);
     },
-    e => console.error(e),
+    (e) => console.error(e),
   );
 };

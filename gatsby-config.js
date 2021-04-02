@@ -1,25 +1,3 @@
-const GTMEnvs = {
-  dev: {
-    gtmPreview: 'env-5',
-    gtmAuth: '9APlEd5ZFUghA6qmaCok8w',
-  },
-  staging: {
-    gtmPreview: 'env-7',
-    gtmAuth: 'WlR5Tyk1UZLjDaikEPK7uQ',
-  },
-  prod: {
-    gtmPreview: 'env-1',
-    gtmAuth: '89zgLvQPHqBx2C2wn6XNwg',
-  },
-};
-
-const env =
-  process.env.BRANCH === 'master'
-    ? 'prod'
-    : process.env.BRANCH === 'staging'
-    ? 'staging'
-    : 'dev';
-
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
@@ -92,15 +70,6 @@ module.exports = {
             },
           ],
         },
-      },
-    },
-    {
-      resolve: 'gatsby-plugin-google-tagmanager',
-      options: {
-        id: 'GTM-MZBWH9T',
-        includeInDevelopment: true,
-        defaultDataLayer: { platform: 'landing' },
-        ...GTMEnvs[env],
       },
     },
   ],
