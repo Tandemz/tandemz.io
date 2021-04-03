@@ -61,11 +61,6 @@ exports.onRenderBody = function ({
 
   setHeadComponents([
     <script
-      id="cookieyes"
-      type="text/javascript"
-      src="https://cdn-cookieyes.com/client_data/62e51a8a40555d6b551204f7.js"
-    ></script>,
-    <script
       key="plugin-google-tagmanager"
       dangerouslySetInnerHTML={{
         __html: `${defaultDataLayerCode} ${generateGTM({
