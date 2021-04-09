@@ -23,11 +23,10 @@ const GTMEnvs = {
   },
 };
 
-console.log(process.env);
 const env =
-  process.env.BRANCH === 'master'
+  process.env.CONTEXT === 'production'
     ? 'prod'
-    : process.env.BRANCH === 'staging'
+    : process.env.CONTEXT === 'branch-deploy'
     ? 'staging'
     : 'dev';
 
