@@ -23,7 +23,7 @@ const GTMEnvs = {
   },
 };
 
-console.log(process.env.BRANCH);
+console.log(process.env);
 const env =
   process.env.BRANCH === 'master'
     ? 'prod'
