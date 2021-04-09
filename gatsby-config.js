@@ -1,3 +1,9 @@
+const menus = [
+  ['fr', require('./src/data/fr/menus.json')],
+  ['en', require('./src/data/en/menus.json')],
+];
+
+
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
@@ -31,13 +37,14 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
-        path: `${__dirname}/src/pages`,
+        path: `${__dirname}/src/pages/en`,
       },
     },
     {
-      resolve: 'gatsby-plugin-html-attributes',
+      resolve: `gatsby-source-filesystem`,
       options: {
-        lang: 'fr',
+        name: `pages`,
+        path: `${__dirname}/src/pages`,
       },
     },
     {
@@ -58,17 +65,13 @@ module.exports = {
       options: {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
-        menus: require('./src/data/menus.json'),
         menus: {
-          main: [
-            {
-              identifier: 'participants',
-              title: 'Get paid to participate',
-              weight: 4,
-              url:
-                'https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8',
-            },
-          ],
+          require('./src/data/menus.json'),
+          ...menus.reduce((res, [lang, config]) => {
+            Object.keys(config).forEach((key) => {
+              res[`${key}-${lang}`] = config[key];
+            });
+          }, {});
         },
       },
     },
