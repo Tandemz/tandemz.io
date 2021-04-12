@@ -72,5 +72,32 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: 'gatsby-tandemz-gtm',
+      options: {
+        gtmId: 'GTM-MZBWH9T',
+        configs: {
+          dev: {
+            gtmPreview: 'env-5',
+            gtmAuth: '9APlEd5ZFUghA6qmaCok8w',
+          },
+          staging: {
+            gtmPreview: 'env-7',
+            gtmAuth: 'WlR5Tyk1UZLjDaikEPK7uQ',
+          },
+          prod: {
+            gtmPreview: 'env-1',
+            gtmAuth: '89zgLvQPHqBx2C2wn6XNwg',
+          },
+        },
+
+        env:
+          process.env.BRANCH === 'master'
+            ? 'prod'
+            : process.env.BRANCH === 'staging'
+            ? 'staging'
+            : 'dev',
+      },
+    },
   ],
 };

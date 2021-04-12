@@ -3,83 +3,10 @@
  *
  * See: https://www.gatsbyjs.org/docs/ssr-apis/
  */
-
 const React = require('react');
 const safePrefix = require('./src/utils/safePrefix').default;
 
-const gtmId = 'GTM-MZBWH9T';
-const GTMEnvs = {
-  dev: {
-    gtmPreview: 'env-5',
-    gtmAuth: '9APlEd5ZFUghA6qmaCok8w',
-  },
-  staging: {
-    gtmPreview: 'env-7',
-    gtmAuth: 'WlR5Tyk1UZLjDaikEPK7uQ',
-  },
-  prod: {
-    gtmPreview: 'env-1',
-    gtmAuth: '89zgLvQPHqBx2C2wn6XNwg',
-  },
-};
-
-const env =
-  process.env.CONTEXT === 'production'
-    ? 'prod'
-    : process.env.CONTEXT === 'branch-deploy'
-    ? 'staging'
-    : 'dev';
-
-const generateGTM = ({ id, environmentParamStr }) =>
-  `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':` +
-  `new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],` +
-  `j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=` +
-  `'https://www.googletagmanager.com/gtm.js?id='+i+dl+'${environmentParamStr}';f.parentNode.insertBefore(j,f);` +
-  `})(window,document,'script','dataLayer', '${id}');`;
-
-const generateGTMIframe = ({ id, environmentParamStr }) =>
-  `<iframe src="https://www.googletagmanager.com/ns.html?id=${id}${environmentParamStr}" height="0" width="0" style="display: none; visibility: hidden" aria-hidden="true"></iframe>`;
-
-const generateDefaultDataLayer = (dataLayer) => {
-  let result = 'window.dataLayer = window.dataLayer || [];';
-  result += `window.dataLayer.push(${JSON.stringify(dataLayer)});`;
-  return result;
-};
-
-exports.onRenderBody = function ({
-  setHeadComponents,
-  setPostBodyComponents,
-  setPreBodyComponents,
-  reporter,
-}) {
-  const { gtmAuth, gtmPreview } = GTMEnvs[env];
-  const environmentParamStr = `&gtm_auth=${gtmAuth}&gtm_preview=${gtmPreview}&gtm_cookies_win=x`;
-
-  let defaultDataLayerCode = generateDefaultDataLayer({
-    platform: 'landing',
-  });
-
-  setHeadComponents([
-    <script
-      key="plugin-google-tagmanager"
-      dangerouslySetInnerHTML={{
-        __html: `${defaultDataLayerCode} ${generateGTM({
-          id: gtmId,
-          environmentParamStr,
-        })}`,
-      }}
-    />,
-  ]);
-
-  setPreBodyComponents([
-    <noscript
-      key="plugin-google-tagmanager"
-      dangerouslySetInnerHTML={{
-        __html: generateGTMIframe({ id: gtmId, environmentParamStr }),
-      }}
-    />,
-  ]);
-
+exports.onRenderBody = function ({ setPostBodyComponents }) {
   setPostBodyComponents([
     <React.Fragment>
       <script src={safePrefix('assets/js/plugins.js')} />
