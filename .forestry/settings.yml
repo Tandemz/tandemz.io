@@ -70,7 +70,11 @@ sections:
   path: src/data/fr/menus.json
   label: Menu
 - type: heading
-  label: Blog
+  label: Commun
+- type: document
+  path: src/pages/404.md
+  label: '404'
+  match: "**/*"
 - type: directory
   path: src/pages/posts
   label: Post
