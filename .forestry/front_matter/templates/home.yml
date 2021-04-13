@@ -33,3 +33,12 @@ fields:
   config: {}
   template: page-seo
   label: SEO
+pages:
+  - src/pages/en/index.md
+  - src/pages/fr/index.md
+  - src/pages/fr/landing-international.md
+  - src/pages/fr/panel.md
+  - src/pages/fr/participant.md
+  - src/pages/fr/recherche-utilisateur-facile.md
+  - src/pages/fr/recherche-utilisateur-rapide.md
+  - src/pages/fr/recruit.md

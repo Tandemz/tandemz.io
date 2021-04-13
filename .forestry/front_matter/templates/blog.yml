@@ -26,3 +26,6 @@ fields:
   config: {}
   template: page-seo
   label: SEO
+pages:
+  - src/pages/fr/blog.md
+  - src/pages/en/blog.md
