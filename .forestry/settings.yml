@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: ''
 webhook_url: https://api.stackbit.com/project/5d833248eee8550011997b7e/webhook/forestry
 sections:
-- type: heading
-  label: English
 - type: document
   path: site-metadata.json
   label: Global Site Config
   templates:
   - config
+- type: heading
+  label: English
 - type: document
   path: src/pages/en/index.md
   label: Home
@@ -24,43 +24,60 @@ sections:
 - type: document
   path: src/pages/en/pricing.md
   label: Pricing
+- type: document
+  path: src/pages/en/FAQ
+  label: FAQ
+  match: "**/*"
+- type: document
+  path: src/pages/en/blog.md
+  label: Blog
+  templates:
+  - blog
 - type: directory
   path: src/pages/en
   label: Pages
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md,recruit.md,panel.md}"
+  exclude: "{index.md,pricing.md,blog.md,contact.md,FAQ.md}"
   templates:
   - page
+- type: document
+  path: src/data/fr/menu.json
+  label: Menu
+  match: "**/*"
 - type: heading
   label: Français
 - type: document
-  path: src/pages/fr/participant.md
-  label: Participants
-  templates:
-  - home
+  path: src/pages/fr/index.md
+  label: Home
+  match: "**/*"
 - type: document
-  path: src/pages/fr/recruit.md
-  label: Recrutement
+  path: src/pages/fr/contact.md
+  label: Contact
+  match: "**/*"
 - type: document
-  path: src/pages/fr/panel.md
-  label: Gestion de panel
+  path: src/pages/fr/pricing.md
+  label: Pricing
+  match: "**/*"
+- type: document
+  path: src/pages/fr/FAQ
+  label: FAQ
+  match: "**/*"
+- type: document
+  path: src/pages/fr/blog.md
+  label: Blog
 - type: directory
   path: src/pages/fr
   label: Pages
   create: all
   match: "**/*"
-  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md,recruit.md,panel.md}"
+  exclude: "{index.md,pricing.md,blog.md,contact.md,FAQ.md}"
+- type: document
+  path: src/data/en/menu.json
+  label: Menu
+  match: "**/*"
 - type: heading
   label: Blog
-- type: document
-  path: src/pages/blog/en/index.md
-  label: Accueil Blog - EN
-  templates:
-  - blog
-- type: document
-  path: src/pages/fr/blog.md
-  label: Accueil Blog - FR
 - type: directory
   path: src/pages/posts
   label: Post

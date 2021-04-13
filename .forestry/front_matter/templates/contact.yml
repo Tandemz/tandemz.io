@@ -24,5 +24,4 @@ fields:
   label: Image
   description: The image shown below the page title.
 pages:
-  - src/pages/fr/contact.md
-  - src/pages/en/contact.md
+- src/pages/en/contact.md

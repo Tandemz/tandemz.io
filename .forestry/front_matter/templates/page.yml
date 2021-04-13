@@ -54,8 +54,8 @@ fields:
   template: page-seo
   label: SEO
 pages:
-  - src/pages/en/about.md
-  - src/pages/fr/accord-de-confidentialite.md
-  - src/pages/en/confidentiality-agreement.md
-  - src/pages/fr/politique-de-confidentialite-client.md
-  - src/pages/fr/politique-relative-aux-cookies.md
+- src/pages/en/about.md
+- src/pages/en/confidentiality-agreement.md
+- src/pages/fr/accord-de-confidentialite.md
+- src/pages/fr/politique-de-confidentialite-client.md
+- src/pages/fr/politique-relative-aux-cookies.md
