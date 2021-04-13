@@ -1,9 +1,29 @@
 {
     "main": [
         {
-            "identifier": "participants",
-            "title": "Get paid to participate",
+            "title": "Home",
+            "weight": 1,
+            "url": "/"
+        },
+        {
+            "title": "Pricing",
+            "weight": 2,
+            "url":
+            "/pricing"
+        },
+        {
+            "title": "FAQ",
+            "weight": 3,
+            "url": "/FAQ"
+        },
+        {
+            "title": "Blog",
             "weight": 4,
+            "url": "/blog"
+        },
+        {
+            "title": "Get paid to participate",
+            "weight": 5,
             "url":
             "https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8"
         }

@@ -3,7 +3,6 @@ const menus = [
   ['en', require('./src/data/en/menus.json')],
 ];
 
-
 module.exports = {
   pathPrefix: '/',
   siteMetadata: {
@@ -34,16 +33,16 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: `pages`,
+        name: 'pages-en',
         path: `${__dirname}/src/pages/en`,
       },
     },
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: 'gatsby-source-filesystem',
       options: {
-        name: `pages`,
+        name: 'pages-fr',
         path: `${__dirname}/src/pages`,
       },
     },
@@ -66,12 +65,13 @@ module.exports = {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
         menus: {
-          require('./src/data/menus.json'),
+          ...require('./src/data/menus.json'),
           ...menus.reduce((res, [lang, config]) => {
             Object.keys(config).forEach((key) => {
-              res[`${key}-${lang}`] = config[key];
+              res[`${key}_${lang}`] = config[key];
             });
-          }, {});
+            return res;
+          }, {}),
         },
       },
     },

@@ -42,7 +42,7 @@ class RecruitBlock extends React.PureComponent {
           action={requestQuotationUrl}
           method="GET"
         >
-          <label for="numberOfParticipantRequired">I need</label>
+          <label htmlFor="numberOfParticipantRequired">I need</label>
           <NumberInput
             type="number"
             id="numberOfParticipantRequired"
@@ -50,7 +50,7 @@ class RecruitBlock extends React.PureComponent {
             defaultValue={6}
             min="1"
           />
-          <label for="studyType">users for</label>
+          <label htmlFor="studyType">users for</label>
           <Select id="studyType" name="type" options={options} />
           <button type="submit" className="button primary button--with-arrow">
             Recruit now

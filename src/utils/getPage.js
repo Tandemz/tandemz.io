@@ -1,7 +1,8 @@
 import _ from 'lodash';
 
-export default function(pages, pagePath) {
-    // TODO: resolve relative paths relative to current page
-    pagePath = pagePath.replace(/^\//, '');
-    return _.find(pages, {relativePath: pagePath});
+export default function (pages, pagePath) {
+  console.log('getPage', pages, pagePath);
+  // TODO: resolve relative paths relative to current page
+  pagePath = pagePath.replace(/^\//, '');
+  return _.find(pages, { relativePath: pagePath });
 }

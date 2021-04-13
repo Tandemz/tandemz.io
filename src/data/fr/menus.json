@@ -1,9 +1,29 @@
 {
     "main": [
         {
-            "identifier": "participants",
-            "title": "Participer à des études rémunérées",
+            "title": "Accueil",
+            "weight": 1,
+            "url": "/fr"
+        },
+        {
+            "title": "Pricing",
+            "weight": 2,
+            "url":
+            "/fr/pricing"
+        },
+        {
+            "title": "FAQ",
+            "weight": 3,
+            "url": "/fr/FAQ"
+        },
+        {
+            "title": "Blog",
             "weight": 4,
+            "url": "/blog"
+        },
+        {
+            "title": "Participer à des études rémunérées",
+            "weight": 5,
             "url":
             "https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8"
         }

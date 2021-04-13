@@ -6,6 +6,8 @@ import Menu from './Menu';
 
 export default class Header extends React.Component {
   render() {
+    console.log(this.props.pageContext);
+    const locale = this.props.pageContext.locale;
     return (
       <div className="site-header-container">
         <header id="masthead" className="site-header">
@@ -34,7 +36,7 @@ export default class Header extends React.Component {
             'pageContext.site.siteMetadata.header.has_nav',
           ) && (
             <Menu
-              menu={_.get(this.props, 'pageContext.menus.main')}
+              menu={_.get(this.props, `pageContext.menus.main_${locale}`)}
               actions={_.get(
                 this.props,
                 'pageContext.site.siteMetadata.header.menu.actions',
