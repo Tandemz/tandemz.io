@@ -79,7 +79,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  exclude: "{fr,en,posts,404.md}"
+  exclude: "{fr/**,en/**,posts/**,404.md}"
 - type: directory
   path: src/pages/posts
   label: Post

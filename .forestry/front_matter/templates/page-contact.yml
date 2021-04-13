@@ -30,4 +30,6 @@ fields:
   label: SEO
 pages:
 - src/pages/en/contact.md
+- src/pages/en/contact.md
+- src/pages/fr/contact.md
 - src/pages/fr/contact.md

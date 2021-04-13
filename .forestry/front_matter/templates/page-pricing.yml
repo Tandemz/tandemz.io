@@ -25,4 +25,6 @@ fields:
   label: SEO
 pages:
 - src/pages/en/pricing.md
+- src/pages/en/pricing.md
+- src/pages/fr/pricing.md
 - src/pages/fr/pricing.md
