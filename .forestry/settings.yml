@@ -12,28 +12,17 @@ sections:
   templates:
   - config
 - type: document
-  path: src/pages/index.md
+  path: src/pages/en/index.md
   label: Home
   templates:
   - home
 - type: document
-  path: src/pages/recruit.md
-  label: Recrutement
-- type: document
-  path: src/pages/panel.md
-  label: Gestion de panel
-- type: document
-  path: src/pages/participant.md
-  label: Participants
-  templates:
-  - home
-- type: document
-  path: src/pages/contact.md
+  path: src/pages/en/contact.md
   label: Contact
   templates:
   - contact
 - type: document
-  path: src/pages/pricing.md
+  path: src/pages/en/pricing.md
   label: Pricing
 - type: directory
   path: src/pages/en
@@ -45,6 +34,17 @@ sections:
   - page
 - type: heading
   label: Français
+- type: document
+  path: src/pages/fr/participant.md
+  label: Participants
+  templates:
+  - home
+- type: document
+  path: src/pages/fr/recruit.md
+  label: Recrutement
+- type: document
+  path: src/pages/fr/panel.md
+  label: Gestion de panel
 - type: directory
   path: src/pages/fr
   label: Pages
@@ -61,7 +61,6 @@ sections:
 - type: document
   path: src/pages/fr/blog.md
   label: Accueil Blog - FR
-  match: "**/*"
 - type: directory
   path: src/pages/posts
   label: Post
