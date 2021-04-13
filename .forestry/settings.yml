@@ -36,7 +36,7 @@ sections:
   path: src/pages/pricing.md
   label: Pricing
 - type: directory
-  path: src/pages
+  path: src/pages/en
   label: Pages
   create: all
   match: "**/*"
@@ -44,12 +44,24 @@ sections:
   templates:
   - page
 - type: heading
+  label: Français
+- type: directory
+  path: src/pages/fr
+  label: Pages
+  create: all
+  match: "**/*"
+  exclude: "{posts/**,index.md,pricing.md,features.md,blog/index.md,contact.md,recruit.md,panel.md}"
+- type: heading
   label: Blog
 - type: document
-  path: src/pages/blog/index.md
-  label: Accueil Blog
+  path: src/pages/blog/en/index.md
+  label: Accueil Blog - EN
   templates:
   - blog
+- type: document
+  path: src/pages/fr/blog.md
+  label: Accueil Blog - FR
+  match: "**/*"
 - type: directory
   path: src/pages/posts
   label: Post

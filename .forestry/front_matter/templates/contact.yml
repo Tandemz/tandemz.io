@@ -23,5 +23,3 @@ fields:
   name: img_path
   label: Image
   description: The image shown below the page title.
-pages:
-- src/pages/contact.md
