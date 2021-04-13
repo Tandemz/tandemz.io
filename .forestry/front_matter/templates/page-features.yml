@@ -1,25 +1,30 @@
 ---
-label: FAQ
+label: Page Features
 hide_body: true
 fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the page.
+  config:
+    required: true
 - type: blocks
   name: sections
   label: Sections
-  description: Pricing page sections.
+  description: Features page sections.
   template_types:
   - contentblock
   - ctablock
-  - faqblock
-  - pricingblock
+  - featuresblock
 - type: text
   name: template
   label: Template
   hidden: true
-  default: FAQ
+  default: features
   config:
     required: true
 - name: seo
   type: include
   config: {}
-  template: page-seo
+  template: seo-fields
   label: SEO

@@ -1,0 +1,26 @@
+---
+label: Page FAQ
+hide_body: true
+fields:
+- type: blocks
+  name: sections
+  label: Sections
+  description: Faq page sections.
+  template_types:
+  - faqblock
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: faq
+  config:
+    required: true
+- name: seo
+  type: include
+  config: {}
+  template: seo-fields
+  label: SEO
+pages:
+- src/pages/en/FAQ.md
+- src/pages/fr/FAQ.md
+- src/pages/fr/aide-en-ligne.md

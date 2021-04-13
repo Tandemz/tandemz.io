@@ -1,5 +1,5 @@
 ---
-label: Contact
+label: Page Contact
 hide_body: false
 fields:
 - type: text
@@ -23,5 +23,11 @@ fields:
   name: img_path
   label: Image
   description: The image shown below the page title.
+- name: seo
+  type: include
+  config: {}
+  template: seo-fields
+  label: SEO
 pages:
 - src/pages/en/contact.md
+- src/pages/fr/contact.md

@@ -1,5 +1,5 @@
 ---
-label: Blog
+label: Page Blog
 hide_body: true
 fields:
 - type: text
@@ -24,7 +24,7 @@ fields:
 - name: seo
   type: include
   config: {}
-  template: page-seo
+  template: seo-fields
   label: SEO
 pages:
 - src/pages/en/blog.md

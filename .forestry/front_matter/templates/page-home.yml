@@ -1,5 +1,5 @@
 ---
-label: Home
+label: Page Home
 hide_body: true
 fields:
 - type: blocks
@@ -31,11 +31,14 @@ fields:
 - name: seo
   type: include
   config: {}
-  template: page-seo
+  template: seo-fields
   label: SEO
 pages:
 - src/pages/en/index.md
+- src/pages/fr/index.md
 - src/pages/fr/landing-international.md
 - src/pages/fr/participant.md
-- src/pages/fr/recherche-utilisateur-facile.md
 - src/pages/fr/recherche-utilisateur-rapide.md
+- src/pages/fr/recherche-utilisateur-facile.md
+- src/pages/fr/panel.md
+- src/pages/fr/recruit.md

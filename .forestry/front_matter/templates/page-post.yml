@@ -1,5 +1,5 @@
 ---
-label: Post
+label: Page Post
 hide_body: false
 fields:
 - type: text
