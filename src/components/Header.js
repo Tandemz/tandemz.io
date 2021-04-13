@@ -6,7 +6,6 @@ import Menu from './Menu';
 
 export default class Header extends React.Component {
   render() {
-    console.log(this.props.pageContext);
     const locale = this.props.pageContext.locale;
     return (
       <div className="site-header-container">
