@@ -41,7 +41,7 @@ sections:
   templates:
   - page
 - type: document
-  path: src/data/fr/menus.json
+  path: src/data/en/menus.json
   label: Menu
 - type: heading
   label: Français
@@ -67,7 +67,7 @@ sections:
   match: "**/*"
   exclude: "{index.md,pricing.md,blog.md,contact.md,FAQ.md}"
 - type: document
-  path: src/data/en/menus.json
+  path: src/data/fr/menus.json
   label: Menu
 - type: heading
   label: Blog
