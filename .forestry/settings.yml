@@ -25,7 +25,7 @@ sections:
   path: src/pages/en/pricing.md
   label: Pricing
 - type: document
-  path: src/pages/en/FAQ
+  path: src/pages/en/FAQ.md
   label: FAQ
 - type: document
   path: src/pages/en/blog.md
@@ -55,7 +55,7 @@ sections:
   path: src/pages/fr/pricing.md
   label: Pricing
 - type: document
-  path: src/pages/fr/FAQ
+  path: src/pages/fr/FAQ.md
   label: FAQ
 - type: document
   path: src/pages/fr/blog.md
