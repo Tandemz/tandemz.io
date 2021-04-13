@@ -75,6 +75,12 @@ sections:
   path: src/pages/404.md
   label: '404'
 - type: directory
+  path: src/pages
+  label: Pages
+  create: all
+  match: "**/*"
+  exclude: "{fr,en,posts,404.md}"
+- type: directory
   path: src/pages/posts
   label: Post
   create: all
