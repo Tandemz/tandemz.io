@@ -27,7 +27,11 @@
     }
   ],
   "secondary": [
-
+    {
+      "title": "About us",
+      "url": "/about",
+      "weight": null
+    }
   ],
   "legal": [
 
