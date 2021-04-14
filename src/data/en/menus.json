@@ -55,6 +55,11 @@
   ],
   "legal": [
     {
+      "title": "Participant Privacy Policy",
+      "url": "/participants-privacy-policy/",
+      "weight": 1
+    },
+    {
       "title": "Conditions générales d'utilisation",
       "url": "/conditions-generales-utilisation",
       "weight": 1
