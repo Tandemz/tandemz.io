@@ -73,3 +73,6 @@ fields:
     max: 
     labelField: 
   label: legal
+pages:
+- src/data/en/menus.json
+- src/data/fr/menus.json
