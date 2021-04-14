@@ -27,7 +27,31 @@
     }
   ],
   "secondary": [
-
+    {
+      "url": "/about",
+      "weight": 1,
+      "title": "Qui sommes nous ?"
+    },
+    {
+      "title": "Blog",
+      "url": "/fr/blog",
+      "weight": 2
+    },
+    {
+      "title": "Pricing",
+      "url": "/fr/pricing",
+      "weight": 3
+    },
+    {
+      "title": "Contact",
+      "url": "/fr/contact",
+      "weight": 4
+    },
+    {
+      "title": "Recruter des participants !",
+      "url": "https://app.tandemz.io/recruit-participants",
+      "weight": 5
+    }
   ],
   "legal": [
     {
