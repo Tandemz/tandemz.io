@@ -40,8 +40,9 @@ exports.onCreateNode = ({ node, getNode, actions }, options) => {
       );
     }
 
-    const regexRes = /-(?<locale>[a-z]{2})$/.exec(fileNode.sourceInstanceName);
-    const locale = regexRes ? regexRes.groups.locale : '';
+    const regexRes = /^(?<locale>[a-z]{2})\//.exec(fileNode.relativePath);
+    const locale = regexRes ? regexRes.groups.locale : options.defaultLocale;
+
     let url;
     if (node.frontmatter.url) {
       url = node.frontmatter.url;
@@ -49,6 +50,11 @@ exports.onCreateNode = ({ node, getNode, actions }, options) => {
       url = path.join(fileNode.relativeDirectory, fileNode.name + '.html');
     } else {
       url = createFilePath({ node, getNode });
+    }
+
+    const defaultLocalePageRegex = new RegExp(`^\/${options.defaultLocale}/`);
+    if (locale === options.defaultLocale && defaultLocalePageRegex.test(url)) {
+      url = url.replace(defaultLocalePageRegex, '/');
     }
 
     createNodeField({ node, name: 'url', value: url });
@@ -128,7 +134,6 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
       const url = node.fields.url;
       const template = node.frontmatter.template;
       const component = path.resolve(`./src/templates/${template}.js`);
-      console.log(component);
 
       const existingPageNode = _.get(sitePageNodesByPath, url);
       if (existingPageNode) {

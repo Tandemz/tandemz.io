@@ -35,14 +35,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'pages-en',
-        path: `${__dirname}/src/pages/en`,
-      },
-    },
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        name: 'pages-fr',
+        name: 'pages',
         path: `${__dirname}/src/pages`,
       },
     },
@@ -57,7 +50,9 @@ module.exports = {
     },
     {
       resolve: `gatsby-remark-page-creator`,
-      options: {},
+      options: {
+        defaultLocale: 'en',
+      },
     },
     {
       resolve: `@stackbit/gatsby-plugin-menus`,
