@@ -54,6 +54,10 @@
     }
   ],
   "legal": [
-
+    {
+      "title": "Conditions générales d'utilisation",
+      "url": "/conditions-generales-utilisation",
+      "weight": 1
+    }
   ]
 }
