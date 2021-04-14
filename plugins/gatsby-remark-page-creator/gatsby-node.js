@@ -128,6 +128,7 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
       const url = node.fields.url;
       const template = node.frontmatter.template;
       const component = path.resolve(`./src/templates/${template}.js`);
+      console.log(component);
 
       const existingPageNode = _.get(sitePageNodesByPath, url);
       if (existingPageNode) {

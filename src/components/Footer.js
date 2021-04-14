@@ -1,12 +1,13 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Link, safePrefix, htmlToReact } from '../utils';
+import { Link, safePrefix, htmlToReact, getLocale } from '../utils';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
 
 export default class Footer extends React.Component {
   render() {
+    const locale = getLocale(this.props.pageContext);
     return (
       <footer id="colophon" className="site-footer">
         <div className="footer-top outer">
@@ -60,7 +61,7 @@ export default class Footer extends React.Component {
               </div>
               <nav className="widget footer-navigation">
                 <div className="footer-nav-inside">
-                  {_.get(this.props, 'pageContext.menus.secondary') &&
+                  {_.get(this.props, `pageContext.menus.secondary_${locale}`) &&
                     _.get(
                       this.props,
                       'pageContext.site.siteMetadata.footer.has_nav',
@@ -74,7 +75,10 @@ export default class Footer extends React.Component {
                         </h3>
                         <ul className="secondary-menu">
                           {_.map(
-                            _.get(this.props, 'pageContext.menus.secondary'),
+                            _.get(
+                              this.props,
+                              `pageContext.menus.secondary_${locale}`,
+                            ),
                             (item, item_idx) => (
                               <li key={item_idx}>
                                 <Link
@@ -107,7 +111,7 @@ export default class Footer extends React.Component {
                         </ul>
                       </div>
                     )}
-                  {_.get(this.props, 'pageContext.menus.legal') &&
+                  {_.get(this.props, `pageContext.menus.legal_${locale}`) &&
                     _.get(
                       this.props,
                       'pageContext.site.siteMetadata.footer.has_nav',
@@ -121,7 +125,10 @@ export default class Footer extends React.Component {
                         </h3>
                         <ul className="legal-menu">
                           {_.map(
-                            _.get(this.props, 'pageContext.menus.legal'),
+                            _.get(
+                              this.props,
+                              `pageContext.menus.legal_${locale}`,
+                            ),
                             (item, item_idx) => (
                               <li key={item_idx}>
                                 <Link

@@ -10,3 +10,4 @@ export { default as toStyleObj } from './toStyleObj';
 export { default as Link } from './link';
 export { default as loadDataRef } from './loadDataRef';
 export { default as sendEvent } from './sendEvent';
+export { default as getLocale } from './getLocale';

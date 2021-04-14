@@ -1,12 +1,12 @@
 import React from 'react';
 import _ from 'lodash';
 
-import { Link, safePrefix } from '../utils';
+import { Link, safePrefix, getLocale } from '../utils';
 import Menu from './Menu';
 
 export default class Header extends React.Component {
   render() {
-    const locale = this.props.pageContext.locale;
+    const locale = getLocale(this.props.pageContext);
     return (
       <div className="site-header-container">
         <header id="masthead" className="site-header">
