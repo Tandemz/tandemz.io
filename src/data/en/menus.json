@@ -30,7 +30,27 @@
     {
       "title": "About us",
       "url": "/about",
-      "weight": null
+      "weight": 1
+    },
+    {
+      "title": "Blog",
+      "url": "/blog",
+      "weight": 2
+    },
+    {
+      "title": "Pricing",
+      "url": "/pricing",
+      "weight": 3
+    },
+    {
+      "title": "Contact",
+      "url": "/contact",
+      "weight": 4
+    },
+    {
+      "title": "Recruit participants now!",
+      "url": "https://app.tandemz.io/recruit-participants",
+      "weight": 5
     }
   ],
   "legal": [
