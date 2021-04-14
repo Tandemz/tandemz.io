@@ -1,0 +1,17 @@
+---
+label: Config Menu
+hide_body: true
+fields:
+- type: field_group_list
+  name: main
+  label: main
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: number
+    name: weight
+    label: weight
+  - type: text
+    name: url
+    label: url

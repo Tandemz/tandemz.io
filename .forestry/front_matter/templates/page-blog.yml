@@ -28,6 +28,4 @@ fields:
   label: SEO
 pages:
 - src/pages/en/blog.md
-- src/pages/en/blog.md
-- src/pages/fr/blog.md
 - src/pages/fr/blog.md

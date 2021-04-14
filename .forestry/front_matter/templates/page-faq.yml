@@ -22,8 +22,5 @@ fields:
   label: SEO
 pages:
 - src/pages/en/FAQ.md
-- src/pages/en/FAQ.md
 - src/pages/fr/FAQ.md
-- src/pages/fr/FAQ.md
-- src/pages/fr/aide-en-ligne.md
 - src/pages/fr/aide-en-ligne.md
