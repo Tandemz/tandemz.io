@@ -31,6 +31,11 @@
   ],
   "legal": [
     {
+      "title": "Politique de confidentialité Client",
+      "url": "/politique-de-confidentialite-client/",
+      "weight": 2
+    },
+    {
       "title": "Conditions générales d'utilisation",
       "url": "/conditions-generales-utilisation",
       "weight": 1
