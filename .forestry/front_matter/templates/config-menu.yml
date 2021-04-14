@@ -9,9 +9,67 @@ fields:
   - type: text
     name: title
     label: title
-  - type: number
-    name: weight
-    label: weight
   - type: text
     name: url
     label: url
+  - type: number
+    name: weight
+    label: weight
+  config:
+    labelField: title
+- name: secondary
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: weight
+    type: number
+    label: weight
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Footer
+- name: legal
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: title
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  - name: weight
+    type: number
+    label: weight
+    description: ''
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: legal
