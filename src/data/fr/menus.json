@@ -31,6 +31,11 @@
   ],
   "legal": [
     {
+      "title": "Politique de Confidentialité Participant",
+      "url": "/politique-confidentialite/",
+      "weight": 3
+    },
+    {
       "title": "Politique de confidentialité Client",
       "url": "/politique-de-confidentialite-client/",
       "weight": 2
