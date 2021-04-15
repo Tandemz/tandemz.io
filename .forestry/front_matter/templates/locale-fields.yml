@@ -6,7 +6,7 @@ fields:
   type: text
   config:
     required: false
-    min: 2
+    min: 
     max: 2
   label: locale
   default: ''
