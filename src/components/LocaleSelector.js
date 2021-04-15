@@ -3,6 +3,9 @@ import { navigate } from 'gatsby';
 import Select from './form/Select';
 
 const getLocaleName = (locale) => {
+  if (typeof window === 'undefined') {
+    return locale;
+  }
   if (!window.Intl || !Intl.DisplayNames) {
     return locale;
   }
