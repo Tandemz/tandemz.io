@@ -20,13 +20,15 @@ function getSavedLocale() {
   if (typeof window === 'undefined') {
     return;
   }
-  return window.localStorage.getItem('_lang');
+  console.log('GET_ITEM', window.localstorage.getitem('_lang'));
+  return window.localstorage.getitem('_lang');
 }
 
 function saveLocale(locale) {
   if (typeof window === 'undefined') {
     return;
   }
+  console.log('SET_ITEM', locale);
   return window.localStorage.setItem('_lang', locale);
 }
 
@@ -37,14 +39,12 @@ export default function LocaleSelector({ page }) {
     () => [
       {
         label: getLocaleName(locale),
-        value: locale,
-        url: page.url,
+        value: page.url,
       },
 
       ...page.otherLocalesPages.map((_page) => ({
         label: getLocaleName(getLocale(_page)),
-        value: getLocale(_page),
-        url: _page.url,
+        value: _page.url,
       })),
     ],
     [page, locale],
@@ -80,12 +80,10 @@ export default function LocaleSelector({ page }) {
 
   const _onChange = (e) => {
     saveLocale(e.target.value);
-    const option = options.find(({ value }) => value === e.target.value);
-    if (!option) {
-      return;
-    }
-    navigate(option.url);
+    navigate(e.target.value);
   };
 
-  return <Select options={options} value={locale} onChange={_onChange} gray />;
+  return (
+    <Select options={options} value={page.url} onChange={_onChange} gray />
+  );
 }
