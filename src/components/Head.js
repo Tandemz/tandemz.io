@@ -1,7 +1,7 @@
 import * as React from 'react';
 import _ from 'lodash';
 import { Helmet } from 'react-helmet';
-import { safePrefix } from '../utils';
+import { getLocale, safePrefix } from '../utils';
 
 /**
  * This file is ignored by prettier
@@ -22,9 +22,11 @@ const Head = props => {
   );
 
   const url = safePrefix(_.get(props, 'pageContext.url'), true);
+  const locale = getLocale(props.pageContext);
 
   return (
     <Helmet>
+      <html lang={locale} />
       <link rel="canonical" href={url} />
       <meta charSet="utf-8" />
 
@@ -60,6 +62,9 @@ const Head = props => {
       <meta property="fb:app_id"   content="428165038128251" />
 
       <link rel="icon" href={safePrefix(siteMeta.favicon)} type="image/x-icon" />
+      {_.get(props, 'pageContext.otherLocalesPages', []).map((page) => (
+        <link rel="alternate" href={page.url} hrefLang={getLocale(page)} key={page.url} />
+      ))}
       <style>
         @import
         url('https://fonts.googleapis.com/css?family=Muli:400,400i,700,700i,900,900i&display=swap');
