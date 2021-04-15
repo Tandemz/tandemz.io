@@ -88,9 +88,19 @@
   }
 }
 
+.select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
 .select-container {
   position: relative;
-  background-color: white;
+  display: block;
+  border-radius: 4px;
 
   .select-icon {
     position: absolute;
@@ -111,13 +121,10 @@
     position: relative;
     padding-right: 40px;
   }
+
+  &.gray {
+    background: #dbe0e5;
+    max-width: 250px;
+  }
 }
 
-.select {
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
-
-  padding-top: 0;
-  padding-bottom: 0;
-}

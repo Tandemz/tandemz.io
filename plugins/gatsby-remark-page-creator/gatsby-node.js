@@ -140,6 +140,23 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
         deletePage(existingPageNode);
       }
 
+      const { locale } = node.fields;
+      const otherLocalesPages = pages.filter((page) => {
+        if (page.locale === locale) {
+          return false;
+        }
+        if (page.name === node.fields.name) {
+          return true;
+        }
+        if (
+          !!page.frontmatter.globalName &&
+          page.frontmatter.globalName === node.frontmatter.globalName
+        ) {
+          return true;
+        }
+        return false;
+      });
+
       const page = {
         path: url,
         component: component,
@@ -153,6 +170,7 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
           html: graphQLNode.html,
           pages: pages,
           locale: node.fields.locale,
+          otherLocalesPages,
           site: {
             siteMetadata: siteNode.siteMetadata,
             pathPrefix: siteNode.pathPrefix,

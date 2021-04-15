@@ -4,6 +4,7 @@ import _ from 'lodash';
 import { Link, safePrefix, htmlToReact, getLocale } from '../utils';
 import Social from './Social';
 import SubscribeForm from './SubscribeForm';
+import LocaleSelector from './LocaleSelector';
 
 export default class Footer extends React.Component {
   render() {
@@ -58,6 +59,8 @@ export default class Footer extends React.Component {
                     )}
                   </p>
                 )}
+
+                <LocaleSelector page={this.props.pageContext} />
               </div>
               <nav className="widget footer-navigation">
                 <div className="footer-nav-inside">
