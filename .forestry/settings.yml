@@ -4,11 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: https://api.stackbit.com/project/5d833248eee8550011997b7e/webhook/forestry
 sections:
-- type: document
-  path: site-metadata.json
-  label: Global Site Config
-  templates:
-  - config
 - type: heading
   label: English
 - type: document
@@ -43,6 +38,11 @@ sections:
 - type: document
   path: src/data/en/menus.json
   label: Menu
+- type: document
+  path: site-metadata.json
+  label: Config
+  templates:
+  - config
 - type: heading
   label: Français
 - type: document
@@ -69,6 +69,10 @@ sections:
 - type: document
   path: src/data/fr/menus.json
   label: Menu
+- type: document
+  path: site-metadata-fr.json
+  label: Config
+  match: "**/*"
 - type: heading
   label: Commun
 - type: document
