@@ -172,7 +172,10 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
           locale: node.fields.locale,
           otherLocalesPages,
           site: {
-            siteMetadata: siteNode.siteMetadata,
+            siteMetadata: {
+              ...siteNode.siteMetadata,
+              ...(siteNode.siteMetadata[node.fields.locale] || {}),
+            },
             pathPrefix: siteNode.pathPrefix,
             data: _.get(siteDataNode, 'data', null),
           },

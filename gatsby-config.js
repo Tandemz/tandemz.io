@@ -7,6 +7,8 @@ module.exports = {
   pathPrefix: '/',
   siteMetadata: {
     ...require('./site-metadata.json'),
+    en: require('./site-metadata.json'),
+    fr: require('./site-metadata-fr.json'),
     siteUrl:
       process.env.BRANCH === 'master'
         ? 'https://www.tandemz.io'
