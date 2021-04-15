@@ -33,6 +33,11 @@ fields:
   config: {}
   template: seo-fields
   label: SEO
+- name: locale
+  type: include
+  config: {}
+  template: locale-fields
+  label: Locale
 pages:
 - src/pages/en/index.md
 - src/pages/fr/index.md
