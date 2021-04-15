@@ -10,15 +10,15 @@
     "menu": {
       "actions": [
         {
-          "label": "Sign in",
+          "label": "Se connecter",
           "url": "https://app.tandemz.io",
-          "title": "Sign in",
+          "title": "Se connecter",
           "button_priority": "secondary"
         },
         {
-          "label": "Recruit testers",
+          "label": "Recruter des participants",
           "url": "https://app.tandemz.io/recruit-participants",
-          "title": "Recruit participants now!",
+          "title": "Recruter des participants",
           "button_priority": "primary"
         }
       ]
