@@ -1,4 +1,17 @@
 ---
 label: Locale Fields
 hide_body: true
-fields: []
+fields:
+- name: locale
+  type: text
+  config:
+    required: false
+    min: 2
+    max: 2
+  label: locale
+  default: ''
+- name: globalName
+  type: text
+  config:
+    required: false
+  label: Global Name (for locale identification)
