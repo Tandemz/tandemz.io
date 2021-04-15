@@ -72,7 +72,6 @@ sections:
 - type: document
   path: site-metadata-fr.json
   label: Config
-  match: "**/*"
 - type: heading
   label: Commun
 - type: document

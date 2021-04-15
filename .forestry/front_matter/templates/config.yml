@@ -126,3 +126,5 @@ fields:
       default: true
     config:
       labelField: text
+pages:
+- site-metadata-fr.json
