@@ -240,10 +240,10 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Start talking to real users today!
+  title: Rencontrez des vrais utilisateurs dès aujourd'hui
   component: CtaBlock
   actions:
-  - label: Recruter!
+  - label: Recruter
     url: https://app.tandemz.io/recruit-participants
     title: Start recruiting participants now
     button_priority: ''
