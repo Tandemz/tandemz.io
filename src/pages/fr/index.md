@@ -26,11 +26,11 @@ sections:
     illustration: "/images/select.svg"
     illustration_alt: Choose who participates
     illustration_titre: Choose who participates
-  - caption: Get actionnable insights
+  - caption: Recevez des insights exploitables
     illustration: "/images/insights.svg"
     illustration_alt: Get actionnable insights
     illustration_titre: Get actionnable insights
-  - caption: Pay for serious participations only
+  - caption: Payez uniquement pour les participants sérieux
     illustration: "/images/rate.svg"
     illustration_alt: Rate participants
     illustration_titre: Rate participants
