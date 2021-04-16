@@ -123,12 +123,13 @@ sections:
     answer: Nous recrutons les participants principalement via les publicités sur
       les réseaux sociaux - cela nous permet de cibler avec une grande précision et
       de recruter partout dans le monde !
-  - question: How long does it take to recruit participants?
-    answer: "For general targets, the first couple of qualified participants generally
-      appear within 24h after your project launch. The session will then fill itself
-      within 3 to 5 working days.  \nFor professional targets, timing is trickier,
-      therefore we usually set up a call with you in order to be able to estimate
-      the time it would take to recruit."
+  - question: 'Combien de temps prend le recrutement des participants? '
+    answer: "Pour les cibles générales, les premiers participants qualifiés apparaissent
+      généralement dans les 24 heures suivant le lancement de votre projet. La session
+      se remplit ensuite dans les 3 à 5 jours ouvrables. \n\nPour les cibles professionnelles,
+      le timing est plus délicat, c'est pourquoi nous organisons généralement un échange
+      téléphonique avec vous afin d'être en mesure d'estimer le temps nécessaire au
+      recrutement."
   - question: In what countries exactly do you recruit participants?
     answer: "Our recruitment method through social network ads allows us to people
       in any country! For now our clients mainly recruit in the US, France, the UK,
