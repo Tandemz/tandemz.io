@@ -18,7 +18,7 @@ sections:
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
-  - caption: Define your perfect participant profile
+  - caption: 'Définissez votre profil de participant idéal '
     illustration: "/images/target.svg"
     illustration_alt: Search for the perfect participants
     illustration_titre: Search for the perfect participants
@@ -34,7 +34,7 @@ sections:
     illustration: "/images/rate.svg"
     illustration_alt: Rate participants
     illustration_titre: Rate participants
-  title: Be in control of your recruitement
+  title: Soyez le maître de votre recrutement
   bg: white
 - template: cards-grid-section
   component: CardsGridBlock
