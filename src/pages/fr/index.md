@@ -155,7 +155,7 @@ sections:
   component: ReviewsBlock
   bg: white
   type: reviewsblock
-  title: Join our happy clients
+  title: 'Rejoignez nos clients satisfaits '
   reviews:
   - author: Ulysse from Mozza
     content: 'In no time, Tandemz provides me qualified participants for interviews,
@@ -202,7 +202,7 @@ sections:
   component: ReviewsBlock
   bg: white
   type: reviewsblock
-  title: They support us!
+  title: Ils nous soutiennent!
   logos:
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
@@ -243,7 +243,7 @@ sections:
   title: Start talking to real users today!
   component: CtaBlock
   actions:
-  - label: Recruit now
+  - label: Recruter maintenant
     url: https://app.tandemz.io/recruit-participants
     title: Start recruiting participants now
     button_priority: ''
