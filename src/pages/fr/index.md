@@ -18,7 +18,7 @@ sections:
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
-  - caption: 'Définissez votre profil idéal de participant '
+  - caption: 'Définissez votre profil idéal du participant '
     illustration: "/images/target.svg"
     illustration_alt: Search for the perfect participants
     illustration_titre: Search for the perfect participants
