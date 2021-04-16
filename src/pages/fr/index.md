@@ -86,10 +86,10 @@ sections:
     is_beta: false
     coming_soon: false
     actions: []
-  - title: Target your audience, wherever in the world
-    content: Nowadays, products are borderless, so why should your user research be?
-      With Tandemz, finding participants outside of your country has never been this
-      easy!
+  - title: Cibler votre public, partout dans le monde
+    content: Aujourd'hui, les produits ne connaissent pas de frontières, alors pourquoi
+      votre recherche utilisateur devrait-elle en avoir ? Avec Tandemz, trouver des
+      participants en dehors de votre pays n'a jamais été aussi facile !
     image: "/images/illustration-international.svg"
     image_alt: International user research
     is_beta: false
