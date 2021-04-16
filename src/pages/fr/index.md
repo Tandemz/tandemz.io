@@ -130,11 +130,13 @@ sections:
       le timing est plus délicat, c'est pourquoi nous organisons généralement un échange
       téléphonique avec vous afin d'être en mesure d'estimer le temps nécessaire au
       recrutement."
-  - question: In what countries exactly do you recruit participants?
-    answer: "Our recruitment method through social network ads allows us to people
-      in any country! For now our clients mainly recruit in the US, France, the UK,
-      Germany, Italy, Spain, Brazil and HongKong.  \nThe only country that is for
-      now unavailable is China, as most of the social networks we use are banned there."
+  - question: 'Dans quels pays recrutons-nous nos participants? '
+    answer: Notre méthode de recrutement par via les postes publicitaires sur les
+      réseaux sociaux nous permet de recruter dans n'importe quel pays ! Pour l'instant,
+      nos clients recrutent principalement aux États-Unis, en France, au Royaume-Uni,
+      en Allemagne, en Italie, en Espagne, au Brésil et à Hong Kong. Le seul pays
+      qui n'est pour l'instant pas disponible est la Chine, car la plupart des réseaux
+      sociaux que nous utilisons y sont interdits.
   - question: Do you recruit professionals for studies on B2B products?
     answer: Yes we do! However, we will need to discuss your target directly before
       we can start recruiting in order to study the project's complexity and timing
