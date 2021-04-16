@@ -119,18 +119,19 @@ sections:
   bg: white
   type: faqblock
   faqitems:
-  - question: 'Comment recrutons-nous les participants et les testeurs pour vos études? '
+  - question: 'Comment recrutons-nous les participants et les testeurs pour vos études
+      ? '
     answer: Nous recrutons les participants principalement via les publicités sur
       les réseaux sociaux - cela nous permet de cibler avec une grande précision et
       de recruter partout dans le monde !
-  - question: 'Combien de temps prend le recrutement des participants? '
+  - question: 'Combien de temps prend le recrutement des participants ? '
     answer: "Pour les cibles générales, les premiers participants qualifiés apparaissent
       généralement dans les 24 heures suivant le lancement de votre projet. La session
       se remplit ensuite dans les 3 à 5 jours ouvrables. \n\nPour les cibles professionnelles,
       le timing est plus délicat, c'est pourquoi nous organisons généralement un échange
       téléphonique avec vous afin d'être en mesure d'estimer le temps nécessaire au
       recrutement."
-  - question: 'Dans quels pays recrutons-nous nos participants? '
+  - question: 'Dans quels pays recrutons-nous nos participants ? '
     answer: Notre méthode de recrutement par via les postes publicitaires sur les
       réseaux sociaux nous permet de recruter dans n'importe quel pays ! Pour l'instant,
       nos clients recrutent principalement aux États-Unis, en France, au Royaume-Uni,
