@@ -95,14 +95,14 @@ sections:
     is_beta: false
     coming_soon: false
     actions: []
-  - content: Review participant profiles and handpick who gets to participate in your
-      study - or automatise your validation workflow via your screener!
+  - content: Examinez les profils des participants et sélectionnez ceux qui participeront
+      à votre étude - ou automatisez la validation grâce à votre screener !
     image: "/images/illustration-schedule.svg"
     image_alt: ''
     is_beta: false
     coming_soon: false
     actions: []
-    title: Stay in control of your study
+    title: Garder le contrôle de votre étude
   - content: 'Centralise all your communication with participants on Tandemz: message
       them directly from the app, sync your calendar availabilities, and let the platform
       handle the incentives. Say goodbye to the multitude of tools that clutter your
