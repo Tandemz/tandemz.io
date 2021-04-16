@@ -119,9 +119,10 @@ sections:
   bg: white
   type: faqblock
   faqitems:
-  - question: How are participants and testers recruited?
-    answer: We mainly recruit participants through social media ads - this allows
-      us to be very precise in our targeting and to recruit worldwide!
+  - question: 'Comment recrutons-nous les participants et les testeurs pour vos études? '
+    answer: Nous recrutons les participants principalement via les publicités sur
+      les réseaux sociaux - cela nous permet de cibler avec une grande précision et
+      de recruter partout dans le monde !
   - question: How long does it take to recruit participants?
     answer: "For general targets, the first couple of qualified participants generally
       appear within 24h after your project launch. The session will then fill itself
@@ -358,5 +359,7 @@ schema_org_data_list:
        ],
        "applicationCategory":"DesignApplication"
     }
+locale: ''
+globalName: ''
 
 ---
