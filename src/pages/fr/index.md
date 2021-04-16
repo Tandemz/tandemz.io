@@ -22,7 +22,7 @@ sections:
     illustration: "/images/target.svg"
     illustration_alt: Search for the perfect participants
     illustration_titre: Search for the perfect participants
-  - caption: Get final say on who participates
+  - caption: Ayez le dernier mot sur la sélection finale des participants
     illustration: "/images/select.svg"
     illustration_alt: Choose who participates
     illustration_titre: Choose who participates
