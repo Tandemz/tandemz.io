@@ -243,7 +243,7 @@ sections:
   title: Start talking to real users today!
   component: CtaBlock
   actions:
-  - label: Recruter maintenant
+  - label: Recruter!
     url: https://app.tandemz.io/recruit-participants
     title: Start recruiting participants now
     button_priority: ''
