@@ -103,16 +103,18 @@ sections:
     coming_soon: false
     actions: []
     title: Garder le contrôle de votre étude
-  - content: 'Centralise all your communication with participants on Tandemz: message
-      them directly from the app, sync your calendar availabilities, and let the platform
-      handle the incentives. Say goodbye to the multitude of tools that clutter your
-      user research!'
+  - content: 'Centralisez toute votre communication avec les participants sur Tandemz
+      : envoyez-leur des messages directement depuis l''application, synchronisez
+      vos calendriers de disponibilités, et laissez la plateforme gérer les contreparties.
+      Dites Adieu à la multitude d''outils qui encombrent votre recherche utilisateur
+      !'
     image: "/images/illustration-logistics.svg"
     image_alt: Logistics
     is_beta: false
     coming_soon: false
     actions: []
-    title: We remove all the logistics so you can concentrate on what matters
+    title: Nous vous déchargeons de toute la logistique pour que vous puissiez vous
+      concentrer sur ce qui compte
   section_id: ''
   subtitle: ''
 - template: faqblock
