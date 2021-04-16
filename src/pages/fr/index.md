@@ -77,9 +77,10 @@ sections:
   type: featuresblock
   title: Some more paragraphs
   featureslist:
-  - title: Find exactly who you need for your user research
-    content: 'Access detailed targeting criteria: location, age, interests, job title...
-      Need more? Add a screener to pinpoint your audience!'
+  - title: Trouvez exactement ce qu'il faut pour votre recherche utilisateur
+    content: 'Accédez à des critères de ciblage détaillés : localisation, âge, intérêts,
+      fonction... Vous en voulez plus ? Ajoutez un screener pour cibler votre public
+      !'
     image: "/images/illustration-screening.svg"
     image_alt: Targeting
     is_beta: false
