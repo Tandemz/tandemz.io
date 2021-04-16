@@ -240,7 +240,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Rencontrez des vrais utilisateurs dès aujourd'hui
+  title: Parlez à de vrais utilisateurs dès aujourd'hui
   component: CtaBlock
   actions:
   - label: Recruter
