@@ -138,11 +138,12 @@ sections:
       en Allemagne, en Italie, en Espagne, au Brésil et à Hong Kong. Le seul pays
       qui n'est pour l'instant pas disponible est la Chine, car la plupart des réseaux
       sociaux que nous utilisons y sont interdits.
-  - question: Do you recruit professionals for studies on B2B products?
-    answer: Yes we do! However, we will need to discuss your target directly before
-      we can start recruiting in order to study the project's complexity and timing
-      needs. Just choose the "Professionals" option in our recruit page to send us
-      your requirements, and we will be in touch!
+  - question: Recrutons-nous les professionnels pour les études B2B ?
+    answer: Toute à fait ! Toutefois, nous devrons discuter de votre objectif avant
+      de pouvoir commencer à recruter, afin d'étudier la complexité de votre projet
+      et les besoins en termes de délais. Choisissez simplement l'option "Professionnels"
+      sur notre page de devis pour nous envoyer vos besoins, et nous prendrons le
+      contact avec vous !
   section_id: ''
   title: ''
   title_level_one: false
