@@ -5,80 +5,88 @@ sections:
   component: FaqBlock
   bg: white
   type: faqblock
-  title: Frequently Asked Questions
+  title: Foire aux questions
   section_id: faqcompany
-  subtitle: Is the answer to your question missing? Let us know directly by chat or
-    by email (contact@tandemz.io).
+  subtitle: Vous ne trouvez pas la réponse à vos questions ? Faites le nous savoir
+    en envoyant un mail à contact@tandemz.io
   faqitems:
-  - question: For what type of user research can participants be recruited on Tandemz?
-    answer: 'Tandemz allows you to recruit participants for all your research studies
-      : surveys, in person or online interviews / usability tests, unmoderated usability
-      tests, tree testing, card sorting, 1st click, 5seconds test...'
-  - question: How are participants sourced?
-    answer: Participants are recruited from our worldwide community, and when the
-      community is insufficient to meet your study needs, we source them directly
-      on social networks such as Facebook, Twitter, LinkedIn. Our algorithm uses the
-      power of social networks' ads targeting to display your study directly to the
-      right users.
-  - question: In which countries can I recruit my participants?
-    answer: 'Many countries are already represented in our community: USA, Canada,
-      Brazil, Argentina, Chile, France, Spain, Italy, Germany, UK, Belgium, Netherlands,
-      Saudi Arabia, Korea, Japan, Hong Kong… Participants are sourced in English.
-      If you want us to source participants in another language, translation fees
-      will be added.'
-  - question: 'How is the price calculated? '
+  - question: Pour quel type de recherche utilisateur peut-on recruter des participants
+      sur Tandemz ?
+    answer: 'Tandemz vous permet de recruter des participants pour toutes vos études
+      : enquêtes, interviews / tests d''utilisabilité en personne ou en ligne, tests
+      d''utilisabilité non modérés, tree testing, tri de cartes, 1st click test, 5s
+      tests...'
+  - question: Comment les participants sont-ils recrutés ?
+    answer: Les participants sont recrutés au sein de notre communauté mondiale, et
+      lorsque la communauté est insuffisante pour répondre aux besoins de votre étude,
+      nous les recherchons directement sur les réseaux sociaux tels que Facebook,
+      Twitter, LinkedIn. Notre algorithme utilise la puissance de ciblage des réseaux
+      sociaux pour afficher votre étude directement auprès des bons utilisateurs.
+  - question: Dans quels pays puis-je recruter mes participants ?
+    answer: 'De nombreux pays sont déjà représentés dans notre communauté : Etats-Unis,
+      Canada, Brésil, Argentine, Chili, France, Espagne, Italie, Allemagne, Royaume-Uni,
+      Belgique, Pays-Bas, Arabie Saoudite, Corée, Japon, Hong Kong... Les participants
+      sont recherchés en anglais. Si vous souhaitez que nous trouvions des participants
+      dans une autre langue, des frais de traduction seront ajoutés.'
+  - question: 'Comment le prix est-il calculé ? '
     answer: |-
-      Our pricing includes participants incentive and our service fee. Our algorithm adjusts each part according to the type of study, cost of living in selected countries (to keep our incentives attractive) and complexity of recruitment. Each criteria can have an impact on the incentive and/or on the fees.
+      Notre tarification comprend la contrepartie pour les participants et nos frais de service. Notre algorithme ajuste chaque partie en fonction du type d'étude, du coût de la vie dans les pays sélectionnés (pour que nos incitations restent attractives) et de la complexité du recrutement. Chaque critère peut avoir un impact sur l'incitation et/ou sur les frais.
 
-      [Evaluate the price of your needs in a few clicks!](https://app.staging.tandemz.io/recruter-des-participants "Pricing page")
-  - question: How does each criteria impact the final price?
-    answer: Our algorithm takes into account the difficulty of each criteria to offer
-      you the best price according to your needs! This difficulty is evaluated according
-      to the size of your potential target audience, and as such, price adjustments
-      might differ from one criteria to the other.
-  - question: How does the profile selection work?
-    answer: Once you launch the recruitment, our algorithm will automatically contact
-      the profile that best suits your target audience. On the Tandemz platform, you
-      can view each participant's answers to your screener and check their profile.
-      You can pick and choose which participants are best suited to your study, and
-      reject the other profiles!
-  - question: Can I make my study directly on Tandemz (such as a survey form, an unmoderated
-      usability test or an online session)?
-    answer: Not yet! But you can add a link to your current tools so that participants
-      can be redirected to the study.
-  - question: How long does it take to start the recruitment?
-    answer: As soon as you launch recruitment, our algorithm starts contacting the
-      best profiles for your study. Your get your first participants in just a few
-      hours!
-  - question: I need to recruit B2B participants or a difficult target. Is it possible
-      on Tandemz?
-    answer: It is possible to target B2B participants or a difficult target on Tandemz.
-      Both the incentive and the fees will be higher, as the recruitment will be more
-      complex.
-  - question: I need more criteria than the ones available on the pricing page.
-    answer: You can add a screener before launching the recruitment. Use the screener
-      to ask any question you need in order to gain better knowledge of your participants'
-      profiles. You will then be able to select the ones you really want to connect
-      with. If this solution does not fit you, contact us, we'd be happy to help and
-      find an alternative way of targeting your dream participants!
-  - question: I need help to choose the right user research method or to lead my study.
-    answer: We can offer you additional services to help you during your study. Do
-      not hesitate to contact us by chat or by email at contact@tandemz.io to let
-      us know your needs.
-  - question: How do I get started?
-    answer: You are ready to recruit your first participants? [Click here](https://app.staging.tandemz.io/recruter-des-participants
-      "Pricing page") and start describing your target audience. Your first participants
-      are just a few clicks away!
+      [Evaluez le prix de vos besoins en quelques clics !](https://app.tandemz.io/recruit-participants "Page de devis")
+  - question: Quel est l'impact de chaque critère sur le prix final ?
+    answer: Notre algorithme prend en compte la difficulté de chaque critère pour
+      vous proposer le meilleur prix en fonction de vos besoins ! Cette difficulté
+      est évaluée en fonction de la taille de votre audience cible potentiel, et à
+      ce titre, les ajustements de prix peuvent différer d'un critère à l'autre.
+  - question: Comment fonctionne la sélection des profils ?
+    answer: Dès que vous lancez le recrutement, notre algorithme contacte automatiquement
+      le profil qui correspond le mieux à votre public cible. Sur la plateforme Tandemz,
+      vous pouvez consulter les réponses de chaque participant à votre screener et
+      vérifier leur profil. Vous pouvez choisir les participants qui conviennent le
+      mieux à votre étude, et rejeter les autres profils !
+  - question: Puis-je faire mon étude directement sur Tandemz (comme un formulaire
+      d'enquête, un test d'utilisabilité non modéré ou une session en ligne) ?
+    answer: Pas encore, on y travaille ! Mais vous pouvez ajouter un lien vers vos
+      outils actuels afin que les participants puissent être redirigés vers l'étude.
+  - question: Combien de temps faut-il pour commencer le recrutement ?
+    answer: Quand vous lancez le recrutement, notre équipe effectue une modération
+      en quelques minutes pour nous assurer que tout est correctement mis en place.
+      Dès que cette modération est passée, notre algorithme commence à contacter les
+      meilleurs profils pour votre étude. Vous obtenez vos premiers participants en
+      quelques heures seulement !
+  - question: J'ai besoin de recruter des participants B2B ou une cible difficile.
+      Est-ce possible sur Tandemz ?
+    answer: Il est possible de cibler des participants B2B ou une cible difficile
+      sur Tandemz. La contrepartie et les frais seront plus élevés, car le recrutement
+      sera plus complexe.
+  - question: J'ai besoin de plus de critères que ceux qui sont disponibles sur la
+      page du devis.
+    answer: Vous pouvez ajouter un screener avant de lancer le recrutement. Utilisez
+      le screener pour poser toutes les questions dont vous avez besoin afin de mieux
+      connaître les profils de vos participants. Vous pourrez ensuite sélectionner
+      ceux avec lesquels vous souhaitez vraiment entrer en contact. Si cette solution
+      ne vous convient pas, contactez-nous, nous serons heureux de vous aider et de
+      trouver un autre moyen de cibler les participants de vos rêves !
+  - question: J'ai besoin d'aide pour choisir la bonne méthode de recherche sur les
+      utilisateurs ou pour conduire mon étude.
+    answer: Nous pouvons vous proposer des services supplémentaires pour vous aider
+      pendant vos études. N'hésitez pas à nous contacter par chat ou par email à contact@tandemz.io
+      pour nous faire part de vos besoins.
+  - question: Comment démarrer ?
+    answer: Vous êtes prêt à recruter vos premiers participants ? Cliquez [ici](https://app.tandemz.io/recruit-participants
+      "Page de devis") et commencez à décrire votre public cible. Vos premiers participants
+      ne sont plus qu'à quelques clics !
   title_level_one: true
 menus:
   main:
     title: FAQ
     weight: 3
 template: faq
-description: Frequently Asked Questions
-keywords: FAQ, Tandemz, user research, recruit testers, recruit participants
-ogtitle: 'FAQ Tandemz : everything about testers recruitment'
-ogdescription: 'FAQ Tandemz : everything about testers recruitment'
+description: Foire aux questions
+keywords: FAQ, Tandemz, recherche utilisateur
+ogtitle: 'FAQ : tout ce qu''il faut savoir sur Tandemz'
+ogdescription: Vous vous demandez comment Tandemz fonctionne, où et pour quelles études
+  vous pouvez recruter ?
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
 ogimagealt: Tandemz Logo
