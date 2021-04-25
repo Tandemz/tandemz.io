@@ -60,7 +60,6 @@ fields:
   label: Locale
 pages:
 - src/pages/404.md
-- src/pages/en/about.md
 - src/pages/en/confidentiality-agreement.md
 - src/pages/en/participants-privacy-policy.md
 - src/pages/en/qui-sommes-nous.md
