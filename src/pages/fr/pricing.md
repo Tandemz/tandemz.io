@@ -56,11 +56,11 @@ sections:
   component: CtaBlock
   type: ctablock
   section_id: cta
-  title: Start talking to real users today!
+  title: Parlez à de vrais utilisateurs dès aujourd'hui !
   actions:
-  - label: Recruit now
+  - label: Recruter maintenant
     url: https://app.tandemz.io/recruit-participants
-    title: Recruit quality participants now
+    title: Recruter des participants de qualité maintenant
     button_priority: ''
   subtitle: ''
   bg: orange
