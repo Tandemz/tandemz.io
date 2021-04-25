@@ -22,7 +22,7 @@ sections:
   - title: Pays as you go
     price: From 30€
     details: |-
-      ##### per participant for **qualitative** studies
+      ##### **per participant for qualitative studies**
 
       * from 10€ / participant for **quantitative** studies
       * Prices scale according to difficulty of recruitment
@@ -36,10 +36,11 @@ sections:
   - title: Buy credits
     price: From 4750€
     details: |-
-      ##### for 5000€ worth of credits (5% discount)
+      ##### **for 5000€ worth of credits - 5% discount**
 
       * Up to 20% discount!
       * No expiration date
+      * Perfect for teams with high volumes
     highlight: false
     actions:
     - label: Get in touch
