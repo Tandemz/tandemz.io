@@ -1,13 +1,12 @@
 ---
-title: Contactez-nous !
+title: Let's get in touch!
 template: contact
-subtitle: Vous avez besoin d'information, d'aide ou simplement envie de nous envoyer
-  un message ? Nous vous répondrons avec plaisir !
+subtitle: You need more information or want to receive our Newsletter? You need help
+  or just want to send us a quick message? Let us know, we will be happy to help!
 img_path: ''
-description: Contactez Tandemz pour discutez de vos besoins en recherche utilisateur
-  !
-keywords: recherche utilisateur, recherche UX, tests utilisateurs
-ogtitle: Contactez Tandemz, recrutez des testeurs dès maintenant !
+description: Contact Tandemz to discuss your user research recruiting needs
+keywords: user research, UX research
+ogtitle: ''
 ogdescription: ''
 ogtype: ''
 ogimage: ''
