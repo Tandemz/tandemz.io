@@ -1,31 +1,31 @@
 ---
 title: Qui sommes nous ?
 subtitle: ''
-img_path: '/images/photo-equipe-coupee-min.jpg'
+img_path: "/images/photo-equipe-coupee-min.jpg"
 menus:
   secondary:
     title: About us
-    weight: 1
+    weight: "1"
 template: page
 description: Envie d'en savoir plus sur l'équipe Tandemz ?
 keywords: à propos de tandemz, histoire de l'entreprise tandemz
 ogtitle: A propos de l'équipe Tandemz
 ogdescription: A propos de l'équipe Tandemz
 ogtype: ''
-ogimage: '/images/team_2-1-1.jpg'
+ogimage: "/images/team_2-1-1.jpg"
 ogimagealt: Equipe Tandemz
-og_image_width: 689
-og_image_height: 344
+og_image_width: "689"
+og_image_height: "344"
 twitter_card: summary_large_image
 metatags: []
 schema_org_data_list: []
 legal: false
-updatedAt:
+updatedAt: 
 legal_name: ''
 locale: ''
-globalName: ''
----
+globalName: about
 
+---
 Dans son précédent emploi d'UX Designer, France avait l'habitude de réaliser de nombreux tests utilisateurs ou entretiens pour ses différents clients. Mais aussi différents que soient les projets, la seule constante était la difficulté de trouver les bons testeurs. Comme on dit souvent "Mieux vaut quelques tests que pas de tests du tout", elle interviewait souvent des amis et des collègues juste pour obtenir un semblant de résultat. En regardant autour d'elle, elle a réalisé que beaucoup de designers et d'équipes produit partageaient son problème.
 
 Comment se fait-il que le recrutement de participants pour la recherche utilisateur soit encore si difficile aujourd'hui, à l'ère d'Internet ?
