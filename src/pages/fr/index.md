@@ -3,10 +3,10 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: JE SUIS FR !!!
+  title: Obtenez les retours de vrais utilisateurs
   component: HeroBlock
-  content: The self-service testers recruiting platform for all your user research
-    needs
+  content: La plateforme en libre service de recrutement de testeurs pour tous vos
+    besoins en recherche utilisateur
   image: ''
   actions: []
   imageAlt: ''
@@ -18,103 +18,102 @@ sections:
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
-  - caption: 'Définissez votre profil idéal du participant '
+  - caption: Définissez votre profil de participant idéal
     illustration: "/images/target.svg"
-    illustration_alt: Search for the perfect participants
-    illustration_titre: Search for the perfect participants
-  - caption: Ayez le dernier mot sur la sélection finale des participants
+    illustration_alt: Recherchez les parfaits participants
+    illustration_titre: Recherchez les parfaits participants
+  - caption: Faites votre choix parmi les participants proposés
     illustration: "/images/select.svg"
-    illustration_alt: Choose who participates
-    illustration_titre: Choose who participates
-  - caption: Recevez des insights exploitables
+    illustration_alt: Faites votre choix parmi les participants proposés
+    illustration_titre: Faites votre choix parmi les participants proposés
+  - caption: Recevez des retours exploitables
     illustration: "/images/insights.svg"
-    illustration_alt: Get actionnable insights
-    illustration_titre: Get actionnable insights
+    illustration_alt: Recevez des retours exploitables
+    illustration_titre: Recevez des retours exploitables
   - caption: Payez uniquement pour les participants sérieux
     illustration: "/images/rate.svg"
-    illustration_alt: Rate participants
-    illustration_titre: Rate participants
-  title: Soyez le maître de votre recrutement
+    illustration_alt: Notez les participants
+    illustration_titre: Notez les participants
+  title: Restez maître de votre recrutement
   bg: white
 - template: cards-grid-section
   component: CardsGridBlock
-  title: Hassle-free recruiting
+  title: Recrutez en toute simplicité
   section_id: ''
   cards:
-  - title: Anyone
+  - title: N'importe qui
     icon: "/images/anyone.svg"
     icon_alt: ''
-    icon_title: Find anyone
-    icone_alt: Find anyone
-  - title: Anywhere
+    icon_title: Ciblez précisément
+    icone_alt: " Ciblez précisément"
+  - title: Partout
     icon: "/images/anywhere.svg"
     icon_alt: ''
-    icon_title: Worldwide recruiting
-    icone_alt: Worldwide recruiting
-  - title: For any method
+    icon_title: Recrutement mondial
+    icone_alt: Recrutement mondial
+  - title: Pour tout méthode
     icon: "/images/tools.svg"
     icon_alt: ''
-    icon_title: Recruit for any method
-    icone_alt: Recruit for any method
-  - title: Top quality participants
+    icon_title: Recrutez pour toute méthode
+    icone_alt: Recrutez pour toute méthode
+  - title: Des participants de qualité
     icon: "/images/thumbsup.svg"
     icon_alt: ''
-    icon_title: Top rated participants
-    icone_alt: Top rated participants
-  - title: Easy scheduling
+    icon_title: Des participants de qualité
+    icone_alt: Des participants de qualité
+  - title: Organisation simplifiée
     icon: "/images/easycalendar.svg"
     icon_alt: ''
-    icon_title: Integrate your calendar
-    icone_alt: Integrate your calendar
-  - title: Integrated incentive
+    icon_title: Intégrez votre calendrier
+    icone_alt: Intégrez votre calendrier
+  - title: Contrepartie inclue
     icon: "/images/incentivegift.svg"
     icon_alt: ''
-    icon_title: Don't worry about incentive
-    icone_alt: Don't worry about incentive
+    icon_title: Contrepartie inclue
+    icone_alt: Contrepartie inclue
 - template: featuresblock
   component: FeaturesBlock
   bg: white
   type: featuresblock
-  title: Some more paragraphs
+  title: ''
   featureslist:
-  - title: Trouvez exactement ce qu'il faut pour votre recherche utilisateur
+  - title: Trouvez exactement ce qu'il vous faut pour votre recherche utilisateur
     content: 'Accédez à des critères de ciblage détaillés : localisation, âge, intérêts,
       fonction... Vous en voulez plus ? Ajoutez un screener pour cibler votre public
       !'
     image: "/images/illustration-screening.svg"
-    image_alt: Targeting
+    image_alt: Ciblage
     is_beta: false
     coming_soon: false
     actions: []
-  - title: Cibler votre public, partout dans le monde
+  - title: Ciblez votre public, partout dans le monde
     content: Aujourd'hui, les produits ne connaissent pas de frontières, alors pourquoi
       votre recherche utilisateur devrait-elle en avoir ? Avec Tandemz, trouver des
       participants en dehors de votre pays n'a jamais été aussi facile !
     image: "/images/illustration-international.svg"
-    image_alt: International user research
+    image_alt: Recherche utilisateur internationale
     is_beta: false
     coming_soon: false
     actions: []
   - content: Examinez les profils des participants et sélectionnez ceux qui participeront
       à votre étude - ou automatisez la validation grâce à votre screener !
     image: "/images/illustration-schedule.svg"
-    image_alt: ''
+    image_alt: Validation des profils
     is_beta: false
     coming_soon: false
     actions: []
-    title: Garder le contrôle de votre étude
+    title: Gardez le contrôle sur votre étude
   - content: 'Centralisez toute votre communication avec les participants sur Tandemz
       : envoyez-leur des messages directement depuis l''application, synchronisez
       vos calendriers de disponibilités, et laissez la plateforme gérer les contreparties.
-      Dites Adieu à la multitude d''outils qui encombrent votre recherche utilisateur
+      Dites adieu à la multitude d''outils qui encombrent votre recherche utilisateur
       !'
     image: "/images/illustration-logistics.svg"
-    image_alt: Logistics
+    image_alt: Logistique
     is_beta: false
     coming_soon: false
     actions: []
-    title: Nous vous déchargeons de toute la logistique pour que vous puissiez vous
-      concentrer sur ce qui compte
+    title: Déchargez vous de la logistique, et concentrez vous sur ce qui compte !
   section_id: ''
   subtitle: ''
 - template: faqblock
@@ -122,8 +121,8 @@ sections:
   bg: white
   type: faqblock
   faqitems:
-  - question: 'Comment recrutons-nous les participants et les testeurs pour vos études
-      ? '
+  - question: 'Comment sont recrutés les participants et les testeurs pour chaque
+      étude ? '
     answer: Nous recrutons les participants principalement via les publicités sur
       les réseaux sociaux - cela nous permet de cibler avec une grande précision et
       de recruter partout dans le monde !
@@ -134,19 +133,19 @@ sections:
       le timing est plus délicat, c'est pourquoi nous organisons généralement un échange
       téléphonique avec vous afin d'être en mesure d'estimer le temps nécessaire au
       recrutement."
-  - question: 'Dans quels pays recrutons-nous nos participants ? '
+  - question: 'Dans quels pays recrutez-vous des participants ? '
     answer: Notre méthode de recrutement par via les postes publicitaires sur les
       réseaux sociaux nous permet de recruter dans n'importe quel pays ! Pour l'instant,
       nos clients recrutent principalement aux États-Unis, en France, au Royaume-Uni,
       en Allemagne, en Italie, en Espagne, au Brésil et à Hong Kong. Le seul pays
       qui n'est pour l'instant pas disponible est la Chine, car la plupart des réseaux
       sociaux que nous utilisons y sont interdits.
-  - question: Recrutons-nous les professionnels pour les études B2B ?
-    answer: Toute à fait ! Toutefois, nous devrons discuter de votre objectif avant
-      de pouvoir commencer à recruter, afin d'étudier la complexité de votre projet
-      et les besoins en termes de délais. Choisissez simplement l'option "Professionnels"
-      sur notre page de devis pour nous envoyer vos besoins, et nous prendrons le
-      contact avec vous !
+  - question: Recrutez-vous des professionnels pour les études B2B ?
+    answer: Toute à fait ! Toutefois, nous devrons discuter de vos besoins avant de
+      pouvoir commencer à recruter, afin d'étudier la complexité de votre projet et
+      étudier les délais. Choisissez simplement l'option "Professionnels" sur notre
+      page de devis pour nous envoyer vos besoins, et nous prendrons le contact avec
+      vous !
   section_id: ''
   title: ''
   title_level_one: false
@@ -155,7 +154,7 @@ sections:
   component: ReviewsBlock
   bg: white
   type: reviewsblock
-  title: 'Rejoignez nos clients satisfaits '
+  title: 'Rejoignez nos heureux clients '
   reviews:
   - author: Ulysse from Mozza
     content: 'In no time, Tandemz provides me qualified participants for interviews,
@@ -174,21 +173,24 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
-  - logo: "/images/logo_lagrandeourse_rvb_hd.jpg"
-    alt: La Grande Ourse logo
-    title: La Grande Ourse
-  - logo: "/images/images.png"
-    alt: Ulysse
-    title: Ulysse
-  - logo: "/images/eh_logo.png"
-    alt: Euler Hermes
-    title: Euler Hermes
   - logo: "/images/mozza.png"
     alt: Mozza Logo
     title: Mozza
+  - logo: "/images/images.png"
+    alt: Ulysse
+    title: Ulysse
+  - logo: "/images/logo_lagrandeourse_rvb_hd.jpg"
+    alt: La Grande Ourse logo
+    title: La Grande Ourse
   - logo: "/images/logo-bam.svg"
     alt: BAM Logo
     title: BAM logo
+  - logo: "/images/edenred_logo_-depuis_2017.png"
+    alt: Edenred
+    title: Edenred
+  - logo: "/images/eh_logo.png"
+    alt: Euler Hermes
+    title: Euler Hermes
   - logo: "/images/logoaffordance-1.png"
     alt: Affordance Logo
     title: Affordance
@@ -240,12 +242,12 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Parlez à de vrais utilisateurs dès aujourd'hui
+  title: Parlez à de vrais utilisateurs dès maintenant !
   component: CtaBlock
   actions:
   - label: Recruter
     url: https://app.tandemz.io/recruit-participants
-    title: Start recruiting participants now
+    title: Recrutez dès maintenant des participants
     button_priority: ''
   subtitle: ''
   bg: orange
@@ -254,13 +256,14 @@ menus:
     title: Home
     weight: 1
 template: home
-title: The self-service testers recruiting platform
-description: Get insights from real users with Tandemz, the self-service testers recruiting
-  platform for all your user research needs.
-keywords: user test, user interview, testers recruitment, UX, user research, panel
-ogtitle: The self-service testers recruiting platform
-ogdescription: Get insights from real users with Tandemz, the self-service testers
-  recruiting platform for all your user research needs.
+title: La plateforme de recrutement de testeurs en libre service
+description: Accédez à de vrais utilisateurs grâce à Tandemz, la plateforme de recrutement
+  de testeurs en libre service pour tous vos besoins en recherche utilisateur
+keywords: recherche utilisateur, tests utilisateurs, études UX, recrutement de testeurs,
+  recrutement de participants, panel
+ogtitle: La plateforme de recrutement de testeurs en libre service
+ogdescription: Accédez à de vrais utilisateurs grâce à Tandemz, la plateforme de recrutement
+  de testeurs en libre service pour tous vos besoins en recherche utilisateur
 ogtype: website
 ogimage: "/images/logotype.png"
 ogimagealt: Logo Tandemz
