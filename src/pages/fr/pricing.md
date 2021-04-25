@@ -23,15 +23,11 @@ sections:
   - title: A la carte
     price: A partir de 30€
     details: |-
-      par participant pour des études **qualitatives**
+      ##### **par participant pour des études qualitatives**
 
-      (A partir de 10€ / participant pour du **quantitatif**)
-
-      Payez uniquement les participants sérieux (qui se sont présentés et on joué le jeu)
-
-      Les prix augmentent en fonction de la complexité de votre ciblage
-
-      Contrepartie incluse
+      * A partir de 10€ / participant pour du **quantitatif**)
+      * Les prix augmentent en fonction de la complexité de votre ciblage
+      * Contrepartie incluse
     highlight: true
     actions:
     - label: Recrutez maintenant
@@ -41,11 +37,11 @@ sections:
   - title: Crédits pré-payés
     price: A partir de 4750€
     details: |-
-      pour 5000€ de crédits (5% de réduction)
+      ##### **pour 5000€ de crédits - 5% de réduction**
 
-      Jusqu'à 20% de remise !
-
-      Pas de date d'expiration
+      * Jusqu'à 20% de remise !
+      * Pas de date d'expiration
+      * Pensé pour les équipes avec de gros volumes et de la récurrence
     highlight: false
     actions:
     - label: Contactez-nous
