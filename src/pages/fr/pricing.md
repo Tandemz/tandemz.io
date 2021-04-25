@@ -27,6 +27,8 @@ sections:
 
       (A partir de 10€ / participant pour du **quantitatif**)
 
+      Payez uniquement les participants sérieux (qui se sont présentés et on joué le jeu)
+
       Les prix augmentent en fonction de la complexité de votre ciblage
 
       Contrepartie incluse
@@ -36,19 +38,19 @@ sections:
       url: https://app.tandemz.io/recruit-participants
       title: Recruter des participants de qualité
       button_priority: ''
-  - title: ''
-    price: ''
-    details: ''
-    highlight: false
-    actions: []
-  - title: Achat de crédits
-    price: Pour les équipes aux besoins récurrents
-    details: ''
+  - title: Crédits pré-payés
+    price: A partir de 4750€
+    details: |-
+      pour 5000€ de crédits (5% de réduction)
+
+      Jusqu'à 20% de remise !
+
+      Pas de date d'expiration
     highlight: false
     actions:
-    - label: Get in touch
+    - label: Contactez-nous
       url: "/contact"
-      title: Contact us to discuss the custom plan
+      title: Contactez-nous pour un achat de crédit
       button_priority: ''
 - template: ctablock
   component: CtaBlock
