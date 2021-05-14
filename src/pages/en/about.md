@@ -23,7 +23,7 @@ legal: false
 updatedAt: 
 legal_name: ''
 locale: ''
-globalName: ''
+globalName: about
 
 ---
 In her previous job as a UX Designer, France used to do a lot of user tests or interviews for her different clients. But as different as the projects were, the one constant was how painful and difficult finding the right testers was. Following the common saying of "Some tests are better than no tests", she would often interview friends and colleagues just to get a user test done. When looking around her to other designers and product teams, she realized that many shared her problem.

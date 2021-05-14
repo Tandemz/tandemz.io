@@ -32,6 +32,7 @@ function saveLocale(locale) {
 
 export default function LocaleSelector({ page }) {
   const locale = getLocale(page);
+  console.log(locale, page.otherLocalesPages);
 
   const options = React.useMemo(
     () => [

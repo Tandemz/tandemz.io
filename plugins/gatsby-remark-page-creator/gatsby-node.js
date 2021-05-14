@@ -140,9 +140,10 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
         deletePage(existingPageNode);
       }
 
-      const { locale } = node.fields;
+      const locale = node.frontmatter.locale || node.fields.locale;
       const otherLocalesPages = pages.filter((page) => {
-        if (page.locale === locale) {
+        const pageLocale = page.frontmatter.locale || page.locale;
+        if (pageLocale === locale) {
           return false;
         }
         if (page.name === node.fields.name) {
@@ -169,7 +170,7 @@ exports.createPages = ({ graphql, getNode, actions, getNodesByType }) => {
           frontmatter: node.frontmatter,
           html: graphQLNode.html,
           pages: pages,
-          locale: node.fields.locale,
+          locale,
           otherLocalesPages,
           site: {
             siteMetadata: {

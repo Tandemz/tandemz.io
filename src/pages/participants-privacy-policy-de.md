@@ -18,6 +18,8 @@ schema_org_data_list: []
 legal: true
 updatedAt: 2020-08-26T18:48:00.000+00:00
 legal_name: privacy-policy-de
+locale: de
+globalName: privacy-policy
 ---
 
 TANDEMZ, eine vereinfachte Aktiengesellschaft mit einem Kapital von 2.400 €, mit Sitz in der Avenue de Choisy 199, 75013 PARIS, eingetragen im Pariser Handels- und Gesellschaftsregister unter der Nummer 881 896 187, vertreten durch ihre Präsidentin, Frau Marine WOLFFHUGEL (nachfolgend "TANDEMZ"), ist um den Schutz personenbezogener Daten besorgt und verpflichtet sich, diese gemäß den geltenden Vorschriften und insbesondere der Verordnung (EU) Nr. 2016/679 vom 27. April 2016, genannt "Datenschutz-Grundverordnung" oder "DSGVO" und dem Gesetz Nr. 78-17 vom 6. Januar 1978, genannt "Datenschutzgesetz", in der jeweils gültigen Fassung zu schützen.

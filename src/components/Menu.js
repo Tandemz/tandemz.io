@@ -10,6 +10,7 @@ class Menu extends React.Component {
     if (!menu || !url) {
       return null;
     }
+
     const actions =
       this.props.actions &&
       this.props.actions.filter((item) => !!item.url && !!item.label);

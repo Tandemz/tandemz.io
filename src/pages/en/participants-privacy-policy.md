@@ -22,6 +22,7 @@ menus:
 legal: true
 updatedAt: 2020-08-26T18:48:00.000+00:00
 legal_name: privacy-policy-en
+globalName: privacy-policy
 
 ---
 TANDEMZ, a simplified joint stock company with a capital of €2,400, whose head office is located at 199 Avenue de Choisy - 75013 PARIS, registered with the Paris Trade and Companies Registry under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL (hereafter "TANDEMZ") is concerned about the protection of Personal Data and undertakes to protect them in accordance with the applicable regulations and in particular with the EU Regulation no. 2016/679 of April 27, 2016 called "Règlement Général sur la Protection des Données" or "RGPD", and the Law no. 78-17 of January 6, 1978 as amended, called "Loi Informatique et Liberté".
