@@ -89,7 +89,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - post
+  - page-post
 - type: document
   path: src/data/post_template.json
   label: Post Page Template
