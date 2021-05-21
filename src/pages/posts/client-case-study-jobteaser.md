@@ -14,7 +14,7 @@ title: client-case-study-jobteaser
 full_title: Comment JobTeaser est passé de 2 tests par semaine à 6 grâce à Tandemz
 date: 2021-05-24T22:00:00Z
 thumb_img_path: "/images/jobteaserxtandemz.svg"
-content_img_path: "/images/jobteaserxtandemz2x1.svg"
+content_img_path: "/images/jobteaserxtandemz.svg"
 excerpt: Découvrez comment Jobteaser a réussi à faire de la recherche utilisateur
   auprès d'une cible auparavant difficile à atteindre.
 author: src/data/authors/francew.json
