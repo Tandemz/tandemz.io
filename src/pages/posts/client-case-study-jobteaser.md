@@ -44,7 +44,7 @@ C'est à ce moment là que JobTeaser s'est tourné vers Tandemz
 
 Sur le site web de Tandemz, les PM de Jobteaser ont pu rentrer leurs critères de recrutement en quelques clics et lancer la session dans la foulée.
 
-Grâce à Tandemz, ils ont pu recruter, interviewer et tester leur prototype d'application mobile avec 6 étudiants allemands. La plateforme leur a permis d'allier la vitesse à la qualité, et ainsi obtenir rapidement des retours pertinents pour améliorer le produit.
+Grâce à Tandemz, ils ont pu recruter, interviewer et tester leur prototype d'application mobile avec 6 étudiants allemands en moins d'une semaine. La plateforme leur a permis d'allier la vitesse à la qualité, et ainsi obtenir rapidement des retours pertinents pour améliorer le produit.
 
 > C'était top, hyper rapide. Tous les testeurs étaient hyper qualifiés, et en plus, ils étaient bien motivés et ont bien joué le jeu. J'ai pu rencontrer des personnes que j'aurais jamais eu moyen d'atteindre par mes propres moyens avant.
 
