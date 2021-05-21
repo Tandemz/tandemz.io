@@ -100,6 +100,7 @@ fields:
   hidden: true
   default: article
 pages:
+- src/pages/posts/client-case-study-jobteaser.md
 - src/pages/posts/comment-combien-remunerer-participants-ux-research.md
 - src/pages/posts/expliquer-ux-designer-a-ma-grand-mere.md
 - src/pages/posts/interview-evaneos.md
