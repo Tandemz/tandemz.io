@@ -165,12 +165,15 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
-  - logo: "/images/logo_lagrandeourse_rvb_hd.jpg"
-    alt: La Grande Ourse logo
-    title: La Grande Ourse
+  - logo: "/images/logo_jobteaser.png"
+    alt: Jobteaser logo
+    title: Jobteaser logo
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
+  - logo: "/images/edenred_logo_-depuis_2017.png"
+    alt: Logo-Edenred
+    title: Logo Edenred
   - logo: "/images/eh_logo.png"
     alt: Euler Hermes
     title: Euler Hermes
@@ -180,15 +183,18 @@ sections:
   - logo: "/images/logo-bam.svg"
     alt: BAM Logo
     title: BAM logo
+  - logo: "/images/ux-republic-black-h.png"
+    alt: UX Republic Logo
+    title: UX Republic
+  - logo: "/images/logo_lagrandeourse_rvb_hd.jpg"
+    alt: La Grande Ourse logo
+    title: La Grande Ourse
   - logo: "/images/logoaffordance-1.png"
     alt: Affordance Logo
     title: Affordance
   - logo: "/images/logofaireparterie.png"
     alt: Faireparterie Logo
     title: Faireparterie
-  - logo: "/images/ux-republic-black-h.png"
-    alt: UX Republic Logo
-    title: UX Republic
 - template: reviewsblock
   component: ReviewsBlock
   bg: white
@@ -358,5 +364,7 @@ schema_org_data_list:
        ],
        "applicationCategory":"DesignApplication"
     }
+locale: ''
+globalName: ''
 
 ---
