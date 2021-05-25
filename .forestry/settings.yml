@@ -87,7 +87,7 @@ sections:
   path: src/pages/posts
   label: Post
   create: all
-  match: "**/*.md"
+  match: "**/*.js"
   templates:
   - page-post
 - type: document
