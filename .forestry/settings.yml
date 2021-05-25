@@ -87,7 +87,7 @@ sections:
   path: src/pages/posts
   label: Post
   create: all
-  match: "**/*.js"
+  match: "**/*"
   templates:
   - page-post
 - type: document
