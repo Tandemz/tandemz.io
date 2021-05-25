@@ -1,6 +1,6 @@
 ---
-og_image_width: 400
-og_image_height: 200
+og_image_width: 600
+og_image_height: 300
 hashtags:
 - Jobteaser
 - user research
