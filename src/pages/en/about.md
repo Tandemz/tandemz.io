@@ -1,21 +1,21 @@
 ---
 title: About us
 subtitle: ''
-img_path: "/images/photo-equipe-coupee-min.jpg"
+img_path: "/images/pxl_20210602_071026629-mp.jpg"
 menus:
   secondary:
     title: About us
-    weight: 1
+    weight: "1"
 template: page
 description: Want to know more about the Tandemz team ?
 keywords: tandemz, about us, history
 ogtitle: About the Tandemz Team
 ogdescription: About the Tandemz Team
 ogtype: ''
-ogimage: "/images/team_2-1-1.jpg"
+ogimage: "/images/pxl_20210602_071026629-mp.jpg"
 ogimagealt: Tandemz Team
-og_image_width: 689
-og_image_height: 344
+og_image_width: "689"
+og_image_height: "344"
 twitter_card: summary_large_image
 metatags: []
 schema_org_data_list: []
