@@ -23,11 +23,12 @@ legal: true
 updatedAt: 2020-08-26T18:48:00.000+00:00
 legal_name: privacy-policy-en
 globalName: privacy-policy
+locale: ''
 
 ---
-TANDEMZ, a simplified joint stock company with a capital of €2,400, whose head office is located at 199 Avenue de Choisy - 75013 PARIS, registered with the Paris Trade and Companies Registry under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL (hereafter "TANDEMZ") is concerned about the protection of Personal Data and undertakes to protect them in accordance with the applicable regulations and in particular with the EU Regulation no. 2016/679 of April 27, 2016 called "Règlement Général sur la Protection des Données" or "RGPD", and the Law no. 78-17 of January 6, 1978 as amended, called "Loi Informatique et Liberté".
+TANDEMZ, a simplified joint stock company with a capital of €2,400, whose head office is located at 27 rue du Chemin Vert - 75011 PARIS, registered with the Paris Trade and Companies Registry under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL (hereafter "TANDEMZ") is concerned about the protection of Personal Data and undertakes to protect them in accordance with the applicable regulations and in particular with the EU Regulation no. 2016/679 of April 27, 2016 called "Règlement Général sur la Protection des Données" or "RGPD", and the Law no. 78-17 of January 6, 1978 as amended, called "Loi Informatique et Liberté".
 
-When it collects the Personal Data of the Participants, TANDEMZ carries out processing operations for which it is qualified as "data controller", in the sense of the above-mentioned texts. 
+When it collects the Personal Data of the Participants, TANDEMZ carries out processing operations for which it is qualified as "data controller", in the sense of the above-mentioned texts.
 
 The Participants are also hereinafter referred to as the "Concerned Persons" within the meaning of the applicable Personal Data Protection Regulations.
 
@@ -72,7 +73,7 @@ Participant Data collected during registration on the Panel Platform:
 * City;
 * Postal Code;
 * Gender;
-* Consumption habits: owner of an iOS or Android phone; 
+* Consumption habits: owner of an iOS or Android phone;
 
 Participant Data collected when browsing the Platform:
 
@@ -116,7 +117,7 @@ If the Client agrees to meet the Participant, the following data will then be tr
 
 Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose, transfer, rent or transmit Personal Data that are processed on the Platform to third parties other than its clients and the following technical service providers:
 
-* the Platform's hosting service providers, for the purpose of performing technical hosting and database management services: 
+* the Platform's hosting service providers, for the purpose of performing technical hosting and database management services:
   * Clever Cloud SAS: 3 rue de l'Allier, 44000 Nantes, France, host of the TANDEMZ database, [https://www.clever-cloud.com/en/legal-terms;](https://www.clever-cloud.com/en/legal-terms; "https://www.clever-cloud.com/en/legal-terms;")
   * Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, host of the Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/. "https://www.netlify.com/privacy/.")
 * TANDEMZ subcontractors for the functional needs of the Platform, in particular:
