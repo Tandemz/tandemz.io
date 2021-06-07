@@ -156,19 +156,20 @@ sections:
   type: reviewsblock
   title: 'Rejoignez nos heureux clients '
   reviews:
-  - author: Ulysse from Mozza
-    content: 'In no time, Tandemz provides me qualified participants for interviews,
-      which gives me more time to do my job. I can finally focus on what really matters:
-      talking to my users!'
+  - author: Ulysse de Mozza
+    content: 'En un rien de temps, Tandemz me met à disposition des participants qualifiés,
+      ce qui me laisse plus de temps pour faire mon métier. Je me concentre enfin
+      sur ce qui a le plus de valeur : partir à la rencontre de mes utilisateurs !'
     avatar: ''
-  - author: Grégoire from Ferpection
-    content: Tandemz’s service is simple and reliable. What I liked the most was being
-      able to quickly reach international targets, in the US or in the UK for example.
+  - author: Grégoire de Ferpection
+    content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
+      aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
+      à l'international, aux Etats-Unis ou au Royaume-Uni par exemple !
     avatar: ''
-  - author: Julie from La Grande Ourse
-    content: The participants recruited by Tandemz were amazing! Reliable, involved,
-      they all played along. My user tests took place without the slightest issue
-      and the Tandemz team was very reactive!
+  - author: Julie de La Grande Ourse
+    content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
+      au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
+      sans le moindre soucis et l'équipe Tandemz était très réactive !
     avatar: ''
   section_id: ''
   subtitle: ''
@@ -176,6 +177,9 @@ sections:
   - logo: "/images/logo_jobteaser.png"
     alt: Jobteaser logo
     title: Jobteaser logo
+  - logo: "/images/logo-cdiscount.png"
+    alt: Cdiscount logo
+    title: Cdiscount logo
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
