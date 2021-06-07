@@ -1,7 +1,7 @@
 ---
 title: Qui sommes nous ?
 subtitle: ''
-img_path: "/images/photo-equipe-coupee-min.jpg"
+img_path: "/images/pxl_20210602_071026629-mp.jpg"
 menus:
   secondary:
     title: About us
@@ -12,7 +12,7 @@ keywords: à propos de tandemz, histoire de l'entreprise tandemz
 ogtitle: A propos de l'équipe Tandemz
 ogdescription: A propos de l'équipe Tandemz
 ogtype: ''
-ogimage: "/images/team_2-1-1.jpg"
+ogimage: "/images/pxl_20210602_071026629-mp.jpg"
 ogimagealt: Equipe Tandemz
 og_image_width: "689"
 og_image_height: "344"
