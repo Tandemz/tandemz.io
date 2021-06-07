@@ -19,9 +19,10 @@ legal: true
 updatedAt: 2020-08-26T18:48:00.000+00:00
 legal_name: privacy-policy
 globalName: privacy-policy
+locale: ''
 
 ---
-TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 199 Avenue de Choisy - 75013 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** ») est soucieuse de la protection des Données Personnelles et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée.
+TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 27 rue du Chemin Vert - 75011 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** ») est soucieuse de la protection des Données Personnelles et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée.
 
 Lorsqu’elle collecte les Données Personnelles des Participants, TANDEMZ met en œuvre des traitements de celles-ci pour lesquels elle est qualifiée de « responsable de traitement », au sens des textes précités.
 
