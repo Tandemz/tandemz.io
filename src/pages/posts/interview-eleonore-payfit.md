@@ -15,14 +15,14 @@ title: interview-eleonore-payfit
 full_title: L'UX research en SAAS B2B - un savant mélange de quanti et de quali. Entretien
   avec Eléonore de PayFit
 date: 2021-06-29T22:00:00Z
-thumb_img_path: "/images/image-encart.png"
-content_img_path: "/images/image-encart.png"
+thumb_img_path: "/images/encarteleonore.jpg"
+content_img_path: ''
 excerpt: 'Eléonore Lusignan, nous explique ce que PayFit met en place pour allier
   la qualité et la quantité des données à la rapidité d''exécution dans l''UX Research. '
 author: src/data/authors/francew.json
 keywords: UX, UX-Research, UX-Researcher, freelance, entrepreneuriat, design, user-research,
   PayFit
-ogimage: "/images/image-encart.png"
+ogimage: "/images/smediaeleonore.jpg"
 
 ---
 Ce mois-ci, nous avons eu le plaisir d'échanger avec Eléonore de Lusignan, UX Director chez PayFit. En ressort la description d'une organisation où chacun est autonome dans sa recherche, où le partage des apprentissages est généralisé, où données qualitatives et quantitatives se rejoignent, avec une attention particulière portée sur la qualité des données, sans pour autant sacrifier la rapidité d'exécution. Ca vous paraît utopique ? Lisez cette interview, et vous verrez que PayFit n'est pas loin d'y arriver !
