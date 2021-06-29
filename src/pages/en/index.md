@@ -3,7 +3,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  title: Get insights from real users
+  title: Get insights from real users !
   component: HeroBlock
   content: The self-service testers recruiting platform for all your user research
     needs
@@ -168,9 +168,6 @@ sections:
   - logo: "/images/logo_jobteaser.png"
     alt: Jobteaser logo
     title: Jobteaser logo
-  - logo: "/images/logo-cdiscount.png"
-    alt: Cdiscount Logo
-    title: Cdiscount Logo
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
