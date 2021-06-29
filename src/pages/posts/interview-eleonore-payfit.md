@@ -29,7 +29,7 @@ Ce mois-ci, nous avons eu le plaisir d'échanger avec Eléonore de Lusignan, UX 
 
 ![](/images/info-perso-pro.jpg "Eleonore Lusignan, UX Director chez PayFit")
 
-## Pour commencer, parle-nous un peu de ton parcours, et de comment tu es arrivée aujourd'hui au poste d'UX director chez PayFit.
+### Pour commencer, parle-nous un peu de ton parcours, et de comment tu es arrivée aujourd'hui au poste d'UX director chez PayFit.
 
 Honnêtement, je pense que je n'aurais jamais imaginé, quand j'ai fait mes études, que j'allais me retrouver à designer des interfaces !
 
@@ -41,7 +41,7 @@ Pour s'orienter, le champ des possibles était énorme, et en fait je ne savais 
 
 Le programme de design industriel était très centré sur l'objet, et ce que qui m'intéressait le plus c'était de comprendre comment les personnes allaient se servir des objets qu'on allait concevoir. Pour autant, il n'y avait pas du tout de spécialisation, c'était hyper exploratoire. Tout le monde pouvait faire un peu ce qu'il voulait et expérimenter avec le design thinking, à plein de différents niveaux, sans que ce soit forcément dédié à un domaine ou un medium. Et ça se reflète bien dans la diversité qu'on voit dans les métiers que font les membres de ma promotion aujourd'hui, on fait tous des choses hyper différents : ça va de la grande consommation, au jouet, à l'entrepreneuriat, au design d'interaction et au design digital.
 
-## Et pour toi du coup, quel a été ton chemin de l'objet au digital ?
+### Et pour toi du coup, quel a été ton chemin de l'objet au digital ?
 
 En sortie d'école, j'ai fait mes premières expériences professionnelles dans le packaging. En parallèle de ça, je participais à des conférences, notamment à Lift Conference. J'ai pu y rencontrer des entrepreneurs qui innovaient énormément dans le domaine du digital : ça a été ma révélation numérique, et j'ai eu envie de me former là dedans, en parallèle de mon travail en packaging.
 
@@ -61,7 +61,7 @@ Du coup pour moi la prochaine étape logique, c'était d'intégrer une entrepris
 
 En même temps à ce moment Léa (VP design de PayFit), que j'ai rencontrée en travaillant ensemble pour l'association Hexagon UX, était en train de monter le Design Studio de PayFit. Nos échanges nous ont permis de voir que mon expérience correspondait parfaitement à ce qu'elle recherchait. C'est comme ça que j'ai rejoins PayFit en tant qu'UX Director, pour y diriger le Design Studio !
 
-## Explique-nous un peu le Design Studio de PayFit : comment il s'articule avec le reste de la boîte ?
+### Explique-nous un peu le Design Studio de PayFit : comment il s'articule avec le reste de la boîte ?
 
 Ce qu'il faut comprendre déjà c'est que PayFit est divisée en différentes Tribes et Squad, et que les designers (une quinzaine environ) sont dédiés à leur équipe produit, pour concevoir des features etc.
 
@@ -73,7 +73,7 @@ Ensuite, nous sommes aussi garants de la qualité de l'expérience utilisateur, 
 
 Le troisième point, c'est la recherche utilisateur, où on vient mettre en place des process et des pratiques pour faire en sorte que toute la connaissance utilisateur soit partagée à l'ensemble des équipes - qu'il s'agisse de données qualitatives ou quantitatives.
 
-## Tu mentionnes dans ton second point que vous épaulez les équipes de localisation pour assurer que l'expérience utilisateur soit bonne partout. Comment se passe cette collaboration ?
+### Tu mentionnes dans ton second point que vous épaulez les équipes de localisation pour assurer que l'expérience utilisateur soit bonne partout. Comment se passe cette collaboration ?
 
 C'est quelque chose qui a été un gros challenge, notamment avec le COVID.
 
@@ -83,7 +83,7 @@ Pour ça, pour moi le meilleur moyen c'était de les former pour qu'ils la fasse
 
 En conséquence, le Design Studio s'est impliqué de plus en plus dans les différentes équipes, ce qui nous a permis d'itérer sur notre manière d'interagir avec les pays. C'est parti d'une formation, puis c'est passé à du coaching, puis à des design reviews ponctuelles etc. Depuis on a mis en place différentes choses, comme par exemple répartir les différents pays entre les quatre designers du Design Studio, pour qu'ils aient un interlocuteur privilégié qui peut leur faire des retours sur leurs méthodologies de recherche ou sur l'UX, et pour faire des design reviews avec eux au moins toutes les deux semaines.
 
-## Finalement, j'ai l'impression que tout passe par la recherche utilisateur ! Avec pour idée d'apprendre aux équipes locales à faire de la recherche localement. Mais sinon, comment ça se passe de manière générale chez PayFit ? Tu le mentionnes comme étant aussi un des besoins transverses de la boîte.
+### Finalement, j'ai l'impression que tout passe par la recherche utilisateur ! Avec pour idée d'apprendre aux équipes locales à faire de la recherche localement. Mais sinon, comment ça se passe de manière générale chez PayFit ? Tu le mentionnes comme étant aussi un des besoins transverses de la boîte.
 
 Oui, parce qu'on a vu que la recherche utilisateur, c'était vraiment le levier qui manquait dans les pays ! D'ailleurs on a pourvu un poste d'UX researcher pour la France, qui a été pris par Mathilde Gauthier. Et ensemble on a mis en place beaucoup de process !
 
@@ -93,7 +93,7 @@ Il y a une grosse culture de la donnée chez PayFit, donc on a toujours plein d'
 
 Ca nous permet à la fois de mesurer l'impact des sujets par rapport à nos priorités business - nos deux métriques principales étant le revenu et la marge de croissance - mais aussi à être le plus pertinent possible quand il s'agit d'aller interroger les clients, et ainsi faire gagner du temps à tout le monde. Par exemple, si l'idée est d'organiser des entretiens utilisateurs, on va conseiller les équipes de bien analyser la donnée en amont pour être hyper précis sur leurs objectifs et sur leurs hypothèses de recherche - et donc avoir un guide de terrain très ciblé. Cela permet aussi d'identifier les clients qu'il serait les plus pertinents de contacter.
 
-## Quelle est du coup la vision de PayFit pour le futur de la User Research ? Ce que je vois, c'est que c'est déjà très bien imbriqué, avec la data, avec le produit, avec la localisation. C'est quoi l'étape d'après ? Qu'est ce que tu voudrais pousser encore un peu plus?
+### Quelle est du coup la vision de PayFit pour le futur de la User Research ? Ce que je vois, c'est que c'est déjà très bien imbriqué, avec la data, avec le produit, avec la localisation. C'est quoi l'étape d'après ? Qu'est ce que tu voudrais pousser encore un peu plus?
 
 Autant sur la partie data, on a plein de manière d'automatiser, autant sur la recherche qualitative, notre vision, c'est de trouver tous les moyens pour qu'on puisse automatiser cela et gagner du temps.
 
@@ -111,7 +111,7 @@ C'est un vrai challenge, parce que, contrairement à un site vitrine pour faire 
 
 Tout est complémentaire, et il n'y a jamais qu'une seule façon de faire. Il y a toujours des alternatives, et il faut savoir diversifier ses méthodes et ses sources de recherche. C'est la combinaison des choses qui fait la richesse de ce qu'on apprend.
 
-## Tout ce que tu dis est passionnant ! Et du coup, avec le recul, quel serait ton conseil pour quelqu'un en début de carrière en UX ?
+### Tout ce que tu dis est passionnant ! Et du coup, avec le recul, quel serait ton conseil pour quelqu'un en début de carrière en UX ?
 
 J'insisterais vraiment sur apprendre en faisant, essayer au plus vite possible, mettre en application rapidement. 70% de notre façon d'apprendre, c'est sur le terrain. Il faut vraiment oser expérimenter tout de suite.
 
