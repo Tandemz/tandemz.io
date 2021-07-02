@@ -15,7 +15,7 @@ date: 2021-07-01T22:00:00Z
 thumb_img_path: "/images/analyseheuritisque.png"
 content_img_path: ''
 excerpt: 'L''analyse heuristique, un atelier en ligne mené par Clément Reynard expert
-  UX. Il vous apprend comment améliorer l''optimisation de vos interfaces utilisateurs. '
+  UX. Découvrez comment améliorer l''optimisation de vos interfaces utilisateurs. '
 author: src/data/authors/francew.json
 keywords: user research, ux, user experience, audit interfaces utilisateur, analyse
   heuritique, audit ergonomique
