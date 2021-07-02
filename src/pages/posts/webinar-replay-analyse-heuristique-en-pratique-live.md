@@ -40,12 +40,10 @@ Un grand merci à nos invités ! N'hésitez pas à les contacter pour leur poser
 
 **Clément Reynard** Co-founder & Head of UX chez **La Grande Ourse**
 
-**Profile Linkedin** : [https://www.linkedin.com/in/creyd/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
-
-**Site de l'agence** : [https://lagrandeourse.design/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
+* Profile Linkedin : [https://www.linkedin.com/in/creyd/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
+* Site de l'agence : [https://lagrandeourse.design/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
 
 **Alexandre Meyer**, Fondateur et CEO de **GoodSteps**
 
-**Profile Linkedin** : [https://www.linkedin.com/in/meyeralex...](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
-
-**Site web** : [https://goodsteps.io/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
+* Profile Linkedin : [https://www.linkedin.com/in/meyeralex...](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
+* Site web : [https://goodsteps.io/](https://www.linkedin.com/in/creyd/ "https://www.linkedin.com/in/creyd/")
