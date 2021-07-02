@@ -14,8 +14,8 @@ full_title: REPLAY WEBINAR - L'analyse heuristique en pratique !
 date: 2021-07-01T22:00:00Z
 thumb_img_path: "/images/analyseheuritisque.png"
 content_img_path: ''
-excerpt: 'L''analyse heuristique, un atelier en ligne mené par Clément Reynard expert
-  UX. Découvrez comment améliorer l''optimisation de vos interfaces utilisateurs. '
+excerpt: L'analyse heuristique, un atelier en ligne mené par Clément Reynard, Head
+  of UX. Découvrez les grands principes qui vous permettent d’optimiser vos interfaces.
 author: src/data/authors/francew.json
 keywords: user research, ux, user experience, audit interfaces utilisateur, analyse
   heuritique, audit ergonomique
