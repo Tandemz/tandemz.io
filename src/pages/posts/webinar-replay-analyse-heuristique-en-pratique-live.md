@@ -22,9 +22,7 @@ keywords: user research, ux, user experience, audit interfaces utilisateur, anal
 ogimage: "/images/smanalyseh.png"
 
 ---
-![un audit ergonomique en live](/images/replayah.png "Revoir le webinar l'analyse heuristique")
-
-[https://youtu.be/XLJ2fStO1b8](https://youtu.be/XLJ2fStO1b8 "https://youtu.be/XLJ2fStO1b8")
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/XLJ2fStO1b8](https://www.youtube.com/embed/XLJ2fStO1b8 "https://www.youtube.com/embed/XLJ2fStO1b8")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **L’analyse heuristique** est une de méthodes utilisées pour **améliorer l’optimisation** de toutes les interfaces utilisateurs.
 
