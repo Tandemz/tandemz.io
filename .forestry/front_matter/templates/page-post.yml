@@ -99,20 +99,3 @@ fields:
   label: ogtype
   hidden: true
   default: article
-pages:
-- src/pages/posts/client-case-study-jobteaser.md
-- src/pages/posts/comment-combien-remunerer-participants-ux-research.md
-- src/pages/posts/expliquer-ux-designer-a-ma-grand-mere.md
-- src/pages/posts/interview-eleonore-payfit.md
-- src/pages/posts/interview-evaneos.md
-- src/pages/posts/interview-ux-bouygues-telecom-cycle-en-v-agilite-solene-saguez.md
-- src/pages/posts/introduction-recherche-utilisateur-quantitative-qualitative.md
-- src/pages/posts/livre-blanc-etat-etude-qualitative-en-france.md
-- src/pages/posts/methode-recherche-utilisateur-qualitative.md
-- src/pages/posts/tip-eviter-no-show.md
-- src/pages/posts/ux-ergonomie-agence-interview-affordance.md
-- src/pages/posts/ux-research-interview-roxane-lacotte.md
-- src/pages/posts/webinar-replay-analyse-heuristique-en-pratique-live.md
-- src/pages/posts/webinar-replay-user-research-live-interview.md
-- src/pages/posts/webinar-replay-user-research-live-user-test.md
-- src/pages/posts/why-dark-patterns-creep-into-ux-designers-toolkits.md
