@@ -20,6 +20,6 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 locale: ''
-globalName: ''
+globalName: participation-rules
 
 ---
