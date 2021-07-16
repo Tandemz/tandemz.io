@@ -34,7 +34,7 @@ sections:
       url: https://app.tandemz.io/recruit-participants
       title: Recruter des participants de qualité
       button_priority: ''
-  - title: Crédits pré-payés
+  - title: Forfaits pré-payés
     price: A partir de 5000€
     details: |-
       ##### **obtenez des crédits gratuits dès 5000€ d'achat**
