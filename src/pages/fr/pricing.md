@@ -35,11 +35,11 @@ sections:
       title: Recruter des participants de qualité
       button_priority: ''
   - title: Crédits pré-payés
-    price: A partir de 4750€
+    price: A partir de 5000€
     details: |-
-      ##### **pour 5000€ de crédits - 5% de réduction**
+      ##### **obtenez des crédits gratuits dès 5000€ d'achat**
 
-      * Jusqu'à 20% de remise !
+      * Jusqu'à 20% de crédits offerts !
       * Pas de date d'expiration
       * Pensé pour les équipes avec de gros volumes et de la récurrence
     highlight: false
