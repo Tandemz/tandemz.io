@@ -35,7 +35,7 @@ sections:
       url: https://app.tandemz.io/recruit-participants
       title: Find quality participant now
       button_priority: ''
-  - title: Buy credits
+  - title: Prepaid packages
     price: From €5,000
     details: |-
       ##### **for 5000€ worth of credits - 5% discount**
