@@ -57,7 +57,11 @@ sections:
 
       Contrepartie incluse
     highlight: false
-    actions: []
+    actions:
+    - url: "/contact"
+      label: Contactez-nous
+      title: Contactez-nous pour un abonnement
+      button_priority: ''
 - template: ctablock
   component: CtaBlock
   type: ctablock
