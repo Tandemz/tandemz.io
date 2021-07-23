@@ -25,9 +25,9 @@ sections:
     details: |-
       ##### **Pour les études ponctuelles**
 
-      * Accès libre à la plateforme
-      * Estimez votre prix en autonomie
       * Prix déterminé selon la cible et l'étude
+      * Estimez votre prix en autonomie
+      * Accès libre à la plateforme
       * Contrepartie incluse
       * Paiement au nombre de participants
     highlight: true
@@ -44,8 +44,8 @@ sections:
       * Dès 5 000 €, 5% de crédits offerts
       * Dès 10 000 €, 10% de crédits offerts
       * Dès 20 000 €, 20% de crédits offerts
-      * Utilisables sur toute la plateforme, contrepartie inclue
       * Crédits valables un an
+      * Utilisables sur toute la plateforme, contrepartie inclue
     highlight: false
     actions:
     - label: Contactez-nous
@@ -57,8 +57,10 @@ sections:
     details: |-
       ##### **Pour les études récurrentes**
 
-      * Pour les besoins très récurrents
-      * Contrepartie incluse
+      * Contrat personnalisé selon votre besoin
+      * Tarif annuel, contrepartie inclue
+      * Nombre de participants fixe par mois
+      * Suivi personnalisé
     highlight: false
     actions:
     - url: "/contact"
