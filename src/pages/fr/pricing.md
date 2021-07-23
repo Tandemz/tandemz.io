@@ -25,9 +25,12 @@ sections:
     details: |-
       ##### **par participant pour des études qualitatives**
 
-      * A partir de 10€ / participant pour du **quantitatif**)
-      * Les prix augmentent en fonction de la complexité de votre ciblage
+      * A partir de 10€ / participant pour du **quantitatif**
+      * Accès libre à la plateforme
+      * Estimez votre prix en autonomie
+      * Prix déterminé selon la cible et l'étude
       * Contrepartie incluse
+      * Paiement au nombre de participants
     highlight: true
     actions:
     - label: Recrutez maintenant
@@ -42,8 +45,8 @@ sections:
       * Dès 5 000 €, 5% de crédits offerts
       * Dès 10 000 €, 10% de crédits offerts
       * Dès 20 000 €, 20% de crédits offerts
-      * Utilisables sur tout type d'étude, contrepartie inclue
-      * Valables un an
+      * Utilisables sur toute la plateforme, contrepartie inclue
+      * Crédits valables un an
     highlight: false
     actions:
     - label: Contactez-nous
