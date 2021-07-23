@@ -50,9 +50,12 @@ sections:
       url: "/contact"
       title: Contactez-nous pour un achat de crédit
       button_priority: ''
-  - title: Forfait 10%
-    price: ''
-    details: ''
+  - title: Abonnements
+    price: Parlons-en !
+    details: |-
+      Pour les besoins très récurrents
+
+      Contrepartie incluse
     highlight: false
     actions: []
   - title: Forfait 20%
