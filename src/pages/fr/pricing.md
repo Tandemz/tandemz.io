@@ -58,11 +58,6 @@ sections:
       Contrepartie incluse
     highlight: false
     actions: []
-  - title: Forfait 20%
-    price: ''
-    details: ''
-    highlight: false
-    actions: []
 - template: ctablock
   component: CtaBlock
   type: ctablock
