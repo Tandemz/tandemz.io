@@ -26,7 +26,7 @@ sections:
 
       * Prices scale according to the target and the study
       * Incentive included
-      * Estimate your price independently
+      * Estimate your price on your own
       * Payment based on the number of participants
       * Free access to the platform
     highlight: true
@@ -38,11 +38,13 @@ sections:
   - title: Prepaid packages
     price: From €5,000
     details: |-
-      ##### **for 5000€ worth of credits - 5% discount**
+      ##### **For various study needs**
 
-      * Up to 20% discount!
-      * No expiration date
-      * Perfect for teams with high volumes
+      * From €5,000, 5% of credits offered
+      * From €10,000, 10% of credits offered
+      * From €20,000, 20% of credits offered
+      * Credits valid for 1 year
+      * Usable for all type of studies, incentive included
     highlight: false
     actions:
     - label: Get in touch
@@ -55,7 +57,7 @@ sections:
       ##### **For recurring studies**
 
       * Custom contract according to your needs
-      * Billed annually, compensation included
+      * Billed annually, incentive included
       * Fixed number of participants per month
       * Personalized follow-up
     highlight: false
