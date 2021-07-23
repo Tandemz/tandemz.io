@@ -21,11 +21,10 @@ sections:
     utilisateur
   pricingplans:
   - title: A la carte
-    price: A partir de 30€
+    price: A partir de 8€/participant
     details: |-
-      ##### **par participant pour des études qualitatives**
+      ##### **Pour les études ponctuelles**
 
-      * A partir de 10€ / participant pour du **quantitatif**
       * Accès libre à la plateforme
       * Estimez votre prix en autonomie
       * Prix déterminé selon la cible et l'étude
@@ -40,7 +39,7 @@ sections:
   - title: Forfaits prépayés
     price: A partir de 5 000 €
     details: |-
-      ##### **Obtenez des crédits gratuits**
+      ##### **Pour les besoins variés et récurrents**
 
       * Dès 5 000 €, 5% de crédits offerts
       * Dès 10 000 €, 10% de crédits offerts
@@ -56,9 +55,10 @@ sections:
   - title: Abonnements
     price: Parlons-en !
     details: |-
-      Pour les besoins très récurrents
+      ##### **Pour les besoins uniformes et récurrents**
 
-      Contrepartie incluse
+      * Pour les besoins très récurrents
+      * Contrepartie incluse
     highlight: false
     actions:
     - url: "/contact"
