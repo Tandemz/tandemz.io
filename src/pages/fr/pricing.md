@@ -26,10 +26,10 @@ sections:
       ##### **Pour les études ponctuelles**
 
       * Prix déterminé selon la cible et l'étude
-      * Estimez votre prix en autonomie
-      * Accès libre à la plateforme
       * Contrepartie incluse
+      * Estimez votre prix en autonomie
       * Paiement au nombre de participants
+      * Accès libre à la plateforme
     highlight: true
     actions:
     - label: Recrutez maintenant
@@ -52,7 +52,7 @@ sections:
       url: "/contact"
       title: Contactez-nous pour un achat de crédit
       button_priority: ''
-  - title: Abonnements
+  - title: Abonnement
     price: Discutons-en !
     details: |-
       ##### **Pour les études récurrentes**
