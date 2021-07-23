@@ -19,14 +19,16 @@ sections:
   title: Pricing
   subtitle: Accessible recruitment of quality testers for all your user research needs
   pricingplans:
-  - title: Pays as you go
-    price: From 30€
+  - title: Pay As You Go
+    price: From €8
     details: |-
-      ##### **per participant for qualitative studies**
+      ##### **For one-time studies**
 
-      * from 10€ / participant for **quantitative** studies
-      * Prices scale according to difficulty of recruitment
+      * Prices scale according to the target and the study
       * Incentive included
+      * Estimate your price independently
+      * Payment based on the number of participants
+      * Free access to the platform
     highlight: true
     actions:
     - label: Recruit now
@@ -34,13 +36,28 @@ sections:
       title: Find quality participant now
       button_priority: ''
   - title: Buy credits
-    price: From 4750€
+    price: From €5,000
     details: |-
       ##### **for 5000€ worth of credits - 5% discount**
 
       * Up to 20% discount!
       * No expiration date
       * Perfect for teams with high volumes
+    highlight: false
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      title: Contact us to discuss the custom plan
+      button_priority: ''
+  - title: Subscription
+    price: Let's talk!
+    details: |-
+      ##### **For recurring studies**
+
+      * Custom contract according to your needs
+      * Billed annually, compensation included
+      * Fixed number of participants per month
+      * Personalized follow-up
     highlight: false
     actions:
     - label: Get in touch
