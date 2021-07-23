@@ -21,7 +21,7 @@ sections:
     utilisateur
   pricingplans:
   - title: A la carte
-    price: A partir de 8€/participant
+    price: A partir de 8 €
     details: |-
       ##### **Pour les études ponctuelles**
 
@@ -39,7 +39,7 @@ sections:
   - title: Forfaits prépayés
     price: A partir de 5 000 €
     details: |-
-      ##### **Pour les besoins variés et récurrents**
+      ##### **Pour des besoins variés**
 
       * Dès 5 000 €, 5% de crédits offerts
       * Dès 10 000 €, 10% de crédits offerts
@@ -53,9 +53,9 @@ sections:
       title: Contactez-nous pour un achat de crédit
       button_priority: ''
   - title: Abonnements
-    price: Parlons-en !
+    price: Discutons-en !
     details: |-
-      ##### **Pour les besoins uniformes et récurrents**
+      ##### **Pour les études récurrentes**
 
       * Pour les besoins très récurrents
       * Contrepartie incluse
