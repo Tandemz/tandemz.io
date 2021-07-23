@@ -34,20 +34,30 @@ sections:
       url: https://app.tandemz.io/recruit-participants
       title: Recruter des participants de qualité
       button_priority: ''
-  - title: Forfaits pré-payés
-    price: A partir de 5000€
+  - title: Forfait 5%
+    price: A partir de 5 000 €
     details: |-
-      ##### **obtenez des crédits gratuits dès 5000€ d'achat**
+      ##### **obtenez 5% de crédits supplémentaires**
 
-      * Jusqu'à 20% de crédits offerts !
-      * Pas de date d'expiration
-      * Pensé pour les équipes avec de gros volumes et de la récurrence
+      * Payez 5 000 €, recevez 5 250 € de crédits
+      * Utilisables sur tout type d'étude
+      * Valables un an
     highlight: false
     actions:
     - label: Contactez-nous
       url: "/contact"
       title: Contactez-nous pour un achat de crédit
       button_priority: ''
+  - title: Forfait 10%
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
+  - title: Forfait 20%
+    price: ''
+    details: ''
+    highlight: false
+    actions: []
 - template: ctablock
   component: CtaBlock
   type: ctablock
