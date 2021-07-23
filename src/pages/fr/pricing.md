@@ -34,13 +34,15 @@ sections:
       url: https://app.tandemz.io/recruit-participants
       title: Recruter des participants de qualité
       button_priority: ''
-  - title: Forfait 5%
+  - title: Forfaits prépayés
     price: A partir de 5 000 €
     details: |-
-      ##### **obtenez 5% de crédits supplémentaires**
+      ##### **obtenez des crédits gratuits**
 
-      * Payez 5 000 €, recevez 5 250 € de crédits
-      * Utilisables sur tout type d'étude
+      * A partir de 5 000 €, gagnez 5% de crédits supplémentaires
+      * A partir de 10 000 €, gagnez 10% de crédits supplémentaires
+      * A partir de 20 000 €, gagnez 20% de crédits supplémentaires
+      * Utilisables sur tout type d'étude, contrepartie inclue
       * Valables un an
     highlight: false
     actions:
