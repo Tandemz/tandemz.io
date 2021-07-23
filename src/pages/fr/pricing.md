@@ -37,11 +37,11 @@ sections:
   - title: Forfaits prépayés
     price: A partir de 5 000 €
     details: |-
-      ##### **obtenez des crédits gratuits**
+      ##### **Obtenez des crédits gratuits**
 
-      * A partir de 5 000 €, gagnez 5% de crédits supplémentaires
-      * A partir de 10 000 €, gagnez 10% de crédits supplémentaires
-      * A partir de 20 000 €, gagnez 20% de crédits supplémentaires
+      * Dès 5 000 €, 5% de crédits offerts
+      * Dès 10 000 €, 10% de crédits offerts
+      * Dès 20 000 €, 20% de crédits offerts
       * Utilisables sur tout type d'étude, contrepartie inclue
       * Valables un an
     highlight: false
