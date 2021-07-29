@@ -23,30 +23,37 @@ sections:
   pricingplans:
   - title: Unmoderated
     price: from 8€ / participants
-    details: For surveys and unmoderated user tests
+    details: |-
+      * For online surveys and unmoderated user tests
+      * Prices based on a 5 minute survey
     highlight: false
     actions:
-    - label: Get in touch
-      url: "/contact"
-      title: Contact us to discuss the custom plan
-      button_priority: ''
+    - label: Recruit now
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=10&type=UNMODERATED_USABILITY_TEST
+      title: Recruit for unmoderated session
+      button_priority: secondary
   - title: Videocall
     price: from 40€ / participant
     details: |-
-      ##### **for interviews and user tests that can take place online**
-
-      For interviews and user tests that can take place remotely
+      * For remote interviews and usability testings
+      * Price based on a 30min videocall
     highlight: true
     actions:
     - label: Recruit now
-      url: https://app.tandemz.io/recruit-participants
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=6&type=ONLINE_MEETING
       title: Find quality participant now
-      button_priority: ''
+      button_priority: primary
   - title: In person
     price: from 55€ / participant
-    details: For studies that need to take place at a specific location
+    details: |-
+      * For studies that need to take place at a specific location
+      * Price based on a 30min meeting
     highlight: false
-    actions: []
+    actions:
+    - label: Recruit now
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=6&type=PHYSICAL
+      button_priority: primary
+      title: Meet quality participants in your chosen location
 - template: pricingblock
   component: PricingBlock
   bg: gray
