@@ -15,57 +15,46 @@ sections:
   component: PricingBlock
   bg: white
   type: pricingblock
-  section_id: pricing
-  title: Pricing
-  subtitle: Accessible recruitment of quality testers for all your user research needs
+  section_id: payAsYouGo
+  title: Pay As You Go
+  subtitle: Get started on Tandemz with one-time studies! Pay at the end and only
+    for serious participants. All our prices include incentives, and scale according
+    to  difficulty of recruitment.
   pricingplans:
-  - title: Pay As You Go
-    price: From €8
+  - title: Unmoderated
+    price: from 8€ / participants
+    details: For surveys and unmoderated user tests
+    highlight: false
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      title: Contact us to discuss the custom plan
+      button_priority: ''
+  - title: Videocall
+    price: from 40€ / participant
     details: |-
-      ##### **For one-time studies**
+      ##### **for interviews and user tests that can take place online**
 
-      * Prices scale according to the target and the study
-      * Incentive included
-      * Estimate your price on your own
-      * Payment based on the number of participants
-      * Free access to the platform
+      For interviews and user tests that can take place remotely
     highlight: true
     actions:
     - label: Recruit now
       url: https://app.tandemz.io/recruit-participants
       title: Find quality participant now
       button_priority: ''
-  - title: Prepaid packages
-    price: From €5,000
-    details: |-
-      ##### **For various study needs**
-
-      * From €5,000, 5% of credits offered
-      * From €10,000, 10% of credits offered
-      * From €20,000, 20% of credits offered
-      * Credits valid for 1 year
-      * Usable for all type of studies, incentive included
+  - title: In person
+    price: from 55€ / participant
+    details: For studies that need to take place at a specific location
     highlight: false
-    actions:
-    - label: Get in touch
-      url: "/contact"
-      title: Contact us to discuss the custom plan
-      button_priority: ''
-  - title: Subscription
-    price: Let's talk!
-    details: |-
-      ##### **For recurring studies**
-
-      * Custom contract according to your needs
-      * Billed annually, incentive included
-      * Fixed number of participants per month
-      * Personalized follow-up
-    highlight: false
-    actions:
-    - label: Get in touch
-      url: "/contact"
-      title: Contact us to discuss the custom plan
-      button_priority: ''
+    actions: []
+- template: pricingblock
+  component: PricingBlock
+  bg: gray
+  type: pricingblock
+  section_id: ''
+  title: ''
+  subtitle: ''
+  pricingplans: []
 - template: ctablock
   component: CtaBlock
   type: ctablock
