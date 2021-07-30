@@ -16,13 +16,13 @@ sections:
   bg: white
   type: pricingblock
   section_id: payAsYouGo
-  title: Pay As You Go
+  title: Pay As You Go offers
   subtitle: Get started on Tandemz with one-time studies! Pay at the end and only
     for serious participants. All our prices include incentives, and scale according
     to  difficulty of recruitment.
   pricingplans:
   - title: Unmoderated
-    price: from 8€ / participants
+    price: from 8€ / participant
     details: |-
       * For online surveys and unmoderated user tests
       * Prices based on a 5 minute survey
@@ -56,12 +56,50 @@ sections:
       title: Meet quality participants in your chosen location
 - template: pricingblock
   component: PricingBlock
-  bg: gray
+  bg: white
   type: pricingblock
-  section_id: ''
-  title: ''
-  subtitle: ''
-  pricingplans: []
+  section_id: credits
+  title: Prepaid credits offers
+  subtitle: For teams with recurring recruitment needs. Pay once upfront for a certain
+    amount of credits, then use them to your heart's! Valid for one year and for all
+    type of studies.
+  pricingplans:
+  - price: 5000€
+    highlight: false
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      button_priority: secondary
+      title: Get in touch with Tandemz
+    title: starter package
+    details: |-
+      * get 5% free bonus credits!
+      * ideal for small teams with recurring research needs
+      * equivalent to 130 participants recruited in one year
+  - price: 10 000€
+    details: |-
+      * get 10% free bonus credits!
+      * ideal for product teams scaling up their research
+      * equivalent to 275 participants recruited in one year for remote meetings
+    highlight: true
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      title: Get in touch with Tandemz
+      button_priority: primary
+    title: recommended
+  - price: "20000"
+    details: |-
+      * get 20% free bonus credits!
+      * ideal for large teams running multiple research studies in parallel
+      * equivalent to 500 participants recruited in one year for remote meetings
+    highlight: false
+    actions:
+    - label: Get in touch
+      url: "/contact"
+      title: Get in touch
+      button_priority: secondary
+    title: enterprise package
 - template: ctablock
   component: CtaBlock
   type: ctablock
