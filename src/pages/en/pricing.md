@@ -70,7 +70,7 @@ sections:
       * get 5% free bonus credits!
       * ideal for small teams with recurring research needs
       * 5K€ ≃130 participants recruited for remote meetings during the year
-  - price: "€10.000"
+  - price: from €10.000
     details: |-
       * get 10% free bonus credits!
       * ideal for product teams scaling up their research
@@ -82,7 +82,7 @@ sections:
       title: Get in touch with Tandemz
       button_priority: primary
     title: Recommended
-  - price: "€20.000"
+  - price: from €20.000
     details: |-
       * get 20% free bonus credits!
       * ideal for large teams running multiple research studies in parallel
