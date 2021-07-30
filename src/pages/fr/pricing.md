@@ -62,7 +62,7 @@ sections:
     price: dès 5 000€
     details: |-
       * +5 % de crédits bonus gratuits !
-      * idéal pour les besoins de recherche récurrents des petites équipes
+      * idéal pour les besoins de recherche récurrente des petites équipes
       * 5K€ ≃130 participants rencontrés à distance sur l'année
     highlight: false
     actions:
@@ -74,7 +74,7 @@ sections:
     price: dès 10 000€
     details: |-
       * +10 % de crédits bonus gratuits !
-      * idéal pour les équipes produits qui intensifient leurs recherches
+      * idéal pour les équipes produits qui accélèrent leur recherche utilisateur
       * 10K€ ≃275 participants rencontrés à distance sur l'année
     highlight: false
     actions:
@@ -86,7 +86,7 @@ sections:
     price: dès 20 000€
     details: |-
       * +20 % de crédits bonus gratuits !
-      * idéal pour les grosses équipes menant plusieurs études de recherche en parallèle
+      * idéal pour les grosses équipes menant des études en parallèle
       * 20K€ ≃ 500 participants rencontrés à distance sur l'année
     highlight: false
     actions:

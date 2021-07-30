@@ -22,7 +22,7 @@ sections:
     to  difficulty of recruitment.
   pricingplans:
   - title: Unmoderated
-    price: from 8€ / participant
+    price: from €8 / participant
     details: For online surveys and unmoderated user tests
     highlight: false
     actions:
@@ -31,7 +31,7 @@ sections:
       title: Recruit for unmoderated session
       button_priority: secondary
   - title: Videocall
-    price: from 40€ / participant
+    price: from €40 / participant
     details: For remote interviews and usability testings
     highlight: true
     actions:
@@ -40,7 +40,7 @@ sections:
       title: Find quality participant now
       button_priority: primary
   - title: In person
-    price: from 80€ / participant
+    price: from €80 / participant
     details: For studies that need to take place at a specific location
     highlight: false
     actions:
