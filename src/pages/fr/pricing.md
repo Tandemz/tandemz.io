@@ -15,58 +15,85 @@ sections:
   component: PricingBlock
   bg: white
   type: pricingblock
-  section_id: pricing
-  title: Prix
-  subtitle: Recrutement abordable de participants pour tous vos besoins en recherche
-    utilisateur
+  section_id: payAsYouGo
+  title: Offres Pay As You Go
+  subtitle: Commencez sur Tandemz avec des études ponctuelles ! Payez à la fin et
+    uniquement pour les participants sérieux. Tous nos prix comprennent les contreparties,
+    et augmentent en fonction de la difficulté du recrutement.
   pricingplans:
-  - title: A la carte
-    price: A partir de 8 €
-    details: |-
-      ##### **Pour les études ponctuelles**
-
-      * Prix déterminé selon la cible et l'étude
-      * Contrepartie incluse
-      * Estimez votre prix en autonomie
-      * Paiement au nombre de participants
-      * Accès libre à la plateforme
+  - title: Non modéré
+    price: dès 8€ / participant
+    details: Pour vos enquêtes en ligne et vos tests utilisateurs non modérés
+    highlight: false
+    actions:
+    - label: Recruter maintenant
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=10&type=FIRST_CLICK_FIVE_SECONDS
+      title: Recruter maintenant
+      button_priority: secondary
+  - title: Video-conférence
+    price: dès 40€ / participant
+    details: 'Pour vos entretiens et vos tests utilisateurs à distance '
     highlight: true
     actions:
     - label: Recrutez maintenant
-      url: https://app.tandemz.io/recruit-participants
-      title: Recruter des participants de qualité
-      button_priority: ''
-  - title: Forfaits prépayés
-    price: A partir de 5 000 €
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=6&type=ONLINE_MEETING
+      title: Recrutez maintenant
+      button_priority: primary
+  - title: En personne
+    price: dès 80€ / participant
+    details: Pour les études qui doivent se dérouler dans un lieu précis
+    highlight: false
+    actions:
+    - label: Recruter maintenant
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=6&type=PHYSICAL
+      title: Recruter maintenant
+      button_priority: secondary
+- template: pricingblock
+  component: PricingBlock
+  bg: white
+  type: pricingblock
+  section_id: credits
+  title: Offres de forfaits prépayés
+  subtitle: Pour les équipes avec des besoins de recrutement récurrents. Payez une
+    fois pour un certain nombre de crédits que vous pouvez utiliser à votre guise
+    ! Valables un an et pour tous les types d'études.
+  pricingplans:
+  - title: Offre start-up
+    price: dès 5 000€
     details: |-
-      ##### **Pour des besoins variés**
-
-      * Dès 5 000 €, 5% de crédits offerts
-      * Dès 10 000 €, 10% de crédits offerts
-      * Dès 20 000 €, 20% de crédits offerts
-      * Crédits valables un an
-      * Utilisables sur toute la plateforme, contrepartie inclue
+      * +5 % de crédits bonus gratuits !
+      * idéal pour les besoins de recherche récurrents des petites équipes
+      * 5K€ ≃130 participants rencontrés à distance sur l'année
     highlight: false
     actions:
     - label: Contactez-nous
       url: "/contact"
-      title: Contactez-nous pour un achat de crédit
-      button_priority: ''
-  - title: Abonnement
-    price: Discutons-en !
+      title: Contactez-nous
+      button_priority: secondary
+  - title: Recommandée
+    price: dès 10 000€
     details: |-
-      ##### **Pour les études récurrentes**
-
-      * Contrat personnalisé selon votre besoin
-      * Tarif annuel, contrepartie inclue
-      * Nombre de participants fixe par mois
-      * Suivi personnalisé
+      * +10 % de crédits bonus gratuits !
+      * idéal pour les équipes produits qui intensifient leurs recherches
+      * 10K€ ≃275 participants rencontrés à distance sur l'année
     highlight: false
     actions:
-    - url: "/contact"
-      label: Contactez-nous
-      title: Contactez-nous pour un abonnement
-      button_priority: ''
+    - label: Contactez-nous
+      url: "/contact"
+      title: Contactez-nous
+      button_priority: primary
+  - title: Offre grands groupes
+    price: dès 20 000€
+    details: |-
+      * +20 % de crédits bonus gratuits !
+      * idéal pour les grosses équipes menant plusieurs études de recherche en parallèle
+      * 20K€ ≃ 500 participants rencontrés à distance sur l'année
+    highlight: false
+    actions:
+    - label: Contactez-nous
+      url: "/contact"
+      title: Contactez-nous
+      button_priority: secondary
 - template: ctablock
   component: CtaBlock
   type: ctablock
