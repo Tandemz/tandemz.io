@@ -23,20 +23,16 @@ sections:
   pricingplans:
   - title: Unmoderated
     price: from 8€ / participant
-    details: |-
-      * For online surveys and unmoderated user tests
-      * Prices based on a 5 minute survey
+    details: For online surveys and unmoderated user tests
     highlight: false
     actions:
     - label: Recruit now
-      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=10&type=UNMODERATED_USABILITY_TEST
+      url: https://app.tandemz.io/recruit-participants?numberOfParticipantRequired=10&type=FIRST_CLICK_FIVE_SECONDS
       title: Recruit for unmoderated session
       button_priority: secondary
   - title: Videocall
     price: from 40€ / participant
-    details: |-
-      * For remote interviews and usability testings
-      * Price based on a 30min videocall
+    details: For remote interviews and usability testings
     highlight: true
     actions:
     - label: Recruit now
@@ -44,10 +40,8 @@ sections:
       title: Find quality participant now
       button_priority: primary
   - title: In person
-    price: from 55€ / participant
-    details: |-
-      * For studies that need to take place at a specific location
-      * Price based on a 30min meeting
+    price: from 80€ / participant
+    details: For studies that need to take place at a specific location
     highlight: false
     actions:
     - label: Recruit now
@@ -64,42 +58,42 @@ sections:
     amount of credits, then use them to your heart's! Valid for one year and for all
     type of studies.
   pricingplans:
-  - price: 5000€
+  - price: from €5.000
     highlight: false
     actions:
     - label: Get in touch
       url: "/contact"
       button_priority: secondary
       title: Get in touch with Tandemz
-    title: starter package
+    title: Starter package
     details: |-
       * get 5% free bonus credits!
       * ideal for small teams with recurring research needs
-      * equivalent to 130 participants recruited in one year
-  - price: 10 000€
+      * 5K€ ≃130 participants recruited for remote meetings during the year
+  - price: "€10.000"
     details: |-
       * get 10% free bonus credits!
       * ideal for product teams scaling up their research
-      * equivalent to 275 participants recruited in one year for remote meetings
+      * 10K€ ≃275 participants recruited for remote meetings during the year
     highlight: true
     actions:
     - label: Get in touch
       url: "/contact"
       title: Get in touch with Tandemz
       button_priority: primary
-    title: recommended
-  - price: "20000"
+    title: Recommended
+  - price: "€20.000"
     details: |-
       * get 20% free bonus credits!
       * ideal for large teams running multiple research studies in parallel
-      * equivalent to 500 participants recruited in one year for remote meetings
+      * 20K€ ≃ 500 participants recruited for remote meetings during the year
     highlight: false
     actions:
     - label: Get in touch
       url: "/contact"
       title: Get in touch
       button_priority: secondary
-    title: enterprise package
+    title: Enterprise package
 - template: ctablock
   component: CtaBlock
   type: ctablock
