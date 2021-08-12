@@ -1,7 +1,7 @@
 ---
 template: page
-description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-  Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+description: Conditions générales d'utilisation - doit être acceptée pour tout usage
+  de la plateforme Tandemz
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
@@ -24,7 +24,7 @@ menus:
     title: Terms and conditions
     weight: 2
 locale: ''
-globalName: ''
+globalName: cgu-client
 
 ---
 Les présentes conditions générales d’utilisation ont pour objet de définir les modalités et conditions d’accès et d’utilisation de la plateforme d’organisation et de suivi de tests Tandemz, mise à disposition par la société TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 27 rue du Chemin Vert - 75011 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** »), ainsi que les droits et obligations des Utilisateurs dans ce cadre.
