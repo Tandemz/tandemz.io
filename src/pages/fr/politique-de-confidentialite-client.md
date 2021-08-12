@@ -1,8 +1,7 @@
 ---
 updatedAt: 2020-08-25T12:39:15.000+00:00
 template: page
-description: Lancez vos interviews UX et vos tests utilisateurs sans prise de tête.
-  Automatisez toute l'organisation de vos tests et la gestion de votre panel.
+description: La politique de confidentialité pour les clients de Tandemz
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
@@ -24,7 +23,7 @@ menus:
     title: Privacy policy (client)
     weight: 3
 locale: ''
-globalName: ''
+globalName: client-privacy
 
 ---
 TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 27 rue du Chemin Vert - 75011 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** ») est soucieuse de la protection des Données Personnelles et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée.
