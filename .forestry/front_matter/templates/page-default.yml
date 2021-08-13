@@ -60,11 +60,11 @@ fields:
   label: Locale
 pages:
 - src/pages/404.md
-- src/pages/en/confidentiality-agreement.md
+- src/pages/en/client-privacy-policy.md
 - src/pages/en/participants-privacy-policy.md
-- src/pages/fr/accord-de-confidentialite.md
+- src/pages/en/participation-rules.md
+- src/pages/en/terms-and-conditions.md
 - src/pages/fr/conditions-generales-utilisation.md
-- src/pages/fr/contrat-sous-traitance-donnees-personnelles.md
 - src/pages/fr/politique-confidentialite.md
 - src/pages/fr/politique-de-confidentialite-client.md
-- src/pages/fr/politique-relative-aux-cookies.md
+- src/pages/fr/reglement-de-participation.md
