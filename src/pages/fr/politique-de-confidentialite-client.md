@@ -111,7 +111,7 @@ Les Données Personnelles des Testeurs sont strictement confidentielles et desti
 Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne divulguera, cédera, louera ou transmettra jamais les Données Personnelles qui sont traitées sur la Plateforme à des tiers autres que les destinataires suivants :
 
 * les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données. :
-  * La société Clever Cloud SAS : 3 rue de l'Allier, 44000 Nantes, France, hébergeur de la base de données TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms");
+  * La société AMAZON WEB SERVICES INC. : 440 TERRY AVENUE NORTH 99404 WA SEATTLE, hébergeur de la base de données et des serveurs TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms");
   * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
 * les prestataires sous-traitants de TANDEMZ pour les besoins fonctionnels de la Plateforme, notamment:
   * la société Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018 fournissant un service d’enregistrement des logs, servant à corriger les bugs et à améliorer la Plateforme ;
