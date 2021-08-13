@@ -11,7 +11,7 @@ og_image_height: 200
 twitter_card: summary
 title: Terms and conditions
 legal: true
-legal_name: cgu-client
+legal_name: cgu-client-en
 subtitle: ''
 img_path: ''
 ogtitle: ''

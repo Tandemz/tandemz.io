@@ -12,7 +12,7 @@ og_image_height: 200
 twitter_card: summary
 title: Participation rules
 legal: true
-legal_name: participation-rules
+legal_name: participation-rules-en
 subtitle: ''
 img_path: ''
 ogtitle: ''
