@@ -11,7 +11,7 @@ og_image_height: 200
 twitter_card: summary
 title: Client privacy policy
 legal: true
-legal_name: privacy-client
+legal_name: privacy-client-en
 subtitle: ''
 img_path: ''
 ogtitle: ''
