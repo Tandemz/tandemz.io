@@ -47,11 +47,9 @@ When a study is offered to you, it is offered on a personal basis, taking into a
 
 When a study is proposed to you, your participation is conditional on strict compliance with :
 
-the instructions that will be given to you;
-
-the days and times of appointments (physical or telephone) made with your agreement.
-
-the deadlines when the study consists of returning answers to a questionnaire or survey.
+* **the instructions** that will be given to you;
+* **the days and times of appointments (physical or telephone)** made with your agreement.
+* **the deadlines** when the study consists of returning answers to a questionnaire or survey.
 
 Any failure to comply with the conditions of participation, or any circumvention of our rules, will result in your withdrawal from the study and no compensation will be due.
 
