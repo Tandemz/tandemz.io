@@ -42,7 +42,7 @@ TANDEMZ s’engage à respecter à tout moment les exigences de la Réglementati
 
 TANDEMZ opère un traitement des Données Personnelles de l’Utilisateur pour les besoins suivants :
 
-* Gestion de l’ouverture et l’utilisation du Compte Utilisateur de l’Utilisateur sur la Plateforme;
+* Gestion de l’ouverture et l’utilisation du Compte Utilisateur de l’Utilisateur sur la Plateforme ;
 * Fourniture des Services et gestion opérationnelle de la Plateforme :
   * Permettre à l’Utilisateur, depuis son compte, d’organiser et de suivre des sessions de tests ;
   * A condition d’avoir obtenu le consentement préalable et express du Testeur, permettre à l’Utilisateur d’obtenir toutes informations utiles sur le Testeur;
@@ -52,7 +52,7 @@ TANDEMZ opère un traitement des Données Personnelles de l’Utilisateur pour l
 * Amélioration des performances et fonctionnalités de la Plateforme ;
 * Prévention et détection des fraudes, malwares (malicious software ou logiciels malveillants) et gestion des incidents de sécurité ;
 * Gestion des paiements ;
-* Gestion des éventuels litiges.
+* Gestion des éventuels litiges ;
 * Suivi et analyse du trafic de la Plateforme ; et
 * A des fins statistiques.
 
@@ -96,7 +96,7 @@ En tant que sous-traitant, TANDEMZ s’engage à :
 
 Conformément aux conditions générales d’utilisation de la Plateforme, les Données Personnelles de l’Utilisateur collectées par le biais de son Compte Utilisateur et lors de son utilisation de la Plateforme sont conservées pendant toute la durée de l’utilisation par l’Utilisateur de la Plateforme dans sa version gratuite ou du contrat d’abonnement payant conclu avec le Client. Au-delà, les Données Personnelles sont archivées par TANDEMZ, dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice.
 
-### 5.2 Conservation des données du Testeur
+### 4.2 Conservation des données du Testeur
 
 Les Données Personnelles du Testeur seront conservées sur instruction de l’Utilisateur pendant toute la durée de l’utilisation de la Plateforme par avec l’Utilisateur, qui se chargera, en tant que responsable de traitement, de supprimer les Données Personnelles des Testeurs.
 
