@@ -110,15 +110,15 @@ Les Données Personnelles des Testeurs sont strictement confidentielles et desti
 
 Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne divulguera, cédera, louera ou transmettra jamais les Données Personnelles qui sont traitées sur la Plateforme à des tiers autres que les destinataires suivants :
 
-* les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données. :
-  * La société AMAZON WEB SERVICES INC. : 440 TERRY AVENUE NORTH 99404 WA SEATTLE, hébergeur de la base de données et des serveurs TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms");
-  * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
+* les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données :
+  * La société AMAZON WEB SERVICES INC. : 440 TERRY AVENUE NORTH 99404 WA SEATTLE, hébergeur de la base de données et des serveurs TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms") ;
+  * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/").
 * les prestataires sous-traitants de TANDEMZ pour les besoins fonctionnels de la Plateforme, notamment:
   * la société Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018 fournissant un service d’enregistrement des logs, servant à corriger les bugs et à améliorer la Plateforme ;
-  * la société SendinBlue, sis 55 rue d’Amsterdam, 75008 Paris fournissant le service Sendinblue d’envoi de mails automatiques.
-  * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers.
-  * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses.
-  * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients.
+  * la société SendinBlue, sis 55 rue d’Amsterdam, 75008 Paris fournissant le service Sendinblue d’envoi de mails automatiques ;
+  * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers ;
+  * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses ;
+  * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients ;
   * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support.
 
 Ces prestataires agissent comme sous-traitants de TANDEMZ au sens de la réglementation applicable à la protection des Données Personnelles, sur instructions de TANDEMZ et dans les conditions contractuelles signées avec TANDEMZ respectant la Réglementation applicable à la protection des données personnelles.
