@@ -39,10 +39,10 @@ TANDEMZ undertakes to comply at all times with the requirements of the applicabl
 TANDEMZ processes the User's Personal Data for the following purposes:
 
 * Managing of the opening and use of a User Account by the User on the Platform
-* Furnishing of Services and operational management of the Platform:  
+* Furnishing of Services and operational management of the Platform:
   * Allow the User, from their account, to organize and follow testing sessions
   * Provided that the Tester has given prior and express consent allowing the User to obtain all useful information on the Tester
-  * Ensure technical support for the User while using the Platform as well as its maintenance 
+  * Ensure technical support for the User while using the Platform as well as its maintenance
 * Receive the TANDEMZ newsletter (news and service offers) if the User expressly requests it upon inscription on the Platform
 * Contact the User to obtain feedback with the goal of improving the Platform
 * Improve the performance and functionality of the Platform
@@ -59,7 +59,7 @@ As data controller, TANDEMZ processes the following Personal Data:
 * User Data collected during creation of the Account:
   * Name and surname
   * Email address
-  * Passwords	
+  * Passwords
   * Phone number
 * User data collected during the use of the Platform:
   * IP address, connection data
@@ -76,7 +76,7 @@ The User is free to enter and/or upload to their Account any information they ju
 
 TANDEMZ will not be held liable in the event of the User's non-compliance to their obligations as data controller.
 
-As a subcontractor, TANDEMZ is committed to: 
+As a subcontractor, TANDEMZ is committed to:
 
 * process the data only within the strict and necessary framework for management and maintenance of the Platform and User's requests and will only act on the basis of these instructions.
 * ensure the confidentiality of the data and make sure that each person it authorises to process such data undertakes to respect said confidentiality or is subject to an appropriate obligation of confidentiality not to retain it beyond the duration of the Contract or any other time period specified by the User.
@@ -86,7 +86,7 @@ As a subcontractor, TANDEMZ is committed to:
 
 ## 4. Storage period of Personal Data
 
-### 4.1 Storage of the User Data 
+### 4.1 Storage of the User Data
 
 Conforming to the general conditions of use of the Platform, the User's Personal Data, collected by means of their User Account and during their use of the Platform, is kept throughout the duration of its use by the Platform's User in their free version or a paid subscription contract ending with the Client. Beyond that, the Personal Data is archived by TANDEMZ, in a secure environment, for the legal statute of limitations for the purpose of proof for the establishment, exercise, or defence of a legal claim.
 
@@ -100,19 +100,17 @@ At the end of the above-mentioned duration of storage, the Tester's data will be
 
 The Personal Data of the User is strictly confidential and is intended exclusively for TANDEMZ.
 
-The Tester's Personal Data is strictly confidential and is solely intended for use by the Users, in accordance to the conditions provided in this Privacy Policy. 
+The Tester's Personal Data is strictly confidential and is solely intended for use by the Users, in accordance to the conditions provided in this Privacy Policy.
 
 Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose, transfer, rent or transmit Personal Data that are processed on the Platform to third parties other than its clients and the following technical service providers:
 
 * The Platform's hosting service providers, for the purpose of performing technical hosting and database management services:
   * AMAZON WEB SERVICES INC.: 440 TERRY AVENUE NORTH 99404 WA SEATTLE, host of the TANDEMZ database and servers, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms")
   * Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, host of the Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
-
-
 * TANDEMZ's subcontractors for the functional needs of the Platform, in particular:
   * Datadog, Inc. 620 8th Avenue, Floor 45, New York, NY 10018, providing a logging service to fix bugs and improve the Platform
   * SendinBlue, located at 55 rue d'Amsterdam, 75008 Paris, providing the Sendinblue service for sending automatic emails
-  * Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA providing the Google Suite service as an internal office for emails, calendars, documents, and file storage.
+  * Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA providing the Google Suite service as an internal office for emails, calendars, documents, and file storage
   * TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) providing the Typeform service to generate the questionnaire to participate in a Test and collect the answers
   * HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, providing the Hubspot service for tracking sales prospects and customers
   * Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France providing the Crisp service for conversation tracking and support
