@@ -46,8 +46,8 @@ Lorsqu’une étude vous est proposée, elle vous est proposée à titre nominat
 
 Lorsqu’une étude vous est proposée, votre participation est conditionnée au respect strict **:**
 
-* **des consignes** qui vous seront transmises;
-* **des jours et horaires** **des rendez-vous (physiques ou téléphoniques)** fixés avec votre accord.
+* **des consignes** qui vous seront transmises ;
+* **des jours et horaires** **des rendez-vous (physiques ou téléphoniques)** fixés avec votre accord ;
 * **des délais** lorsque l’étude consiste à renvoyer des réponses à un questionnaire ou sondage.
 
 Tout manquement au respect des conditions de participation, contournement de nos règles, entrainera votre retrait de l’étude et aucun dédommagement ne vous sera dû.
