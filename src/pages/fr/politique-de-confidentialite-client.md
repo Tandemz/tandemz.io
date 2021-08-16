@@ -64,7 +64,7 @@ En tant que responsable de traitement, TANDEMZ traite les Données Personnelles 
   * Nom et prénom ;
   * Adresse email ;
   * Mots de passe ;
-  * Numéro de téléphone ;
+  * Numéro de téléphone.
 * Données de l’Utilisateur collectées lors de l’utilisation de la Plateforme :
   * adresse IP, données de connexion.
 
@@ -82,12 +82,12 @@ La responsabilité de TANDEMZ ne saurait être engagée en cas de non-respect pa
 
 En tant que sous-traitant, TANDEMZ s’engage à :
 
-* traiter les données uniquement dans le cadre strict et nécessaire de la gestion et de la maintenance de la Plateforme et des demandes de l’Utilisateur, et à n’agir que sur la base de ses instructions;
+* traiter les données uniquement dans le cadre strict et nécessaire de la gestion et de la maintenance de la Plateforme et des demandes de l’Utilisateur, et à n’agir que sur la base de ses instructions ;
 * assurer la confidentialité des données, et veiller à ce que chaque personne qu’elle autorise à traiter les dites données s'engage à respecter la confidentialité ou soit soumise à une obligation appropriée de confidentialité
-* ne pas les conserver au-delà de la durée du Contrat ou toute autre durée spécifiée par l’Utilisateur;
-* avertir et assister l’Utilisateur dans la garantie du respect des obligations relatives à la sécurité des données personnelles, en particulier dans le cadre des procédures de notification de violation de sécurité, dans les meilleurs délais et notamment dans les 48 heures après en avoir pris connaissance, à moins que la violation en question ne soit pas susceptible d'engendrer un risque pour les droits et libertés des personnes physiques.
+* ne pas les conserver au-delà de la durée du Contrat ou toute autre durée spécifiée par l’Utilisateur ;
+* avertir et assister l’Utilisateur dans la garantie du respect des obligations relatives à la sécurité des données personnelles, en particulier dans le cadre des procédures de notification de violation de sécurité, dans les meilleurs délais et notamment dans les 48 heures après en avoir pris connaissance, à moins que la violation en question ne soit pas susceptible d'engendrer un risque pour les droits et libertés des personnes physiques ;
 * apporter son assistance à l’Utilisateur afin de lui permettre de répondre, dans les délais et selon les conditions prévus par la Réglementation informatique et libertés, à toute demande d’exercice d’un droit, requête ou plainte d’une personne concernée ou d’une autorité de protection des données ou tout autre régulateur ;
-* ne pas faire appel sous-traitant qui ne présenterait pas les garanties suffisantes quant à la mise en œuvre des mesures techniques et organisationnelles appropriées.
+* ne pas faire appel sous-traitant qui ne présenterait pas les garanties suffisantes quant à la mise en œuvre des mesures techniques et organisationnelles appropriées ;
 * ne pas transférer les données traitées vers des pays hors de l’espace économique européen qui n’auraient pas été reconnus par la Commission européenne comme assurant un niveau de protection adéquat (i) sans avoir préalablement obtenu l’autorisation expresse et écrite de l’Utilisateur et (ii) sans la mise en place d’instruments juridiques reconnus comme appropriés par la Réglementation informatique et libertés pour encadrer le ou les transfert(s) concerné(s).
 
 ## 4. Durée de conservation des Données Personnelles
