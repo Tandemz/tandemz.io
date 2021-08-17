@@ -95,7 +95,7 @@ The User undertakes to use the Platform only for their professional needs exclus
 
 The User undertakes to use the Platform in accordance with the T&Cs, in compliance with the laws and regulations applicable in France.
 
-The User who processes the personal data of the testers of their test panel participating in the tests they organize, in the context of the use of the Platform, agrees to respect the provisions of the TANDEMZ Privacy Policy, available on the following link [https://www.tandemz.io/politique-de-confidentialite-client](https://www.tandemz.io/politique-de-confidentialite-client "https://www.tandemz.io/politique-de-confidentialite-client").
+The User who processes the personal data of the testers of their test panel participating in the tests they organize, in the context of the use of the Platform, agrees to respect the provisions of the TANDEMZ Privacy Policy, available on the following link [https://www.tandemz.io/client-privacy-policy/](https://www.tandemz.io/client-privacy-policy/ "https://www.tandemz.io/client-privacy-policy/").
 
 The User expressly acknowledges and agrees to be personally responsible for any consequences, claims, remedies or actions of a test participant or third party in connection with content posted to their User Account. As a content host as defined by the French law no. 2004-575 for confidence in the digital economy, TANDEMZ is not in a position to monitor or control the content and cannot be held liable in this respect.
 
