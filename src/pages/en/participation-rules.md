@@ -87,7 +87,7 @@ When your data is processed by us, your personal data is collected and processed
 
 In accordance with our privacy policy, we undertake to process your personal data in strict compliance with the regulations applicable to the protection of personal data.
 
-You have the right to access, rectify, delete, limit and port your personal data. You also have the right to have your personal data deleted, as well as the right to lodge a complaint with the CNIL if you consider that the processing carried out by TANDEMZ constitutes a violation of your personal data ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). You may exercise your rights at any time by emailing the following address: [contact@tandemz.io]().
+You have the right to access, rectify, delete, limit and port your personal data. You also have the right to have your personal data deleted, as well as the right to lodge a complaint with the CNIL if you consider that the processing carried out by TANDEMZ constitutes a violation of your personal data ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). You may exercise your rights at any time by emailing the following address: [contact@tandemz.io](mailto:contact@tandemz.io).
 
 ## Article 9
 

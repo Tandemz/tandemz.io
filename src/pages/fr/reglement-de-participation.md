@@ -86,7 +86,7 @@ Lorsque le traitement de vos données est réalisé par nos soins, les données 
 
 Conformément à notre politique de confidentialité, nous nous engageons à traiter vos données personnelles dans le strict respect de la réglementation applicable à la protection des données personnelles.
 
-Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation et de portabilité de vos données personnelles. Vous disposez également du droit à l’effacement de vos données personnelles, ainsi que du droit d’introduire une réclamation auprès de la CNIL si vous considérez que le traitement opéré par TANDEMZ constitue une violation de vos données personnelles ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). Vous pouvez exercer vos droits à tout moment par email à l’adresse suivante : [contact@tandemz.io](mailto://contact@tandemz.io).
+Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation et de portabilité de vos données personnelles. Vous disposez également du droit à l’effacement de vos données personnelles, ainsi que du droit d’introduire une réclamation auprès de la CNIL si vous considérez que le traitement opéré par TANDEMZ constitue une violation de vos données personnelles ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). Vous pouvez exercer vos droits à tout moment par email à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io).
 
 ## Article 9
 
