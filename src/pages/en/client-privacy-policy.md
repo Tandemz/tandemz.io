@@ -140,7 +140,7 @@ The Persons Concerned have, at any time, the following rights over their Persona
 * **Withdrawal of Consent**: to withdraw one's consent to the future processing of one's Personal Data by TANDEMZ, when the processing is based on consent
 * **Right to lodge a complaint**: to lodge a complaint with the National Commission for Information Technology and Civil Liberties if the Concerned Person considers that the processing carried out by TANDEMZ constitutes a violation of his/her Personal Data, online at [https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes") or by post at the following address: CNIL - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07
 
-The rights of the Persons Concerned regarding their Personal Data can be exercised at any time by contacting TANDEMZ by email at the following address: [contact@tandemz.io](). The Concerned Person will be asked to provide proof of his/her identity.
+The rights of the Persons Concerned regarding their Personal Data can be exercised at any time by contacting TANDEMZ by email at the following address: [contact@tandemz.io](mailto:contact@tandemz.io). The Concerned Person will be asked to provide proof of his/her identity.
 
 ## 9. Cookie management
 
@@ -160,9 +160,11 @@ Cookie instructions for the most commonly used browsers are available at the fol
 
 • **Mozilla Firefox®**: [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop "https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop")
 
-• **Google Chrome®**: [https://support.google.com/accounts/answer/61416?co=GENIE.](https://support.google.com/accounts/answer/61416?co=GENIE. "https://support.google.com/accounts/answer/61416?co=GENIE.") Platform%3DiOS&hl=en
+• **Google Chrome®**: [https://support.google.com/accounts/answer/61416?](https://support.google.com/accounts/answer/61416?co=GENIE. "https://support.google.com/accounts/answer/61416?co=GENIE.")
 
-• **Apple Safari® (iPhone; iPad)**: [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-us/HT201265 "https://support.apple.com/en-us/HT201265") Apple Safari® (Mac): [https://support.apple.com/en-ca/guide/safari/sfri11471/mac](https://support.apple.com/en-ca/guide/safari/sfri11471/mac "https://support.apple.com/en-ca/guide/safari/sfri11471/mac")
+• **Apple Safari® (iPhone; iPad)**: [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-us/HT201265 "https://support.apple.com/en-us/HT201265")
+
+• **Apple Safari® (Mac)**: [https://support.apple.com/en-ca/guide/safari/sfri11471/mac](https://support.apple.com/en-ca/guide/safari/sfri11471/mac "https://support.apple.com/en-ca/guide/safari/sfri11471/mac")
 
 • **Disabling Google Analytics**: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout "https://tools.google.com/dlpage/gaoptout")
 
