@@ -164,7 +164,7 @@ Termination of the free subscription by the Customer will result in the deactiva
 
 **9.3.** In case of deactivation of the User Account, the Data, and in particular, the User's Personal Data, will then be archived in a secure environment, for the legal period of limitation for the purposes of evidence for the establishment, exercise or defense of a right in court, in accordance with the regulations applicable to the protection of personal data.
 
-**9.4.** TANDEMZ will return to the User, upon request, the Data it has integrated on the Platform, upon a simple request sent by email to the following address: [contact@tandemz.io]().
+**9.4.** TANDEMZ will return to the User, upon request, the Data it has integrated on the Platform, upon a simple request sent by email to the following address: [contact@tandemz.io](mailto:contact@tandemz.io).
 
 # 10. Applicable law and jurisdiction
 
