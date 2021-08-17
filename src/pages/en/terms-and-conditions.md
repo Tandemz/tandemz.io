@@ -152,7 +152,7 @@ Failure to comply with the provisions of this article constitutes a violation of
 
 # 8. Protection of personal data
 
-TANDEMZ is concerned about the protection of the personal data of the Users of its Platform and undertakes to protect them in accordance with the applicable regulations and in particular the (EU) Regulation n°2016/679 of April 27, 2016 called "General Regulation on Data Protection" or "GDPR" and the law n° 78-17 of January 6, 1978 as amended, called "French Data Protection Act." To learn more about the personal data protection rules, the User is invited to consult the TANDEMZ Privacy Policy, available at the following address: [https://www.tandemz.io/politique-de-confidentialite-client/](https://www.tandemz.io/politique-de-confidentialite-client/ "https://www.tandemz.io/politique-de-confidentialite-client/").
+TANDEMZ is concerned about the protection of the personal data of the Users of its Platform and undertakes to protect them in accordance with the applicable regulations and in particular the (EU) Regulation n°2016/679 of April 27, 2016 called "General Regulation on Data Protection" or "GDPR" and the law n° 78-17 of January 6, 1978 as amended, called "French Data Protection Act." To learn more about the personal data protection rules, the User is invited to consult the TANDEMZ Privacy Policy, available at the following address: [https://www.tandemz.io/client-privacy-policy/](https://www.tandemz.io/client-privacy-policy/ "https://www.tandemz.io/client-privacy-policy/").
 
 # 9. Duration – Termination
 
@@ -164,7 +164,7 @@ Termination of the free subscription by the Customer will result in the deactiva
 
 **9.3.** In case of deactivation of the User Account, the Data, and in particular, the User's Personal Data, will then be archived in a secure environment, for the legal period of limitation for the purposes of evidence for the establishment, exercise or defense of a right in court, in accordance with the regulations applicable to the protection of personal data.
 
-**9.4.** TANDEMZ will return to the User, upon request, the Data it has integrated on the Platform, upon a simple request sent by email to the following address: contact@tandemz.io.
+**9.4.** TANDEMZ will return to the User, upon request, the Data it has integrated on the Platform, upon a simple request sent by email to the following address: [contact@tandemz.io]().
 
 # 10. Applicable law and jurisdiction
 
@@ -174,4 +174,4 @@ Termination of the free subscription by the Customer will result in the deactiva
 
 # 11. Contact
 
-For any information regarding the T&Cs, the User can contact TANDEMZ by e-mail at the following address: contact@tandemz.io.
+For any information regarding the T&Cs, the User can contact TANDEMZ by e-mail at the following address: [contact@tandemz.io](mailto:contact@tandemz.io).
