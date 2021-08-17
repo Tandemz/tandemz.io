@@ -119,7 +119,8 @@ Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne div
   * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers ;
   * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses ;
   * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients ;
-  * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support.
+  * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support;
+  * La société Airtable, 799 Market St, San Francisco, CA, United States, fournissant le service Airtable pour le suivi des études de nos clients et les informations de facturation des clients.
 
 Ces prestataires agissent comme sous-traitants de TANDEMZ au sens de la réglementation applicable à la protection des Données Personnelles, sur instructions de TANDEMZ et dans les conditions contractuelles signées avec TANDEMZ respectant la Réglementation applicable à la protection des données personnelles.
 
