@@ -114,6 +114,7 @@ Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose
   * TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) providing the Typeform service to generate the questionnaire to participate in a Test and collect the answers
   * HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, providing the Hubspot service for tracking sales prospects and customers
   * Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France providing the Crisp service for conversation tracking and support
+  * Airtable, 799 Market St, San Francisco, CA, United States, providing the Airtable service for tracking our studies and customers information for invoicing
 
 These service providers act as subcontractors of TANDEMZ in the sense of the applicable regulations for the protection of Personal Data, on the instructions of TANDEMZ and in accordance with the contractual conditions signed with TANDEMZ respecting the applicable regulations for the protection of Personal Data.
 
