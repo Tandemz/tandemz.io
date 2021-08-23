@@ -1,5 +1,5 @@
 ---
-updatedAt: 2020-08-25T12:39:15.000+00:00
+updatedAt: 2021-08-23T08:39:15Z
 template: page
 description: La politique de confidentialité pour les clients de Tandemz
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
