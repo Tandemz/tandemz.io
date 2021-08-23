@@ -10,10 +10,10 @@ ogimagealt: Tandemz Logo
 og_image_width: 200
 og_image_height: 200
 twitter_card: summary
-title: You're contact request has been received!
+title: 'Thanks for getting in touch! '
 legal: false
 legal_name: ''
-subtitle: You're
+subtitle: Your contact request has been received! We will get back to you shortly!
 img_path: ''
 ogtitle: ''
 ogdescription: ''
