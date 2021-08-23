@@ -16,7 +16,7 @@ twitter_card: ''
 metatags: []
 schema_org_data_list: []
 legal: true
-updatedAt: 2020-08-26T18:48:00.000+00:00
+updatedAt: 2021-08-23T08:44:00Z
 legal_name: privacy-policy
 globalName: privacy-policy
 locale: ''
