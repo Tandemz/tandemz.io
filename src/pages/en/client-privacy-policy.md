@@ -105,7 +105,7 @@ The Tester's Personal Data is strictly confidential and is solely intended for u
 Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose, transfer, rent or transmit Personal Data that are processed on the Platform to third parties other than its clients and the following technical service providers:
 
 * The Platform's hosting service providers, for the purpose of performing technical hosting and database management services:
-  * AMAZON WEB SERVICES INC.: 440 TERRY AVENUE NORTH 99404 WA SEATTLE, host of the TANDEMZ database and servers, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms")
+  * Amazon Web Services Inc: 440 Terry Avenue North 99404 WA Seattle, host of the TANDEMZ database and servers
   * Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, host of the Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
 * TANDEMZ's subcontractors for the functional needs of the Platform, in particular:
   * Datadog, Inc. 620 8th Avenue, Floor 45, New York, NY 10018, providing a logging service to fix bugs and improve the Platform
