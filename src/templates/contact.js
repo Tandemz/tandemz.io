@@ -32,6 +32,7 @@ export default class Contact extends React.Component {
                   data-netlify="true"
                   id="contact-form"
                   className="contact-form"
+                  action="/contact-success"
                 >
                   <p className="screen-reader-text">
                     <label>
@@ -88,6 +89,31 @@ export default class Contact extends React.Component {
                     />
                   </p>
                   <p className="form-row">
+                    <label htmlFor="" className="form-label">
+                      What is the object of your query?
+                    </label>
+                    <select
+                      id="requestType"
+                      name="requestType"
+                      className="form-input"
+                    >
+                      <option value="Default">
+                        ---- Choose an option ----
+                      </option>
+                      <option value="PaysAsYouGo">
+                        I want to learn more about Tandemz' pay as you go
+                        recruitment services
+                      </option>
+                      <option value="Credits">
+                        I want to disccus Tandemz' prepaid credits offers
+                      </option>
+                      <option value="Participant">
+                        I want to become a tester
+                      </option>
+                      <option value="Other">Other</option>
+                    </select>
+                  </p>
+                  <p className="form-row">
                     <label htmlFor="message" className="form-label">
                       Leave us a message
                     </label>
@@ -101,7 +127,7 @@ export default class Contact extends React.Component {
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row form-submit">
                     <button type="submit" className="button">
-                      Send
+                      Send contact request
                     </button>
                   </p>
                 </form>
