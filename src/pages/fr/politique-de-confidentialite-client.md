@@ -111,7 +111,7 @@ Les Données Personnelles des Testeurs sont strictement confidentielles et desti
 Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne divulguera, cédera, louera ou transmettra jamais les Données Personnelles qui sont traitées sur la Plateforme à des tiers autres que les destinataires suivants :
 
 * les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données :
-  * La société AMAZON WEB SERVICES INC. : 440 TERRY AVENUE NORTH 99404 WA SEATTLE, hébergeur de la base de données et des serveurs TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms") ;
+  * La société Amazon Web Services, Inc : 440 Terry Avenue North 99404 WA SEATTLE, hébergeur des serveurs et de la base de données TANDEMZ dans leurs datacenters de Londres et de Paris, [https://aws.amazon.com/privacy](https://aws.amazon.com/privacy "https://aws.amazon.com/privacy")
   * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/").
 * les prestataires sous-traitants de TANDEMZ pour les besoins fonctionnels de la Plateforme, notamment:
   * la société Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018 fournissant un service d’enregistrement des logs, servant à corriger les bugs et à améliorer la Plateforme ;
@@ -130,7 +130,7 @@ TANDEMZ s’engage à assurer la sécurité et l’intégrité des Données Pers
 
 ## 7. Transferts de Données Personnelles hors de l’Union européenne
 
-L’Utilisateur reconnaît avoir été informé les Données Personnelles le concernant sont hébergées sur les serveurs de la société Clever Cloud SAS situés dans l’Union Européenne.
+L’Utilisateur reconnaît avoir été informé les Données Personnelles le concernant sont hébergées sur les serveurs de la société Amazon Web Services, Inc situés au Royaume-Uni.
 
 L’Utilisateur reconnaît avoir été informé et accepte que les Données Personnelles le concernant peuvent être communiquées à des sous-traitants dont les services sont hébergés dans des pays situés hors de l’Union européenne. Les sous-traitants de TANDEMZ garantissent que ces transferts se font dans des conditions de sécurité et de confidentialité appropriées et adaptées permettant de garantir un niveau de protection des Données Personnelles de l’Utilisateur équivalent au niveau exigé au sein de l’Union européenne, conformément à la Réglementation applicable à la protection des Données Personnelles.
 
