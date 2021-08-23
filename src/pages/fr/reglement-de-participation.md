@@ -46,8 +46,8 @@ Lorsqu’une étude vous est proposée, elle vous est proposée à titre nominat
 
 Lorsqu’une étude vous est proposée, votre participation est conditionnée au respect strict **:**
 
-* **des consignes** qui vous seront transmises;
-* **des jours et horaires** **des rendez-vous (physiques ou téléphoniques)** fixés avec votre accord.
+* **des consignes** qui vous seront transmises ;
+* **des jours et horaires** **des rendez-vous (physiques ou téléphoniques)** fixés avec votre accord ;
 * **des délais** lorsque l’étude consiste à renvoyer des réponses à un questionnaire ou sondage.
 
 Tout manquement au respect des conditions de participation, contournement de nos règles, entrainera votre retrait de l’étude et aucun dédommagement ne vous sera dû.
@@ -86,7 +86,7 @@ Lorsque le traitement de vos données est réalisé par nos soins, les données 
 
 Conformément à notre politique de confidentialité, nous nous engageons à traiter vos données personnelles dans le strict respect de la réglementation applicable à la protection des données personnelles.
 
-Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation et de portabilité de vos données personnelles. Vous disposez également du droit à l’effacement de vos données personnelles, ainsi que du droit d’introduire une réclamation auprès de la CNIL si vous considérez que le traitement opéré par TANDEMZ constitue une violation de vos données personnelles ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). Vous pouvez exercer vos droits à tout moment par email à l’adresse suivante : contact@tandemz.io.
+Vous disposez d’un droit d’accès, de rectification, d’effacement, de limitation et de portabilité de vos données personnelles. Vous disposez également du droit à l’effacement de vos données personnelles, ainsi que du droit d’introduire une réclamation auprès de la CNIL si vous considérez que le traitement opéré par TANDEMZ constitue une violation de vos données personnelles ([https://www.cnil.fr/fr/plaintes](https://www.cnil.fr/fr/plaintes "https://www.cnil.fr/fr/plaintes")). Vous pouvez exercer vos droits à tout moment par email à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io).
 
 ## Article 9
 

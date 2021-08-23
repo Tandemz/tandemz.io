@@ -55,9 +55,24 @@
   ],
   "legal": [
     {
+      "title": "Terms and conditions",
+      "url": "/terms-and-conditions/",
+      "weight": 1
+    },
+    {
+      "title": "Client privacy policy",
+      "url": "/client-privacy-policy/",
+      "weight": 2
+    },
+    {
       "title": "Participant Privacy Policy",
       "url": "/participants-privacy-policy/",
-      "weight": 1
+      "weight": 3
+    },
+    {
+      "title": "Participation Rules",
+      "url": "/participation-rules/",
+      "weight": 4
     }
   ]
 }

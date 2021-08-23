@@ -1,5 +1,5 @@
 ---
-updatedAt: 2020-08-25T12:39:15.000+00:00
+updatedAt: 2021-08-23T08:39:15Z
 template: page
 description: La politique de confidentialité pour les clients de Tandemz
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
@@ -42,7 +42,7 @@ TANDEMZ s’engage à respecter à tout moment les exigences de la Réglementati
 
 TANDEMZ opère un traitement des Données Personnelles de l’Utilisateur pour les besoins suivants :
 
-* Gestion de l’ouverture et l’utilisation du Compte Utilisateur de l’Utilisateur sur la Plateforme;
+* Gestion de l’ouverture et l’utilisation du Compte Utilisateur de l’Utilisateur sur la Plateforme ;
 * Fourniture des Services et gestion opérationnelle de la Plateforme :
   * Permettre à l’Utilisateur, depuis son compte, d’organiser et de suivre des sessions de tests ;
   * A condition d’avoir obtenu le consentement préalable et express du Testeur, permettre à l’Utilisateur d’obtenir toutes informations utiles sur le Testeur;
@@ -52,7 +52,7 @@ TANDEMZ opère un traitement des Données Personnelles de l’Utilisateur pour l
 * Amélioration des performances et fonctionnalités de la Plateforme ;
 * Prévention et détection des fraudes, malwares (malicious software ou logiciels malveillants) et gestion des incidents de sécurité ;
 * Gestion des paiements ;
-* Gestion des éventuels litiges.
+* Gestion des éventuels litiges ;
 * Suivi et analyse du trafic de la Plateforme ; et
 * A des fins statistiques.
 
@@ -64,7 +64,7 @@ En tant que responsable de traitement, TANDEMZ traite les Données Personnelles 
   * Nom et prénom ;
   * Adresse email ;
   * Mots de passe ;
-  * Numéro de téléphone ;
+  * Numéro de téléphone.
 * Données de l’Utilisateur collectées lors de l’utilisation de la Plateforme :
   * adresse IP, données de connexion.
 
@@ -82,12 +82,12 @@ La responsabilité de TANDEMZ ne saurait être engagée en cas de non-respect pa
 
 En tant que sous-traitant, TANDEMZ s’engage à :
 
-* traiter les données uniquement dans le cadre strict et nécessaire de la gestion et de la maintenance de la Plateforme et des demandes de l’Utilisateur, et à n’agir que sur la base de ses instructions;
+* traiter les données uniquement dans le cadre strict et nécessaire de la gestion et de la maintenance de la Plateforme et des demandes de l’Utilisateur, et à n’agir que sur la base de ses instructions ;
 * assurer la confidentialité des données, et veiller à ce que chaque personne qu’elle autorise à traiter les dites données s'engage à respecter la confidentialité ou soit soumise à une obligation appropriée de confidentialité
-* ne pas les conserver au-delà de la durée du Contrat ou toute autre durée spécifiée par l’Utilisateur;
-* avertir et assister l’Utilisateur dans la garantie du respect des obligations relatives à la sécurité des données personnelles, en particulier dans le cadre des procédures de notification de violation de sécurité, dans les meilleurs délais et notamment dans les 48 heures après en avoir pris connaissance, à moins que la violation en question ne soit pas susceptible d'engendrer un risque pour les droits et libertés des personnes physiques.
+* ne pas les conserver au-delà de la durée du Contrat ou toute autre durée spécifiée par l’Utilisateur ;
+* avertir et assister l’Utilisateur dans la garantie du respect des obligations relatives à la sécurité des données personnelles, en particulier dans le cadre des procédures de notification de violation de sécurité, dans les meilleurs délais et notamment dans les 48 heures après en avoir pris connaissance, à moins que la violation en question ne soit pas susceptible d'engendrer un risque pour les droits et libertés des personnes physiques ;
 * apporter son assistance à l’Utilisateur afin de lui permettre de répondre, dans les délais et selon les conditions prévus par la Réglementation informatique et libertés, à toute demande d’exercice d’un droit, requête ou plainte d’une personne concernée ou d’une autorité de protection des données ou tout autre régulateur ;
-* ne pas faire appel sous-traitant qui ne présenterait pas les garanties suffisantes quant à la mise en œuvre des mesures techniques et organisationnelles appropriées.
+* ne pas faire appel sous-traitant qui ne présenterait pas les garanties suffisantes quant à la mise en œuvre des mesures techniques et organisationnelles appropriées ;
 * ne pas transférer les données traitées vers des pays hors de l’espace économique européen qui n’auraient pas été reconnus par la Commission européenne comme assurant un niveau de protection adéquat (i) sans avoir préalablement obtenu l’autorisation expresse et écrite de l’Utilisateur et (ii) sans la mise en place d’instruments juridiques reconnus comme appropriés par la Réglementation informatique et libertés pour encadrer le ou les transfert(s) concerné(s).
 
 ## 4. Durée de conservation des Données Personnelles
@@ -96,7 +96,7 @@ En tant que sous-traitant, TANDEMZ s’engage à :
 
 Conformément aux conditions générales d’utilisation de la Plateforme, les Données Personnelles de l’Utilisateur collectées par le biais de son Compte Utilisateur et lors de son utilisation de la Plateforme sont conservées pendant toute la durée de l’utilisation par l’Utilisateur de la Plateforme dans sa version gratuite ou du contrat d’abonnement payant conclu avec le Client. Au-delà, les Données Personnelles sont archivées par TANDEMZ, dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice.
 
-### 5.2 Conservation des données du Testeur
+### 4.2 Conservation des données du Testeur
 
 Les Données Personnelles du Testeur seront conservées sur instruction de l’Utilisateur pendant toute la durée de l’utilisation de la Plateforme par avec l’Utilisateur, qui se chargera, en tant que responsable de traitement, de supprimer les Données Personnelles des Testeurs.
 
@@ -110,16 +110,17 @@ Les Données Personnelles des Testeurs sont strictement confidentielles et desti
 
 Sauf obligation légale ou judiciaire lui enjoignant de le faire, TANDEMZ ne divulguera, cédera, louera ou transmettra jamais les Données Personnelles qui sont traitées sur la Plateforme à des tiers autres que les destinataires suivants :
 
-* les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données. :
-  * La société Clever Cloud SAS : 3 rue de l'Allier, 44000 Nantes, France, hébergeur de la base de données TANDEMZ, [https://www.clever-cloud.com/en/legal-terms](https://www.clever-cloud.com/en/legal-terms "https://www.clever-cloud.com/en/legal-terms");
-  * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/")
+* les prestataires hébergeurs de la Plateforme, aux fins d’exécution des prestations techniques d’hébergement et de gestion des bases de données :
+  * La société Amazon Web Services, Inc : 440 Terry Avenue North 99404 WA SEATTLE, hébergeur des serveurs et de la base de données TANDEMZ dans leurs datacenters de Londres et de Paris, [https://aws.amazon.com/privacy](https://aws.amazon.com/privacy "https://aws.amazon.com/privacy")
+  * La société Netlify, Inc., 2325 3rd Street, Suite 215, San Francisco, California 94107, hébergeur du Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/ "https://www.netlify.com/privacy/").
 * les prestataires sous-traitants de TANDEMZ pour les besoins fonctionnels de la Plateforme, notamment:
   * la société Datadog, Inc., 620 8th Avenue, Floor 45, New York, NY 10018 fournissant un service d’enregistrement des logs, servant à corriger les bugs et à améliorer la Plateforme ;
-  * la société SendinBlue, sis 55 rue d’Amsterdam, 75008 Paris fournissant le service Sendinblue d’envoi de mails automatiques.
-  * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers.
-  * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses.
-  * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients.
-  * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support.
+  * la société SendinBlue, sis 55 rue d’Amsterdam, 75008 Paris fournissant le service Sendinblue d’envoi de mails automatiques ;
+  * la société Google, 1600 Amphitheatre Pkwy, Mountain View, CA 94043 USA fournissant le service Google Suite en tant qu'office interne pour les emails, agendas, documents et le stockage des fichiers ;
+  * la société TYPEFORM SL Carrer, Bac de Roda, 163, local, 08018 - Barcelona (Spain) fournissant le service Typeform pour générer le questionnaire de participation à un Test et collecter les réponses ;
+  * La société HubSpot, Inc., 25 First Street, 2nd Floor, Cambridge, MA 02141 USA, fournissant le service Hubspot pour le suivi des prospects commerciaux et des clients ;
+  * La société Crisp IM SARL, 2 Boulevard de Launay, 44100 Nantes, France fournissant le service Crisp, pour le suivi des conversations et le support;
+  * La société Airtable, 799 Market St, San Francisco, CA, United States, fournissant le service Airtable pour le suivi des études de nos clients et les informations de facturation des clients.
 
 Ces prestataires agissent comme sous-traitants de TANDEMZ au sens de la réglementation applicable à la protection des Données Personnelles, sur instructions de TANDEMZ et dans les conditions contractuelles signées avec TANDEMZ respectant la Réglementation applicable à la protection des données personnelles.
 
@@ -129,7 +130,7 @@ TANDEMZ s’engage à assurer la sécurité et l’intégrité des Données Pers
 
 ## 7. Transferts de Données Personnelles hors de l’Union européenne
 
-L’Utilisateur reconnaît avoir été informé les Données Personnelles le concernant sont hébergées sur les serveurs de la société Clever Cloud SAS situés dans l’Union Européenne.
+L’Utilisateur reconnaît avoir été informé les Données Personnelles le concernant sont hébergées sur les serveurs de la société Amazon Web Services, Inc situés au Royaume-Uni.
 
 L’Utilisateur reconnaît avoir été informé et accepte que les Données Personnelles le concernant peuvent être communiquées à des sous-traitants dont les services sont hébergés dans des pays situés hors de l’Union européenne. Les sous-traitants de TANDEMZ garantissent que ces transferts se font dans des conditions de sécurité et de confidentialité appropriées et adaptées permettant de garantir un niveau de protection des Données Personnelles de l’Utilisateur équivalent au niveau exigé au sein de l’Union européenne, conformément à la Réglementation applicable à la protection des Données Personnelles.
 

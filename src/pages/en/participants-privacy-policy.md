@@ -20,7 +20,7 @@ menus:
     title: Privacy policy (testers)
     weight: 3
 legal: true
-updatedAt: 2020-08-26T18:48:00.000+00:00
+updatedAt: 2021-08-22T22:00:00Z
 legal_name: privacy-policy-en
 globalName: privacy-policy
 locale: ''
@@ -118,7 +118,7 @@ If the Client agrees to meet the Participant, the following data will then be tr
 Unless it is legally or judicially obliged to do so, TANDEMZ will never disclose, transfer, rent or transmit Personal Data that are processed on the Platform to third parties other than its clients and the following technical service providers:
 
 * the Platform's hosting service providers, for the purpose of performing technical hosting and database management services:
-  * Clever Cloud SAS: 3 rue de l'Allier, 44000 Nantes, France, host of the TANDEMZ database, [https://www.clever-cloud.com/en/legal-terms;](https://www.clever-cloud.com/en/legal-terms; "https://www.clever-cloud.com/en/legal-terms;")
+  * Amazon Web Services Inc: 440 Terry Avenue North 99404 WA Seattle, host of the TANDEMZ database and servers
   * Netlify, Inc, 2325 3rd Street, Suite 215, San Francisco, California 94107, host of the Site, [https://www.netlify.com/privacy/](https://www.netlify.com/privacy/. "https://www.netlify.com/privacy/.")
 * TANDEMZ subcontractors for the functional needs of the Platform, in particular:
   * Datadog, Inc. 620 8th Avenue, Floor 45, New York, NY 10018, providing a logging service to fix bugs and improve the Platform.
@@ -136,7 +136,7 @@ TANDEMZ undertakes to ensure the security and integrity of the Personal Data pro
 
 ### **7. Transfers of Personal Data outside the European Union**
 
-The Participant acknowledges having been informed that the Personal Data concerning him/her are hosted on the servers of the company Clever Cloud SAS located in the European Union.
+The Participant acknowledges having been informed that the Personal Data concerning him/her are hosted on the servers of the company Amazon Web Services Inc located in the United Kingdom.
 
 The Participant acknowledges having been informed and accepts that the Personal Data concerning him/her may be communicated to subcontractors whose services are hosted in countries outside the European Union. TANDEMZ's subcontractors guarantee that such transfers are carried out under appropriate and adequate security and confidentiality conditions that guarantee a level of protection of the Participant's Personal Data equivalent to the level required within the European Union, in accordance with the applicable Personal Data Protection Regulations.
 
