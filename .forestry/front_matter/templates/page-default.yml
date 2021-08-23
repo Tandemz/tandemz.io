@@ -60,6 +60,7 @@ fields:
   label: Locale
 pages:
 - src/pages/404.md
+- src/pages/contact-success.md
 - src/pages/en/client-privacy-policy.md
 - src/pages/en/participants-privacy-policy.md
 - src/pages/en/participation-rules.md
@@ -68,4 +69,3 @@ pages:
 - src/pages/fr/politique-confidentialite.md
 - src/pages/fr/politique-de-confidentialite-client.md
 - src/pages/fr/reglement-de-participation.md
-- src/pages/you-re-contact-request-has-been-received.md
