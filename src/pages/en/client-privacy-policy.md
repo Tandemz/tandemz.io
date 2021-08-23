@@ -124,7 +124,7 @@ TANDEMZ undertakes to ensure the security and integrity of the Personal Data pro
 
 ## 7. Transfers of Personal Data outside the European Union
 
-The User acknowledges having been informed that the Personal Data concerning him/her is hosted on the servers of the company Clever Cloud SAS located in the European Union.
+The User acknowledges having been informed that the Personal Data concerning him/her is hosted on the servers of the company Amazon Web Services Inc located in United Kingdom.
 
 The User acknowledges having been informed and accepts that the Personal Data concerning him/her may be communicated to subcontractors whose services are hosted in countries outside the European Union. TANDEMZ's subcontractors guarantee that such transfers are carried out under appropriate and adequate security and confidentiality conditions that guarantee a level of protection of the User's Personal Data equivalent to the level required within the European Union, in accordance with the applicable Personal Data Protection Regulations.
 
