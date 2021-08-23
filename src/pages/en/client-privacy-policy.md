@@ -1,5 +1,5 @@
 ---
-updatedAt: 2021-08-12T15:13:02Z
+updatedAt: 2021-08-23T15:13:02Z
 template: page
 description: Tandemz' privacy policy for their clients
 keywords: user test, user interview, testers recruitment, UX, user research, panel
