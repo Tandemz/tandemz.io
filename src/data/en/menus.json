@@ -56,7 +56,7 @@
   "legal": [
     {
       "title": "Client privacy policy",
-      "url": "https://www.tandemz.io/client-privacy-policy",
+      "url": "/client-privacy-policy/",
       "weight": 2
     },
     {
