@@ -20,7 +20,7 @@ menus:
     title: Privacy policy (testers)
     weight: 3
 legal: true
-updatedAt: 2020-08-26T18:48:00.000+00:00
+updatedAt: 2021-08-22T22:00:00Z
 legal_name: privacy-policy-en
 globalName: privacy-policy
 locale: ''
