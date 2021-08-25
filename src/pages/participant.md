@@ -13,9 +13,12 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Je participe
-    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
+    url: https://app.tandemz.io/study/e685ce95-c302-4370-a33f-2f28d5b20a5e?utm_source=landing
     title: Formulaire d'inscription au panel Tandemz
+    button_priority: ''
   image_alt: Personnes discutant autour d'une application
+  background: ''
+  embed_youtube_video_id: ''
 - type: featuresblock
   template: featuresblock
   section_id: howItWorks
@@ -122,9 +125,11 @@ sections:
   component: CtaBlock
   actions:
   - label: Je participe
-    url: https://app.tandemz.io/anonymous/subscribe-panel/6f4eea7d-4149-4c8f-8b7a-a624f574c2f8
+    url: https://app.tandemz.io/study/e685ce95-c302-4370-a33f-2f28d5b20a5e?utm_source=landing
     title: Questionnaire d'inscription au panel Tandemz
+    button_priority: ''
   subtitle: ''
+  bg: ''
 template: home
 description: Les entreprises et les marques ont besoin de vous pour mieux construire
   leurs futurs produits. Testez leurs nouveautés, discutez et partagez avec elles.
@@ -139,5 +144,7 @@ og_image_height: 200
 twitter_card: summary
 metatags: []
 schema_org_data_list: []
+locale: ''
+globalName: ''
 
 ---
