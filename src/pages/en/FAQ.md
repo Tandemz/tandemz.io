@@ -23,9 +23,10 @@ sections:
   - question: In which countries can I recruit my participants?
     answer: 'Many countries are already represented in our community: USA, Canada,
       Brazil, Argentina, Chile, France, Spain, Italy, Germany, UK, Belgium, Netherlands,
-      Saudi Arabia, Korea, Japan, Hong Kong… Participants are sourced in English.
-      If you want us to source participants in another language, translation fees
-      will be added.'
+      Saudi Arabia, Korea, Japan, Hong Kong… Participants can be sourced either in
+      English or in native language. If you want us to source participants in native
+      language, translation fees may be added (depending on the country - ask us if
+      you need more information).'
   - question: 'How is the price calculated? '
     answer: |-
       Our pricing includes participants incentive and our service fee. Our algorithm adjusts each part according to the type of study, cost of living in selected countries (to keep our incentives attractive) and complexity of recruitment. Each criteria can have an impact on the incentive and/or on the fees.
