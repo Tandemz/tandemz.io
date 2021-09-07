@@ -26,8 +26,10 @@ sections:
     answer: 'De nombreux pays sont déjà représentés dans notre communauté : Etats-Unis,
       Canada, Brésil, Argentine, Chili, France, Espagne, Italie, Allemagne, Royaume-Uni,
       Belgique, Pays-Bas, Arabie Saoudite, Corée, Japon, Hong Kong... Les participants
-      sont recherchés en anglais. Si vous souhaitez que nous trouvions des participants
-      dans une autre langue, des frais de traduction seront ajoutés.'
+      peuvent être recherchés en anglais ou dans leur langue maternelle. Si vous souhaitez
+      que nous trouvions des participants dans leur langue maternelle, des frais de
+      traduction peuvent être ajoutés (en fonction du pays - demandez-nous si vous
+      souhaitez plus d''informations).'
   - question: 'Comment le prix est-il calculé ? '
     answer: |-
       Notre tarification comprend la contrepartie pour les participants et nos frais de service. Notre algorithme ajuste chaque partie en fonction du type d'étude, du coût de la vie dans les pays sélectionnés (pour que nos incitations restent attractives) et de la complexité du recrutement. Chaque critère peut avoir un impact sur l'incitation et/ou sur les frais.
