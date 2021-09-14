@@ -156,30 +156,33 @@ sections:
   type: reviewsblock
   title: 'Rejoignez nos heureux clients '
   reviews:
-  - author: Ulysse de Mozza
+  - author: Ulysse, UX researcher @Mozza
     content: 'En un rien de temps, Tandemz me met à disposition des participants qualifiés,
       ce qui me laisse plus de temps pour faire mon métier. Je me concentre enfin
       sur ce qui a le plus de valeur : partir à la rencontre de mes utilisateurs !'
     avatar: ''
-  - author: Grégoire de Ferpection
-    content: Le service de Tandemz est simple et fiable. Ce que j'ai particulièrement
-      aimé, c'est le fait de pouvoir atteindre rapidement les cibles que je voulais
-      à l'international, aux Etats-Unis ou au Royaume-Uni par exemple !
+  - author: Grégoire, founder @Cousto
+    content: Le service de Tandemz est simple et fiable. Ce que j'aime particulièrement,
+      c'est le fait de pouvoir atteindre rapidement les cibles que je veux à l'international,
+      aux Etats-Unis ou au Royaume-Uni par exemple !
     avatar: ''
-  - author: Julie de La Grande Ourse
-    content: Les participants recrutés par Tandemz pour mes tests utilisateurs étaient
-      au top ! Fiables, impliqués, ils ont tous joué le jeu. Mon étude s'est déroulée
-      sans le moindre soucis et l'équipe Tandemz était très réactive !
+  - author: Bruno, VP Product @Shine
+    content: On a eu une super expérience, et on est très heureux des résultats. Les
+      répondants et participants aux interviews étaient au top, la sélection nickel,
+      et on en retire des insights très riches.
     avatar: ''
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/logo-shine.png"
+    alt: Shine logo
+    title: Logo Shine
+  - logo: "/images/logocd.png"
+    alt: Cdiscount logo
+    title: Cdiscount logo
   - logo: "/images/logo_jobteaser.png"
     alt: Jobteaser logo
     title: Jobteaser logo
-  - logo: "/images/logo-cdiscount.png"
-    alt: Cdiscount logo
-    title: Cdiscount logo
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
@@ -213,6 +216,12 @@ sections:
   type: reviewsblock
   title: Ils nous soutiennent!
   logos:
+  - logo: "/images/logo-wilco_couleurs-1.png"
+    alt: WILCO logo
+    title: Logo WILCO
+  - logo: "/images/logo_stationf-1.png"
+    alt: Station F logo
+    title: Station F logo
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
@@ -228,9 +237,6 @@ sections:
   - logo: "/images/logo-schoolab.png"
     alt: Schoolab logo
     title: Schoolab logo
-  - logo: "/images/logo_stationf-1.png"
-    alt: Station F logo
-    title: Station F logo
   - logo: "/images/logopsl.png"
     alt: PSL Pépite Logo
     title: PSL Pépite

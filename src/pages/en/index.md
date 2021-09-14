@@ -148,38 +148,44 @@ sections:
   type: reviewsblock
   title: Join our happy clients
   reviews:
-  - author: Ulysse from Mozza
+  - author: Ulysse, UX researcher @Mozza
     content: 'In no time, Tandemz provides me qualified participants for interviews,
       which gives me more time to do my job. I can finally focus on what really matters:
       talking to my users!'
     avatar: ''
-  - author: Grégoire from Ferpection
+  - author: Grégoire, founder @Cousto
     content: Tandemz’s service is simple and reliable. What I liked the most was being
       able to quickly reach international targets, in the US or in the UK for example.
     avatar: ''
-  - author: Julie from La Grande Ourse
-    content: The participants recruited by Tandemz were amazing! Reliable, involved,
-      they all played along. My user tests took place without the slightest issue
-      and the Tandemz team was very reactive!
+  - author: Bruno, VP Product @Shine
+    content: We had a great experience, and we are very happy with the results. The
+      respondents and participants to the interviews were top notch, the selection
+      was perfect, and we gained very rich insights.
     avatar: ''
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/logocd.png"
+    alt: logo cdiscount
+    title: Logo CDiscount
+  - logo: "/images/logo-shine.png"
+    alt: logo shine
+    title: Logo Shine
   - logo: "/images/logo_jobteaser.png"
     alt: Jobteaser logo
     title: Jobteaser logo
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
+  - logo: "/images/mozza.png"
+    alt: Mozza Logo
+    title: Mozza
   - logo: "/images/edenred_logo_-depuis_2017.png"
     alt: Logo-Edenred
     title: Logo Edenred
   - logo: "/images/eh_logo.png"
     alt: Euler Hermes
     title: Euler Hermes
-  - logo: "/images/mozza.png"
-    alt: Mozza Logo
-    title: Mozza
   - logo: "/images/logo-bam.svg"
     alt: BAM Logo
     title: BAM logo
@@ -201,6 +207,12 @@ sections:
   type: reviewsblock
   title: They support us!
   logos:
+  - logo: "/images/logo-wilco_couleurs-1.png"
+    alt: wilco logo
+    title: Logo WILCO
+  - logo: "/images/logo_stationf-1.png"
+    alt: Station F logo
+    title: Station F logo
   - logo: "/images/logo-ferpection-1.png"
     alt: Ferpection logo
     title: Ferpection
@@ -216,9 +228,6 @@ sections:
   - logo: "/images/logo-schoolab.png"
     alt: Schoolab logo
     title: Schoolab logo
-  - logo: "/images/logo_stationf-1.png"
-    alt: Station F logo
-    title: Station F logo
   - logo: "/images/logopsl.png"
     alt: PSL Pépite Logo
     title: PSL Pépite
