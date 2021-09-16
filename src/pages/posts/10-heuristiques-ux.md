@@ -33,7 +33,7 @@ Dans la recherche utilisateur, pour gagner du temps on peut commencer par une **
 
 Mais il ne faut pas oublier que cet **audit UX doit être fait par des experts·es** et que cette méthode est basée sur des **heuristiques empiriques.**
 
-L'analyse heuristique sert donc à générer **une liste d'hypothèses**, qu'il **est indispensable** de **confirmer avec des données auprès de vos utilisateurs.**
+L'analyse heuristique sert donc à générer **une liste d'hypothèses**, qu'il **est indispensable** de **confirmer avec des données auprès de vos utilisateurs** pour comprendre ce qui leur pose réellement problème. 
 
 Il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée.
 
