@@ -14,6 +14,7 @@ fields:
   label: Avatar
 pages:
 - src/data/authors/francew.json
+- src/data/authors/geovana.json
 - src/data/authors/marinew.json
 - src/data/authors/nicolasd.json
 - src/data/authors/vasilissak.json
