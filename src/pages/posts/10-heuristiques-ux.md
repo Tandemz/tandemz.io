@@ -25,19 +25,19 @@ keywords: UX, UX-Research, UX-Researcher, user-research, analyse-heuristique-ux,
 ogimage: "/images/2-social-media-an.png"
 
 ---
-Dans la recherche utilisateur, pour gagner du temps on peut commencer par une **analyse heuristique**, cela vous permettra : 
+Dans la recherche utilisateur, pour gagner du temps on peut commencer par une **analyse heuristique**, cela vous permettra :
 
-* _de réaliser un état des lieux de vos produits_ 
-* _de détecter de potentiels problèmes dans vos interfaces_ 
+* _de réaliser un état des lieux de vos produits_
+* _de détecter de potentiels problèmes dans vos interfaces_
 * _d'émettre des hypothèses sur ce qui peut bloquer vos utilisateurs_
 
-Mais il ne faut pas oublier que cet **audit UX doit être fait par des experts·es** et que cette méthode est basée sur des **heuristiques empiriques.** 
+Mais il ne faut pas oublier que cet **audit UX doit être fait par des experts·es** et que cette méthode est basée sur des **heuristiques empiriques.**
 
-L'analyse heuristique sert donc à générer **une liste d'hypothèses**, qu'il est indispensable de **confirmer avec des données auprès de vos utilisateurs.**  
+L'analyse heuristique sert donc à générer **une liste d'hypothèses**, qu'il **est indispensable** de **confirmer avec des données auprès de vos utilisateurs.**
 
-Il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée. 
+Il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée.
 
-Nous avons choisi de mettre en avant les critères heuristiques UX de **Jakob Nielsen** le co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
+Nous avons choisi de mettre en avant les heuristiques UX de **Jakob Nielsen** le co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
 
 ![Les 10 heuristiques selon Jakob Nielsen](/images/1an.png "L'évaluation heuristique en 10 étapes ")
 
