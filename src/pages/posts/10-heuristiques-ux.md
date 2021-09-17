@@ -30,7 +30,7 @@ ogimage: "/images/2-social-media-an.png"
 
 Il y a quelques mois nous avons organisé un **webinaire** sur la mise en pratique d’un **audit ergonomique** que vous pouvez retrouver en replay [**ici**](https://www.tandemz.io/posts/webinar-replay-analyse-heuristique-en-pratique-live/ "L'analyse heuristique en pratique !")**.** 
 
-Pour ceux qui n'ont pas le temps d'aller (re)regarder le webinar, nous avons résumé en image les heuristiquesde **Jakob Nielsen**, co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
+Pour ceux qui n'ont pas le temps d'aller (re)regarder le webinar, nous avons résumé en image les heuristiques de **Jakob Nielsen**, co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
 
 ![](/images/1an.png)
 
