@@ -64,10 +64,12 @@ Maintenant que vous avez revu ou découvert les 10 heuristiques de Nielsen, vous
 
 MAIS attention, il faut toujours avoir en tête que **l’analyse heuristique** **:**
 
-\- doit être faite par **des experts·es.**
+* doit être faite par **des experts·es.**
 
-\- peut vous aider à émettre **des hypothèses** qui vous serviront à **améliorer vos produits**, MAIS il **est indispensable** de les **confirmer** avec des **données auprès d'utilisateurs** **pour comprendre ce qui leur pose réellement problème.**
 
-\- **ne remplace en aucun cas la recherche utilisateur.**
+* peut vous aider à émettre **des hypothèses** qui vous serviront à **améliorer vos produits**, MAIS il **est indispensable** de les **confirmer** avec des **données auprès d'utilisateurs** **pour comprendre ce qui leur pose réellement problème.**
+
+
+* **ne remplace en aucun cas la recherche utilisateur.**
 
 Il faut savoir qu'il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée.
