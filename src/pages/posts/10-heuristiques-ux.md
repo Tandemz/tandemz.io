@@ -60,9 +60,9 @@ Aujourd’hui, au travers d'infographies nous mettons en avant les heuristiques 
 
 ![](/images/14an.png "Limites de l'analyse heuristique ")
 
-Maintenant que vous avez revu ou découvert les 10 heuristiques de Nielsen, vous pouvez  les mettre en place en prenant en compte leurs avantages et leurs limites afin d’améliorer et d’optimiser davantage l’expérience de vos utilisateurs.
+Maintenant que vous avez revu ou découvert les 10 heuristiques de Nielsen, vous pouvez  les mettre en place en prenant en compte **leurs avantages** et **leurs limites** afin d’améliorer et d’optimiser davantage l’expérience de vos utilisateurs.
 
-MAIS attention, il faut toujours avoir en tête que l’analyse heuristique :
+MAIS attention, il faut toujours avoir en tête que **l’analyse heuristique** **:**
 
 \- doit être faite par **des experts·es.**
 
