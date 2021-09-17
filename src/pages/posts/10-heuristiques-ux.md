@@ -8,8 +8,8 @@ hashtags:
 - " analyseheuristiqueux"
 - analyseheuristique
 - " rechercheutilisateur"
-- " recherche"
 - " méthodederecherche"
+- designreview
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -19,25 +19,18 @@ date: 2021-09-16T22:00:00Z
 thumb_img_path: "/images/2-encart-an.png"
 content_img_path: ''
 excerpt: " Redécouvrez les 10 heuristiques UX selon Jakob Nielsen, leurs avantages
-  et leurs limites afin d’améliorer le processus de vos tests utilisateurs. "
+  et leurs limites, pour améliorer l'expérience de vos produits."
 author: src/data/authors/geovana.json
-keywords: UX, UX-Research, UX-Researcher, user-research, analyse-heuristique-ux, analyse-heuristique
+keywords: UX, UX-Research, UX-Researcher, user-research, analyse-heuristique-ux, analyse-heuristique,
+  designreview, designheuristics
 ogimage: "/images/2-social-media-an.png"
 
 ---
-Dans la recherche utilisateur, pour gagner du temps on peut commencer par une **analyse heuristique**, cela vous permettra :
+**L’analyse heuristique** connue aussi sous le nom _«_ _d’audit ergonomique_ _»_ est une méthode utilisée pour **évaluer** tout type d'interface utilisateur afin de l’optimiser.
 
-* _de réaliser un état des lieux de vos produits_
-* _de détecter de potentiels problèmes dans vos interfaces_
-* _d'émettre des hypothèses sur ce qui peut bloquer vos utilisateurs_
+Il y a quelques mois nous avons organisé un webinaire sur la mise en pratique d’un audit ergonomique que vous pouvez retrouver en replay [ici](https://www.tandemz.io/posts/webinar-replay-analyse-heuristique-en-pratique-live/ "L'analyse heuristique en pratique !").
 
-Mais il ne faut pas oublier que cet **audit UX doit être fait par des experts·es** et que cette méthode est basée sur des **heuristiques empiriques.**
-
-L'analyse heuristique sert donc à générer **une liste d'hypothèses**, qu'il **est indispensable** de **confirmer avec des données auprès de vos utilisateurs** pour comprendre ce qui leur pose réellement problème. 
-
-Il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée.
-
-Nous avons choisi de mettre en avant les heuristiques UX de **Jakob Nielsen** le co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
+Aujourd’hui, au travers d'infographies nous mettons en avant les heuristiques UX de **Jakob Nielsen**, co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
 
 ![Les 10 heuristiques selon Jakob Nielsen](/images/1an.png "L'évaluation heuristique en 10 étapes ")
 
@@ -67,4 +60,14 @@ Nous avons choisi de mettre en avant les heuristiques UX de **Jakob Nielsen** le
 
 ![](/images/14an.png "Limites de l'analyse heuristique ")
 
-Maintenant que vous avez revu ou découvert les 10 heuristiques de Nielsen, vous pouvez commencer à les mettre en place dans votre processus de conception en prenant en compte leurs avantages et leurs limites afin d’améliorer et d’optimiser davantage l’expérience de vos utilisateurs.
+Maintenant que vous avez revu ou découvert les 10 heuristiques de Nielsen, vous pouvez  les mettre en place en prenant en compte leurs avantages et leurs limites afin d’améliorer et d’optimiser davantage l’expérience de vos utilisateurs.
+
+MAIS attention, il faut toujours avoir en tête que l’analyse heuristique :
+
+\- doit être faite par **des experts·es.**
+
+\- peut vous aider à émettre **des hypothèses** qui vous serviront à **améliorer vos produits**, MAIS il **est indispensable** de les **confirmer** avec des **données auprès d'utilisateurs** **pour comprendre ce qui leur pose réellement problème.**
+
+\- **ne remplace en aucun cas la recherche utilisateur.**
+
+Il faut savoir qu'il existe différentes heuristiques que l'on peut appliquer, mais l'important est de choisir celles qui vous conviennent le mieux et de s'y tenir pour avoir une approche structurée.
