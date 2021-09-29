@@ -28,7 +28,7 @@ ogimage: "/images/2-social-media-an.png"
 ---
 **L’analyse heuristique** connue aussi sous le nom _«_ _d’audit ergonomique_ _»_ est une méthode utilisée pour **évaluer** tout type d'interface utilisateur afin de **l’optimiser.**
 
-Il y a quelques mois nous avons organisé un **webinaire** sur la mise en pratique d’un **audit ergonomique** que vous pouvez retrouver en replay [**ici**]<a href="https://www.tandemz.io/posts/webinar-replay-analyse-heuristique-en-pratique-live/" title="L'analyse heuristique en pratique !" target="_blank"><strong>ici</strong></a>**.** 
+Il y a quelques mois nous avons organisé un **webinaire** sur la mise en pratique d’un **audit ergonomique** que vous pouvez retrouver en replay [**ici**] <a href="https://www.tandemz.io/posts/webinar-replay-analyse-heuristique-en-pratique-live/" title="L'analyse heuristique en pratique !" target="_blank"><strong>ici</strong></a>**.** 
 
 Pour ceux qui n'ont pas le temps d'aller (re)regarder le webinaire, nous avons résumé en image les heuristiques de **Jakob Nielsen**, co-fondateur de **Nielsen Norman Group** et l'une des références dans le monde de l'UX et de la recherche utilisateur.
 
