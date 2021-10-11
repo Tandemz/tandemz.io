@@ -6,11 +6,6 @@ import { htmlToReact } from '../utils';
 
 export default class Contact extends React.Component {
   render() {
-    handleChange(e) {
-
-    }
-
-
     return (
       <Layout {...this.props}>
         <div className="outer">
