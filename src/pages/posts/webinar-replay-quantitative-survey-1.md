@@ -22,7 +22,7 @@ keywords: survey, quantitative, webinar, ux
 ogimage: "/images/screenshot-2021-10-11-at-15-20-37.png"
 
 ---
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/dw2ITqQ6Qzg](https://www.youtube.com/embed/dw2ITqQ6Qzg "https://www.youtube.com/embed/dw2ITqQ6Qzg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dw2ITqQ6Qzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On a tous fait des questionnaires quantitatif !
 
