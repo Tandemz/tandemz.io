@@ -22,7 +22,7 @@ keywords: survey, quantitative, webinar, ux
 ogimage: "/images/screenshot-2021-10-11-at-15-20-37.png"
 
 ---
-<iframe width="560" height="315" src="[https://youtu.be/dw2ITqQ6Qzg](https://youtu.be/dw2ITqQ6Qzg "Webinar replay - quanti 1")" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/dw2ITqQ6Qzg](https://www.youtube.com/embed/dw2ITqQ6Qzg "https://www.youtube.com/embed/dw2ITqQ6Qzg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 On a tous fait des questionnaires quantitatif !
 
@@ -32,7 +32,7 @@ Mais saviez vous que la plupart des questionnaires sont mal faits ?
 
 Et que prendre des décisions à partir des réponses à un mauvais questionnaire, c'est prendre des décisions sur la base de données biaisées, partielles ou les deux !
 
-Le jeudi 7 octobre, Tandemz invitait [**Laetitia Pouilly**](https://www.linkedin.com/in/laetitia-pouilly-71263b55/ "Profil LinkedIn Laetitia"), chargée de la data aux musée d'Orsay et de l'Orangerie, pour qu'elle nous explique toutes les bonnes pratiques autour des questionnaires ! 
+Le jeudi 7 octobre, Tandemz invitait [**Laetitia Pouilly**](https://www.linkedin.com/in/laetitia-pouilly-71263b55/ "Profil LinkedIn Laetitia"), chargée de la data aux musée d'Orsay et de l'Orangerie, pour qu'elle nous explique toutes les bonnes pratiques autour des questionnaires !
 
 * Comment bien construire un questionnaire ?
 * Quels pièges éviter ?
