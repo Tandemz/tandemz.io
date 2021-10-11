@@ -96,7 +96,6 @@ export default class Contact extends React.Component {
                       id="requestType"
                       name="requestType"
                       className="form-input"
-                      onChange={handleChange}
                     >
                       <option value="Default">
                         ---- Choose an option ----
