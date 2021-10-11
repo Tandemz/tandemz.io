@@ -6,6 +6,11 @@ import { htmlToReact } from '../utils';
 
 export default class Contact extends React.Component {
   render() {
+    handleChange(e) {
+
+    }
+
+
     return (
       <Layout {...this.props}>
         <div className="outer">
@@ -96,6 +101,7 @@ export default class Contact extends React.Component {
                       id="requestType"
                       name="requestType"
                       className="form-input"
+                      onChange={handleChange}
                     >
                       <option value="Default">
                         ---- Choose an option ----
@@ -109,6 +115,9 @@ export default class Contact extends React.Component {
                       </option>
                       <option value="Participant">
                         I want to become a tester
+                      </option>
+                      <option value="WhiteBook">
+                        I want to get the white book
                       </option>
                       <option value="Other">Other</option>
                     </select>
