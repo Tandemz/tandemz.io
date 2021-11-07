@@ -1,31 +1,30 @@
 ---
-og_image_width:
-og_image_height:
+og_image_width: 
+og_image_height: 
 hashtags:
-  - ux
-  - webinar
-  - questionnaire quantitatif
-  - recherche utilisateur
-  - ux research
+- ux
+- webinar
+- questionnaire quantitatif
+- recherche utilisateur
+- ux research
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: webinar-replay-quantitative-survey-2
 full_title: Comment analyser efficacement vos résultats de questionnaire
-date: 2021-11-07T23:00:00Z
-thumb_img_path: '/images/screenshot-2021-11-07-at-23-14-11.png'
+date: 2021-11-07T23:00:00.000+00:00
+thumb_img_path: "/images/screenshot-2021-11-07-at-23-14-11.png"
 content_img_path: ''
-excerpt:
-  Grâce à notre webinar précédent, vous avez pu construire et diffuser un questionnaire
+excerpt: Grâce à notre webinar précédent, vous avez pu construire et diffuser un questionnaire
   avec confiance ! Découvrez maintenant comment interpréter les résultats !
 author: src/data/authors/francew.json
 keywords: ux, ux research, recherche utilisateur, questionnaire quantitatif, webinar
-ogimage: '/images/screenshot-2021-11-07-at-23-14-11.png'
----
+ogimage: "/images/screenshot-2021-11-07-at-23-14-11.png"
 
+---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d_9_SZTZ1ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-Grâce à notre [précédent webinar](https://www.tandemz.io/posts/webinar-replay-quantitative-survey-1/ "Webinar quanti partie 1"), vous avez pu construire et diffuser un questionnaire avec confiance pour qu'il vous apporte des résultats actionnables.
+
+Grâce à notre [précédent webinar](https://www.tandemz.io/posts/webinar-replay-quantitative-survey-1 "Webinar quanti partie 1"), vous avez pu construire et diffuser un questionnaire avec confiance pour qu'il vous apporte des résultats actionnables.
 
 Encore faut-il savoir interpréter correctement ces résultats !
 
