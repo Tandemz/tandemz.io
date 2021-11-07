@@ -22,6 +22,8 @@ keywords: ux, ux research, recherche utilisateur, questionnaire quantitatif, web
 ogimage: "/images/screenshot-2021-11-07-at-23-14-11.png"
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d_9_SZTZ1ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+  
 Grâce à notre [précédent webinar](https://www.tandemz.io/posts/webinar-replay-quantitative-survey-1/ "Webinar quanti partie 1"), vous avez pu construire et diffuser un questionnaire avec confiance pour qu'il vous apporte des résultats actionnables.
 
 Encore faut-il savoir interpréter correctement ces résultats !
