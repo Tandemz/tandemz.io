@@ -10,7 +10,7 @@ hashtags:
 template: post
 twitter_card: summary_large_image
 ogtype: article
-title: webinar-replay-analyse-questionnaire-quanti
+title: webinar-replay-quantitative-survey-2
 full_title: Comment analyser efficacement vos résultats de questionnaire
 date: 2021-11-07T23:00:00Z
 thumb_img_path: "/images/screenshot-2021-11-07-at-23-14-11.png"
