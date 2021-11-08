@@ -174,6 +174,9 @@ sections:
   - logo: "/images/logo_jobteaser.png"
     alt: Jobteaser logo
     title: Jobteaser logo
+  - logo: "/images/logomanomano-rgb-hor-color-positif.svg"
+    alt: Logo manomano
+    title: Logo manomano
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
