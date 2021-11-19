@@ -1,5 +1,11 @@
 ---
 sections:
+- template: announcement-block
+  component: AnnouncementBlock
+  title: It's Black Friday! Get a 50% discount on recruitment fees for moderated studies
+    launched before November 26th!
+  description: Discount available for moderated studies on general population targets,
+    launched between 11/22 and 11/26, with meeting timeslots in 2021.
 - type: heroblock
   template: heroblock
   section_id: hero
