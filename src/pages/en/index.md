@@ -183,6 +183,9 @@ sections:
   - logo: "/images/logomanomano-rgb-hor-color-positif.svg"
     alt: Logo manomano
     title: Logo manomano
+  - logo: "/images/logo-captaincontrat-4.png"
+    alt: Logo Captain Contrat
+    title: Logo Captain Contrat
   - logo: "/images/images.png"
     alt: Ulysse
     title: Ulysse
