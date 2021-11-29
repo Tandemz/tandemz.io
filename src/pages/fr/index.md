@@ -1,11 +1,5 @@
 ---
 sections:
-- template: announcement-block
-  component: AnnouncementBlock
-  title: C'est Black Friday ! Profitez de -50% de réduction sur vos frais de recrutements
-    jusqu'au 26 novembre !
-  description: Offre valable pour les recrutements modérés sur cible générale lancés
-    entre le 22/11 et le 26/11, et dont les créneaux de rendez-vous sont en 2021.
 - type: heroblock
   template: heroblock
   section_id: hero
