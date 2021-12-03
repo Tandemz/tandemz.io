@@ -1,7 +1,7 @@
 ---
 template: page
-description: Conditions générales d'utilisation - doit être acceptée pour tout usage
-  de la plateforme Tandemz
+description: Conditions générales de ventes - doit être accepté pour tout lancement
+  d'une session sur la plateforme Tandemz
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogtype: website
 ogimage: "/images/Logo@200-1.png"
@@ -18,165 +18,169 @@ metatags: []
 schema_org_data_list: []
 legal: true
 updatedAt: 2020-08-26T08:15:00.000+00:00
-legal_name: cgu-client
+legal_name: cgv-client
 menus:
   legal:
     title: Terms and conditions
     weight: 2
 locale: ''
-globalName: cgu-client
+globalName: cgv-client
 
 ---
-Les présentes conditions générales d’utilisation ont pour objet de définir les modalités et conditions d’accès et d’utilisation de la plateforme d’organisation et de suivi de tests Tandemz, mise à disposition par la société TANDEMZ société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 27 rue du Chemin Vert - 75011 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL (ci-après « **_TANDEMZ_** »), ainsi que les droits et obligations des Utilisateurs dans ce cadre.
+# **CONDITIONS GÉNÉRALES DE SERVICES**
 
-## 1. Définitions
+# **« PAY AS YOU GO »**
 
-Dans les CGU, les termes identifiés ci-dessous par une majuscule ont la signification suivante, qu’ils soient employés au singulier ou au pluriel :
+Les présentes Conditions Générales de Services (ci-après les **« CGS »**) ont pour objet de définir les conditions applicables à toute personne physique ou morale immatriculée au registre du commerce et des sociétés ou tout registre commercial équivalent (**ci-après le « Client »**) qui, sur la Plateforme, commande les Services proposés par la société TANDEMZ, société par actions simplifiée, au capital de 2 400 €, dont le siège social est situé 27 rue du Chemin Vert - 75011 PARIS, immatriculée au Registre du Commerce et des Sociétés de Paris sous le numéro 881 896 187, représentée par sa Présidente, Madame Marine WOLFFHUGEL, (**ci-après « TANDEMZ »**)**.** Ci-après individuellement désignée la **« Partie »** ou collectivement les **« Parties ».**
 
- 1. **Client** : désigne toute personne morale ou physique, professionnel immatriculé au registre du commerce et des sociétés ou tout a registre commercial équivalent, qui souscrit à la version gratuite de la Plateforme ou à un abonnement payant à la Plateforme;
- 2. **CGU** : désigne les présentes conditions générales d’utilisation.
- 3. **Compte Utilisateur** : désigne l’espace personnel créé par l’Utilisateur sur la Plateforme, tel que décrit à l’article 3.1 ci-après.
- 4. **Données** : désigne toutes les données collectées, générées ou traitées par l’intermédiaire de la Plateforme par l’Utilisateur.
- 5. **Données Personnelles** : désigne les Données qui, au sens de la Réglementation applicable à la protection des données personnelles, permettent de désigner ou d'identifier, directement ou indirectement, une personne physique.
- 6. **Plateforme** : désigne la plateforme de sélection, d’organisation et de suivi de tests, éditée par TANDEMZ et mise à disposition de l’Utilisateur par le biais d’internet, sur le Site.
- 7. **Réglementation applicable à la protection des données personnelles** : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».
- 8. **Services** : désigne les services de sélection de panels, d’organisation et de suivi de tests, proposés sur la Plateforme.
- 9. **Site** : désigne le site internet [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") édité par TANDEMZ et permettant d’accéder à la Plateforme et aux Services.
-10. **Utilisateur** : désigne le Client et/ou toute personne physique désignée par le Client qui accède à la Plateforme en vue d’utiliser les Services, quel que soit le lieu où elle se trouve et les modalités de son accès.
+1. **Définitions**
 
-## 2. Acceptation des CGU
+Dans les CGS, les termes et expressions identifiés par une majuscule ont la signification indiquée ci-après, qu’ils soient employés au singulier ou au pluriel :
 
-Les CGU constituent un contrat entre l’Utilisateur et TANDEMZ. L’accès à la Plateforme est subordonné à l’acceptation expresse et sans réserve par l’Utilisateur des CGU. Le défaut d’acceptation des CGU impliquera l’impossibilité pour l’Utilisateur d’accéder et d’utiliser la Plateforme.
+ 1. **Commande : désigne toute souscription aux Services proposés sur la Plateforme ;**
+ 2. **Compte Client : désigne le compte créé par le Client ;**
+ 3. **Conditions Générales d’Utilisation : désigne l’ensemble des règles d’utilisation de la Plateforme (_ci-après les « CGU »_) ;**
+ 4. **Contrat : désigne les CGS, auxquels s’ajoutent la Commande, les CGU et la Politique de Confidentialité, cet ensemble formant un tout indivisible ;**
+ 5. **Donnée personnelle : désigne toute donnée, collectée et traitée dans le cadre de l’utilisation des Services, qui permet de désigner ou d'identifier, directement ou indirectement, une personne physique;**
+ 6. **Droits de Propriété Intellectuelle : désignent les droits d’auteur, brevet, marque, dessin ou modèle, droits sur les logiciels, bases de données, noms de domaine, ainsi que tout autre droit de propriété intellectuelle d’ores et déjà ou ultérieurement déposés ou enregistrés, et ce dans le monde entier ;**
+ 7. **Informations Confidentielles : désigne les informations et données de toute nature transmis ou portés à la connaissance d’une Partie par l’autre Partie par écrit ou par oral ou par tout autre moyen et incluant sans limitation toutes informations nominatives, techniques, commerciales, stratégiques ou financières, méthodes, études, produits et procédés, qu’ils soient ou non protégés ou protégeables par un Droit de Propriété Intellectuelle.**
+ 8. **Plateforme : désigne la plateforme TANDEMZ accessible aux adresses** [**app.tandemz.io**](https://www.app.tandemz.io) **et** [**https://www.tandemz.io**](https://www.tandemz.io "https://www.tandemz.io") **;**
+ 9. **Réglementation applicable à la protection des données personnelles : désigne toute réglementation applicable à la protection des données personnelles et en particulier le Règlement (UE) n°2016/679 du Parlement Européen et du Conseil du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n°78-17 du 6 janvier 1978 modifiée dite « Loi Informatique et Libertés ».**
+10. **Services : désigne les services de sélection de participants, d’organisation et de suivi de tests, proposés sur la Plateforme détaillés à l’article 3.**
 
-L’acceptation des CGU s’effectue à la première connexion de l’Utilisateur sur la Plateforme, lors de la création de son Compte Utilisateur dans les conditions de l’article 3.1.
+2. **Acceptation des CGS**
 
-TANDEMZ se réserve le droit de modifier et/ou de mettre à jour les CGU, selon l’évolution technique de la Plateforme ou en raison de l’évolution de la législation, à tout moment et sans préavis. L’Utilisateur sera informé des nouvelles CGU à sa prochaine connexion à la Plateforme. L’accès et l’utilisation de la Plateforme seront soumis aux CGU en vigueur au moment de cet accès et de cette utilisation.
 
-Dans l'hypothèse où l'une des clauses des CGU serait nulle du fait d'un changement de législation ou de réglementation ou déclarée comme telle par une décision de justice définitive, cela ne saurait en aucun cas affecter la validité et le respect des autres clauses des CGU.
+1. **Les CGS sont réservées aux professionnels immatriculés au registre du commerce et des sociétés ou tout registre commercial équivalent. Le Client déclare que la Commande qu’il passe l’est en son nom et pour son compte ou le compte de la société qui l’emploie, pour les seuls besoins de son activité professionnelle.**
+2. **Les CGS sont applicables à toute Commande passée par un Client. Les CGS constituent un contrat entre TANDEMZ et le Client.**
+3. **Toute Commande est subordonnée à l’acceptation expresse et sans réserve des CGS par le Client en cochant la case prévue à cet effet. En validant une Commande, le Client reconnait avoir lu les CGS et les avoir entièrement comprises et s’engage à en respecter le contenu.**
+4. **TANDEMZ se réserve le droit de modifier les CGS à tout moment et sans préavis. En cas de modification, les CGS qui sont applicables au Client sont celles en vigueur à la date de la Commande.**
+5. **Les CGS sont directement accessibles sur la Plateforme.**
 
-## 3. Modalités d’accès à la Plateforme
+3. **Description des Services**
 
-### 3.1. Création d’un Compte Utilisateur
 
-L’accès à la Plateforme nécessite la création d’un Compte Utilisateur. Pour cela, l’Utilisateur doit disposer d’une adresse email valide.
+1. **Les Services proposés par TANDEMZ peuvent être les suivants :**
 
-L’Utilisateur peut créer un Compte Utilisateur en cliquant sur l’onglet correspondant disponible sur la page d’accueil du Site, le renvoyant vers la Plateforme [https://app.tandemz.io/](https://app.tandemz.io/) où il est invité à créer un compte.
+* recherche de participants disponibles au sein du panel Tandemz et/ou sur les réseaux sociaux pour participer à des études quantitatives ou qualitatives incluant les tests de produit, les tests utilisateurs, les entretiens, les focus group et les études en ligne.
+* sélection de participants ;
+* contact des participants pour les informer de la date et du lieu de leur rendez-vous ;
+* envoi d’un rappel de rendez-vous la veille dudit rendez-vous ;
+* dédommagement des participants ;
+* si le Client en fait la commande, organisation de l’étude pour le compte du Client selon les modalités de l’étude choisies par le Client dans la Commande.
 
-L’Utilisateur est pour cela invité à saisir son nom, prénom, adresse email et mot de passe, son entreprise et numéro de téléphone.
+**Le Client reconnaît que les participants sélectionnés par TANDEMZ ne sont ni des employés ni des représentants de TANDEMZ.**
 
-L’Utilisateur est ensuite invité à lire les CGU puis, s’il les accepte, à cocher la case et à cliquer sur « C’est parti » pour finaliser la création de son Compte Utilisateur. Par ce coche et ce clic, l’Utilisateur reconnaît avoir lu les CGU, les avoir comprises et accepter pleinement l’ensemble de leurs stipulations, sans restriction ni réserve.
+2. **Les Services sont plus amplement décrits sur la Plateforme.**
 
-L’Utilisateur reçoit alors un email de confirmation de l’ouverture du Compte Utilisateur, à l’adresse de courrier électronique qu’il a indiquée.
+4. **Commande de Services**
 
-Une fois sur son Compte Utilisateur, l’Utilisateur peut compléter ses informations personnelles en renseignant les informations sollicitées dans les formulaires disponibles sur le Compte Utilisateur.
 
-L’Utilisateur accepte de fournir et de maintenir les informations le concernant exactes, à jour et complètes. La responsabilité de TANDEMZ ne saurait en aucune circonstance être engagée en cas de retard ou d’impossibilité d’accéder à la Plateforme du fait d’une information erronée ou incomplète dans la saisie des informations concernant l’Utilisateur lors de sa demande de création de Compte Utilisateur. A ce titre, l’Utilisateur peut à tout moment modifier ses informations personnelles et le mot de passe directement depuis son Compte Utilisateur.
+1. **Pour toute Commande de Services, le Client doit disposer d’un Compte Client ou créer un Compte Client conformément aux CGU.**
+2. **Offre Pay as you Go. Le Client peut procéder en ligne à une Commande de Services, en renseignant le type d’étude qu’il souhaite réaliser, les profils ciblés pour participer à l’étude, les modalités de validation de ces participants, le calendrier et le format de rencontre envisagés. La tarification est détaillée tout au long du processus de Commande.**
 
-Les identifiants de connexion (identifiant et mot de passe) de l’Utilisateur sont personnels et confidentiels. L’Utilisateur devra conserver ces identifiants de connexion de manière sécurisée et s’engage à ne pas les divulguer à des tiers pour quelque raison, de quelque manière et sous quelque forme que ce soit. L’Utilisateur s’engage également à s’assurer qu’à l’issue de chaque session d’utilisation de la Plateforme, il se déconnecte proprement.
+Après avoir renseigné l’ensemble du formulaire de commande sur la Plateforme, le Client accède au récapitulatif de sa Commande, indiquant le périmètre des Services, le prix et les modalités de paiement. Il appartient au Client de vérifier l’absence de toute erreur, après quoi il confirme avoir pris connaissance et accepter les présentes CGS en cochant la case correspondante et matérialise sa volonté de procéder à la Commande. La Commande sera alors considérée comme ferme et définitive, et enclenchera la prestation commandée. Toute modification ou annulation de Commande devra faire l’objet d’une acceptation par TANDEMZ. La demande de modification pourra entrainer une modification du prix de la Commande.
 
-En cas de perte, oubli ou vol de ses éléments d’authentification, l’Utilisateur doit modifier son mot de passe dans les plus brefs délais en cliquant sur le bouton « Mot de passe oublié » situé sous le formulaire de saisie des identifiants de connexion. L’Utilisateur est alors invité à créer un nouveau mot de passe.
+Le Client pourra avoir accès au descriptif de sa Commande depuis son Compte Client.
 
-En aucun cas, TANDEMZ ne saurait être responsable de la perte, du vol ou de l’oubli des éléments d’authentification de l’Utilisateur ou de leur utilisation frauduleuse. L’Utilisateur est seul responsable de l’accès et l’utilisation de la Plateforme avec ses éléments d’authentification.
+Le Client sera facturé à l’issue de la réalisation de la prestation commandée dans les conditions prévues à l’article 6.
 
-## 3.2. Configuration minimale requise
+3. **Offre Forfait prépayé. Pour souscrire une offre de forfait prépayé lui permettant de bénéficier de crédits à consommer sur la Plateforme dans l’année suivant la Commande, le Client est invité à contacter directement TANDEMZ via le formulaire de contact mis à disposition sur la Plateforme, par chat, par courrier électronique ou par téléphone.**
 
-L’accès à la Plateforme nécessite que l’Utilisateur dispose d’un matériel informatique (PC, MAC, tablette ou smartphone), d’une connexion internet haut débit et d’un navigateur web.
+5. **Obligation du Client**
 
-Tous les coûts afférents à l’accès à la Plateforme et à son utilisation que ce soient les frais matériels, logiciels ou d’accès à internet sont exclusivement à la charge de l’Utilisateur. L’Utilisateur est seul responsable du bon fonctionnement et de la sécurisation appropriée de son équipement informatique ainsi que son accès internet.
 
-## 3.3. Disponibilité de la Plateforme
+1. **Le Client reconnaît qu’il est strictement interdit de commander et d’utiliser les Services pour l’exercice d’activités illégales, frauduleuses ou portant atteinte aux droits ou à la sécurité des tiers. Toute violation des présentes CGS pourra entraîner la suspension des Services et/ou la résiliation du Contrat, sans préjudice des indemnités qui pourraient être réclamées par TANDEMZ.**
+2. **Si le Client choisit d’intervenir dans la validation des participants, il ne pourra refuser de candidat que sur la base des critères de sélection définis lors de la Commande. En aucun cas, le Client ne pourra opposer à TANDEMZ le refus d’un candidat qui remplirait les critères de sélection formulés dans la Commande. Toute modification de Commande devra être acceptée par TANDEMZ et fera l’objet d’une tarification complémentaire.**
+3. **Au plus tard vingt-quatre (24) heures après la fin de l’étude, le Client s’engage à informer TANDEMZ de toute absence d’un participant à son rendez-vous. Le Client est informé qu’il ne sera pas facturé pour ce(s) participant(s) mais qu’il ne pourra pas prétendre à un dédommagement pour le temps qu’il a réservé à ce(s) participant(s).**
+4. **Le Client s’interdit, sans l’autorisation de TANDEMZ, de démarcher les participants pour leur proposer de participer à une étude consécutive à l’étude objet de la Commande.**
 
-La Plateforme est accessible 24 heures sur 24, 7 jours sur 7, sous réserve de la survenance d’un cas de force majeure ou un d’un événement hors du contrôle de TANDEMZ et sauf interruption, suspension ou limitation dans le cadre d’opérations de maintenance et/ou de mises à jour nécessaires au bon fonctionnement de la Plateforme.
+6. **Conditions financières**
 
-TANDEMZ n’est tenue qu’à une obligation de moyens concernant l’accessibilité, le fonctionnement et la disponibilité de la Plateforme ou de ses contenus. TANDEMZ se réserve la possibilité d’interrompre, de suspendre ou de limiter l’accès à tout ou partie de la Plateforme notamment en raison de contraintes d’ordre juridique ou technique.
 
-L’Utilisateur reconnait expressément que les suspensions, interruptions ou limitations susmentionnées pourront intervenir à tout moment sans préavis et qu’elles n’ouvriront droit à aucune obligation, ni indemnisation à son profit.
+1. **Prix. Le prix des Services est détaillé à la Commande. Le prix est lié au nombre de participants sélectionnés pour l’étude. Le montant du dédommagement accordé au participant est fixé selon l’étude objet de la Commande. Les prix sont indiqués en euros hors taxe et toutes taxes comprises. TANDEMZ se réserve le droit de répercuter, sans délai, toute taxe ou toute augmentation de taux des taxes existantes.**
+2. **Absence d’un participant. Si l’un des participants sélectionnés pour l’étude ne se présente pas au rendez-vous et ne participe pas à l’étude, le Client ne sera pas facturé pour ce participant. TANDEMZ déduira de la facture le tarif associé au participant.**
+3. **Modalités de paiement. Sauf autre accord, TANDEMZ émettra sa facture à l’achèvement de la Commande. La facture peut être adressée au Client par courrier ou email et est payable, par virement, dans un délai de trente (30) jours à compter de sa date d’émission.**
+4. **Retard de paiement. Conformément aux dispositions de l’article L. 441-10 du Code de commerce, tout retard de paiement fera courir, sans préavis et de plein droit, une indemnité forfaitaire de recouvrement de 40€ telle que déterminée par décret et des intérêts de retard dont le taux correspondra au taux appliqué par la Banque Centrale Européenne lors de sa dernière opération de refinancement, majoré de dix (10) points.**
 
-## 4. Utilisation de la Plateforme
+En cas de retard de paiement non régularisé, TANDEMZ disposera de la faculté de résilier le Contrat aux torts exclusifs du Client ou d’exercer de toute autre voie de droit visant à obtenir réparation du préjudice qu’elle aura subi.
 
-### 4.1. Bon usage de la Plateforme
+7. **Propriété intellectuelle**
 
-L’Utilisateur s'engage à n'utiliser la Plateforme que pour ses seuls besoins professionnels exclusivement.
 
-L’Utilisateur s’engage à utiliser la Plateforme conformément aux CGU, dans le respect des lois et réglementations applicables en France.
+1. **Le Client reconnaît et accepte que tous les droits, titres et intérêts relatifs à la Plateforme, aux dénominations et logos TANDEMZ, y compris les droits de propriété intellectuelle associés, sont et demeureront la propriété exclusive de TANDEMZ ou des tiers ayant autorisé TANDEMZ à les exploiter. Le Contrat ne confère au Client aucun droit de propriété ou intérêt sur la Plateforme, les dénominations et/ou logos TANDEMZ, mais seulement un droit d’accès et d’utilisation de la Plateforme dans les conditions de la licence définie ci-après.**
+2. **Sous réserve du complet paiement du prix par le Client, TANDEMZ concèdera au Client, pour la durée du Contrat et pour le monde entier, une licence d’accès et d’utilisation, de la Plateforme et ce, à titre non-exclusif, non-cessible, non-transférable, aux seules fins de son activité professionnelle (ci-après la « Licence »). Le Client s’engage à ne pas utiliser la Plateforme autrement que dans les limites autorisées par le Contrat.**
 
-L’Utilisateur amené à traiter les données personnelles des testeurs de son panel de tests participants aux tests qu’il organise, dans le cadre de l’utilisation de la Plateforme s’engage à respecter les dispositions prévues dans la Politique de confidentialité de TANDEMZ, disponible sur le lien suivant [https://www.tandemz.io/politique-de-confidentialite-client](https://www.tandemz.io/politique-de-confidentialite-client).
+Le Client s’engage notamment à ne pas effectuer un ou plusieurs des actes suivants, ni permettre ou autoriser un tiers à effectuer un ou plusieurs des actes suivants : (i) décompiler ou désassembler la Plateforme, en effectuer l'ingénierie inverse ou tenter de toute autre manière d'en obtenir les codes sources, en tout ou partie; (ii) copier le code source de la Plateforme ou créer une œuvre dérivée à partir de ces codes sources ; (iii) louer, sous-licencier, vendre, prêter ou transférer la Plateforme.
 
-L’Utilisateur reconnaît et accepte expressément faire son affaire personnelle de toute conséquence, réclamation, recours ou action d’un participant au test ou d’un tiers, relativement au contenu édité sur son Compte Utilisateur. En tant qu’hébergeur de contenu au sens de la loi n° 2004-575 pour la confiance dans l’économie numérique, TANDEMZ n’est pas en mesure de surveiller ou de contrôler les contenus et ne peut engager sa responsabilité à ce titre.
+8. **Données Personnelles**
 
-Dans l’hypothèse où une revendication d’un participant au test ou d’un tiers serait portée directement à la connaissance de TANDEMZ, TANDEMZ procédera à des investigations concernant la demande. En cas de contenu abusif ou illicite, TANDEMZ pourra supprimer ledit contenu sans préjudice de toute autre action que pourrait se réserver TANDEMZ à l’encontre de l’Utilisateur en réparation du préjudice subi.
 
-### 4.2. Comportements prohibés
+1. **TANDEMZ pourra avoir accès et traiter des Données Personnelles du Client pour exécuter la Commande et répondre aux éventuelles demandes du Client concernant les Services.**
+2. **TANDEMZ procèdera, en tant que responsable de traitement, à des traitements de Données Personnelles du Client conformément à la** [**Politique de confidentialité**](https://www.tandemz.io/fr/politique-de-confidentialite-client/)**.**
+3. **Le Client dispose d’un droit d’accès, de rectification, d’effacement, de limitation et de portabilité de ses données personnelles, ainsi que du droit de s’opposer à ce que ses données fassent l’objet d’un traitement à des fins de prospection commerciale et du droit d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés s’il considère que le traitement opéré par TANDEMZ constitue une violation de ses données personnelles. Les droits du Client sur ses données personnelles peuvent être exercés à tout moment auprès de TANDEMZ par email à l’adresse suivante : contact@tandemz.io.**
 
-Il est strictement interdit d’utiliser la Plateforme aux fins suivantes :
+9. **Durée et résiliation**
 
-* l’exercice d’actions illégales, discriminatoires, frauduleuses ou portant atteinte aux droits ou à la sécurité des tiers et, en particulier, des locataires de l’Utilisateur,
-* l’atteinte à l’ordre public ou la violation des lois et règlements en vigueur,
-* l’aide ou l’incitation, sous quelque forme et de quelque manière que ce soit, à un ou plusieurs des actes décrits ci-dessus,
-* et plus généralement toute pratique détournant la Plateforme à des fins autres que celles pour lesquelles elle a été conçue.
 
-TANDEMZ pourra résilier l’accès de l’Utilisateur à la Plateforme en cas de non-respect du présent article, sans préjudice de tous dommages et intérêts que pourrait solliciter TANDEMZ.
+1. **Durée. Les CGS sont applicables pendant toute la durée d’exécution de la Commande.**
+2. **Résiliation pour faute. En cas de manquement d'une des Parties à l’une des obligations, l'autre Partie pourra, trente (30) jours francs à compter de la date de réception, ou à défaut de la date de première présentation d'une lettre de mise en demeure recommandée avec demande d'avis de réception restée infructueuse, prononcer la résiliation de plein droit de la Commande, sans préavis ni formalité judiciaire ou autre et sans préjudice de tous autres droits ou actions notamment en vue de solliciter tous dommages et intérêts auxquels elle pourrait prétendre.**
+3. **Résiliation pour violation des CGU. En cas de manquement du Client aux CGU, TANDEMZ pourra résilier de plein droit le Contrat, sans mise en demeure préalable, sans préavis ni indemnité, tout ou partie de l’accès du Client à la Plateforme et/ou aux Services. TANDEMZ pourra prononcer cette résiliation sans préjudice de tous les autres droits, actions et recours dont elle pourrait disposer en vue de la réparation du préjudice qu’elle pourrait avoir subi du fait de ces manquements.**
+4. **Conséquences de la résiliation. A la résiliation du Contrat, pour quelque cause que ce soit, les Services cesseront immédiatement, quel que soit leur état d’avancement.**
 
-## 5. Garanties
+Les sommes versées par le Client avant l’expiration ou la résiliation du Contrat demeurent acquises à TANDEMZ. Sauf cas d’une résiliation pour faute de TANDEMZ, toutes les sommes qui resteraient dues par le Client à TANDEMZ deviendront immédiatement exigibles à la date d’expiration ou de résiliation du Contrat.
 
-TANDEMZ garantit la confidentialité et la sécurité des Données. TANDEMZ ne saurait en revanche garantir l'exactitude, l'exhaustivité, l’actualité ou autre qualité des Données intégrées et diffusées par l’Utilisateur sur la Plateforme.
+10. **Confidentialité**
 
-L’Utilisateur est seul responsable de l’intégrité, l’exactitude et la qualité des Données qu’il intègre et diffuse sur la Plateforme. L’Utilisateur s’assure également que les Données qu’il intègre et diffuse sur la Plateforme sont exemptes de virus ou tout autre composant susceptible de causer un dommage à la Plateforme.
+Chaque Partie s’engage à (i) protéger et traiter dans la plus stricte confidentialité les Informations Confidentielles qui lui sont remises par l’autre Partie et/ou auxquelles elle aurait eu accès à l'occasion de l’exécution du Contrat; (ii) ne révéler à aucun tiers, sans l’accord préalable et écrit de l’autre Partie, la nature ou le contenu des Informations Confidentielles de l’autre Partie, et ce directement ou indirectement; (iii) n’utiliser les Informations Confidentielles qu’aux seules fins de l’exécution du Contrat ; (iv) ne pas copier les Informations Confidentielles pour des besoins autres que ceux de l’exécution du Contrat.
 
-TANDEMZ ne consent aucune autre garantie expresse ou implicite, en ce y compris, sans que cette énumération ne soit limitative, quant à la non violation des droits d'un tiers, la continuité, performance et/ou pérennité de la Plateforme et/ou quant à l’aptitude à un usage particulier ou l’adéquation de la Plateforme aux besoins de l’Utilisateur, ni ne garantit qu’elle est exempte d’anomalies, erreurs ou bugs ou qu’elle fonctionnera sans panne ni interruption. La Plateforme est diffusée « en l’état » et selon sa disponibilité.
+L'obligation de confidentialité ne s’applique pas aux informations : (i) qui étaient connues de l’une des Parties, sans obligation de secret, avant leur transmission par l’autre Partie ; (ii) qui sont obtenues de tiers par l’une des Parties, de manière légitime ; (iii) qui sont ou deviennent publiquement disponibles, sans qu’il y ait violation des engagements pris par chacune des Parties; (iv) qui sont révélées de manière raisonnable aux employés, fournisseurs, prestataires ou autres, pour la réalisation des Services ; (v) qui doivent être révélées par la loi ou une autorité compétente.
 
-L’accès à la Plateforme implique la connaissance et l’acceptation des caractéristiques et des limites d’internet, notamment en ce qui concerne les performances techniques, les temps de réponse pour consulter, interroger ou transférer des informations, les risques d’interruption, et plus généralement, les risques inhérents à toute connexion et transmission sur internet, l’absence de protection de certaines données contre des détournements éventuels et les risques de contamination par d’éventuels virus circulant sur le réseau. TANDEMZ ne garantit pas que la Plateforme ou ses serveurs seront à tout moment exempt de virus, vers, chevaux de Troie ou tout autre composant susceptible de causer un dommage. Il appartient à l’Utilisateur de prendre toutes les mesures appropriées de façon à protéger ses propres matériels, données, et/ou logiciels stockés sur son équipement informatique contre toute atteinte.
+Les Parties feront signer aux tiers et aux membres de leur personnel pouvant intervenir dans le cadre du Contrat, un engagement de confidentialité garantissant le même niveau de confidentialité. L’engagement de confidentialité reste en vigueur aussi longtemps que les informations concernées ne seront pas devenues publiques.
 
-## 6. Responsabilités
+11. **Responsabilité**
 
-L’accès et l’utilisation de la Plateforme par l’Utilisateur ne sauraient en aucun cas engager la responsabilité de TANDEMZ, à quelque titre que ce soit. L’accès à la Plateforme et son utilisation se font sous l’entière responsabilité de l’Utilisateur.
+TANDEMZ est soumise à une obligation de moyens dans la fourniture des Services au Client. Le Client reconnaît expressément avoir reçu de TANDEMZ toutes les informations nécessaires, lui permettant d’apprécier l’adéquation des Services à ses besoins.
 
-L'Utilisateur est seul maître de la bonne utilisation, avec discernement et esprit, de la Plateforme et des Données qu’il y intègre et diffuse.
+Le Client est informé que les participants aux études sont sélectionnés par TANDEMZ sur la base des informations qu’ils lui déclarent et que TANDEMZ ne procède pas à la vérification de la véracité de ces informations.
 
-Aucun conseil et aucune information, qu'ils soient oraux ou écrits, obtenus par l’Utilisateur lors de l’utilisation de la Plateforme ne sont susceptibles de créer de garanties non expressément prévues par les CGU ni d’entraîner la responsabilité de TANDEMZ en cas de dommages, de quelque nature qu’ils soient, causés à l’Utilisateur ou à des tiers du fait de la mauvaise utilisation par l’Utilisateur de la Plateforme, en violation des dispositions du présent article et plus généralement du non-respect des CGU.
+La responsabilité de TANDEMZ à l’égard du Client ne pourra être recherchée qu’en cas de dommage direct subi par le Client trouvant sa cause dans un manquement contractuel prouvé de TANDEMZ commis dans ou à l’occasion de l’exécution de ses obligations.
 
-L’Utilisateur est responsable de tout dommage survenant à son système informatique, à la Plateforme et/ou son contenu, ainsi que, de la perte de Données qui pourraient résulter de son utilisation de la Plateforme. A ce titre, l’Utilisateur est responsable de la mise en place d’anti-virus et autres mesures de sécurisation de son système informatique.
+TANDEMZ ne pourra être tenue responsable des dommages indirects de quelque nature que ce soit subis par le Client, y compris, sans que cette liste ne soit limitative, la perte de profit, perte de bénéfices, perte de clientèle, trouble commercial quelconque, préjudice d’image, en relation ou provenant de la fourniture des Services.
 
-Dans toute la mesure autorisée par la loi applicable, TANDEMZ exclut expressément sa responsabilité pour tout dommage indirect, résultant de ou en relation avec l’accès à la Plateforme, son utilisation, son dysfonctionnement ou son indisponibilité quelles qu’en soient la nature et la durée.
+Si la responsabilité de TANDEMZ était retenue devant les tribunaux, le Client ne pourra prétendre à d'autres indemnités et dommages et intérêts ou règlement quelconque, toutes causes confondues, qu'au montant des règlements effectués par ce dernier au titre des douze (12) derniers mois du Contrat.
 
-TANDEMZ est responsable des seuls dommages directs qui pourraient être causés à l’Utilisateur du fait de la mauvaise exécution et/ou inexécution des obligations lui incombant en vertu des CGU.
+En tant que de besoin, il est précisé qu’en aucun cas la responsabilité de TANDEMZ ne pourra être engagée du fait des agissements du Client et/ou du participant. A ce titre, lorsque l’étude est réalisée par le Client lui-même, TANDEMZ ne pourra voir sa responsabilité engagée :
 
-L’Utilisateur reconnaît que TANDEMZ demeure libre de corriger et/ou modifier la Plateforme à tout moment et sans préavis, sans que cette correction et/ou modification ne puisse ouvrir droit à un quelconque recours de sa part.
+* au titre des relations et discussions menées entre le Client et les participants à l’étude ;
+* au titre des dommages causés au(x) participant(s) à l’étude par le Client ;
+* au titre des dommages causés au Client par le participant.
 
-La responsabilité de TANDEMZ ne saurait être engagée, d’une façon générale, dans tous les cas où l'inexécution ou la mauvaise exécution des CGU résulterait d'un cas de force majeure ou cas fortuit indépendant de sa volonté.
+12. **Force Majeure**
 
-## 7. Propriété intellectuelle
+Aucune des deux Parties ne sera tenue pour responsable vis à vis de l’autre de la non-exécution ou des retards dans l’exécution d’une obligation des CGS qui seraient dus au fait de l’autre partie consécutivement à la survenance d’un cas de force majeure au sens du Code civil et de la jurisprudence.
 
-La Plateforme, les Services et tous contenus présents sur la Plateforme, édités par TANDEMZ (les « **_Eléments Protégés_** ») sont protégés par des droits de propriété intellectuelle (tels que notamment tous droits d'auteur, droits sur les brevets, les marques, droit des producteurs de base de données, et tout autre droit de propriété intellectuelle existant ou futur, français et internationaux) et appartient à TANDEMZ ou à des tiers ayant autorisé TANDEMZ à les exploiter.
+En cas de survenance d'un évènement de force majeure, la Partie affectée en informera immédiatement l'autre Partie et les Parties prendront toutes les mesures raisonnables pour limiter les conséquences d'un tel évènement. En cas de survenance d'un évènement de force majeure entraînant l'impossibilité temporaire pour l'une des Parties d'exécuter ses obligations, l'inexécution de ses obligations par la Partie affectée sera tolérée pendant la durée de l’évènement de force majeure et au plus pendant la période continue de trente (30) jours calendaires. Au-delà, les Parties pourront résilier le Contrat par lettre recommandée avec accusé de réception sans aucune autre formalité.
 
-L’utilisation de la Plateforme ne confère en aucune façon à l’Utilisateur un droit de propriété et/ou un droit de propriété intellectuelle sur les Eléments Protégés, à l’exception d’un droit personnel d’accès, non exclusif et limité exclusivement à l’utilisation de la Plateforme conformément à son objet et dans le respect des CGU.
+13. **Cession**
 
-Il est strictement interdit de représenter, de reproduire et/ou d’exploiter les Eléments Protégés, totalement ou partiellement, sous quelque forme et par quelque moyen que ce soit, sans l’accord écrit et préalable de TANDEMZ. L’Utilisateur s’engage à ne pas copier, modifier, assembler, décompiler, altérer, vendre, louer, prêter, diffuser, distribuer ou transférer tout ou partie de la Plateforme, créer des œuvres dérivées à partir de la Plateforme, autoriser un tiers à commettre de tels actes, sans l’accord écrit et préalable de TANDEMZ.
+Le Client s'interdit de céder à un tiers à quelque titre, pour quelque cause et sous quelque forme que ce soit, le Contrat ou l'un quelconque des droits et/ou obligations de celui-ci, sans avoir préalablement informé TANDEMZ par écrit et recueilli son consentement exprès.
 
-Le non-respect des dispositions du présent article constitue une violation des droits de propriété intellectuelle de TANDEMZ et/ou des tiers concédants et est susceptible d’entraîner des poursuites civiles et pénales
+TANDEMZ pourra, sous réserve d’en avoir informé le Client au préalable, transférer le Contrat à toute société affiliée au sens des dispositions de l’article L.233-3 du code de commerce, ainsi qu’à toute société tierce qui serait notamment engagée dans une opération capitalistique, de changement de contrôle, de fusion, d'absorption, de cession, ou de transfert.
 
-## 8. Protection des données personnelles
+14. **Dispositions Générales**
 
-TANDEMZ est soucieuse de la protection des données personnelles des Utilisateurs de sa Plateforme et s’engage à les protéger en conformité avec la réglementation applicable et notamment le Règlement (UE) n°2016/679 du 27 avril 2016 dit « Règlement Général sur la Protection des Données » ou « RGPD » et la loi n° 78-17 du 6 janvier 1978 modifiée, dite « Loi Informatique et Liberté » modifiée. Pour en savoir plus sur les règles de protection des données personnelles, l’Utilisateur est invité à consulter la Politique de confidentialité de TANDEMZ, disponible à l’adresse suivante : [https://www.tandemz.io/politique-de-confidentialite-client/](https://www.tandemz.io/politique-de-confidentialite-client/ "https://www.tandemz.io/politique-de-confidentialite-client/").
 
-## 9. Durée– Résiliation
+1. **Communication. Sauf dans les cas où une stipulation des CGS en dispose autrement, les échanges entre les Parties pourront intervenir par tous moyens, notamment par messagerie électronique.**
+2. **Assurances. Les Parties s’engagent et déclarent être titulaires d’une police d’assurance souscrite auprès d’une compagnie notoirement solvable, couvrant leur responsabilité civile professionnelle.**
+3. **Tolérance. Il est formellement convenu que toute tolérance ou renonciation d'une des Parties, dans l'application de tout ou partie des engagements prévus au présent Contrat, quelles que puissent en être la fréquence et la durée, ne saurait valoir modification du présent Contrat, ni générer un droit quelconque.**
+4. **Intégralité. Le Contrat remplace en tous points les accords, lettres d’intention, courriers et propositions antérieures entre les Parties, quelle qu’en soit la forme ou l’appellation et portant sur le même objet.**
+5. **Divisibilité. Si l’une quelconque des dispositions du Contrat est annulée en tout ou partie, la validité des dispositions restantes du Contrat n’en sera pas affectée. Dans ce cas, les Parties devront, si possible, remplacer cette disposition annulée par une disposition valable correspondant à l’esprit et à l’objet du Contrat.**
+6. **Référence commerciale. Chacune des Parties pourra citer le nom de l’autre Partie et utiliser ses signes distinctifs à titre de référence commerciale dans ses documents techniques et commerciaux.**
+7. **Sous-traitance. TANDEMZ pourra, à sa seule discrétion, avoir recours à un ou plusieurs sous-traitants pour l’exécution de ses obligations. Cependant, TANDEMZ demeurera, vis-à-vis du Client, solidairement responsable de la bonne exécution des prestations confiée au(x)dit(s) sous-traitants.**
+8. **Modification du Contrat. Toute modification du Contrat ne pourra se faire que sous forme d’un avenant signé des deux Parties.**
+9. **Élection de domicile. Les Parties font respectivement élection de domicile en leurs sièges sociaux.**
 
-**9.1.** Les CGU entrent en vigueur à compter de leur acceptation par l’Utilisateur et pour toute la durée d’utilisation de la Plateforme par l’Utilisateur.
+15. **Droit Applicable – Compétence Juridictionnelle**
 
-La résiliation de l’abonnement gratuit par le Client entraîne la désactivation du Compte Utilisateur à la date de résiliation effective de l’abonnement. En cas de résiliation de l’abonnement payant par le Client, et de refus de sa part de conserver son compte en version gratuite, le Compte Utilisateur sera désactivé à la date de résiliation effective de l’abonnement.
-
-**9.2.** En cas d’utilisation de la Plateforme par l’Utilisateur non conforme aux CGU, en cas de manquement de l’Utilisateur aux CGU, ou plus généralement en cas de violation des lois et réglementations applicables, TANDEMZ pourra résilier de plein droit, sans mise en demeure préalable, sans préavis ni indemnité, tout ou partie de l’accès de l’Utilisateur à la Plateforme. TANDEMZ pourra prononcer cette résiliation sans préjudice de tous les autres droits, actions et recours dont TANDEMZ pourrait disposer en vue de la réparation du préjudice qu’elle pourrait avoir subi du fait de ces manquements.
-
-**9.3.** En cas de désactivation du Compte Utilisateur, les Données, et notamment, les Données Personnelles de l’Utilisateur, seront alors archivées dans un environnement sécurisé, pendant la durée légale de prescription aux fins de preuve pour la constatation, l’exercice ou la défense d’un droit en justice, conformément à la réglementation applicable à la protection des données personnelles.
-
-**9.4.** TANDEMZ restituera à l’Utilisateur qui en fait la demande les Données qu’il aura intégrées sur la Plateforme, sur simple demande adressée par email à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io)
-
-## 10. Droit applicable et juridictions compétentes
-
-**10.1.** Les CGU seront exécutées et interprétées conformément au droit français.
-
-**10.2.** Les parties déclarent leur intention de chercher une solution amiable à toute difficulté qui pourrait surgir à propos de la validité, de l’interprétation ou de l’exécution des CGU. En cas de désaccord persistant, le litige sera porté à la connaissance des tribunaux compétents.
-
-## 11. Contact
-
-Pour tout renseignement concernant les CGU, l’Utilisateur peut contacter TANDEMZ par courriel adressé à l’adresse suivante : [contact@tandemz.io](mailto:contact@tandemz.io "contact@tandemz.io")
+**Le Contrat est soumis au droit français. A défaut de résolution amiable, tout différend relatif au Contrat sera porté à la connaissance des tribunaux compétents situés dans le ressort territorial du siège social de TANDEMZ et ce, y compris en cas de référé, de requête ou de pluralité de défendeurs.**
