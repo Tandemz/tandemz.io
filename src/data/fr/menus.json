@@ -55,6 +55,11 @@
   ],
   "legal": [
     {
+      "title": "Conditions générales de vente",
+      "url": "fr/conditions-generales-de-vente",
+      "weight": null
+    },
+    {
       "title": "Conditions générales d'utilisation",
       "url": "/fr/conditions-generales-utilisation",
       "weight": 1
