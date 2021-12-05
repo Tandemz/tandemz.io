@@ -9,9 +9,9 @@ ogimagealt: Tandemz Logo
 og_image_width: 200
 og_image_height: 200
 twitter_card: summary
-title: Terms and conditions of service
+title: General terms and conditions of service
 legal: true
-legal_name: cgu-client-en
+legal_name: cgs-client-en
 subtitle: ''
 img_path: ''
 ogtitle: ''
@@ -19,25 +19,27 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 locale: ''
-globalName: cgu-client
+globalName: cgs-client
 
 ---
-The purpose of these general terms of use is to define the terms and conditions of access and use of the Tandemz test organization and monitoring platform, provided by TANDEMZ, a simplified joint stock company with a capital of €2,400, whose registered office is located at 27 rue du Chemin Vert - 75011 PARIS, registered with the Paris Trade and Companies Registry under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL (hereinafter "TANDEMZ"), as well as the rights and obligations of Users in this context.
+# "PAY AS YOU GO"
+
+The purpose of these General Terms of Services (hereinafter the "**GTS**") is to define the conditions applicable to any individual or legal entity registered in the Trade and Companies Register or any equivalent commercial register (**hereinafter the "Customer"**) who, on the Platform orders the Services offered by the company TANDEMZ, a simplified joint stock company with a capital of €2,400, whose registered office is located at 27 rue du Chemin Vert - 75011 PARIS, registered in the Paris Trade and Companies Register under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL, (**hereinafter "TANDEMZ"**). Hereinafter individually referred to as the "**Party**" or collectively as the "**Parties.**"
 
 # 1. Definitions
 
-In the T&Cs, the terms identified below by a capital letter have the following meanings, whether they are used in the singular or plural:
+In the GTS, capitalized terms have the meanings set forth below, whether used in the singular or plural:
 
-* **Customer:** means any legal or natural person, professional registered in the Trade and Companies Register or any equivalent commercial register, who subscribes to the free version of the Platform or to a paid subscription to the Platform;
-* **T&Cs:** refers to these terms of use.
-* **User Account:** refers to the personal space created by the User on the Platform, as described in article 3.1 below.
-* **Data:** refers to all data collected, generated or processed through the Platform by the User.
-* **Personal Data:** refers to Data which, within the meaning of the Regulation applicable to the protection of personal data, allows to designate or identify, directly or indirectly, a natural person.
-* **Platform:** refers to the platform for selecting, organizing and monitoring tests, published by TANDEMZ and made available to the User via the Internet, on the Website.
-* **Regulation applicable to the protection of personal data:** refers to any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act."
-* **Services:** refers to the panel selection, organization and monitoring services offered on the Platform.
-* **Site:** refers to the website [https://www.tandemz.io/](https://www.tandemz.io/ "https://www.tandemz.io/") published by TANDEMZ and providing access to the Platform and the Services.
-* **User:** refers to the Customer and/or any natural person designated by the Customer who accesses the Platform with a view to using the Services, regardless of its location and access conditions.
+ 1. **Order:** means any subscription to the Services offered on the Platform;
+ 2. **Customer account:** means the account created by the Customer; 
+ 3. **Terms of service:** refers to all the rules of use of the Platform (**hereinafter the "TOS"**); 
+ 4. **Contract:** means the GTS, together with the Order, the TOS and the Privacy Policy, all of which form an indivisible whole; 
+ 5. **Personal data:** means any data, collected and processed in the context of the use of the Services, which makes it possible to designate or identify, directly or indirectly, a natural person; 
+ 6. **Intellectual Property Rights:** means copyrights, patents, trademarks, designs, software rights, databases, domain names, as well as any other intellectual property rights already or later filed or registered, and this worldwide; 
+ 7. **Confidential Information:** means information and data of any kind transmitted or made known to a Party by the other Party in writing or orally or by any other means and including without limitation all personal, technical, commercial, strategic or financial information, methods, studies, products and processes, whether or not they are protected or protectable by an Intellectual Property Right. 
+ 8. **Platform:** means the TANDEMZ platform accessible at [app.tandemz.io](https://www.app.tandemz.io) and [https://www.tandemz.io](https://www.tandemz.io "https://www.tandemz.io") ; 
+ 9. **Regulation applicable to the protection of personal data:** means any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978, as amended, known as the "Data Protection Act." 
+10. **Services:** refers to the services of selection of participants, organization and follow-up of tests, proposed on the Platform detailed in article 3.
 
 # 2. Accepting the T&Cs
 
