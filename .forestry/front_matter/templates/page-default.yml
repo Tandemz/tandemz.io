@@ -64,6 +64,7 @@ pages:
 - src/pages/en/client-privacy-policy.md
 - src/pages/en/participants-privacy-policy.md
 - src/pages/en/participation-rules.md
+- src/pages/en/terms-and-conditions-of-service.md
 - src/pages/en/terms-and-conditions.md
 - src/pages/fr/conditions-generales-de-vente.md
 - src/pages/fr/conditions-generales-utilisation.md
