@@ -32,8 +32,8 @@ In the GTS, capitalized terms have the meanings set forth below, whether used in
 
  1. **Order:** means any subscription to the Services offered on the Platform;
  2. **Customer account:** means the account created by the Customer; 
- 3. **Terms of service:** refers to all the rules of use of the Platform (**hereinafter the "TOS"**); 
- 4. **Contract:** means the GTS, together with the Order, the TOS and the Privacy Policy, all of which form an indivisible whole; 
+ 3. **Terms and conditions:** refers to all the rules of use of the Platform (**hereinafter the "TAD"**); 
+ 4. **Contract:** means the GTS, together with the Order, the TAD and the Privacy Policy, all of which form an indivisible whole; 
  5. **Personal data:** means any data, collected and processed in the context of the use of the Services, which makes it possible to designate or identify, directly or indirectly, a natural person; 
  6. **Intellectual Property Rights:** means copyrights, patents, trademarks, designs, software rights, databases, domain names, as well as any other intellectual property rights already or later filed or registered, and this worldwide; 
  7. **Confidential Information:** means information and data of any kind transmitted or made known to a Party by the other Party in writing or orally or by any other means and including without limitation all personal, technical, commercial, strategic or financial information, methods, studies, products and processes, whether or not they are protected or protectable by an Intellectual Property Right. 
@@ -64,7 +64,7 @@ In the GTS, capitalized terms have the meanings set forth below, whether used in
 
 ## Ordering Services
 
-1. For any Service Order, the Customer must have a Customer Account or create a Customer Account in accordance with the TOS. 
+1. For any Service Order, the Customer must have a Customer Account or create a Customer Account in accordance with the TAD. 
 2. **Pay as you Go offer.** The Customer can place an Order for Services online, by entering the type of study they wish to carry out, the profiles targeted to participate in the study, the methods for validating these participants, the timetable and the meeting format considered. Pricing is detailed throughout the Order process. After filling in the entire order form on the Platform, the Customer accesses the summary of their Order, indicating the scope of the Services, the price and the payment terms. It is the Customer's responsibility to check that there are no errors, after which they confirm that they have read and accepted these GTS by ticking the corresponding box and confirming their willingness to proceed with the Order. The Order will then be considered firm and final, and will trigger the service ordered. Any modification or cancellation of the Order must be accepted by TANDEMZ. The request for change may result in a change in the price of the Order. The Customer may access the description of its Order from their Customer Account. The Customer will be invoiced upon completion of the ordered service in accordance with the conditions set forth in Article 6. 
 3. **Prepaid plan offer.** To subscribe to a prepaid package that allows the Customer to benefit from credits to be consumed on the Platform in the year following the Order, the Customer is invited to contact TANDEMZ directly via the contact form made available on the Platform, by chat, by e-mail or by telephone.
 
@@ -101,7 +101,7 @@ In the GTS, capitalized terms have the meanings set forth below, whether used in
 
 1. **Duration.** The GTS are applicable during the entire period of execution of the Order. 
 2. **Termination for fault.** In the event of a breach by either Party of any of its obligations, the other Party may, within thirty (30) clear days from the date of receipt, or in the absence thereof from the date of first presentation of a registered letter of formal notice with request for acknowledgement of receipt which has remained unsuccessful, terminate the Order by operation of law, without prior notice or judicial or other formality, and without prejudice to any other rights or actions, in particular with a view to seeking any damages to which it may claim. 
-3. **Termination for breach of the TOS.** In the event of a breach by the Customer of the TOS, TANDEMZ may automatically terminate the Contract, without prior notice or compensation, all or part of the Customer's access to the Platform and/or the Services. TANDEMZ may pronounce such termination without prejudice to all other rights, actions and remedies it may have for the compensation of the damage it may have suffered as a result of such breaches. 
+3. **Termination for breach of the TAD.** In the event of a breach by the Customer of the TAD, TANDEMZ may automatically terminate the Contract, without prior notice or compensation, all or part of the Customer's access to the Platform and/or the Services. TANDEMZ may pronounce such termination without prejudice to all other rights, actions and remedies it may have for the compensation of the damage it may have suffered as a result of such breaches. 
 4. **Consequences of termination.** Upon termination of the Contract for any reason, the Services will cease immediately, regardless of their status. The sums paid by the Customer prior to the expiration or termination of the Contract shall be retained by TANDEMZ. Except in the case of termination for TANDEMZ's fault, all sums still owed by the Customer to TANDEMZ shall become immediately due and payable on the date of expiration or termination of the Contract.
 
 ## Confidentiality
