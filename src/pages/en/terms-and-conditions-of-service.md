@@ -26,7 +26,7 @@ globalName: cgs-client
 
 The purpose of these General Terms of Services (hereinafter the "**GTS**") is to define the conditions applicable to any individual or legal entity registered in the Trade and Companies Register or any equivalent commercial register (**hereinafter the "Customer"**) who, on the Platform orders the Services offered by the company TANDEMZ, a simplified joint stock company with a capital of €2,400, whose registered office is located at 27 rue du Chemin Vert - 75011 PARIS, registered in the Paris Trade and Companies Register under number 881 896 187, represented by its President, Mrs. Marine WOLFFHUGEL, (**hereinafter "TANDEMZ"**). Hereinafter individually referred to as the "**Party**" or collectively as the "**Parties.**"
 
-# 1. Definitions
+## Definitions
 
 In the GTS, capitalized terms have the meanings set forth below, whether used in the singular or plural:
 
@@ -41,47 +41,34 @@ In the GTS, capitalized terms have the meanings set forth below, whether used in
  9. **Regulation applicable to the protection of personal data:** means any regulation applicable to the protection of personal data and in particular Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978, as amended, known as the "Data Protection Act." 
 10. **Services:** refers to the services of selection of participants, organization and follow-up of tests, proposed on the Platform detailed in article 3.
 
-# 2. Accepting the T&Cs
+## Acceptance of the GTS
 
-The T&Cs constitute a contract between the User and TANDEMZ. Access to the Platform is subject to the User's express and unreserved acceptance of the T&Cs. Failure to accept the T&Cs will make it impossible for the User to access and use the Platform.
+1. The GTS are reserved for professionals registered in the Trade and Companies Register or any equivalent commercial register. The Customer declares that the Order is placed in their name and on their behalf or on behalf of the company that employs them, for the sole purpose of their professional activity. 
+2. The GTS are applicable to any Order placed by a Customer. The GTS constitute a contract between TANDEMZ and the Client. 
+3. All Orders are subject to the Customer's express and unconditional acceptance of the GTS by ticking the box provided for this purpose. By placing an Order, the Customer acknowledges having read and fully understood the GTS and agrees to abide by its contents. 
+4. TANDEMZ reserves the right to modify the GTS at any time and without notice. In case of modification, the GTS applicable to the Customer are those in force at the date of the Order. 
+5. The GTS are directly accessible on the Platform.
 
-Acceptance of the T&Cs is made upon the User's first connection to the Platform, when creating their User Account under the conditions of article 3.1.
+## Description of Services
 
-TANDEMZ reserves the right to modify and/or update the T&Cs, according to the technical evolution of the Platform or due to changes in legislation, at any time and without prior notice. The User will be informed of the new T&Cs the next time they log on to the Platform. Access to and use of the Platform shall be subject to the T&Cs in effect at the time of such access and use.
+1. The Services offered by TANDEMZ can be the following: 
+   * search for available participants within the Tandemz panel and/or on social networks to participate in quantitative or qualitative studies including product testing, user testing, interviews, focus groups and online studies. 
+   * select participants; 
+   * contact the participants to inform them of the date and place of their appointment; 
+   * send an appointment reminder the day before the appointment; 
+   * compensation for participants; 
+   * if ordered by the Customer, organization of the study on behalf of the Customer according to the study terms chosen by the Customer in the Order. 
 
-In the event that one of the clauses of the T&Cs is invalid due to a change in legislation or regulations or declared as such by a final court decision, this shall in no way affect the validity and compliance with the other clauses of the T&Cs.
+     **The Customer acknowledges that the participants selected by TANDEMZ are not employees or representatives of TANDEMZ.** 
+2. The Services are more fully described on the Platform.
 
-# 3. Terms of access to the Platform
+## Ordering Services
 
-## 3.1. Creating a User Account
+1. For any Service Order, the Customer must have a Customer Account or create a Customer Account in accordance with the TOS. 
+2. **Pay as you Go offer.** The Customer can place an Order for Services online, by entering the type of study they wish to carry out, the profiles targeted to participate in the study, the methods for validating these participants, the timetable and the meeting format considered. Pricing is detailed throughout the Order process. After filling in the entire order form on the Platform, the Customer accesses the summary of their Order, indicating the scope of the Services, the price and the payment terms. It is the Customer's responsibility to check that there are no errors, after which they confirm that they have read and accepted these GTS by ticking the corresponding box and confirming their willingness to proceed with the Order. The Order will then be considered firm and final, and will trigger the service ordered. Any modification or cancellation of the Order must be accepted by TANDEMZ. The request for change may result in a change in the price of the Order. The Customer may access the description of its Order from their Customer Account. The Customer will be invoiced upon completion of the ordered service in accordance with the conditions set forth in Article 6. 
+3. **Prepaid plan offer.** To subscribe to a prepaid package that allows the Customer to benefit from credits to be consumed on the Platform in the year following the Order, the Customer is invited to contact TANDEMZ directly via the contact form made available on the Platform, by chat, by e-mail or by telephone.
 
-Access to the Platform requires the creation of a User Account. For this, the User must have a valid email address.
-
-The User may create a User Account by clicking on the corresponding tab available on the home page of the Site, referring them to the Platform [https://app.tandemz.io/](https://app.tandemz.io/ "https://app.tandemz.io/") where they are invited to create an account.
-
-The User is therefore invited to enter their name, first name, email address and password, company and telephone number.
-
-The User is then invited to read the T&Cs and, if they accept them, to check the box and click on "Let's go" to finalize the creation of their User Account. By checking and clicking on this box, the User acknowledges that they have read the T&Cs, have understood them and fully accept all their provisions, without restriction or reservation.
-
-The User then receives an email confirming the opening of the User Account, at the email address they have indicated.
-
-Once on their User Account, the User can complete their personal information by filling in the information requested in the forms available on the User Account.
-
-The User agrees to provide and maintain accurate, current and complete information about themselves. TANDEMZ cannot be held responsible for any delay or impossibility to access the Platform due to erroneous or incomplete information provided by the User when requesting the creation of a User Account. As such, the User may at any time change their personal information and password directly from their User Account.
-
-The User's connection identifiers (username and password) are personal and confidential. The User must keep these connection identifiers in a secure manner and undertakes not to disclose them to third parties for any reason, in any way and in any form whatsoever. The User also undertakes to ensure that at the end of each session of use of the Platform, they log out properly.
-
-If their authentication details are lost, forgotten or stolen, the User must change their password as soon as possible by clicking on the "Forgotten Password" button located under the login form. The User is then prompted to create a new password.
-
-Under no circumstances can TANDEMZ be held responsible for losing, stealing or forgetting the User's authentication details or for their fraudulent use. The User is solely responsible for access and use of the Platform with their authentication details.
-
-## 3.2. Minimum System Requirements
-
-Access to the Platform requires that the User has computer hardware (PC, MAC, tablet or smartphone), a high-speed internet connection and a web browser.
-
-All costs relating to access to the Platform and its use, whether they be hardware, software or internet access costs, shall be borne exclusively by the User. The User is solely responsible for the proper functioning and appropriate security of their computer equipment as well as their Internet access.
-
-## 3.3. Availability of the Platform
+## Customer's obligation
 
 The Platform is accessible 24 hours a day, 7 days a week, subject to the occurrence of a case of force majeure or an event beyond the control of TANDEMZ and unless interrupted, suspended or limited within the framework of maintenance operations and/or updates necessary for the proper functioning of the Platform.
 
