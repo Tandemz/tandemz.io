@@ -70,46 +70,32 @@ In the GTS, capitalized terms have the meanings set forth below, whether used in
 
 ## Customer's obligation
 
-The Platform is accessible 24 hours a day, 7 days a week, subject to the occurrence of a case of force majeure or an event beyond the control of TANDEMZ and unless interrupted, suspended or limited within the framework of maintenance operations and/or updates necessary for the proper functioning of the Platform.
+1. The Customer acknowledges that it is strictly forbidden to order and use the Services for illegal, fraudulent or other activities that infringe on the rights or safety of others. Any violation of these GTS may result in the suspension of the Services and/or the termination of the Contract, without prejudice to any compensation that may be claimed by TANDEMZ. 
+2. If the Client chooses to intervene in the validation of participants, it may only refuse candidates on the basis of the selection criteria defined in the Order. In no case may the Client oppose TANDEMZ's refusal to accept a candidate who meets the selection criteria set forth in the Order. Any modification of the Order must be accepted by TANDEMZ and will be subject to additional pricing. 
+3. No later than twenty-four (24) hours after the end of the study, the Client undertakes to inform TANDEMZ of any absence of a participant from their appointment. The Customer is informed that they will not be charged for this/these participant(s) but will not be entitled to compensation for the time they have booked for this/these participant(s). 
+4. The Client shall not, without the authorization of TANDEMZ, canvass participants to offer them to take part in a study subsequent to the study covered by the Order.
 
-TANDEMZ is only bound by an obligation of means regarding the accessibility, functioning and availability of the Platform or its contents. TANDEMZ reserves the right to interrupt, suspend or limit access to all or part of the Platform, in particular due to legal or technical constraints.
+## Financial conditions
 
-The User expressly acknowledges that the aforementioned suspensions, interruptions or limitations may occur at any time without prior notice and that they shall not give rise to any obligation or compensation to the User.
+1. **Price.** The price of the Services is detailed in the Order. The price is linked to the number of participants selected for the study. The amount of compensation awarded to the participant is determined by the study that is the subject of the Order. The prices are indicated in euros, excluding tax and including all taxes. TANDEMZ reserves the right to pass on, without delay, any tax or any increase in the rate of existing taxes. 
+2. **Absence of a participant.** If any of the participants selected for the study do not show up for the appointment and do not participate in the study, the Customer will not be billed for that participant. TANDEMZ will deduct the fee associated with the participant from the invoice. 
+3. **Payment terms.** Unless otherwise agreed, TANDEMZ shall issue its invoice upon completion of the Order. The invoice can be sent to the Customer by mail or email and is payable, by bank transfer, within thirty (30) days from its issue date. 
+4. **Late payment.** In accordance with the provisions of Article L. 441-10 of the Commercial Code, any delay in payment will result, without prior notice and by right, in a fixed recovery indemnity of €40 as determined by decree and late payment interest at the rate applied by the European Central Bank at the time of its last refinancing operation, increased by ten (10) points. 
 
-# 4. Use of the Platform
+   In the event of late payment, TANDEMZ shall have the right to terminate the Contract to the exclusive detriment of the Customer or to exercise any other legal remedy to obtain compensation for the damage suffered.
 
-## 4.1. Proper use of the Platform
+## Intellectual property
 
-The User undertakes to use the Platform only for their professional needs exclusively.
+1. The Customer acknowledges and agrees that all right, title and interest in and to the Platform, the TANDEMZ names and logos, including the associated intellectual property rights, are and shall remain the exclusive property of TANDEMZ or of third parties having authorized TANDEMZ to exploit them. The Contract does not grant the Customer any property right or interest in the Platform, the names and/or logos of TANDEMZ, but only a right to access and use the Platform under the conditions of the license defined below. 
+2. Subject to full payment of the price by the Customer, TANDEMZ will grant the Customer, for the duration of the Contract and for the whole world, a non-exclusive, non-assignable, non-transferable license to access and use the Platform for the sole purpose of its professional activity (hereinafter the "**License**"). Customer agrees not to use the Platform other than as permitted by the Contract. 
 
-The User undertakes to use the Platform in accordance with the T&Cs, in compliance with the laws and regulations applicable in France.
+   In particular, Customer agrees not to do any of the following, or permit or authorize any third party to do any of the following: (i) decompile, disassemble, reverse engineer or otherwise attempt to obtain the source codes of the Platform, in whole or in part; (ii) copy the source code of the Platform or create a derivative work from such source codes; (iii) rent, sublicense, sell, loan or transfer the Platform.
 
-The User who processes the personal data of the testers of their test panel participating in the tests they organize, in the context of the use of the Platform, agrees to respect the provisions of the TANDEMZ Privacy Policy, available on the following link [https://www.tandemz.io/client-privacy-policy/](https://www.tandemz.io/client-privacy-policy/ "https://www.tandemz.io/client-privacy-policy/").
+## Personal data
 
-The User expressly acknowledges and agrees to be personally responsible for any consequences, claims, remedies or actions of a test participant or third party in connection with content posted to their User Account. As a content host as defined by the French law no. 2004-575 for confidence in the digital economy, TANDEMZ is not in a position to monitor or control the content and cannot be held liable in this respect.
-
-In the event that a claim by a test participant or a third party is brought directly to TANDEMZ's attention, TANDEMZ will investigate the claim. In case of abusive or illegal content, TANDEMZ may remove such content without prejudice to any other action that TANDEMZ may take against the User in compensation for the damage suffered.
-
-## 4.2. Prohibited behaviors
-
-It is strictly forbidden to use the Platform for the following purposes:
-
-* the exercise of actions that are illegal, discriminatory, fraudulent or infringe the rights or safety of third parties and, in particular, of the User's tenants,
-* breach of public order or violation of the laws and regulations in force,
-* aiding or abetting, in any form and in any manner whatsoever, one or more of the acts described above,
-* and more generally any practice diverting the Platform for purposes other than those for which it was designed.
-
-TANDEMZ may terminate the User's access to the Platform in case of non-compliance with the present article, without prejudice to any damages that TANDEMZ may claim.
-
-# 5. Guarantees
-
-TANDEMZ guarantees the confidentiality and security of Data. However, TANDEMZ cannot guarantee the accuracy, completeness, timeliness or other quality of the Data integrated and distributed by the User on the Platform.
-
-The User is solely responsible for the integrity, accuracy and quality of the Data they integrate and disseminate on the Platform. The User shall also ensure that the Data they integrate and disseminate on the Platform are free of viruses or any other component likely to cause damage to the Platform.
-
-TANDEMZ makes no other express or implied warranties, including but not limited to the non-infringement of third party rights, the continuity, performance and/or durability of the Platform and/or the fitness for a particular purpose or the suitability of the Platform for the User's needs, nor does TANDEMZ guarantee that the Platform is free of anomalies, errors or bugs or that it will function without failure or interruption. The Platform is distributed "as is" and according to its availability.
-
-Access to the Platform implies knowledge and acceptance of the characteristics and limitations of the Internet, in particular with regard to technical performance, response times for consulting, querying or transferring information, the risks of interruption and, more generally, the risks inherent in any connection and transmission on the Internet, the lack of protection of certain data against possible misappropriation and the risks of contamination by any viruses circulating on the network. TANDEMZ does not guarantee that the Platform or its servers will at all times be free of viruses, worms, Trojan horses or any other components that may cause damage. It is the User's responsibility to take all appropriate measures to protect their own hardware, data, and/or software stored on their computer equipment against any attack.
+1. TANDEMZ may have access to and process the Customer's Personal Data in order to execute the Order and to respond to any requests from the Customer regarding the Services. 
+2. TANDEMZ will, as data controller, process the Customer's Personal Data in accordance with the [Privacy Policy](https://www.tandemz.io/client-privacy-policy/). 
+3. The Customer has the right to access, rectify, delete, limit and port their personal data, as well as the right to object to their data being processed for commercial prospecting purposes and the right to lodge a complaint with the National Commission for Information Technology and Civil Liberties if they consider that the processing carried out by TANDEMZ constitutes a violation of their personal data. The Customer's rights on their personal data can be exercised at any time with TANDEMZ by email at the following address: contact@tandemz.io.
 
 # 6. Responsibilities
 
