@@ -11,7 +11,7 @@ og_image_height: 200
 twitter_card: summary
 title: General terms and conditions of service
 legal: true
-legal_name: cgs-client-en
+legal_name: cgv-client-en
 subtitle: ''
 img_path: ''
 ogtitle: ''
@@ -19,7 +19,7 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 locale: ''
-globalName: cgs-client
+globalName: cgv-client
 
 ---
 # "PAY AS YOU GO"
