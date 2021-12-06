@@ -55,6 +55,11 @@
   ],
   "legal": [
     {
+      "title": "General Terms and Conditions of Service",
+      "url": "/general-terms-and-conditions-of-service",
+      "weight": null
+    },
+    {
       "title": "Terms and conditions",
       "url": "/terms-and-conditions/",
       "weight": 1
