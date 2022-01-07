@@ -8,13 +8,19 @@ sections:
   content: La plateforme en libre service de recrutement de testeurs pour tous vos
     besoins en recherche utilisateur
   image: ''
-  actions: []
+  actions:
+  - label: Commencer à recruter
+    url: https://app.tandemz.io/recruter-des-participants
+    title: Commencer à recruter
+    button_priority: primary
+  - label: Demander une démo
+    button_priority: secondary
+    url: ''
+    title: ''
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
   background: orange
-- template: recruitsection
-  component: RecruitBlock
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
