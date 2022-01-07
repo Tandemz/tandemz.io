@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "url": "https://www.linkedin.com/company/tandemz/"
+    },
+    {
       "title": "Facebook",
       "url": "https://www.facebook.com/TandemzUX"
     },
@@ -8,11 +13,6 @@
       "type": "twitter",
       "title": "Twitter",
       "url": "https://twitter.com/tandemzUX"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "url": "https://www.linkedin.com/company/tandemz/"
     }
   ]
 }
