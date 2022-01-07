@@ -11,8 +11,8 @@ sections:
   actions:
   - label: Recruit participants now
     button_priority: primary
-    url: ''
-    title: ''
+    url: https://app.tandemz.io/recruter-des-participants
+    title: Recruit participants now
   - label: Request a demo
     button_priority: secondary
     url: ''
