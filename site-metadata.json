@@ -17,7 +17,7 @@
         },
         {
           "label": "Recruit testers",
-          "url": "https://app.tandemz.io/recruit-participants",
+          "url": "https://app.tandemz.io/recruter-des-participants",
           "title": "Recruit participants now!",
           "button_priority": "primary"
         }
@@ -36,7 +36,9 @@
     "subscribe_title": "Je m'inscris",
     "subscribe_content": "Je veux participer à des projets",
     "content": "&copy; Tandemz. All rights reserved.",
-    "links": []
+    "links": [
+
+    ]
   },
   "siteUrl": "https://www.tandemz.io"
 }
