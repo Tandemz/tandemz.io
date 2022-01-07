@@ -2,7 +2,7 @@ import * as React from 'react';
 import NumberInput from '../components/form/NumberInput';
 import Select from '../components/form/Select';
 
-const requestQuotationUrl = 'https://app.tandemz.io/recruit-participants';
+const requestQuotationUrl = 'https://app.tandemz.io/recruter-des-participants';
 // const requestQuotationUrl = 'http://localhost:3000/recruit-participants';
 
 const options = [
