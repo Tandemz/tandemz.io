@@ -8,13 +8,19 @@ sections:
   content: The self-service testers recruiting platform for all your user research
     needs
   image: ''
-  actions: []
+  actions:
+  - label: Recruit participants now
+    button_priority: primary
+    url: ''
+    title: ''
+  - label: Request a demo
+    button_priority: secondary
+    url: ''
+    title: ''
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
   background: orange
-- template: recruitsection
-  component: RecruitBlock
 - template: how-it-works-section
   component: HowItWorksBlock
   steps:
