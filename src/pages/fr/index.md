@@ -15,8 +15,8 @@ sections:
     button_priority: primary
   - label: Demander une démo
     button_priority: secondary
-    url: ''
-    title: ''
+    url: "/contact"
+    title: Demander une démo
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
