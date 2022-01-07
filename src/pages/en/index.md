@@ -15,8 +15,8 @@ sections:
     title: Recruit participants now
   - label: Request a demo
     button_priority: secondary
-    url: ''
-    title: ''
+    url: "/contact"
+    title: Request a demo
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
