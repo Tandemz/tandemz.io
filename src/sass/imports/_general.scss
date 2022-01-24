@@ -330,6 +330,24 @@ a.button.large {
   }
 }
 
+.button.white.secondary {
+  background: transparent;
+  border-color: white;
+  color: white;
+  box-shadow: none;
+  -webkit-transition: box-shadow 0.2s ease-in-out;
+  transition: box-shadow 0.2s ease-in-out;
+
+  &:hover,
+  &:focus,
+  &:active {
+    box-shadow: 0 20px 30px 0 rgba(_palette(primary), 0.2);
+    background: white;
+    color: _palette(primary);
+    opacity: 1;
+  }
+}
+
 .button--with-arrow {
   display: inline-flex;
   align-items: center;
@@ -474,8 +492,8 @@ img {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom : 3.5rem;
-    padding-left:0; 
+    margin-bottom: 3.5rem;
+    padding-left: 0;
     color: _palette(primary);
     font-size: 24px;
 
@@ -486,11 +504,10 @@ img {
       font-size: 3.5rem;
       font-weight: bold;
       position: relative;
-      top : 45px;
-      left : -40px;
+      top: 45px;
+      left: -40px;
     }
   }
-  
 }
 
 /* Clearing floats */

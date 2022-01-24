@@ -36,9 +36,10 @@ export default class HeroBlock extends React.Component {
                       <Link
                         key={action_idx}
                         to={safePrefix(_.get(action, 'url'))}
+                        target="_blank"
                         className={
                           'button large white ' +
-                          _.get(this.props, 'section.button_priority')
+                          _.get(action, 'button_priority')
                         }
                         title={_.get(action, 'title')}
                         onClick={() =>

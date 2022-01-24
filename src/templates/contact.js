@@ -65,18 +65,6 @@ export default class Contact extends React.Component {
                     />
                   </p>
                   <p className="form-row">
-                    <label htmlFor="company" className="form-label">
-                      Company *
-                    </label>
-                    <input
-                      type="text"
-                      id="company"
-                      name="company"
-                      className="form-input"
-                      required
-                    />
-                  </p>
-                  <p className="form-row">
                     <label htmlFor="email" className="form-label">
                       Email *
                     </label>
@@ -84,6 +72,30 @@ export default class Contact extends React.Component {
                       type="email"
                       id="email"
                       name="email"
+                      className="form-input"
+                      required
+                    />
+                  </p>
+                  <p className="form-row">
+                    <label htmlFor="phoneNumber" className="form-label">
+                      Phone number *
+                    </label>
+                    <input
+                      type="tel"
+                      id="phone"
+                      name="phone"
+                      className="form-input"
+                      required
+                    />
+                  </p>
+                  <p className="form-row">
+                    <label htmlFor="company" className="form-label">
+                      Company *
+                    </label>
+                    <input
+                      type="text"
+                      id="company"
+                      name="company"
                       className="form-input"
                       required
                     />
@@ -99,6 +111,9 @@ export default class Contact extends React.Component {
                     >
                       <option value="Default">
                         ---- Choose an option ----
+                      </option>
+                      <option value="Demo">
+                        I want to schedule a demo of the platform
                       </option>
                       <option value="PaysAsYouGo">
                         I want to learn more about Tandemz' pay as you go
