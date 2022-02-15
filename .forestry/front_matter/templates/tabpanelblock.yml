@@ -24,7 +24,8 @@ fields:
     label: tabLabel
   - name: childrenpanel
     type: blocks
-    template_types: []
+    template_types:
+    - offersection
     config:
       min: 
       max: 
