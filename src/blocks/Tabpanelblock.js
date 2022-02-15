@@ -15,8 +15,11 @@ const TabPanelBlock = (props) => {
             <div
               key={`tab-header-${tab_idx}`}
               className={`tabButton ${isSelected ? 'selected' : ''}`}
+              onClick={() => setSelectedTab(tab_idx)}
             >
-              <span className={`tabButtonLabel `}>
+              <span
+                className={`tabButtonLabel ${isSelected ? 'selected' : ''}`}
+              >
                 {_.get(tab, 'tablabel')}
               </span>
             </div>

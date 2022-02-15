@@ -15,14 +15,21 @@
   flex-direction: row;
   align-items: center;
   padding: 0 32px;
-  background: _palette(accent);
   border-radius: 32px;
   height: 48px;
+
+  &.selected {
+    background: _palette(accent);
+  }
 }
 .tabButtonLabel {
   font: _font(primary);
-  color: _palette(white);
+  color: _palette(secondary);
   font-weight: bold;
   font-size: 14px;
   line-height: 21px;
+
+  &.selected {
+    color: _palette(white);
+  }
 }
