@@ -27,8 +27,8 @@ fields:
     template_types:
     - offersection
     config:
-      min: 
-      max: 
+      min: 0
+      max: 1
     label: childrenPanel
   config:
     min: 
