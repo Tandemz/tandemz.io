@@ -27,7 +27,11 @@ sections:
       Sections:
       - title: TARGET CONSUMERS
         columns: []
-        offerSections: []
+        offerSections:
+        - template: pricingcolumn
+          title: BROAD TARGETING
+        - template: pricingcolumn
+          title: ''
       - title: TARGET PROFESSIONALS
         columns: []
         offerSections: []
