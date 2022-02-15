@@ -10,7 +10,7 @@ $font: (
 $palette: (
   primary: #536383,
   secondary: #192948,
-  tertiary: #9AA8BD,
+  tertiary: #9aa8bd,
   meta: #536383,
   border: #dbe0e5,
   bg: #f7f9fb,
@@ -18,16 +18,17 @@ $palette: (
   accent-alt: #1493ff,
   accent-light: #0cbcff,
   greenAccessible: #008946,
-  green: #00BD66,
-  greenMuted: #E7FFE8,
-  purpleAccessible: #7525DC,
-  purple: #8D4FF8,
-  purpleMuted: #E8D0FF,
+  green: #00bd66,
+  greenMuted: #e7ffe8,
+  purpleAccessible: #7525dc,
+  purple: #8d4ff8,
+  purpleMuted: #e8d0ff,
   red-muted: #ffe4d8,
   red-accessible: #dc3a16,
-  redBase: #FF5533,
+  redBase: #ff5533,
   redMuted: #ffe4d8,
   redAccessible: #dc3a16,
+  white: #ffffff,
 );
 
 @import 'imports/functions';
@@ -47,3 +48,4 @@ $palette: (
 @import 'imports/pricing';
 @import 'imports/recruit-block';
 @import 'imports/form';
+@import 'imports/tab-block';
