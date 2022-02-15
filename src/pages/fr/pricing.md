@@ -23,15 +23,9 @@ sections:
       - title: TargetConsumers
         offerSections:
         - template: pricingcolumn
-          title: Broad Targeting
+          title: Broad targeting
         - template: pricingcolumn
-          title: Precise Targeting
-      - title: TARGET PROFESSIONALS
-        offerSections:
-        - template: pricingcolumn
-          title: Workers
-        - template: pricingcolumn
-          title: Managers
+          title: Precise targeting
   - tablabel: In person participants
     childrenpanel: []
   section_id: tabPanel
