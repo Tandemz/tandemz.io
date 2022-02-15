@@ -25,9 +25,18 @@
   padding: 0 32px;
   border-radius: 32px;
   height: 48px;
+  background: _palette(white);
+  border: none;
 
   &.selected {
     background: _palette(accent);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    opacity: 1;
+    cursor: pointer;
   }
 }
 .tab-button-label {
