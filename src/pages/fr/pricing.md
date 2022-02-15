@@ -14,6 +14,8 @@ sections:
 - template: tabpanelblock
   component: TabPanelBlock
   tabs:
+  - tablabel: In person participants
+    childrenpanel: []
   - tablabel: Remote participant
     childrenpanel:
     - template: offersection
@@ -35,8 +37,6 @@ sections:
       - title: TARGET PROFESSIONALS
         columns: []
         offerSections: []
-  - tablabel: In person participants
-    childrenpanel: []
   section_id: tabPanel
 - template: pricingblock
   component: PricingBlock
