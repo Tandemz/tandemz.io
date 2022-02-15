@@ -18,6 +18,7 @@ sections:
     childrenpanel: []
   - tablabel: In person participants
     childrenpanel: []
+  section_id: tabPanel
 - template: pricingblock
   component: PricingBlock
   bg: white
