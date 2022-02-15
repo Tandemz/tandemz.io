@@ -17,7 +17,7 @@ sections:
   - tablabel: Remote participants
     childrenpanel:
     - template: offersection
-      element_id: RemoteParticipant
+      element_id: RemoteParticipantSection
       offerBlock:
       - childrencolumn: []
         title: Target consumers
