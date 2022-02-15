@@ -13,7 +13,7 @@ fields:
     required: false
   hidden: true
   label: Component
-  default: Offersection
+  default: OffersectionsBlock
 - name: Sections
   type: field_group_list
   fields:
