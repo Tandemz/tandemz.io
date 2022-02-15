@@ -14,29 +14,26 @@ sections:
 - template: tabpanelblock
   component: TabPanelBlock
   tabs:
-  - tablabel: In person participants
-    childrenpanel: []
-  - tablabel: Remote participant
+  - tablabel: Remote Participants
     childrenpanel:
     - template: offersection
-      element_id: RemoteParticipantSection
-      offerBlock:
-      - childrencolumn: []
-        title: Target consumers
-      - title: Target professionals
-        childrencolumn: []
-      component: ''
+      component: OffersectionsBlock
+      element_id: TargetConsumers
       Sections:
-      - title: TARGET CONSUMERS
-        columns: []
+      - title: TargetConsumers
         offerSections:
         - template: pricingcolumn
-          title: BROAD TARGETING
+          title: Broad Targeting
         - template: pricingcolumn
-          title: PRECISE TARGETING
+          title: Precise Targeting
       - title: TARGET PROFESSIONALS
-        columns: []
-        offerSections: []
+        offerSections:
+        - template: pricingcolumn
+          title: Workers
+        - template: pricingcolumn
+          title: Managers
+  - tablabel: In person participants
+    childrenpanel: []
   section_id: tabPanel
 - template: pricingblock
   component: PricingBlock
