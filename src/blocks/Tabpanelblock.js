@@ -1,9 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
+import * as blocks from '../blocks';
 
 const TabPanelBlock = (props) => {
   const [selectedTab, setSelectedTab] = React.useState(0);
-
   return (
     <section
       id={_.get(props, 'section.section_id')}
@@ -24,6 +24,21 @@ const TabPanelBlock = (props) => {
                 {_.get(tab, 'tablabel')}
               </span>
             </button>
+          );
+        })}
+      </div>
+      <div className="tab-panel-content ">
+        {_.map(_.get(props, 'section.tabs'), (tab, tab_idx) => {
+          const componentName = _.get(tab, 'childrenpanel[0].component');
+          const ChildrenPanelComponent = blocks[componentName];
+          if (!ChildrenPanelComponent) {
+            return null;
+          }
+          return (
+            <ChildrenPanelComponent
+              key={`children-panel-${tab_idx}`}
+              {...props}
+            />
           );
         })}
       </div>

@@ -50,3 +50,9 @@
     color: _palette(white);
   }
 }
+.tab-panel-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
