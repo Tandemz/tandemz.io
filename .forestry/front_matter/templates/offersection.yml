@@ -21,13 +21,13 @@ fields:
     config:
       required: false
     label: Title
-  - name: columns
+  - name: offerSections
     type: blocks
     template_types: []
     config:
       min: 
       max: 
-    label: Columns
+    label: OfferSections
   config:
     min: 
     max: 
