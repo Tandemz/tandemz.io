@@ -21,6 +21,8 @@ sections:
       offerBlock:
       - childrencolumn: []
         title: Target consumers
+      - title: Target professionals
+        childrencolumn: []
       component: ''
   - tablabel: In person participants
     childrenpanel: []
