@@ -21,13 +21,13 @@ fields:
     config:
       required: false
     label: Title
-  - name: childrencolumn
+  - name: columns
     type: blocks
-    label: childrenColumn
     template_types: []
     config:
       min: 
       max: 
+    label: Columns
   config:
     min: 
     max: 
