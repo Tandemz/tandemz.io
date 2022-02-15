@@ -24,6 +24,9 @@ sections:
       - title: Target professionals
         childrencolumn: []
       component: ''
+      Sections:
+      - title: TARGET CONSUMERS
+        columns: []
   - tablabel: In person participants
     childrenpanel: []
   section_id: tabPanel
