@@ -15,7 +15,13 @@ sections:
   component: TabPanelBlock
   tabs:
   - tablabel: Remote participants
-    childrenpanel: []
+    childrenpanel:
+    - template: offersection
+      element_id: RemoteParticipantTargetConsumers
+      offerBlock:
+      - childrencolumn: []
+        title: Target consumers
+      component: ''
   - tablabel: In person participants
     childrenpanel: []
   section_id: tabPanel
