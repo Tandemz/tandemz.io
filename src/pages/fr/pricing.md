@@ -14,7 +14,7 @@ sections:
 - template: tabpanelblock
   component: TabPanelBlock
   tabs:
-  - tablabel: Remote participants
+  - tablabel: Remote participant
     childrenpanel:
     - template: offersection
       element_id: RemoteParticipantSection
