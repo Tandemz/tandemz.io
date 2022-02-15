@@ -23,7 +23,8 @@ fields:
     label: Title
   - name: offerSections
     type: blocks
-    template_types: []
+    template_types:
+    - pricingcolumn
     config:
       min: 
       max: 
