@@ -13,7 +13,7 @@ fields:
     required: false
   hidden: true
   label: Component
-- name: offerBlock
+- name: Sections
   type: field_group_list
   fields:
   - name: title
@@ -32,4 +32,4 @@ fields:
     min: 
     max: 
     labelField: 
-  label: OfferBlock
+  label: Sections
