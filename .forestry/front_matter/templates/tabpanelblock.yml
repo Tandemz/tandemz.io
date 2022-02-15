@@ -1,4 +1,31 @@
 ---
 label: TabPanelBlock
 hide_body: true
-fields: []
+fields:
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
+  default: TabPanelBlock
+- name: tabs
+  type: field_group_list
+  fields:
+  - name: tablabel
+    type: text
+    config:
+      required: false
+    label: tabLabel
+  - name: childrenpanel
+    type: blocks
+    template_types: []
+    config:
+      min: 
+      max: 
+    label: childrenPanel
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Tabs
