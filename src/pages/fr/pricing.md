@@ -31,7 +31,7 @@ sections:
         - template: pricingcolumn
           title: BROAD TARGETING
         - template: pricingcolumn
-          title: ''
+          title: PRECISE TARGETING
       - title: TARGET PROFESSIONALS
         columns: []
         offerSections: []
