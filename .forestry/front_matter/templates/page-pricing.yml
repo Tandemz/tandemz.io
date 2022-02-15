@@ -11,6 +11,7 @@ fields:
   - ctablock
   - faqblock
   - pricingblock
+  - tabpanelblock
 - type: text
   name: template
   label: Template
