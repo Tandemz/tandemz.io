@@ -1,7 +1,12 @@
 ---
-label: TabPanelSection
+label: TabPanel Section
 hide_body: true
 fields:
+- name: section_id
+  type: text
+  config:
+    required: false
+  label: Element ID
 - name: component
   type: text
   config:
@@ -29,8 +34,3 @@ fields:
     max: 
     labelField: 
   label: Tabs
-- name: section_id
-  type: text
-  config:
-    required: false
-  label: Element ID
