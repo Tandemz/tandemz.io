@@ -1,5 +1,5 @@
 ---
-label: TabPanelBlock
+label: TabPanelSection
 hide_body: true
 fields:
 - name: component
@@ -29,3 +29,8 @@ fields:
     max: 
     labelField: 
   label: Tabs
+- name: section_id
+  type: text
+  config:
+    required: false
+  label: Element ID
