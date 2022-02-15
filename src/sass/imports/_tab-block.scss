@@ -1,4 +1,12 @@
 /* Tab panel */
+
+.tab-panel-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .tab-panel-header {
   display: inline-flex;
   flex-direction: row;

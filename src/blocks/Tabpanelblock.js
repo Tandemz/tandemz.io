@@ -6,7 +6,7 @@ const TabPanelBlock = (props) => {
   return (
     <section
       id={_.get(props, 'section.section_id')}
-      className={'block bg-white outer'}
+      className={'block tab-panel-section bg-white outer'}
     >
       <div className="tab-panel-header ">
         {_.map(_.get(props, 'section.tabs'), (tab, tab_idx) => {
