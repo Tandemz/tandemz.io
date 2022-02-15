@@ -1,4 +1,35 @@
 ---
 label: OfferSection
 hide_body: true
-fields: []
+fields:
+- name: element_id
+  type: text
+  config:
+    required: false
+  label: Element ID
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Component
+- name: offerBlock
+  type: field_group_list
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: childrencolumn
+    type: blocks
+    label: childrenColumn
+    template_types: []
+    config:
+      min: 
+      max: 
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: OfferBlock
