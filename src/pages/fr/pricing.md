@@ -16,6 +16,8 @@ sections:
   tabs:
   - tablabel: Remote participants
     childrenpanel: []
+  - tablabel: In person participants
+    childrenpanel: []
 - template: pricingblock
   component: PricingBlock
   bg: white
