@@ -43,6 +43,22 @@ sections:
           - icon: Lock
             offerDetailSubiIems: []
             offerDetailLabel: Up to 3 screener questions
+          id: broadTargeting
+        - template: pricingcolumn
+          color: Green
+          title: Precise Targeting
+          price: "60"
+          offerdesctription: Target the right people with full demographic details
+          offerdetails:
+          - icon: Present
+            offerDetailLabel: 20€ incentive included, based on a 30 min of meeting
+            offerDetailSubiIems: []
+          - icon: Tick
+            offerDetailLabel: All demographic criteria available
+            offerDetailSubiIems: []
+          - icon: Present
+            offerDetailSubiIems: []
+            offerDetailLabel: Unlimited screener questions
       - title: Professionals
         offerSections:
         - template: pricingcolumn
@@ -71,6 +87,7 @@ sections:
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+          id: ''
         - template: pricingcolumn
           color: Black
           title: Managers
@@ -89,6 +106,7 @@ sections:
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+          id: ''
   - tablabel: Unmoderated participants
     childrenpanel:
     - template: offersection
@@ -116,6 +134,7 @@ sections:
           - icon: Lock
             offerDetailLabel: Up to 3 screener questions
             offerDetailSubiIems: []
+          id: ''
         - template: pricingcolumn
           color: Green
           title: PRECISE TARGETING
@@ -138,6 +157,7 @@ sections:
           - icon: Present
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+          id: ''
         title: Consumers
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
