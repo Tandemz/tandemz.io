@@ -4,13 +4,27 @@ import * as blocks from '../blocks';
 
 const TabPanelBlock = (props) => {
   const [selectedTab, setSelectedTab] = React.useState(0);
+  const tabs = _.get(props, 'section.tabs');
+  const tab = tabs[selectedTab];
+  const panelComponentData = _.get(tab, 'childrenpanel[0]');
+
+  const panelComponentName = _.get(panelComponentData, 'component');
+
+  if (!panelComponentName) {
+    return null;
+  }
+
+  const PanelComponent = blocks[panelComponentName];
+  if (!PanelComponent) {
+    return null;
+  }
   return (
     <section
       id={_.get(props, 'section.section_id')}
       className={'block tab-panel-section bg-white outer'}
     >
       <div className="tab-panel-header ">
-        {_.map(_.get(props, 'section.tabs'), (tab, tab_idx) => {
+        {_.map(tabs, (tab, tab_idx) => {
           const isSelected = selectedTab === tab_idx;
           return (
             <button
@@ -27,31 +41,15 @@ const TabPanelBlock = (props) => {
           );
         })}
       </div>
-      <div className="tab-panel-content ">
-        {_.map(_.get(props, 'section.tabs'), (tab, tab_idx) => {
-          const isSelected = selectedTab === tab_idx;
-          if (!isSelected) return;
-
-          const componentData = _.get(tab, 'childrenpanel[0]');
-          const componentName = _.get(componentData, 'component');
-          if (!componentName) {
-            return null;
-          }
-
-          const ChildrenPanelComponent = blocks[componentName];
-          const tabData = _.get(componentData, 'Sections[0]');
-          if (!ChildrenPanelComponent || !tabData) {
-            return null;
-          }
-          return (
-            <div
-              className="tab-panel-content"
-              key={`children-panel-${tab_idx}`}
-            >
-              <ChildrenPanelComponent tabData={tabData} {...props} />
-            </div>
-          );
-        })}
+      <div className="tab-panel-content" key={`children-panel-${selectedTab}`}>
+        {_.map(
+          _.get(panelComponentData, 'Sections'),
+          (section, section_idx) => {
+            return (
+              <PanelComponent tabData={section} {...props} key={section_idx} />
+            );
+          },
+        )}
       </div>
     </section>
   );

@@ -7,6 +7,7 @@ const OfferSectionsBlock = (props) => {
     return null;
   }
   const offerSections = _.get(data, 'offerSections');
+
   return (
     <section id={_.get(props, 'section.section_id')} className={'bg-white'}>
       <h3 className="offer-section-title">{data.title}</h3>
