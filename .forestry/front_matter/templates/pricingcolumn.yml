@@ -2,6 +2,11 @@
 label: PricingColumn
 hide_body: true
 fields:
+- name: id
+  type: text
+  config:
+    required: true
+  label: id
 - name: title
   type: text
   config:
