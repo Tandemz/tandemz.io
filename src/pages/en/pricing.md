@@ -71,6 +71,24 @@ sections:
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+        - template: pricingcolumn
+          color: Red
+          title: Managers
+          price: "140"
+          offerdesctription: Target the right people with full demographic details
+          offerdetails:
+          - icon: Present
+            offerDetailLabel: 40€ incentive included, based on a 30 min of meeting
+            offerDetailSubiIems: []
+          - icon: Tick
+            offerDetailLabel: All professional criteria available
+            offerDetailSubiIems:
+            - offerDetailSubItemLabel: All basic criteria +
+            - offerDetailSubItemLabel: Hierarchical Level
+            - offerDetailSubItemLabel: Job Title
+          - icon: Tick
+            offerDetailLabel: Unlimited screener questions
+            offerDetailSubiIems: []
   - tablabel: Unmoderated participants
     childrenpanel:
     - template: offersection
