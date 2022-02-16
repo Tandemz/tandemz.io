@@ -18,6 +18,7 @@ fields:
     - Green
     - Purple
     - Red
+    - Black
     source:
       type: simple
       section: 
