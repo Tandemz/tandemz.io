@@ -24,7 +24,7 @@ fields:
       section: 
       file: 
       path: 
-  label: color
+  label: Color
   description: The icons and colored label color
 - name: price
   type: text
@@ -32,7 +32,7 @@ fields:
     required: true
   label: Price
   description: The offer price per participant
-- name: offerdesctription
+- name: offerdescription
   type: textarea
   default: ''
   config:
@@ -40,7 +40,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: OfferDesctription
+  label: OfferDescription
   description: The little description that will be visible just under the price
 - name: offerdetails
   type: field_group_list
