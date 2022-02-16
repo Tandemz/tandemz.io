@@ -29,16 +29,27 @@ const TabPanelBlock = (props) => {
       </div>
       <div className="tab-panel-content ">
         {_.map(_.get(props, 'section.tabs'), (tab, tab_idx) => {
-          const componentName = _.get(tab, 'childrenpanel[0].component');
+          const isSelected = selectedTab === tab_idx;
+          if (!isSelected) return;
+
+          const componentData = _.get(tab, 'childrenpanel[0]');
+          const componentName = _.get(componentData, 'component');
+          if (!componentName) {
+            return null;
+          }
+
           const ChildrenPanelComponent = blocks[componentName];
-          if (!ChildrenPanelComponent) {
+          const tabData = _.get(componentData, 'Sections[0]');
+          if (!ChildrenPanelComponent || !tabData) {
             return null;
           }
           return (
-            <ChildrenPanelComponent
+            <div
+              className="tab-panel-content"
               key={`children-panel-${tab_idx}`}
-              {...props}
-            />
+            >
+              <ChildrenPanelComponent tabData={tabData} {...props} />
+            </div>
           );
         })}
       </div>

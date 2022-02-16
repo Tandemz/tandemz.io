@@ -17,9 +17,11 @@ $palette: (
   accent: #1c75df,
   accent-alt: #1493ff,
   accent-light: #0cbcff,
+  accent-muted: #e3f4ff,
   greenAccessible: #008946,
   green: #00bd66,
   greenMuted: #e7ffe8,
+  greenLabel: #0b8749,
   purpleAccessible: #7525dc,
   purple: #8d4ff8,
   purpleMuted: #e8d0ff,
@@ -49,3 +51,4 @@ $palette: (
 @import 'imports/recruit-block';
 @import 'imports/form';
 @import 'imports/tab-block';
+@import 'imports/offer-section';

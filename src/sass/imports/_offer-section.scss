@@ -1,0 +1,75 @@
+.offer-section-title {
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  text-transform: uppercase;
+  color: _palette(primary);
+}
+
+.offer-section-content {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid _palette(border);
+  border-radius: 4px;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.offer-column {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  width: 256px;
+}
+
+.offer-column-header {
+  height: 182px;
+  background-color: _palette(bg);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.offer-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+  padding: 0 8px;
+  border-radius: 4px;
+}
+
+.blueTitle {
+  color: _palette(accent-alt);
+  background-color: _palette(accent-muted);
+}
+.greenTitle {
+  color: _palette(greenLabel);
+  background-color: _palette(greenMuted);
+}
+.purpleTitle {
+  color: _palette(purpleAccessible);
+  background-color: _palette(purpleMuted);
+}
+.redTitle {
+  color: _palette(redAccessible);
+  background-color: _palette(redMuted);
+}
+.blackTitle {
+  color: _palette(white);
+  background-color: _palette(secondary);
+}
+
+.offer-column-body {
+  height: 256px;
+  width: 100%;
+  padding: 16px;
+}
+
+.offer-section-vertical-separator {
+  width: 2px;
+  height: 100%;
+  background-color: _palette(primary);
+}
