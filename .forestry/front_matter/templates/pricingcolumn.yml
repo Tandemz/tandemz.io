@@ -70,7 +70,7 @@ fields:
         format: markdown
     label: OfferDetailLabel
     description: The bold detail label
-  - name: offerDetailSubiIems
+  - name: offerDetailSubItems
     type: field_group_list
     fields:
     - name: offerDetailSubItemLabel
