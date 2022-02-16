@@ -21,7 +21,7 @@ sections:
       component: OffersectionsBlock
       element_id: TargetConsumers
       Sections:
-      - title: Consumers
+      - title: Target Consumers
         offerSections:
         - template: pricingcolumn
           color: Blue
@@ -32,6 +32,7 @@ sections:
           - icon: Present
             offerDetailSubiIems: []
             offerDetailLabel: 20€ incentive included for a 30 min of meeting
+            offerDetailSubItems: []
           - icon: Lock
             offerDetailLabel: 5 demographic criteria available
             offerDetailSubiIems:
@@ -40,9 +41,16 @@ sections:
             - offerDetailSubItemLabel: Country of residence
             - offerDetailSubItemLabel: Language (native speakers or EN only)
             - offerDetailSubItemLabel: Devices owned
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
+            - offerDetailSubItemLabel: Country of residence
+            - offerDetailSubItemLabel: Language (native speakers or EN only)
+            - offerDetailSubItemLabel: Devices owned
           - icon: Lock
             offerDetailSubiIems: []
             offerDetailLabel: Up to 3 screener questions
+            offerDetailSubItems: []
           id: broadTargeting
           offerdescription: For studies that can gather insight from most people
         - template: pricingcolumn
@@ -54,14 +62,28 @@ sections:
           - icon: Present
             offerDetailLabel: 20€ incentive included, based on a 30 min of meeting
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           - icon: Tick
             offerDetailLabel: All demographic criteria available
             offerDetailSubiIems: []
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
+            - offerDetailSubItemLabel: Country of residence
+            - offerDetailSubItemLabel: City of residence
+            - offerDetailSubItemLabel: Language (native speakers or EN only)
+            - offerDetailSubItemLabel: Family situation
+            - offerDetailSubItemLabel: Professional situation
+            - offerDetailSubItemLabel: Education level
+            - offerDetailSubItemLabel: Income level
+            - offerDetailSubItemLabel: Devices owned
+            - offerDetailSubItemLabel: Tech savvyness
           - icon: Present
             offerDetailSubiIems: []
             offerDetailLabel: Unlimited screener questions
+            offerDetailSubItems: []
           offerdescription: Target the right people with full demographic details
-      - title: Professionals
+      - title: Target Professionals
         offerSections:
         - template: pricingcolumn
           color: Purple
@@ -72,6 +94,7 @@ sections:
           - icon: Present
             offerDetailLabel: 30€ incentive included, based on a 30 min of meeting
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           - icon: Lock
             offerDetailSubiIems:
             - offerDetailSubItemLabel: Age
@@ -86,9 +109,16 @@ sections:
             - offerDetailSubItemLabel: Devices owned
             - offerDetailSubItemLabel: Tech savvyness
             offerDetailLabel: Basic professional criteria available
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
+            - offerDetailSubItemLabel: Country of residence
+            - offerDetailSubItemLabel: Language (native speakers or EN only)
+            - offerDetailSubItemLabel: Devices owned
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           id: ''
           offerdescription: Target the right people with full demographic details
         - template: pricingcolumn
@@ -100,15 +130,29 @@ sections:
           - icon: Present
             offerDetailLabel: 40€ incentive included, based on a 30 min of meeting
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           - icon: Tick
             offerDetailLabel: All professional criteria available
             offerDetailSubiIems:
             - offerDetailSubItemLabel: All basic criteria +
             - offerDetailSubItemLabel: Hierarchical Level
             - offerDetailSubItemLabel: Job Title
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
+            - offerDetailSubItemLabel: Country of residence
+            - offerDetailSubItemLabel: City of residence
+            - offerDetailSubItemLabel: Language (native speakers or EN only)
+            - offerDetailSubItemLabel: Family situation
+            - offerDetailSubItemLabel: Professional situation
+            - offerDetailSubItemLabel: Education level
+            - offerDetailSubItemLabel: Income level
+            - offerDetailSubItemLabel: Devices owned
+            - offerDetailSubItemLabel: Tech savvyness
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           id: ''
           offerdescription: Target the right people with full demographic details
   - tablabel: Unmoderated participants
@@ -127,6 +171,7 @@ sections:
           - icon: Present
             offerDetailSubiIems: []
             offerDetailLabel: 10€ incentive included for a 30 min study
+            offerDetailSubItems: []
           - icon: Lock
             offerDetailLabel: 5 demographic criteria available
             offerDetailSubiIems:
@@ -135,9 +180,16 @@ sections:
             - offerDetailSubItemLabel: Country of residence
             - offerDetailSubItemLabel: Language (native speakers or EN only)
             - offerDetailSubItemLabel: Devices owned
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
+            - offerDetailSubItemLabel: Country of residence
+            - offerDetailSubItemLabel: Language (native speakers or EN only)
+            - offerDetailSubItemLabel: Devices owned
           - icon: Lock
             offerDetailLabel: Up to 3 screener questions
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           id: ''
           offerdescription: For studies that can gather insight from most people
         - template: pricingcolumn
@@ -149,6 +201,7 @@ sections:
           - icon: Present
             offerDetailLabel: 10€ incentive included for a 30 min study
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           - icon: Tick
             offerDetailLabel: All demographic criteria available
             offerDetailSubiIems:
@@ -159,9 +212,18 @@ sections:
             - offerDetailSubItemLabel: Education level
             - offerDetailSubItemLabel: Income level
             - offerDetailSubItemLabel: Tech savvyness
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: BROAD targeting +
+            - offerDetailSubItemLabel: City of residence
+            - offerDetailSubItemLabel: Family situation
+            - offerDetailSubItemLabel: Professional situation
+            - offerDetailSubItemLabel: Education level
+            - offerDetailSubItemLabel: Income level
+            - offerDetailSubItemLabel: Tech savvyness
           - icon: Present
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
+            offerDetailSubItems: []
           id: ''
           offerdescription: For studies that can gather insight from most people
         title: Consumers
