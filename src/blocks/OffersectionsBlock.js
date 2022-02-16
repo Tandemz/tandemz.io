@@ -1,6 +1,9 @@
 import React from 'react';
 import _ from 'lodash';
 import { getLocale } from '../utils';
+import { LockIcon } from '../components/icons/LockIcon';
+import { GiftIcon } from '../components/icons/GiftIcon';
+import { CheckIcon } from '../components/icons/CheckIcon';
 
 const OfferSectionsBlock = (props) => {
   const data = _.get(props, 'tabData');
@@ -18,11 +21,7 @@ const OfferSectionsBlock = (props) => {
           return (
             <div
               key={`offer-section-${section_idx}`}
-              className={
-                section_idx < offerSections.length - 1
-                  ? 'offer-column-right-border'
-                  : ''
-              }
+              className={'offer-column-border'}
             >
               <OfferSectionBlock
                 offerSectionData={offerSectionData}
@@ -38,11 +37,29 @@ const OfferSectionsBlock = (props) => {
 export default OfferSectionsBlock;
 
 const colorMatcher = {
-  Blue: 'blueTitle',
-  Green: 'greenTitle',
-  Purple: 'purpleTitle',
-  Red: 'redTitle',
-  Black: 'blackTitle',
+  Blue: { className: 'blueTitle', iconColor: '#1493ff' },
+  Green: { className: 'greenTitle', iconColor: '#0b8749' },
+  Purple: { className: 'purpleTitle', iconColor: '#7525dc' },
+  Red: { className: 'redTitle', iconColor: '#dc3a16' },
+  Black: { className: 'blackTitle', iconColor: '#192948' },
+};
+
+const icons = {
+  Lock: {
+    alt: 'lock',
+    title: 'lock',
+    component: LockIcon,
+  },
+  Present: {
+    alt: 'present',
+    title: 'present',
+    component: GiftIcon,
+  },
+  Tick: {
+    alt: 'check',
+    title: 'check',
+    component: CheckIcon,
+  },
 };
 
 const OfferSectionBlock = ({ offerSectionData, locale }) => {
@@ -55,7 +72,7 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
   return (
     <div className="offer-column">
       <div className="offer-column-header">
-        <h4 className={`offer-title ${currentColor}`}>{title}</h4>
+        <h4 className={`offer-title ${currentColor.className}`}>{title}</h4>
         <div className="offer-price-container">
           <span className="offer-price">{price}</span>
           <span className="offer-price-curency">€</span>
@@ -63,7 +80,47 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
         <span className="offer-price-legend">{offerPriceLegend}</span>
         <span className="offer-price-description">{offerdescription}</span>
       </div>
-      <div className="offer-column-body"></div>
+      <div className="offer-column-body">
+        {_.map(offerdetails, (offerdetail, idx) => {
+          const icon = icons[offerdetail.icon];
+          if (!icon) {
+            return null;
+          }
+          const IconComponent = icon.component;
+          return (
+            <div key={`offer-detail-${idx}`} className="offer-detail">
+              <div className="offer-detail-icon">
+                <IconComponent color={currentColor.iconColor} />
+              </div>
+              <div>
+                <span className="offer-detail-label">
+                  {offerdetail.offerDetailLabel}
+                </span>
+                {_.map(
+                  offerdetail.offerDetailSubItems,
+                  (offerDetailSubItem, idx) => {
+                    const label = _.get(
+                      offerDetailSubItem,
+                      'offerDetailSubItemLabel',
+                    );
+                    if (!label) {
+                      return null;
+                    }
+                    return (
+                      <span
+                        key={`offer-detail-subitem-${idx}`}
+                        className={'offer-detail-subitem'}
+                      >
+                        {label}
+                      </span>
+                    );
+                  },
+                )}
+              </div>
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 };
