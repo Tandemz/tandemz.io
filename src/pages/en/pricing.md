@@ -21,7 +21,7 @@ sections:
       component: OffersectionsBlock
       element_id: TargetConsumers
       Sections:
-      - title: Broad targeting
+      - title: Consumers
         offerSections:
         - template: pricingcolumn
           color: Blue
@@ -43,18 +43,18 @@ sections:
           - icon: Lock
             offerDetailSubiIems: []
             offerDetailLabel: Up to 3 screener questions
-      - title: Precise targeting
+      - title: Professionals
         offerSections:
         - template: pricingcolumn
-          color: Green
-          title: Precise Targeting
-          price: "60"
-          offerdesctription: Target the right people with full demographic details
+          color: Purple
+          title: Workers
+          price: "100"
+          offerdesctription: For studies that can gather insight from most people
           offerdetails:
           - icon: Present
-            offerDetailLabel: 20€ incentive included for a 30 min of meeting
+            offerDetailLabel: 30€ incentive included, based on a 30 min of meeting
             offerDetailSubiIems: []
-          - icon: Tick
+          - icon: Lock
             offerDetailSubiIems:
             - offerDetailSubItemLabel: Age
             - offerDetailSubItemLabel: Gender
@@ -67,7 +67,7 @@ sections:
             - offerDetailSubItemLabel: Income level
             - offerDetailSubItemLabel: Devices owned
             - offerDetailSubItemLabel: Tech savvyness
-            offerDetailLabel: All demographic criteria available
+            offerDetailLabel: Basic professional criteria available
           - icon: Tick
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
