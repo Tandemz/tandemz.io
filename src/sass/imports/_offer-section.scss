@@ -21,6 +21,9 @@
   flex-direction: column;
   width: 256px;
 }
+.offer-column-right-border {
+  border-right: 1px solid _palette(border);
+}
 
 .offer-column-header {
   height: 182px;
@@ -62,14 +65,36 @@
   background-color: _palette(secondary);
 }
 
+.offer-price-container {
+  margin: 0;
+}
+
+.offer-price {
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 33px;
+  color: _palette(secondary);
+}
+
+.offer-price-curency {
+  font-weight: 700;
+  color: _palette(secondary);
+}
+.offer-price-legend {
+  font-weight: 700;
+  color: _palette(secondary);
+}
+
+.offer-price-description {
+  margin-top: 16px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+}
+
 .offer-column-body {
   height: 256px;
   width: 100%;
   padding: 16px;
-}
-
-.offer-section-vertical-separator {
-  width: 2px;
-  height: 100%;
-  background-color: _palette(primary);
 }
