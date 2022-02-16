@@ -5,5 +5,88 @@ fields:
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Title
+  description: The offer label
+- name: color
+  type: select
+  default: ''
+  config:
+    required: true
+    options:
+    - Blue
+    - Green
+    - Purple
+    - Red
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: color
+  description: The icons and colored label color
+- name: price
+  type: text
+  config:
+    required: true
+  label: Price
+  description: The offer price per participant
+- name: offerdesctription
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: OfferDesctription
+  description: The little description that will be visible just under the price
+- name: offerdetails
+  type: field_group_list
+  fields:
+  - name: icon
+    type: select
+    default: []
+    config:
+      required: true
+      options:
+      - Present
+      - Lock
+      - Tick
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Icon
+  - name: offerDetailLabel
+    type: textarea
+    default: ''
+    config:
+      required: true
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: OfferDetailLabel
+    description: The bold detail label
+  - name: offerDetailSubiIems
+    type: field_group_list
+    fields:
+    - name: offerDetailSubItemLabel
+      type: text
+      config:
+        required: false
+      label: OfferDetailSubItemLabel
+      description: The list item under an icon + bold text
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: OfferDetailSubItems
+    description: 'The sub element of an offer detail '
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: OfferDetails
+  description: The different elements present in the offer
