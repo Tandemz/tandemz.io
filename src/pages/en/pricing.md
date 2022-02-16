@@ -72,7 +72,7 @@ sections:
             offerDetailLabel: Unlimited screener questions
             offerDetailSubiIems: []
         - template: pricingcolumn
-          color: Red
+          color: Black
           title: Managers
           price: "140"
           offerdesctription: Target the right people with full demographic details
