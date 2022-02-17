@@ -19,15 +19,11 @@ const OfferSectionsBlock = (props) => {
       <div className="offer-section-content">
         {_.map(offerSections, (offerSectionData, section_idx) => {
           return (
-            <div
+            <OfferSectionBlock
               key={`offer-section-${section_idx}`}
-              className={'offer-column-border'}
-            >
-              <OfferSectionBlock
-                offerSectionData={offerSectionData}
-                locale={locale}
-              />
-            </div>
+              offerSectionData={offerSectionData}
+              locale={locale}
+            />
           );
         })}
       </div>
@@ -81,45 +77,50 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
         <span className="offer-price-description">{offerdescription}</span>
       </div>
       <div className="offer-column-body">
-        {_.map(offerdetails, (offerdetail, idx) => {
-          const icon = icons[offerdetail.icon];
-          if (!icon) {
-            return null;
-          }
-          const IconComponent = icon.component;
-          return (
-            <div key={`offer-detail-${idx}`} className="offer-detail">
-              <div className="offer-detail-icon">
-                <IconComponent color={currentColor.iconColor} />
+        <div className="offer-column-body-texts">
+          {_.map(offerdetails, (offerdetail, idx) => {
+            const icon = icons[offerdetail.icon];
+            if (!icon) {
+              return null;
+            }
+            const IconComponent = icon.component;
+            return (
+              <div key={`offer-detail-${idx}`} className="offer-detail">
+                <div className="offer-detail-icon">
+                  <IconComponent color={currentColor.iconColor} />
+                </div>
+                <div>
+                  <span className="offer-detail-label">
+                    {offerdetail.offerDetailLabel}
+                  </span>
+                  {_.map(
+                    offerdetail.offerDetailSubItems,
+                    (offerDetailSubItem, idx) => {
+                      const label = _.get(
+                        offerDetailSubItem,
+                        'offerDetailSubItemLabel',
+                      );
+                      if (!label) {
+                        return null;
+                      }
+                      return (
+                        <span
+                          key={`offer-detail-subitem-${idx}`}
+                          className={'offer-detail-subitem'}
+                        >
+                          {label}
+                        </span>
+                      );
+                    },
+                  )}
+                </div>
               </div>
-              <div>
-                <span className="offer-detail-label">
-                  {offerdetail.offerDetailLabel}
-                </span>
-                {_.map(
-                  offerdetail.offerDetailSubItems,
-                  (offerDetailSubItem, idx) => {
-                    const label = _.get(
-                      offerDetailSubItem,
-                      'offerDetailSubItemLabel',
-                    );
-                    if (!label) {
-                      return null;
-                    }
-                    return (
-                      <span
-                        key={`offer-detail-subitem-${idx}`}
-                        className={'offer-detail-subitem'}
-                      >
-                        {label}
-                      </span>
-                    );
-                  },
-                )}
-              </div>
-            </div>
-          );
-        })}
+            );
+          })}
+        </div>
+        <button className="offer-column-body-cta">
+          {locale === 'fr' ? 'Choisir' : 'Choose'}
+        </button>
       </div>
     </div>
   );
