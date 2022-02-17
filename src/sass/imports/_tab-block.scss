@@ -50,6 +50,15 @@
     color: _palette(white);
   }
 }
+
+.tab-panel-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
 .tab-panel-content {
   display: flex;
   flex-direction: row;

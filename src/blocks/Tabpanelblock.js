@@ -6,25 +6,14 @@ const TabPanelBlock = (props) => {
   const [selectedTab, setSelectedTab] = React.useState(0);
   const tabs = _.get(props, 'section.tabs');
   const tab = tabs[selectedTab];
-  const panelComponentData = _.get(tab, 'childrenpanel[0]');
+  const childrenPanels = _.get(tab, 'childrenpanel');
 
-  const panelComponentName = _.get(panelComponentData, 'component');
-
-  if (!panelComponentName) {
-    return null;
-  }
-
-  const PanelComponent = blocks[panelComponentName];
-  if (!PanelComponent) {
-    return null;
-  }
-  const panelSections = _.get(panelComponentData, 'Sections');
   return (
     <section
       id={_.get(props, 'section.section_id')}
       className={'block tab-panel-section bg-white outer'}
     >
-      <div className="tab-panel-header ">
+      <div className="tab-panel-header">
         {_.map(tabs, (tab, tab_idx) => {
           const isSelected = selectedTab === tab_idx;
           return (
@@ -42,15 +31,35 @@ const TabPanelBlock = (props) => {
           );
         })}
       </div>
-      <div className="tab-panel-content" key={`children-panel-${selectedTab}`}>
-        {_.map(panelSections, (section, section_idx) => {
+      <div className="tab-panel-contents">
+        {_.map(childrenPanels, (panel, panel_idx) => {
+          const panelComponentName = _.get(panel, 'component');
+
+          if (!panelComponentName) {
+            return null;
+          }
+
+          const PanelComponent = blocks[panelComponentName];
+          if (!PanelComponent) {
+            return null;
+          }
+          const panelSections = _.get(panel, 'Sections');
           return (
-            <PanelComponent
-              tabData={section}
-              {...props}
-              key={section_idx}
-              numberOfSections={panelSections.length}
-            />
+            <div
+              className="tab-panel-content"
+              key={`children-panel-${selectedTab}-${panel_idx}`}
+            >
+              {_.map(panelSections, (section, section_idx) => {
+                return (
+                  <PanelComponent
+                    tabData={section}
+                    {...props}
+                    key={section_idx}
+                    numberOfSections={panelSections.length}
+                  />
+                );
+              })}
+            </div>
           );
         })}
       </div>
