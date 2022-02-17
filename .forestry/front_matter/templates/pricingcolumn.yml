@@ -118,6 +118,6 @@ fields:
 - name: bottomButtonRedirectionUrl
   type: text
   config:
-    required: true
+    required: false
   label: BottomButtonRedirectionUrl
   default: https://app.tandemz.io/recruit-participants
