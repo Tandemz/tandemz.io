@@ -110,7 +110,7 @@ const OfferSectionBlock = ({ offerSectionData, columnWidth }) => {
       style={{ width: columnWidth, opacity: isAvailable ? 1 : 0.4 }}
     >
       <div className="offer-column-header">
-        <h4 className={`offer-title ${currentColor.labelClassName}`}>
+        <h4 className={`offer-title ${currentColor?.labelClassName}`}>
           {title}
         </h4>
         <div className="offer-price-container">
