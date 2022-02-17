@@ -92,7 +92,7 @@ const icons = {
 };
 
 const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
-  const { title, color, price, offerdescription, offerdetails } =
+  const { title, color, price, offerdescription, offerdetails, isAvailable } =
     offerSectionData;
 
   const currentColor = colorMatcher[color];
@@ -103,7 +103,10 @@ const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
     navigate('https://app.tandemz.io/recruit-participants');
   };
   return (
-    <div className="offer-column" style={{ width: columnWidth }}>
+    <div
+      className="offer-column"
+      style={{ width: columnWidth, opacity: isAvailable ? 1 : 0.4 }}
+    >
       <div className="offer-column-header">
         <h4 className={`offer-title ${currentColor.labelClassName}`}>
           {title}
