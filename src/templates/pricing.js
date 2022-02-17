@@ -12,7 +12,10 @@ export default class Pricing extends React.Component {
           {_.map(
             _.get(this.props, 'pageContext.frontmatter.sections'),
             (section, section_idx) => {
-              let GetSectionComponent = blocks[_.get(section, 'component')];
+              const GetSectionComponent = blocks[_.get(section, 'component')];
+              if (!GetSectionComponent) {
+                return null;
+              }
               return (
                 <GetSectionComponent
                   key={section_idx}

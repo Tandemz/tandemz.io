@@ -1,0 +1,70 @@
+/* Tab panel */
+
+.tab-panel-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-panel-header {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 8px;
+  background: _palette(white);
+  box-shadow: 0px 4px 15px rgba(_palette(secondary), 0.15);
+  border-radius: 34px;
+}
+.tab-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 32px;
+  border-radius: 32px;
+  height: 48px;
+  background: _palette(white);
+  border: none;
+
+  &.selected {
+    background: _palette(accent);
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    opacity: 1;
+    cursor: pointer;
+  }
+}
+.tab-button-label {
+  font: _font(primary);
+  color: _palette(secondary);
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+
+  &.selected {
+    color: _palette(white);
+  }
+}
+
+.tab-panel-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+
+.tab-panel-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 72px;
+  gap: 24px;
+}
