@@ -11,10 +11,6 @@ menus:
     title: Pricing
     weight: 3
 sections:
-- template: page-title-section
-  component: PageTitleSection
-  section_id: PriceTitleSection
-  titleText: Transparent prices for every target and every study
 - template: tabpanelblock
   component: TabPanelBlock
   section_id: PriceSection
