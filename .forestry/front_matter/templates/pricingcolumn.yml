@@ -42,20 +42,6 @@ fields:
       format: markdown
   label: OfferDescription
   description: The little description that will be visible just under the price
-- name: bodybackgroundcolor
-  type: select
-  default: White
-  config:
-    required: true
-    options:
-    - White
-    - Grey
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: ColumnBodyBackgroundColor
 - name: offerdetails
   type: field_group_list
   fields:
@@ -105,3 +91,8 @@ fields:
     labelField: 
   label: OfferDetails
   description: The different elements present in the offer
+- name: isAvailable
+  type: boolean
+  label: IsAvailable
+  description: If the column is not available, it will be grayed
+  default: true
