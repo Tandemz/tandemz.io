@@ -7,12 +7,19 @@ const TabPanelBlock = (props) => {
   const tabs = _.get(props, 'section.tabs');
   const tab = tabs[selectedTab];
   const childrenPanels = _.get(tab, 'childrenpanel');
+  const title = _.get(props, 'section.title');
 
+  console.log('title', JSON.stringify(title, null, 2));
   return (
     <section
       id={_.get(props, 'section.section_id')}
       className={'block tab-panel-section bg-white outer'}
     >
+      {title && (
+        <div className="block-header">
+          <h2 className="block-title">{title}</h2>
+        </div>
+      )}
       <div className="tab-panel-header">
         {_.map(tabs, (tab, tab_idx) => {
           const isSelected = selectedTab === tab_idx;
