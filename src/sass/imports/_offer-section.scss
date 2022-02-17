@@ -97,6 +97,9 @@
 
 .offer-column-body-texts {
   flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .offer-detail {
@@ -107,6 +110,7 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  gap: 8px;
 }
 
 .offer-detail-label {
@@ -148,7 +152,6 @@
   justify-content: center;
   align-items: center;
   padding: 16px 0px;
-  width: 225px;
   border: none;
   font-style: normal;
   font-weight: bold;
