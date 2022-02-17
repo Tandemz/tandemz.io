@@ -55,6 +55,10 @@ sections:
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
         - template: pricingcolumn
           color: Green
           title: Precise Targeting
@@ -87,6 +91,10 @@ sections:
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
       - title: Target Professionals
         offerSections:
         - template: pricingcolumn
@@ -127,6 +135,10 @@ sections:
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
         - template: pricingcolumn
           color: Black
           title: Managers
@@ -163,6 +175,10 @@ sections:
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
   - tablabel: Unmoderated participants
     childrenpanel:
     - template: offersection
@@ -202,6 +218,10 @@ sections:
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
         - template: pricingcolumn
           color: Green
           title: PRECISE TARGETING
@@ -238,6 +258,10 @@ sections:
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
           isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
         title: Consumers
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
