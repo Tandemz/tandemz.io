@@ -1,9 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
 import { getLocale } from '../utils';
-import { LockIcon } from '../components/icons/LockIcon';
-import { GiftIcon } from '../components/icons/GiftIcon';
-import { CheckIcon } from '../components/icons/CheckIcon';
 import { navigate } from 'gatsby';
 
 const computeColumnWidth = (numberOfSections, numberOfOffer) => {
@@ -48,27 +45,27 @@ export default OfferSectionsBlock;
 const colorMatcher = {
   Blue: {
     labelClassName: 'blueTitle',
-    iconColor: '#1493ff',
+    iconClassName: 'blueIcon',
     buttonClassName: 'blueButton',
   },
   Green: {
     labelClassName: 'greenTitle',
-    iconColor: '#0b8749',
+    iconClassName: 'greenIcon',
     buttonClassName: 'greenButton',
   },
   Purple: {
     labelClassName: 'purpleTitle',
-    iconColor: '#7525dc',
+    iconClassName: 'purpleIcon',
     buttonClassName: 'purpleButton',
   },
   Red: {
     labelClassName: 'redTitle',
-    iconColor: '#dc3a16',
+    iconClassName: 'redIcon',
     buttonClassName: 'redButton',
   },
   Black: {
     labelClassName: 'blackTitle',
-    iconColor: '#192948',
+    iconClassName: 'blackIcon',
     buttonClassName: 'blackButton',
   },
 };
@@ -77,17 +74,17 @@ const icons = {
   Lock: {
     alt: 'lock',
     title: 'lock',
-    component: LockIcon,
+    className: 'ri-lock-line',
   },
   Present: {
     alt: 'present',
     title: 'present',
-    component: GiftIcon,
+    className: 'ri-gift-line',
   },
   Tick: {
     alt: 'check',
     title: 'check',
-    component: CheckIcon,
+    className: 'ri-check-line',
   },
 };
 
@@ -125,12 +122,13 @@ const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
             if (!icon) {
               return null;
             }
-            const IconComponent = icon.component;
+
             return (
               <div key={`offer-detail-${idx}`} className="offer-detail">
-                <div className="offer-detail-icon">
-                  <IconComponent color={currentColor.iconColor} />
-                </div>
+                <i
+                  className={`${icon.className} ${currentColor.iconClassName}`}
+                  style={{ lineHeight: '1em' }}
+                />
                 <div>
                   <span className="offer-detail-label">
                     {offerdetail.offerDetailLabel}

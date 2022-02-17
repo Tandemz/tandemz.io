@@ -102,13 +102,7 @@
 
 .offer-detail {
   display: flex;
-  gap: 16px;
-}
-
-.offer-detail-icon {
-  height: 16px;
-  width: 16px;
-  color: _palette(redAccessible);
+  gap: 8px;
 }
 
 .offer-detail-label {
@@ -130,14 +124,10 @@
 }
 
 .blueIcon {
-  svg {
-    path {
-      fill: _palette(accent-alt);
-    }
-  }
+  color: _palette(accent-alt);
 }
-.greenIcon > svg > path {
-  fill: _palette(greenLabel);
+.greenIcon {
+  color: _palette(greenLabel);
 }
 .purpleIcon {
   color: _palette(purpleAccessible);
@@ -146,7 +136,7 @@
   color: _palette(redAccessible);
 }
 .blackIcon {
-  color: _palette(white);
+  color: _palette(secondary);
 }
 
 .offer-column-body-cta {
