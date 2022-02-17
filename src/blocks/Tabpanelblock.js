@@ -18,6 +18,7 @@ const TabPanelBlock = (props) => {
   if (!PanelComponent) {
     return null;
   }
+  const panelSections = _.get(panelComponentData, 'Sections');
   return (
     <section
       id={_.get(props, 'section.section_id')}
@@ -42,14 +43,16 @@ const TabPanelBlock = (props) => {
         })}
       </div>
       <div className="tab-panel-content" key={`children-panel-${selectedTab}`}>
-        {_.map(
-          _.get(panelComponentData, 'Sections'),
-          (section, section_idx) => {
-            return (
-              <PanelComponent tabData={section} {...props} key={section_idx} />
-            );
-          },
-        )}
+        {_.map(panelSections, (section, section_idx) => {
+          return (
+            <PanelComponent
+              tabData={section}
+              {...props}
+              key={section_idx}
+              numberOfSections={panelSections.length}
+            />
+          );
+        })}
       </div>
     </section>
   );

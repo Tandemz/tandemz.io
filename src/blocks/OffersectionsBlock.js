@@ -6,8 +6,15 @@ import { GiftIcon } from '../components/icons/GiftIcon';
 import { CheckIcon } from '../components/icons/CheckIcon';
 import { navigate } from 'gatsby';
 
+const computeColumnWidth = (numberOfSections, numberOfOffer) => {
+  const totalWidth = numberOfSections === 2 ? 512 : 880;
+  const columnWidth = numberOfOffer === 1 ? totalWidth : totalWidth / 2;
+  return columnWidth;
+};
+
 const OfferSectionsBlock = (props) => {
   const data = _.get(props, 'tabData');
+  const numberOfSections = _.get(props, 'numberOfSections');
   if (!data) {
     return null;
   }
@@ -19,11 +26,16 @@ const OfferSectionsBlock = (props) => {
       <h3 className="offer-section-title">{data.title}</h3>
       <div className="offer-section-content">
         {_.map(offerSections, (offerSectionData, section_idx) => {
+          const columnWidth = computeColumnWidth(
+            numberOfSections,
+            offerSections.length,
+          );
           return (
             <OfferSectionBlock
               key={`offer-section-${section_idx}`}
               offerSectionData={offerSectionData}
               locale={locale}
+              columnWidth={`${columnWidth}px`}
             />
           );
         })}
@@ -79,7 +91,7 @@ const icons = {
   },
 };
 
-const OfferSectionBlock = ({ offerSectionData, locale }) => {
+const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
   const { title, color, price, offerdescription, offerdetails } =
     offerSectionData;
 
@@ -91,7 +103,7 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
     navigate('https://app.tandemz.io/recruit-participants');
   };
   return (
-    <div className="offer-column">
+    <div className="offer-column" style={{ width: columnWidth }}>
       <div className="offer-column-header">
         <h4 className={`offer-title ${currentColor.labelClassName}`}>
           {title}
