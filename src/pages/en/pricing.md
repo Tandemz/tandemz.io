@@ -263,6 +263,7 @@ sections:
           bottomButtonLabel: Choose
           bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
         title: Consumers
+  title: Transparent prices for every target and every study
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
 ogtype: ''
