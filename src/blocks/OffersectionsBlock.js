@@ -4,6 +4,7 @@ import { getLocale } from '../utils';
 import { LockIcon } from '../components/icons/LockIcon';
 import { GiftIcon } from '../components/icons/GiftIcon';
 import { CheckIcon } from '../components/icons/CheckIcon';
+import { navigate } from 'gatsby';
 
 const OfferSectionsBlock = (props) => {
   const data = _.get(props, 'tabData');
@@ -33,11 +34,31 @@ const OfferSectionsBlock = (props) => {
 export default OfferSectionsBlock;
 
 const colorMatcher = {
-  Blue: { className: 'blueTitle', iconColor: '#1493ff' },
-  Green: { className: 'greenTitle', iconColor: '#0b8749' },
-  Purple: { className: 'purpleTitle', iconColor: '#7525dc' },
-  Red: { className: 'redTitle', iconColor: '#dc3a16' },
-  Black: { className: 'blackTitle', iconColor: '#192948' },
+  Blue: {
+    labelClassName: 'blueTitle',
+    iconColor: '#1493ff',
+    buttonClassName: 'blueButton',
+  },
+  Green: {
+    labelClassName: 'greenTitle',
+    iconColor: '#0b8749',
+    buttonClassName: 'greenButton',
+  },
+  Purple: {
+    labelClassName: 'purpleTitle',
+    iconColor: '#7525dc',
+    buttonClassName: 'purpleButton',
+  },
+  Red: {
+    labelClassName: 'redTitle',
+    iconColor: '#dc3a16',
+    buttonClassName: 'redButton',
+  },
+  Black: {
+    labelClassName: 'blackTitle',
+    iconColor: '#192948',
+    buttonClassName: 'blackButton',
+  },
 };
 
 const icons = {
@@ -65,10 +86,16 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
   const currentColor = colorMatcher[color];
   const offerPriceLegend =
     locale === 'fr' ? 'par participant' : 'per participant';
+
+  const onButtonClick = () => {
+    navigate('https://app.tandemz.io/recruit-participants');
+  };
   return (
     <div className="offer-column">
       <div className="offer-column-header">
-        <h4 className={`offer-title ${currentColor.className}`}>{title}</h4>
+        <h4 className={`offer-title ${currentColor.labelClassName}`}>
+          {title}
+        </h4>
         <div className="offer-price-container">
           <span className="offer-price">{price}</span>
           <span className="offer-price-curency">€</span>
@@ -118,7 +145,10 @@ const OfferSectionBlock = ({ offerSectionData, locale }) => {
             );
           })}
         </div>
-        <button className="offer-column-body-cta">
+        <button
+          onClick={onButtonClick}
+          className={`offer-column-body-cta ${currentColor.buttonClassName}`}
+        >
           {locale === 'fr' ? 'Choisir' : 'Choose'}
         </button>
       </div>

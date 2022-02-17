@@ -90,7 +90,7 @@
 
 .offer-column-body {
   flex-grow: 1;
-  width: 100%;
+  width: 256px;
   padding: 16px;
   display: flex;
   flex-direction: column;
@@ -155,4 +155,31 @@
   justify-content: center;
   align-items: center;
   padding: 16px 0px;
+  width: 225px;
+  border: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+.blueButton {
+  color: _palette(accent-alt);
+  background-color: _palette(accent-muted);
+}
+.greenButton {
+  color: _palette(greenLabel);
+  background-color: _palette(greenMuted);
+}
+.purpleButton {
+  color: _palette(purpleAccessible);
+  background-color: _palette(purpleMuted);
+}
+.redButton {
+  color: _palette(redAccessible);
+  background-color: _palette(redMuted);
+}
+.blackButton {
+  color: _palette(secondary);
+  background-color: _palette(bg);
 }
