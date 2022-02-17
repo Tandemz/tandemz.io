@@ -37,6 +37,19 @@ fields:
     required: true
   label: Price
   description: The offer price per participant
+- name: priceUnit
+  type: text
+  config:
+    required: true
+  label: priceUnit
+  default: "€"
+- name: priceSubtitle
+  type: text
+  config:
+    required: true
+  label: PriceSubtitle
+  default: per participant
+  description: Label under price
 - name: offerdescription
   type: textarea
   default: ''
@@ -96,3 +109,15 @@ fields:
     labelField: 
   label: OfferDetails
   description: The different elements present in the offer
+- name: bottomButtonLabel
+  type: text
+  config:
+    required: false
+  label: BottomButtonLabel
+  default: Choose
+- name: bottomButtonRedirectionUrl
+  type: text
+  config:
+    required: true
+  label: BottomButtonRedirectionUrl
+  default: https://app.tandemz.io/recruit-participants
