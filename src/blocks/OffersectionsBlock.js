@@ -88,17 +88,22 @@ const icons = {
   },
 };
 
-const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
-  const { title, color, price, offerdescription, offerdetails, isAvailable } =
-    offerSectionData;
+const OfferSectionBlock = ({ offerSectionData, columnWidth }) => {
+  const {
+    title,
+    color,
+    price,
+    priceUnit,
+    priceSubtitle,
+    offerdescription,
+    offerdetails,
+    isAvailable,
+    bottomButtonLabel,
+    bottomButtonRedirectionUrl,
+  } = offerSectionData;
 
   const currentColor = colorMatcher[color];
-  const offerPriceLegend =
-    locale === 'fr' ? 'par participant' : 'per participant';
 
-  const onButtonClick = () => {
-    navigate('https://app.tandemz.io/recruit-participants');
-  };
   return (
     <div
       className="offer-column"
@@ -110,9 +115,9 @@ const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
         </h4>
         <div className="offer-price-container">
           <span className="offer-price">{price}</span>
-          <span className="offer-price-curency">€</span>
+          <span className="offer-price-curency">{priceUnit}</span>
         </div>
-        <span className="offer-price-legend">{offerPriceLegend}</span>
+        <span className="offer-price-legend">{priceSubtitle}</span>
         <span className="offer-price-description">{offerdescription}</span>
       </div>
       <div className="offer-column-body">
@@ -158,12 +163,16 @@ const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
             );
           })}
         </div>
-        <button
-          onClick={onButtonClick}
-          className={`offer-column-body-cta ${currentColor.buttonClassName}`}
-        >
-          {locale === 'fr' ? 'Choisir' : 'Choose'}
-        </button>
+        {bottomButtonLabel && bottomButtonRedirectionUrl && (
+          <button
+            onClick={() => {
+              navigate(bottomButtonRedirectionUrl);
+            }}
+            className={`offer-column-body-cta ${currentColor.buttonClassName}`}
+          >
+            {bottomButtonLabel}
+          </button>
+        )}
       </div>
     </div>
   );
