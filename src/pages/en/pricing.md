@@ -54,6 +54,7 @@ sections:
           id: broadTargeting
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
+          isAvailable: true
         - template: pricingcolumn
           color: Green
           title: Precise Targeting
@@ -85,6 +86,7 @@ sections:
             offerDetailSubItems: []
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
+          isAvailable: true
       - title: Target Professionals
         offerSections:
         - template: pricingcolumn
@@ -124,6 +126,7 @@ sections:
           id: ''
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
+          isAvailable: true
         - template: pricingcolumn
           color: Black
           title: Managers
@@ -159,6 +162,7 @@ sections:
           id: ''
           offerdescription: Target the right people with full demographic details
           bodybackgroundcolor: White
+          isAvailable: true
   - tablabel: Unmoderated participants
     childrenpanel:
     - template: offersection
@@ -197,6 +201,7 @@ sections:
           id: ''
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
+          isAvailable: true
         - template: pricingcolumn
           color: Green
           title: PRECISE TARGETING
@@ -232,6 +237,7 @@ sections:
           id: ''
           offerdescription: For studies that can gather insight from most people
           bodybackgroundcolor: White
+          isAvailable: true
         title: Consumers
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
