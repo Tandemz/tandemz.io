@@ -42,6 +42,20 @@ fields:
       format: markdown
   label: OfferDescription
   description: The little description that will be visible just under the price
+- name: bodybackgroundcolor
+  type: select
+  default: White
+  config:
+    required: true
+    options:
+    - White
+    - Grey
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: ColumnBodyBackgroundColor
 - name: offerdetails
   type: field_group_list
   fields:
