@@ -26,6 +26,11 @@ fields:
       path: 
   label: Color
   description: The icons and colored label color
+- name: isAvailable
+  type: boolean
+  label: IsAvailable
+  description: If the column is not available, it will be grayed
+  default: true
 - name: price
   type: text
   config:
@@ -91,8 +96,3 @@ fields:
     labelField: 
   label: OfferDetails
   description: The different elements present in the offer
-- name: isAvailable
-  type: boolean
-  label: IsAvailable
-  description: If the column is not available, it will be grayed
-  default: true
