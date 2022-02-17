@@ -2,6 +2,11 @@
 label: TabPanel Section
 hide_body: true
 fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
 - name: section_id
   type: text
   config:
