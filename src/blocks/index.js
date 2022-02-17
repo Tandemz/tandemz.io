@@ -18,6 +18,6 @@ export { default as NewsLetterBlock } from './NewsLetterBlock';
 export { default as HowItWorksBlock } from './HowItWorksBlock';
 export { default as RecruitBlock } from './RecruitBlock';
 export { default as AnnouncementBlock } from './AnnouncementBlock';
-export { default as TabPanelBlock } from './TabPanelBlock';
+export { default as TabPanelBlock } from './TabPanelblock';
 export { default as OffersectionsBlock } from './OffersectionsBlock';
 export * from './posts';

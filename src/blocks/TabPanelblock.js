@@ -1,6 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
-import * as blocks from '../blocks';
+import * as blocks from '.';
 
 const TabPanelBlock = (props) => {
   const [selectedTab, setSelectedTab] = React.useState(0);
