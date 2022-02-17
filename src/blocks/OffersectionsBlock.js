@@ -129,7 +129,7 @@ const OfferSectionBlock = ({ offerSectionData, locale, columnWidth }) => {
                   className={`${icon.className} ${currentColor.iconClassName}`}
                   style={{ lineHeight: '1em' }}
                 />
-                <div>
+                <div className="offer-detail-label-container">
                   <span className="offer-detail-label">
                     {offerdetail.offerDetailLabel}
                   </span>
