@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
 - ux research
 - ux
@@ -12,7 +12,7 @@ ogtype: article
 title: use-case-manomano
 full_title: 'Visibilité, rapidité, transparence : les arguments qui ont convaincu
   ManoMano !'
-date: 2022-02-17T23:00:00Z
+date: 2022-02-17T23:00:00.000+00:00
 thumb_img_path: "/images/usecasemanomano.png"
 content_img_path: "/images/usecasemanomano.png"
 excerpt: ManoMano
@@ -50,7 +50,7 @@ Pour ce faire, l’équipe a voulu chercher une nouvelle solution pour recruter 
 
 C'est à ce moment là que Mano Mano s'est tourné vers Tandemz.
 
-### 👀 visibilité + 🚀 rapidité + 🎛 maîtrise = 🧘‍♀️un recrutement en toute sérénité
+## 👀 visibilité + 🚀 rapidité + 🎛 maîtrise = 🧘‍♀️un recrutement en toute sérénité
 
 Aux vues des spécificités du projet (répartition et critères complexes), le choix de l’équipe s’est porté vers l’offre CUSTOM de Tandemz, ce qui leur a permis de bénéficier :
 
