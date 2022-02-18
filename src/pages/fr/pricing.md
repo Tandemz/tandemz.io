@@ -11,128 +11,207 @@ menus:
     title: Pricing
     weight: 3
 sections:
-- template: tabpanelblock
-  component: TabPanelBlock
-  tabs:
-  - tablabel: Remote Participants
-    childrenpanel:
-    - template: offersection
-      component: OffersectionsBlock
-      element_id: TargetConsumers
-      Sections:
-      - title: TargetConsumers
-        offerSections:
-        - template: pricingcolumn
-          title: Broad targeting
-        - template: pricingcolumn
-          title: Precise targeting
-  - tablabel: In person participants
-    childrenpanel: []
-  section_id: tabPanel
-- template: pricingblock
-  component: PricingBlock
-  bg: white
-  type: pricingblock
-  section_id: payAsYouGo
-  title: Offres Pay As You Go
-  subtitle: Commencez sur Tandemz avec des études ponctuelles ! Payez à la fin et
-    uniquement pour les participants sérieux. Tous nos prix comprennent les contreparties,
-    et augmentent en fonction de la difficulté du recrutement.
-  pricingplans:
-  - title: Non modéré
-    price: dès 8€ / participant
-    details: Pour vos enquêtes en ligne et vos tests utilisateurs non modérés
-    highlight: false
-    actions:
-    - label: Recruter maintenant
-      url: https://app.tandemz.io/recruter-des-participants?numberOfParticipantRequired=10&type=FIRST_CLICK_FIVE_SECONDS
-      title: Recruter maintenant
-      button_priority: secondary
-  - title: Video-conférence
-    price: dès 40€ / participant
-    details: 'Pour vos entretiens et vos tests utilisateurs à distance '
-    highlight: true
-    actions:
-    - label: Recrutez maintenant
-      url: https://app.tandemz.io/recruter-des-participants?numberOfParticipantRequired=6&type=ONLINE_MEETING
-      title: Recrutez maintenant
-      button_priority: primary
-  - title: En personne
-    price: dès 80€ / participant
-    details: Pour les études qui doivent se dérouler dans un lieu précis
-    highlight: false
-    actions:
-    - label: Recruter maintenant
-      url: https://app.tandemz.io/recruter-des-participants?numberOfParticipantRequired=6&type=PHYSICAL
-      title: Recruter maintenant
-      button_priority: secondary
-- template: pricingblock
-  component: PricingBlock
-  bg: white
-  type: pricingblock
-  section_id: credits
-  title: Offres de forfaits prépayés
-  subtitle: Pour les équipes avec des besoins de recrutement récurrents. Payez une
-    fois pour un certain nombre de crédits que vous pouvez utiliser à votre guise
-    ! Valables un an et pour tous les types d'études.
-  pricingplans:
-  - title: Offre start-up
-    price: dès 5 000€
-    details: |-
-      * +5 % de crédits bonus gratuits !
-      * idéal pour les besoins de recherche récurrente des petites équipes
-      * 5K€ ≃130 participants rencontrés à distance sur l'année
-    highlight: false
-    actions:
-    - label: Contactez-nous
-      url: "/contact"
-      title: Contactez-nous
-      button_priority: secondary
-  - title: Recommandée
-    price: dès 10 000€
-    details: |-
-      * +10 % de crédits bonus gratuits !
-      * idéal pour les équipes produits qui accélèrent leur recherche utilisateur
-      * 10K€ ≃275 participants rencontrés à distance sur l'année
-    highlight: false
-    actions:
-    - label: Contactez-nous
-      url: "/contact"
-      title: Contactez-nous
-      button_priority: primary
-  - title: Offre grands groupes
-    price: dès 20 000€
-    details: |-
-      * +20 % de crédits bonus gratuits !
-      * idéal pour les grosses équipes menant des études en parallèle
-      * 20K€ ≃ 500 participants rencontrés à distance sur l'année
-    highlight: false
-    actions:
-    - label: Contactez-nous
-      url: "/contact"
-      title: Contactez-nous
-      button_priority: secondary
-- template: ctablock
-  component: CtaBlock
-  type: ctablock
-  section_id: cta
-  title: Parlez à de vrais utilisateurs dès aujourd'hui !
-  actions:
-  - label: Recruter maintenant
-    url: https://app.tandemz.io/recruter-des-participants
-    title: Recruter des participants de qualité maintenant
-    button_priority: ''
-  subtitle: ''
-  bg: orange
+  - template: tabpanelblock
+    component: TabPanelBlock
+    section_id: PriceSection
+    tabs:
+      - tablabel: Participants en visioconférence
+        childrenpanel:
+          - template: offersection
+            component: OffersectionsBlock
+            element_id: TargetingOptions
+            Sections:
+              - title: Cible de particuliers
+                offerSections:
+                  - template: pricingcolumn
+                    color: Blue
+                    title: Ciblage large
+                    price: '40'
+                    offerdesctription: Pour les études qui ciblent le très grand public
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 20€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Lock
+                        offerDetailLabel: 5 critères démographiques
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Age
+                          - offerDetailSubItemLabel: Genre
+                          - offerDetailSubItemLabel: Pays de résidence
+                          - offerDetailSubItemLabel: Langue (langue du pays ou EN)
+                          - offerDetailSubItemLabel: Appareils
+                      - icon: Lock
+                        offerDetailLabel: Jusque 3 questions de sélection
+                        offerDetailSubItems: []
+                    id: broadTargeting
+                    offerdescription: Pour les études qui ciblent le très grand public
+                    bodybackgroundcolor: White
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: par participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+                  - template: pricingcolumn
+                    color: Green
+                    title: Ciblage précis
+                    price: '60'
+                    offerdesctription: Ciblez des participants à la démographie précise
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 20€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Tick
+                        offerDetailLabel: Tous les critères démographiques
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Critères LARGES +
+                          - offerDetailSubItemLabel: Ville residence
+                          - offerDetailSubItemLabel: Situation familiale
+                          - offerDetailSubItemLabel: Situation professionnelle
+                          - offerDetailSubItemLabel: Niveau d'éducation
+                          - offerDetailSubItemLabel: Revenu
+                          - offerDetailSubItemLabel: Aisance avec le numérique
+                      - icon: Tick
+                        offerDetailLabel: Questions de sélection illimitées
+                        offerDetailSubItems: []
+                    offerdescription: Ciblez des participants à la démographie précise
+                    bodybackgroundcolor: White
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: par participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+              - title: Cible de professionnels
+                offerSections:
+                  - template: pricingcolumn
+                    color: Purple
+                    title: Employés
+                    price: '100'
+                    offerdesctription: Pour les études qui s'intéressent aux outils et process des employés
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 30€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Lock
+                        offerDetailLabel: Critères professionnels de base
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Ciblage LARGE +
+                          - offerDetailSubItemLabel: Tech Savviness
+                          - offerDetailSubItemLabel: Education level
+                          - offerDetailSubItemLabel: Professional situation
+                          - offerDetailSubItemLabel: Industry
+                          - offerDetailSubItemLabel: Company size
+                          - offerDetailSubItemLabel: Company type
+                      - icon: Tick
+                        offerDetailLabel: Questions de sélection illimitées
+                        offerDetailSubItems: []
+                    id: ''
+                    offerdescription: Pour les études qui s'intéressent aux outils et process des employés
+                    bodybackgroundcolor: White
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: par participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+                  - template: pricingcolumn
+                    color: Black
+                    title: Managers
+                    price: '140'
+                    offerdesctription: Pour les études qui veulent obtenir des retours de décisionnaires
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 40€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Tick
+                        offerDetailLabel: Tous les critères démographiques
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Ciblage EMPLOYES +
+                          - offerDetailSubItemLabel: Niveau hiérarchique
+                          - offerDetailSubItemLabel: Titre du poste
+                      - icon: Tick
+                        offerDetailLabel: Questions de sélection illimitées
+                        offerDetailSubItems: []
+                    id: ''
+                    offerdescription: Pour les études qui veulent obtenir des retours de décisionnaires
+                    bodybackgroundcolor: White
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: per participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+      - tablabel: Participants en présentiel
+        childrenpanel:
+          - template: offersection
+            component: OffersectionsBlock
+            element_id: TargetingOptions
+            Sections:
+              - title: Cible de particuliers
+                offerSections:
+                  - template: pricingcolumn
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: par participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+                    color: Blue
+                    title: CIBLAGE LARGE
+                    price: '50'
+                    offerdesctription: Pour les études qui ciblent le très grand public
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 30€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Lock
+                        offerDetailLabel: 5 critères démographiques
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Age
+                          - offerDetailSubItemLabel: Genre
+                          - offerDetailSubItemLabel: Pays de résidence
+                          - offerDetailSubItemLabel: Langue (langue du pays ou EN)
+                          - offerDetailSubItemLabel: Appareils
+                      - icon: Lock
+                        offerDetailLabel: Jusque 3 questions de sélection
+                        offerDetailSubItems: []
+                    id: broadTargeting
+                    offerdescription: Pour les études qui ciblent le très grand public
+                    bodybackgroundcolor: White
+                  - template: pricingcolumn
+                    isAvailable: true
+                    priceUnit: '€'
+                    priceSubtitle: per participant
+                    bottomButtonLabel: Choose
+                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+                    color: Green
+                    title: PRECISE TARGETING
+                    price: '70'
+                    offerdesctription: Ciblez des participants à la démographie précise
+                    offerdetails:
+                      - icon: Present
+                        offerDetailLabel: Contrepartie de 30€ inclue pour une réunion de 30 min
+                        offerDetailSubItems: []
+                      - icon: Tick
+                        offerDetailLabel: Tous les critères démographiques
+                        offerDetailSubItems:
+                          - offerDetailSubItemLabel: Critères LARGES +
+                          - offerDetailSubItemLabel: Ville residence
+                          - offerDetailSubItemLabel: Situation familiale
+                          - offerDetailSubItemLabel: Situation professionnelle
+                          - offerDetailSubItemLabel: Niveau d'éducation
+                          - offerDetailSubItemLabel: Revenu
+                          - offerDetailSubItemLabel: Aisance avec le numérique
+                      - icon: Tick
+                        offerDetailLabel: Questions de sélection illimitées
+                        offerDetailSubItems: []
+                    offerdescription: Ciblez des participants à la démographie précise
+                    bodybackgroundcolor: White
+    title: Transparent prices for every target and every study
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
 ogtype: ''
 ogimage: ''
 ogimagealt: ''
-og_image_width: 
-og_image_height: 
+og_image_width:
+og_image_height:
 twitter_card: ''
 metatags: []
 schema_org_data_list: []
-
 ---
