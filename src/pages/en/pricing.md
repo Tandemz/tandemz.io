@@ -205,7 +205,7 @@ sections:
 - template: ctablock
   component: CtaBlock
   type: ctablock
-  bg: blue
+  bg: orange
   title: Unsure of what recruiting options to choose? Let's talk about it!
   actions:
   - label: Talk to an expert
