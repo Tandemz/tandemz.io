@@ -19,7 +19,7 @@ sections:
     childrenpanel:
     - template: offersection
       component: OffersectionsBlock
-      element_id: TargetConsumers
+      element_id: TargetingOptions
       Sections:
       - title: Target Consumers
         offerSections:
@@ -179,6 +179,33 @@ sections:
           priceSubtitle: per participant
           bottomButtonLabel: Choose
           bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+  - tablabel: In person participants
+    childrenpanel:
+    - template: offersection
+      component: OffersectionsBlock
+      element_id: TargetingOptions
+      Sections:
+      - title: Target consumers
+        offerSections:
+        - template: pricingcolumn
+          isAvailable: true
+          priceUnit: "€"
+          priceSubtitle: per participant
+          bottomButtonLabel: Choose
+          bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
+          color: Blue
+          title: BROAD TARGETING
+          price: "50"
+          offerdescription: For studies that can gather insight from most people
+          offerdetails:
+          - icon: Present
+            offerDetailLabel: 30€ incentive included for a 30 min of meeting
+            offerDetailSubItems: []
+          - icon: Lock
+            offerDetailLabel: 5 demographic criteria available
+            offerDetailSubItems:
+            - offerDetailSubItemLabel: Age
+            - offerDetailSubItemLabel: Gender
   - tablabel: Unmoderated participants
     childrenpanel:
     - template: offersection
