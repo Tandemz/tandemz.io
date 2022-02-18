@@ -15,7 +15,8 @@ full_title: 'Visibilité, rapidité, transparence : les arguments qui ont convai
 date: 2022-02-17T23:00:00.000+00:00
 thumb_img_path: "/images/usecasemanomano.png"
 content_img_path: "/images/usecasemanomano.png"
-excerpt: ManoMano
+excerpt: Découvrez pourquoi ManoMano a fait appel à Tandemz pour cibler les bons particuliers
+  pour son étude qualitative en ligne !
 author: src/data/authors/Zakari.json
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogimage: "/images/usecasemanomano.png"
