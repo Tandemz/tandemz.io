@@ -16,7 +16,7 @@ date: 2022-02-17T23:00:00.000+00:00
 thumb_img_path: "/images/usecasemanomano.png"
 content_img_path: "/images/usecasemanomano.png"
 excerpt: ManoMano
-author: src/data/authors/francew.json
+author: src/data/authors/Zakari.json
 keywords: Test utilisateur, étude qualitative, UX, recherche utilisateur, panel
 ogimage: "/images/usecasemanomano.png"
 
