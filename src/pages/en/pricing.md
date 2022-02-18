@@ -84,9 +84,9 @@ sections:
                 offerSections:
                   - template: pricingcolumn
                     color: Purple
-                    title: Workers
+                    title: Employees
                     price: '100'
-                    offerdesctription: For studies that can gather insight from most people
+                    offerdesctription: For studies that want to gather insights on how certain employees work
                     offerdetails:
                       - icon: Present
                         offerDetailLabel: 30€ incentive included, based on a 30 min of meeting
@@ -94,11 +94,7 @@ sections:
                       - icon: Lock
                         offerDetailLabel: Basic professional criteria available
                         offerDetailSubItems:
-                          - offerDetailSubItemLabel: Age
-                          - offerDetailSubItemLabel: Gender
-                          - offerDetailSubItemLabel: Country of residence
-                          - offerDetailSubItemLabel: Language (native speakers or EN only)
-                          - offerDetailSubItemLabel: Devices owned
+                          - offerDetailSubItemLabel: BROAD targeting +
                           - offerDetailSubItemLabel: Tech Savviness
                           - offerDetailSubItemLabel: Education level
                           - offerDetailSubItemLabel: Professional situation
@@ -120,7 +116,7 @@ sections:
                     color: Black
                     title: Managers
                     price: '140'
-                    offerdesctription: Target the right people with full demographic details
+                    offerdesctription: For studies that want to gather insights from decision makers
                     offerdetails:
                       - icon: Present
                         offerDetailLabel: 40€ incentive included, based on a 30 min of meeting
@@ -128,14 +124,14 @@ sections:
                       - icon: Tick
                         offerDetailLabel: All professional criteria available
                         offerDetailSubItems:
-                          - offerDetailSubItemLabel: All basic criteria +
+                          - offerDetailSubItemLabel: EMPLOYEES targeting +
                           - offerDetailSubItemLabel: Hierarchical Level
                           - offerDetailSubItemLabel: Job Title
                       - icon: Tick
                         offerDetailLabel: Unlimited screener questions
                         offerDetailSubItems: []
                     id: ''
-                    offerdescription: Target the right people with full demographic details
+                    offerdescription: For studies that want to gather insights from decision makers
                     bodybackgroundcolor: White
                     isAvailable: true
                     priceUnit: '€'
@@ -172,73 +168,22 @@ sections:
                           - offerDetailSubItemLabel: Country of residence
                           - offerDetailSubItemLabel: Language (native speakers or EN only)
                           - offerDetailSubItemLabel: Devices owned
+                      - icon: Lock
+                        offerDetailLabel: Up to 3 screener questions
+                        offerDetailSubItems: []
                   - template: pricingcolumn
                     isAvailable: true
                     priceUnit: '€'
                     priceSubtitle: per participant
                     bottomButtonLabel: Choose
                     bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
-                    color: Blue
-                    title: BROAD TARGETING
+                    color: Green
+                    title: PRECISE TARGETING
                     price: '70'
                     offerdescription: For studies that can gather insight from most people
                     offerdetails:
                       - icon: Present
                         offerDetailLabel: 30€ incentive included for a 30 min of meeting
-                        offerDetailSubItems: []
-                      - icon: Lock
-                        offerDetailLabel: 5 demographic criteria available
-                        offerDetailSubItems:
-                          - offerDetailSubItemLabel: BROAD targeting +
-                          - offerDetailSubItemLabel: City of residence
-                          - offerDetailSubItemLabel: Family situation
-                          - offerDetailSubItemLabel: Professional situation
-                          - offerDetailSubItemLabel: Education level
-                          - offerDetailSubItemLabel: Income level
-                          - offerDetailSubItemLabel: Tech savvyness
-      - tablabel: Unmoderated participants
-        childrenpanel:
-          - template: offersection
-            component: OffersectionsBlock
-            element_id: Consumers
-            Sections:
-              - offerSections:
-                  - template: pricingcolumn
-                    color: Blue
-                    title: Broad targeting
-                    price: '30'
-                    offerdesctription: For studies that can gather insight from most people
-                    offerdetails:
-                      - icon: Present
-                        offerDetailLabel: 10€ incentive included for a 30 min study
-                        offerDetailSubItems: []
-                      - icon: Lock
-                        offerDetailLabel: 5 demographic criteria available
-                        offerDetailSubItems:
-                          - offerDetailSubItemLabel: Age
-                          - offerDetailSubItemLabel: Gender
-                          - offerDetailSubItemLabel: Country of residence
-                          - offerDetailSubItemLabel: Language (native speakers or EN only)
-                          - offerDetailSubItemLabel: Devices owned
-                      - icon: Lock
-                        offerDetailLabel: Up to 3 screener questions
-                        offerDetailSubItems: []
-                    id: ''
-                    offerdescription: For studies that can gather insight from most people
-                    bodybackgroundcolor: White
-                    isAvailable: true
-                    priceUnit: '€'
-                    priceSubtitle: per participant
-                    bottomButtonLabel: Choose
-                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
-                  - template: pricingcolumn
-                    color: Green
-                    title: PRECISE TARGETING
-                    price: '40'
-                    offerdesctription: Target the right people with full demographic details
-                    offerdetails:
-                      - icon: Present
-                        offerDetailLabel: 10€ incentive included for a 30 min study
                         offerDetailSubItems: []
                       - icon: Tick
                         offerDetailLabel: All demographic criteria available
@@ -250,18 +195,9 @@ sections:
                           - offerDetailSubItemLabel: Education level
                           - offerDetailSubItemLabel: Income level
                           - offerDetailSubItemLabel: Tech savvyness
-                      - icon: Present
+                      - icon: Tick
                         offerDetailLabel: Unlimited screener questions
                         offerDetailSubItems: []
-                    id: ''
-                    offerdescription: For studies that can gather insight from most people
-                    bodybackgroundcolor: White
-                    isAvailable: true
-                    priceUnit: '€'
-                    priceSubtitle: per participant
-                    bottomButtonLabel: Choose
-                    bottomButtonRedirectionUrl: https://app.tandemz.io/recruit-participants
-                title: Consumers
     title: Transparent prices for every target and every study
 ogtitle: Accessible testers recruitment with Tandemz
 ogdescription: Accessible testers recruitment with Tandemz
