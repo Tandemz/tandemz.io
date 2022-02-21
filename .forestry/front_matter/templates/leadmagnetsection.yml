@@ -13,6 +13,7 @@ fields:
     required: false
   label: Component
   hidden: true
+  default: LeadMagnetBlock
 - name: formName
   type: text
   config:
