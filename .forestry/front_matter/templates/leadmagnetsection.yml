@@ -1,4 +1,40 @@
 ---
 label: LeadMagnetSection
 hide_body: true
-fields: []
+fields:
+- name: section_id
+  type: text
+  config:
+    required: false
+  label: Element ID
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
+- name: formName
+  type: text
+  config:
+    required: true
+  label: FormName
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The section title
+- name: inputPlaceholder
+  type: text
+  config:
+    required: false
+  label: InputPlaceholder
+- name: buttonLabel
+  type: text
+  config:
+    required: false
+  label: ButtonLabel
+- name: displayFormInNetlify
+  type: boolean
+  label: DisplayFormInNetlify
+  default: true
