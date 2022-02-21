@@ -52,7 +52,7 @@ fields:
 - name: ogimage
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: social image (ratio 2:1)
 - name: og_image_width
   type: number
@@ -74,6 +74,14 @@ fields:
     min: 
     max: 
     step: 
+- name: beforeFooterSections
+  type: blocks
+  template_types:
+  - leadmagnetsection
+  config:
+    min: 
+    max: 
+  label: BeforeFooterSections
 - name: hashtags
   type: tag_list
   default: []
