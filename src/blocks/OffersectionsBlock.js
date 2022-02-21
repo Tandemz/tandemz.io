@@ -2,14 +2,18 @@ import React from 'react';
 import _ from 'lodash';
 import { getLocale } from '../utils';
 import { navigate } from 'gatsby';
+import { useWindowDimensions } from '../hooks/useWindowDimensions';
+
+const COLUMN_WIDTH = 256;
 
 const computeColumnWidth = (numberOfSections, numberOfOffer) => {
-  const totalWidth = numberOfSections === 2 ? 512 : 880;
+  const totalWidth = numberOfSections === 2 ? COLUMN_WIDTH * 2 : 880;
   const columnWidth = numberOfOffer === 1 ? totalWidth : totalWidth / 2;
   return columnWidth;
 };
 
 const OfferSectionsBlock = (props) => {
+  const { width } = useWindowDimensions();
   const data = _.get(props, 'tabData');
   const numberOfSections = _.get(props, 'numberOfSections');
   if (!data) {
@@ -17,11 +21,18 @@ const OfferSectionsBlock = (props) => {
   }
   const offerSections = _.get(data, 'offerSections');
   const locale = getLocale(props.pageContext);
-
+  const isSmallMobile = width < 560;
   return (
     <section id={_.get(props, 'section.section_id')} className={'bg-white'}>
       <h3 className="offer-section-title">{data.title}</h3>
-      <div className="offer-section-content">
+      <div
+        className="offer-section-content"
+        style={{
+          width: isSmallMobile
+            ? `${COLUMN_WIDTH}px`
+            : `${offerSections.length * COLUMN_WIDTH}px`,
+        }}
+      >
         {_.map(offerSections, (offerSectionData, section_idx) => {
           const columnWidth = computeColumnWidth(
             numberOfSections,
@@ -32,7 +43,9 @@ const OfferSectionsBlock = (props) => {
               key={`offer-section-${section_idx}`}
               offerSectionData={offerSectionData}
               locale={locale}
-              columnWidth={`${columnWidth}px`}
+              columnWidth={`${columnWidth - 2}px`}
+              isSmallMobile={isSmallMobile}
+              index={section_idx}
             />
           );
         })}
@@ -88,7 +101,12 @@ const icons = {
   },
 };
 
-const OfferSectionBlock = ({ offerSectionData, columnWidth }) => {
+const OfferSectionBlock = ({
+  offerSectionData,
+  columnWidth,
+  isSmallMobile,
+  index,
+}) => {
   const {
     title,
     color,
@@ -107,7 +125,11 @@ const OfferSectionBlock = ({ offerSectionData, columnWidth }) => {
   return (
     <div
       className="offer-column"
-      style={{ width: columnWidth, opacity: isAvailable ? 1 : 0.4 }}
+      style={{
+        width: columnWidth,
+        opacity: isAvailable ? 1 : 0.4,
+        marginTop: isSmallMobile && index !== 0 ? '16px' : '0px',
+      }}
     >
       <div className="offer-column-header">
         <h4 className={`offer-title ${currentColor?.labelClassName}`}>
