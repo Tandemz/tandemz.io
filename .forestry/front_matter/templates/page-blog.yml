@@ -18,6 +18,7 @@ fields:
   - postsblock
   - ctablock
   - heroblock
+  - leadmagnetsection
   config:
     min: 
     max: 
