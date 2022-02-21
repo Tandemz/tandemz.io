@@ -9,7 +9,6 @@ const TabPanelBlock = (props) => {
   const childrenPanels = _.get(tab, 'childrenpanel');
   const title = _.get(props, 'section.title');
 
-  console.log('title', JSON.stringify(title, null, 2));
   return (
     <section
       id={_.get(props, 'section.section_id')}
