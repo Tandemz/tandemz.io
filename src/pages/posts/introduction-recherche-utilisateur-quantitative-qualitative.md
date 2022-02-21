@@ -16,7 +16,15 @@ og_image_width:
 og_image_height: 
 twitter_card: ''
 ogtype: ''
-beforeFooterSections: []
+beforeFooterSections:
+- template: leadmagnetsection
+  component: LeadMagnetBlock
+  displayFormInNetlify: true
+  section_id: DownloadWhiteBook
+  formName: WhiteBookFrom
+  title: Télécharger le dossier complet
+  inputPlaceholder: 'ex : sarah.doe@company.com'
+  buttonLabel: Download
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
