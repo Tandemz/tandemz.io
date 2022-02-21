@@ -40,6 +40,7 @@ const LeadMagnetBlock = (props) => {
                 />
               </label>
               <button className="button form-button" type="submit">
+                <i className="ri-download-line download-icon" />
                 {buttonLabel}
               </button>
             </div>
