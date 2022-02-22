@@ -81,4 +81,32 @@
     bottom: calc(var(--quarter-circle-radius) * -1);
     right: calc(var(--quarter-circle-radius) * -1);
   }
+
+  .message {
+    display: flex;
+    height: 56px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .success-message {
+    color: _palette(greenAccessible);
+    background: _palette(greenMuted);
+
+    .icon {
+      fill: _palette(greenAccessible);
+      margin-right: 16px;
+      height: 24px;
+    }
+  }
+  .error-message {
+    color: _palette(redAccessible);
+    background: _palette(redMuted);
+
+    .icon {
+      fill: _palette(redAccessible);
+      margin-right: 16px;
+      height: 24px;
+    }
+  }
 }
