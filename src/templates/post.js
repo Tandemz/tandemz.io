@@ -86,20 +86,7 @@ export default class Post extends React.Component {
               </header>
               <SectionList sections={content} {...this.props} />
             </article>
-            {_.map(beforeFooterSections, (section, section_idx) => {
-              const GetSectionComponent = blocks[_.get(section, 'component')];
-              if (!GetSectionComponent) {
-                return null;
-              }
-              return (
-                <GetSectionComponent
-                  key={section_idx}
-                  {...this.props}
-                  section={section}
-                  site={this.props.pageContext.site}
-                />
-              );
-            })}
+            <SectionList sections={beforeFooterSections} {...this.props} />
             <footer className="post-meta">
               <SectionList sections={footer} {...this.props} />
             </footer>
