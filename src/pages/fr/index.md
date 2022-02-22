@@ -15,7 +15,7 @@ sections:
     button_priority: primary
   - label: Demander une démo
     button_priority: secondary
-    url: https://tandemz.pipedrive.com/scheduler/ql18edsm/talk-with-the-tandemz-team
+    url: https://go.oncehub.com/MarineWolffhugel
     title: Demander une démo
   imageAlt: ''
   image_alt: ''
