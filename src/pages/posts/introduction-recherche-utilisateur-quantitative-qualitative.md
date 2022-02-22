@@ -25,6 +25,8 @@ beforeFooterSections:
   title: Télécharger le dossier complet
   inputPlaceholder: 'ex : sarah.doe@company.com'
   buttonLabel: Download
+  formSendingSuccess: Votre livre blanc vous attends dans vos mails !
+  formSendingError: Echec de l'envoi du formulaire. Veuillez réessayer.
 
 ---
 Qui peut vous aider à définir ou vérifier le vrai besoin d’un client ? Qui peut vous dire si votre interface fonctionne ? Ne cherchez pas trop loin : ce sont évidemment les utilisateurs eux-mêmes !
