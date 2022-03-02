@@ -20,4 +20,5 @@ export { default as RecruitBlock } from './RecruitBlock';
 export { default as AnnouncementBlock } from './AnnouncementBlock';
 export { default as TabPanelBlock } from './TabPanelblock';
 export { default as OffersectionsBlock } from './OffersectionsBlock';
+export { default as LeadMagnetBlock } from './LeadMagnetBlock';
 export * from './posts';
