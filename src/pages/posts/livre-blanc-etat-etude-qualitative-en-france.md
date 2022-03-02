@@ -29,10 +29,10 @@ beforeFooterSections:
   formSendingError: Oops, notre mail n'est pas parti ! Veuillez réessayer ou contacter
     le support
   formSendingSuccess: Nous vous avons envoyé le dossier par mail !
-  inputPlaceholder: 'ex : sendtome@example.com'
+  inputPlaceholder: 'ex : sendme@example.com'
   buttonLabel: Recevoir le dossier
   title: Recevez le dossier complet !
-  section_id: ''
+  section_id: WhiteBook
 
 ---
 L'équipe Tandemz est allée à la rencontre d'une soixantaine de professionnels pour comprendre comment les études qualitatives sont menées dans leur quotidien ! Leurs difficultés, leurs solutions, leurs perspectives pour le futur, leurs méthodologies, nous avons analysé toutes ces pratiques pour en ressortir des apprentissages, que nous vous dévoilons dans ce livre blanc :
