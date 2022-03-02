@@ -26,7 +26,7 @@ beforeFooterSections:
   component: LeadMagnetBlock
   displayFormInNetlify: true
   formName: WhiteBookQualiForm
-  formSendingError: Oops, notre mail n'est pas parti ! Veuillez réessayer ou contacter
+  formSendingError: Oops, le mail n'est pas parti ! Veuillez réessayer ou contacter
     le support
   formSendingSuccess: Nous vous avons envoyé le dossier par mail !
   inputPlaceholder: 'ex : sendme@example.com'
