@@ -39,3 +39,16 @@ fields:
   type: boolean
   label: DisplayFormInNetlify
   default: true
+- name: formSendingSuccess
+  type: text
+  config:
+    required: true
+  description: The label of the success message displayed after the form has been
+    sent
+  label: FormSendingSuccess
+- name: formSendingError
+  type: text
+  config:
+    required: true
+  label: FormSendingError
+  description: The error message if the form has not saved on the server

@@ -21,6 +21,18 @@ ogimage: "/images/Livre blanc.png"
 og_image_width: 750
 og_image_height: 375
 full_title: 'Livre blanc : où en est le quali aujourd''hui en France ?'
+beforeFooterSections:
+- template: leadmagnetsection
+  component: LeadMagnetBlock
+  displayFormInNetlify: true
+  formName: WhiteBookQualiForm
+  formSendingError: Oops, le mail n'est pas parti ! Veuillez réessayer ou contacter
+    le support
+  formSendingSuccess: Nous vous avons envoyé le dossier par mail !
+  inputPlaceholder: 'ex : sendme@example.com'
+  buttonLabel: Recevoir le dossier
+  title: Recevez le dossier complet !
+  section_id: WhiteBook
 
 ---
 L'équipe Tandemz est allée à la rencontre d'une soixantaine de professionnels pour comprendre comment les études qualitatives sont menées dans leur quotidien ! Leurs difficultés, leurs solutions, leurs perspectives pour le futur, leurs méthodologies, nous avons analysé toutes ces pratiques pour en ressortir des apprentissages, que nous vous dévoilons dans ce livre blanc :
@@ -34,6 +46,6 @@ Dans ce livre blanc vous trouverez :
 * des bonnes pratiques pour réussir vos tests utilisateurs
 * des avis sur l'évolution future
 
-Ce livre blanc vous intéresse ? Demandez-le nous par tchat (en bas à droite de votre écran) ou bien en remplissant ce [formulaire](https://www.tandemz.io/contact/ "Formulaire de contact").
+Ce livre blanc vous intéresse ? Laissez-nous votre e-mail plus bas pour qu'on vous l'envoie !
 
 Bonne lecture !

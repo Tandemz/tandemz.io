@@ -45,7 +45,10 @@ export default class Post extends React.Component {
     const author = loadDataRef(this.props.pageContext, meta.author);
 
     const { before, header, content, after, footer } = template;
-
+    const beforeFooterSections = _.get(
+      this.props,
+      'pageContext.frontmatter.beforeFooterSections',
+    );
     return (
       <Layout {...this.props}>
         <Helmet>
@@ -83,6 +86,7 @@ export default class Post extends React.Component {
               </header>
               <SectionList sections={content} {...this.props} />
             </article>
+            <SectionList sections={beforeFooterSections} {...this.props} />
             <footer className="post-meta">
               <SectionList sections={footer} {...this.props} />
             </footer>
