@@ -9,12 +9,12 @@ title: 'Valeur recherche utilisateur entreprise '
 full_title: Comment démontrer la valeur de la recherche utilisateur auprès de votre
   entreprise ?
 date: 2022-03-23T23:00:00Z
-thumb_img_path: "/images/customer-satisfaction-agreement.jpg"
-content_img_path: ''
+thumb_img_path: "/images/photo-1556761175-b413da4baf72.jpeg"
+content_img_path: "/images/photo-1556761175-b413da4baf72-2.jpeg"
 excerpt: ''
 author: src/data/authors/francew.json
 keywords: ''
-ogimage: "/images/customer-satisfaction-agreement.jpg"
+ogimage: "/images/photo-1556761175-b413da4baf72-1.jpeg"
 beforeFooterSections: []
 
 ---
