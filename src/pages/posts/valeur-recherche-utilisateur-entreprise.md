@@ -13,18 +13,19 @@ title: 'Valeur recherche utilisateur entreprise '
 full_title: Comment démontrer la valeur de la recherche utilisateur auprès de votre
   entreprise ?
 date: 2022-03-23T23:00:00Z
-thumb_img_path: "/images/photo-1556761175-b413da4baf72.jpeg"
-content_img_path: "/images/photo-1556761175-b413da4baf72-2.jpeg"
-excerpt: ''
+thumb_img_path: "/images/ux-indonesia-pqzrfbhd9r0-unsplash.jpg"
+content_img_path: "/images/ux-indonesia-pqzrfbhd9r0-unsplash.jpg"
+excerpt: Vous avez du mal à mettre en place la recherche utilisateur dans votre entreprise
+  ? Voici quelques tips pour changer l’état d’esprit de vos interlocuteurs !
 author: src/data/authors/francew.json
 keywords: ux, ux research, recherche utilisateur, ROI de la recherche
-ogimage: "/images/photo-1556761175-b413da4baf72-1.jpeg"
+ogimage: "/images/ux-indonesia-pqzrfbhd9r0-unsplash.jpg"
 beforeFooterSections: []
 
 ---
 Devenue incontournable, la recherche utilisateur est aujourd’hui de plus en plus adoptée dans les entreprises pour enquêter sur les besoins et les usages des populations ciblées. Que ce soit pour un produit ou un service, elle s’avère même essentielle pour répondre aux besoins des utilisateurs. Pourtant, beaucoup d’entreprises continuent de la fuir. Idées reçues, « pas de temps », « pas d’argent »… Les raisons ne manquent pas. Si vous faites face à ces refus, voici quelques conseils pour tenter de changer l’état d’esprit de vos interlocuteurs.
 
-### **Comprendre les besoins de votre entreprise**
+## Comprendre les besoins de votre entreprise
 
 Avant de partir au front, quelques étapes préliminaires sont à mettre en place, à commencer par l’identification des parties-prenantes de votre projet. Ce sont les meilleures personnes à qui parler pour intégrer pleinement les enjeux stratégiques, les exigences commerciales, et pour clarifier certains points. Vous pourrez ainsi vous assurer que votre recherche est pertinente et que les commanditaires, dont le soutien est indispensable, s’y intéressent.
 
@@ -45,7 +46,7 @@ L’objectif est avant tout de recueillir le maximum d’informations, mais auss
 
 Vous pouvez aussi trouver des alliés parmi les décisionnaires, ou du côté opérationnel. Bien entouré, vous gagnez en crédibilité et parviendrez plus facilement à convaincre les hésitants.
 
-### **Mettre en place la recherche utilisateur à moindre échelle**
+## Mettre en place la recherche utilisateur à moindre échelle
 
 Pour commencer à démontrer l’importance de la recherche utilisateur, rien de tel que des exemples concrets. Avant de voir les choses en grand, commencez par de petites victoires. Vous ferez ainsi comprendre à vos stakeholders que le ROI de la recherche utilisateur peut s’avérer très positif.
 
@@ -61,9 +62,8 @@ Pensez également aux sondages qui vous permettent de regrouper le maximum d’a
 
 L’avantage de cette recherche utilisateur à petite échelle est qu’elle n’engage pas, ou très peu, de dépense. Elle vous sera utile lors de vos futures présentations.
 
-### **Storyteller vos résultats de recherche en les associant aux objectifs de l’entreprise**
+## Storyteller vos résultats de recherche en les associant aux objectifs de l’entreprise
 
-  
 **![](https://lh4.googleusercontent.com/S9-cvCOK-jKqAwfjVEbDYII9VgZtpUYtkLcxtP2Z60gpsDdn4KkjlJRjx__KIjMv3Rr0EMTJWkMmx6BItdsoh0H5ewTVmLjY5X_j3ZAzDUtrQwNnDQ_ajFK2O8x3lg36fyBa-HWO =442x209)**
 
 Maintenant que vous avez appliqué cette méthode à petite échelle, il est temps de vous servir du bilan de cette première expérience pour renforcer vos propos. Parce que faire de la recherche utilisateur, c’est bien. Savoir mettre en avant ses résultats, c’est mieux. N’oubliez pas que vos interlocuteurs ne sont pas forcément familiarisés avec cette pratique ni avec le milieu. Il faut parvenir à capter leur attention en les embarquant dans une histoire plutôt qu’en listant vos observations, les besoins utilisateurs et les insights qui ressortent de votre recherche. Vous pouvez accompagner votre storytelling de verbatims ou de contenus vidéos et audio pour donner vie à votre présentation.
@@ -74,17 +74,13 @@ Maintenant que vous avez appliqué cette méthode à petite échelle, il est tem
 ](https://www.usabilis.com/empathy-map-carte-d-empathie-quest-dit-pense-ressent-l-utilisateur/)- [https://stephaniewalter.design/fr/blog/introduction-aux-user-journey-maps-modeles-pdf-a-telecharger/](https://stephaniewalter.design/fr/blog/introduction-aux-user-journey-maps-modeles-pdf-a-telecharger/ "https://stephaniewalter.design/fr/blog/introduction-aux-user-journey-maps-modeles-pdf-a-telecharger/")
 
 * Adopter le même langage est primordial pour communiquer et convaincre les parties-prenantes. KPIs, ROI… Certains commanditaires ne réagissent que lorsqu’ils entendent des termes qui leur parlent vraiment. Il vous faudra préparer des arguments clés pour démontrer la valeur ajoutée de la recherche utilisateur.
-
 * Faites-leur comprendre que la recherche utilisateur, si elle est très bien réalisée, offre de la data de qualité qui se chiffre. Mettez en exergue la valeur business de votre recherche et les bénéfices qu’elle peut engendrer, pour démontrer sa capacité à répondre à leurs objectifs financiers. Ils seront plus sensibles à cet aspect budgétaire qu’à certains arguments tels que « la recherche utilisateur permet de créer un produit qui répond réellement aux besoins utilisateurs ». Ainsi, apportez-leur des exemples de bénéfices financiers tels que l’augmentation du taux de conversion, la baisse des délais de réponses des équipes support ou encore la réduction du temps de développement.
-
 * Mettez en avant le côté collaboratif de cette méthode. Avec la recherche utilisateur, fini les divergences et les débats inutiles sur l’avancée et le développement d’une solution. Chacun met de côté sa propre opinion pour s’aligner sur des résultats tangibles, quel que soit leur domaine d’expertise. Les équipes travaillent alors main dans la main autour d’un objectif commun. Toutefois, prenez soin de ménager l’esprit managérial de certains décisionnaires. Nous ne sommes jamais à l’abri d’un égo mal placé.
 * Montrez aux stakeholders que la recherche utilisateur va leur permettre de se démarquer sur le marché et d’accéder à une place de leader. Prouvez-leur qu’ils sont capables de présenter une solution aussi unique qu’eux, à laquelle personne n’avait pensé auparavant mais que la recherche utilisateur aura permis de mettre en lumière.
 
-  
-  
 Une fois les parties-prenantes convaincues et la recherche utilisateur mise en place, continuez sur votre lancée en partageant les résultats à toutes les équipes. Car c’est en les communiquant correctement et en expliquant explicitement la recherche utilisateur qu’elle prend tout son sens. On observe alors un véritable gain de temps et une économie d’argent considérable. Valorisez-la, évangélisez-la. C’est ainsi que vous parviendrez à instaurer de façon pérenne cette nouvelle méthode de travail. Sans oublier que vos résultats de recherche pourront plus tard servir à une tierce personne. Il est donc indispensable de les rendre disponibles à tous car vous avez créé une base autour de laquelle tout va se construire. Cela évitera aux nouveaux arrivants sur le projet de tout recommencer depuis le début : il serait dommage qu’une recherche utilisateur postérieure, si elle est mal réalisée, vienne mettre à mal votre travail.
 
-### **Savoir répondre à chaque blocage**
+## Savoir répondre à chaque blocage
 
 ![](https://lh6.googleusercontent.com/jnHpDQlFSXvoeOgUmzySM76K10-AfmqbjnWuxjEB7mJb4r1ezpp1NQi-uSyZZ-GcIh36AFPvO5AL5z3AdCFreRUvt-Kl0WLZMjwEckX4t0txcNTVCBuB6bDUB2mWvAoSs-YlKf6R =453x305)
 
@@ -104,7 +100,7 @@ _« C’est le travail de l’UX Designer de concevoir un produit intuitif »_
 
 👉 Comme beaucoup d’autres « nouveaux métiers », celui d’UX Designer est mal compris. Il est donc de votre devoir d’éduquer les décisionnaires en leur offrant une description détaillée dess compétences et des limites des UX. Faites-leur comprendre que proposer de nouvelles pratiques fait partie de leurs missions. La recherche utilisateur leur apporte les insights nécessaires à la conception d’une solution ou d’un produit qui répond parfaitement aux besoins des utilisateurs. Comme tout être humain, L’UX ne peut pas avoir réponse à tout, et il lui arrive d’avoir besoin d’aide pour accomplir sa tâche.
 
-### **Conclusion**
+## **Conclusion**
 
 Si la recherche utilisateur est de plus en plus démocratisée en entreprise, elle reste une méthode encore mal perçue par de nombreuses organisations. Pourtant, elle est souvent l’expertise qui manque au processus de développement d’un produit ou d’une solution. Manque de soutien des dirigeants, méconnaissance des méthodes et des métiers, incompréhension des objectifs de chaque partie : ces obstacles peuvent être levés en adoptant la bonne attitude et en travaillant sur un plan d’action solide.
 
