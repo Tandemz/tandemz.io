@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
 - ux
 - ux research
@@ -12,7 +12,7 @@ ogtype: article
 title: 'Valeur recherche utilisateur entreprise '
 full_title: Comment démontrer la valeur de la recherche utilisateur auprès de votre
   entreprise ?
-date: 2022-03-23T23:00:00Z
+date: 2022-03-23T23:00:00.000+00:00
 thumb_img_path: "/images/ux-indonesia-pqzrfbhd9r0-unsplash.jpg"
 content_img_path: "/images/ux-indonesia-pqzrfbhd9r0-unsplash.jpg"
 excerpt: Vous avez du mal à mettre en place la recherche utilisateur dans votre entreprise
@@ -64,7 +64,7 @@ L’avantage de cette recherche utilisateur à petite échelle est qu’elle n�
 
 ## Storyteller vos résultats de recherche en les associant aux objectifs de l’entreprise
 
-**![](https://lh4.googleusercontent.com/S9-cvCOK-jKqAwfjVEbDYII9VgZtpUYtkLcxtP2Z60gpsDdn4KkjlJRjx__KIjMv3Rr0EMTJWkMmx6BItdsoh0H5ewTVmLjY5X_j3ZAzDUtrQwNnDQ_ajFK2O8x3lg36fyBa-HWO =442x209)**
+![](/images/carte-dempathie-e1487856732444.png)
 
 Maintenant que vous avez appliqué cette méthode à petite échelle, il est temps de vous servir du bilan de cette première expérience pour renforcer vos propos. Parce que faire de la recherche utilisateur, c’est bien. Savoir mettre en avant ses résultats, c’est mieux. N’oubliez pas que vos interlocuteurs ne sont pas forcément familiarisés avec cette pratique ni avec le milieu. Il faut parvenir à capter leur attention en les embarquant dans une histoire plutôt qu’en listant vos observations, les besoins utilisateurs et les insights qui ressortent de votre recherche. Vous pouvez accompagner votre storytelling de verbatims ou de contenus vidéos et audio pour donner vie à votre présentation.
 
@@ -82,7 +82,7 @@ Une fois les parties-prenantes convaincues et la recherche utilisateur mise en p
 
 ## Savoir répondre à chaque blocage
 
-![](https://lh6.googleusercontent.com/jnHpDQlFSXvoeOgUmzySM76K10-AfmqbjnWuxjEB7mJb4r1ezpp1NQi-uSyZZ-GcIh36AFPvO5AL5z3AdCFreRUvt-Kl0WLZMjwEckX4t0txcNTVCBuB6bDUB2mWvAoSs-YlKf6R =453x305)
+![](/images/1645465706142.jpeg)
 
 Les sceptiques vous mèneront la vie dure pendant votre présentation en remettant en cause la validité de cette approche, souvent par manque de compréhension. Pourtant, il vous faut leur soutien. Il est donc essentiel de parer aux idées reçues avec des arguments persuasifs. Gardez en tête votre objectif : pousser vos interlocuteurs à considérer la recherche utilisateur comme quelque chose dont ils ont autant besoin que l’utilisateur final.
 
