@@ -1,7 +1,11 @@
 ---
 og_image_width: 0
 og_image_height: 0
-hashtags: []
+hashtags:
+- ux
+- ux research
+- recherche utilisateur
+- ROI de la recherche
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -13,7 +17,7 @@ thumb_img_path: "/images/photo-1556761175-b413da4baf72.jpeg"
 content_img_path: "/images/photo-1556761175-b413da4baf72-2.jpeg"
 excerpt: ''
 author: src/data/authors/francew.json
-keywords: ''
+keywords: ux, ux research, recherche utilisateur, ROI de la recherche
 ogimage: "/images/photo-1556761175-b413da4baf72-1.jpeg"
 beforeFooterSections: []
 
