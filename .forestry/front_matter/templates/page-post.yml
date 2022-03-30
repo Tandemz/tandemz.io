@@ -110,6 +110,7 @@ fields:
 pages:
 - src/pages/posts/10-heuristiques-ux.md
 - src/pages/posts/client-case-study-jobteaser.md
+- src/pages/posts/client-use-case-cdiscount.md
 - src/pages/posts/comment-combien-remunerer-participants-ux-research.md
 - src/pages/posts/expliquer-ux-designer-a-ma-grand-mere.md
 - src/pages/posts/interview-eleonore-payfit.md
