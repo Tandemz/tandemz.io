@@ -31,9 +31,9 @@ sections:
     icon: ''
     icon_alt: ''
     title: Etude utilisateurs en moyenne
-  - title: Terminés les aller-retours
-    content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
-      Vous n'avez plus qu'à attendre de les rencontrer !
+  - title: Etude utilisateurs BtoB dès 160€
+    content: 'Pour 60min de visioconférence : à partir de 160€ par participant (dont
+      60€ de contrepartie incluse).'
     icon: ''
     icon_alt: ''
   section_id: ''
