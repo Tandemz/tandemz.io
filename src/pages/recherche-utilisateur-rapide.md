@@ -5,9 +5,9 @@ sections:
   template: heroblock
   section_id: hero
   background: white
-  title: Recrutez pour vos tests utilisateurs en 2 jours
+  title: Etude utilisateur B2C dès 40€ seulement
   component: HeroBlock
-  content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
+  content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs dès 40€
     et déléguez toute la logistique à notre algorithme.
   image: "/images/Hero.svg"
   actions:
@@ -86,6 +86,7 @@ sections:
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
   subtitle: ''
+  bg: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
@@ -100,5 +101,7 @@ og_image_height: 200
 twitter_card: summary
 metatags: []
 schema_org_data_list: []
+locale: ''
+globalName: ''
 
 ---
