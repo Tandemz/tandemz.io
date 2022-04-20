@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   background: gray
-  title: Etude utilisateur B2C dès 40€ seulement
+  title: "**Etude utilisateur B2C dès 40€ seulement**"
   component: HeroBlock
   content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs dès 40€
     et déléguez toute la logistique à notre algorithme.
@@ -14,7 +14,7 @@ sections:
   - label: Recrutez dès maintenant
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
-    button_priority: ''
+    button_priority: primary
   image_alt: ''
   embed_youtube_video_id: ''
 - template: valueblock
