@@ -27,11 +27,10 @@ sections:
       (dont 20€ de contrepartie incluse).'
     icon: ''
     icon_alt: ''
-  - content: Notre algorithme sélectionne pour vous les participants les plus adaptés
-      au profil recherché, ou, si vous préférez, vous aider à la prise de décision.
+  - content: En moyenne, 60€ par participant (dont 20€ de contrepartie incluse).
     icon: ''
     icon_alt: ''
-    title: Sélection rapide des profils
+    title: Etude utilisateurs en moyenne
   - title: Terminés les aller-retours
     content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
       Vous n'avez plus qu'à attendre de les rencontrer !
