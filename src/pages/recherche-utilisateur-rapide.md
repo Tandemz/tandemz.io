@@ -84,7 +84,7 @@ sections:
   - label: Commencer à recruter rapidement
     title: Rejoindre la bêta
     button_priority: ''
-    url: https://app.tandemz.io/trouver-des-participants
+    url: https://app.tandemz.io/recruter-des-participants
   subtitle: ''
   bg: orange
 template: home
