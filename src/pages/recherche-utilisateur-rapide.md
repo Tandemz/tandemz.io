@@ -12,7 +12,7 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
-    url: https://app.tandemz.io/trouver-des-participants
+    url: https://app.tandemz.io/recruter-des-participants
     title: Rejoindre la bêta
     button_priority: primary
   image_alt: ''
