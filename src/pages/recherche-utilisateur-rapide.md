@@ -22,9 +22,9 @@ sections:
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Votre session en 2 clics
-    content: 'Ne prenez que quelques minutes pour organiser votre session de test.
-      Le recrutement débute automatiquement et sans perdre de temps. '
+  - title: Etude utilisateur BtoC dès 40€
+    content: 'Etude B2C, pour 30 min de visioconférence : à partir de 40€ par participant
+      (dont 20€ de contrepartie incluse).'
     icon: ''
     icon_alt: ''
   - content: Notre algorithme sélectionne pour vous les participants les plus adaptés
