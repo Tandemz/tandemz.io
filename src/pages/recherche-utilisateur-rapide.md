@@ -31,7 +31,7 @@ sections:
       au profil recherché, ou, si vous préférez, vous aider à la prise de décision.
     icon: ''
     icon_alt: ''
-    title: Sélection automatique des profils
+    title: Sélection rapide des profils
   - title: Terminés les aller-retours
     content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
       Vous n'avez plus qu'à attendre de les rencontrer !
