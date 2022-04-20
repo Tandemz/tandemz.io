@@ -4,7 +4,7 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  background: white
+  background: gray
   title: Etude utilisateur B2C dès 40€ seulement
   component: HeroBlock
   content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs dès 40€
