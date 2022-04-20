@@ -77,7 +77,7 @@ sections:
 - type: ctablock
   template: ctablock
   section_id: call-to-action
-  title: Prêt à recruter rapidement vos utilisateurs dès 40€ ?
+  title: Prêt à recruter rapidement vos utilisateurs qualitatifs dès 40€ ?
   component: CtaBlock
   actions:
   - label: Commencer à recruter rapidement
