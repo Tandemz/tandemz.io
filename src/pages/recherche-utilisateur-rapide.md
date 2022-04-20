@@ -86,7 +86,7 @@ sections:
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
   subtitle: ''
-  bg: ''
+  bg: orange
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
