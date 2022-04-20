@@ -11,7 +11,7 @@ sections:
     et déléguez toute la logistique à notre algorithme.
   image: "/images/Hero.svg"
   actions:
-  - label: Commencer à recruter rapidement
+  - label: Recrutez dès maintenant
     url: https://app.tandemz.io/trouver-des-participants
     title: Rejoindre la bêta
     button_priority: ''
