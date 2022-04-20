@@ -5,7 +5,7 @@ sections:
   template: heroblock
   section_id: hero
   background: gray
-  title: "**Etude utilisateur dès 40€ seulement**"
+  title: "**Etude utilisateur dès 40€ seulement !!!**"
   component: HeroBlock
   content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs dès 40€
     et déléguez toute la logistique à notre algorithme.
