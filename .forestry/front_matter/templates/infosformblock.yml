@@ -1,4 +1,66 @@
 ---
 label: InfosFormBlock
 hide_body: true
-fields: []
+fields:
+- name: sectionId
+  type: text
+  config:
+    required: false
+  label: Element ID
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
+- name: formName
+  type: text
+  config:
+    required: false
+  label: FormName
+- name: displayFormInNetlify
+  type: boolean
+  label: DisplayFormInNetlify
+- name: formSendingSuccess
+  type: text
+  config:
+    required: false
+  label: FormSendingSuccess
+  description: The label of the success message displayed after the form has been
+    sent
+- name: formSendingError
+  type: text
+  config:
+    required: false
+  label: FormSendingError
+  description: The error message if the form failed to be saved on the server
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: validateButtonLabel
+  type: text
+  config:
+    required: false
+  label: ValidateButtonLabel
+- name: emailPlaceholder
+  type: text
+  config:
+    required: false
+  label: EmailPlaceholder
+- name: namePlaceholder
+  type: text
+  config:
+    required: false
+  label: NamePlaceholder
+- name: phonePlaceholder
+  type: text
+  config:
+    required: false
+  label: PhonePlaceholder
+- name: companyPlaceholder
+  type: text
+  config:
+    required: false
+  label: CompanyPlaceholder
