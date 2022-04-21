@@ -16,51 +16,64 @@ fields:
 - name: formName
   type: text
   config:
-    required: false
+    required: true
   label: FormName
+  default: ContactInfosForm
 - name: displayFormInNetlify
   type: boolean
   label: DisplayFormInNetlify
+  default: true
+  description: Afficher le formulaire dans Netlify et faire remonter l'infos dans
+    pipedrive ?
 - name: formSendingSuccess
   type: text
   config:
-    required: false
+    required: true
   label: FormSendingSuccess
   description: The label of the success message displayed after the form has been
     sent
 - name: formSendingError
   type: text
   config:
-    required: false
+    required: true
   label: FormSendingError
   description: The error message if the form failed to be saved on the server
 - name: title
   type: text
   config:
-    required: false
+    required: true
   label: Title
 - name: validateButtonLabel
   type: text
   config:
     required: false
   label: ValidateButtonLabel
-- name: emailPlaceholder
+  description: The text inside the form validation button
+- name: emailLabel
   type: text
   config:
-    required: false
-  label: EmailPlaceholder
-- name: namePlaceholder
+    required: true
+  label: EmailLabel
+  description: The label of the email form field
+  default: Email
+- name: nameLabel
   type: text
   config:
-    required: false
-  label: NamePlaceholder
-- name: phonePlaceholder
+    required: true
+  label: NameLabel
+  description: The label of the full name form field
+  default: Nom
+- name: phoneLabel
   type: text
   config:
-    required: false
-  label: PhonePlaceholder
+    required: true
+  label: PhoneLabel
+  description: The label of the phone number form field
+  default: Numéro de téléphone
 - name: companyPlaceholder
   type: text
   config:
-    required: false
+    required: true
   label: CompanyPlaceholder
+  default: Tandemz
+  description: The label of the company name form field
