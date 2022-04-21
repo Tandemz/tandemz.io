@@ -13,7 +13,7 @@ fields:
     required: false
   label: Component
   hidden: true
-  default: Infosformblock
+  default: InfosFormBlock
 - name: formName
   type: text
   config:
