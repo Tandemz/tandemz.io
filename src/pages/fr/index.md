@@ -283,7 +283,7 @@ sections:
   emailLabel: Email
   nameLabel: Nom
   phoneLabel: Numéro de téléphone
-  companyLabel: Tandemz
+  companyLabel: Entreprise
   sectionId: Infosformblock
   formSendingSuccess: Les informations ont été transmises
   formSendingError: Erreur lors de l'envoi du formulaire
