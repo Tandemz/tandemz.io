@@ -276,19 +276,6 @@ sections:
     button_priority: ''
   subtitle: ''
   bg: orange
-- template: infosformblock
-  formName: ContactInfosForm
-  displayFormInNetlify: true
-  emailLabel: Email
-  nameLabel: Nom
-  phoneLabel: Numéro de téléphone
-  companyPlaceholder: Tandemz
-  sectionId: Infosformblock
-  formSendingSuccess: Les informations ont été transmises
-  formSendingError: Erreur lors de l'envoi du formulaire
-  title: Laissez-nous vous recontacter
-  validateButtonLabel: Confirmer
-  component: ''
 menus:
   main:
     title: Home
