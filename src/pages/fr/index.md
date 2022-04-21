@@ -296,7 +296,7 @@ menus:
 template: home
 title: La plateforme de recrutement de testeurs en libre service
 description: Accédez à de vrais utilisateurs grâce à Tandemz, la plateforme de recrutement
-  de testeurs en libre service pour tous vos besoins en recherche utilisateur.
+  de testeurs en libre service pour tous vos besoins en recherche utilisateur
 keywords: recherche utilisateur, tests utilisateurs, études UX, recrutement de testeurs,
   recrutement de participants, panel
 ogtitle: La plateforme de recrutement de testeurs en libre service
