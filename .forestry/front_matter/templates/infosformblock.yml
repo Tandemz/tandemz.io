@@ -76,5 +76,5 @@ fields:
   config:
     required: true
   label: CompanyLabel
-  default: Société
+  default: Entreprise
   description: The label of the company name form field
