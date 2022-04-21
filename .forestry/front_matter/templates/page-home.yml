@@ -20,6 +20,7 @@ fields:
   - recruitsection
   - cards-grid-section
   - announcement-block
+  - infosformblock
   description: Page sections
 - type: text
   name: template
