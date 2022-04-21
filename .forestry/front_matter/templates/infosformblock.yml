@@ -76,5 +76,5 @@ fields:
   config:
     required: true
   label: CompanyLabel
-  default: Tandemz
+  default: Société
   description: The label of the company name form field
