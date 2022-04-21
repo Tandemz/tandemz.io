@@ -71,10 +71,10 @@ fields:
   label: PhoneLabel
   description: The label of the phone number form field
   default: Numéro de téléphone
-- name: companyPlaceholder
+- name: companyLabel
   type: text
   config:
     required: true
-  label: CompanyPlaceholder
+  label: CompanyLabel
   default: Tandemz
   description: The label of the company name form field
