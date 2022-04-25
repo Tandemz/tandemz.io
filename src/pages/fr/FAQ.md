@@ -94,7 +94,7 @@ sections:
   title: Demandez à être recontactés
   validateButtonLabel: Valider
   redirectionPageUrl: contact
-  redirectionLink: contact
+  redirectionLink: "/fr/contact/"
 menus:
   main:
     title: FAQ
