@@ -86,6 +86,7 @@ sections:
   formSendingSuccess: Received!
   title: Still have questions? Leave your info and we'll contact you!
   validateButtonLabel: Request information
+  redirectionLink: contact
 menus:
   main:
     title: FAQ
