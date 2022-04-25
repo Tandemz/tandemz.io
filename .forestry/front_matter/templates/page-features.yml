@@ -16,6 +16,7 @@ fields:
   - contentblock
   - ctablock
   - featuresblock
+  - infosformblock
 - type: text
   name: template
   label: Template
