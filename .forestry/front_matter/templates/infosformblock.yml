@@ -82,6 +82,6 @@ fields:
   type: color
   label: BackgroundColor
   config:
-    required: true
+    required: false
     color_format: Hex
   default: "#F7F9FB"
