@@ -291,6 +291,7 @@ sections:
   validateButtonLabel: Envoyer le formulaire
   backgroundColor: ''
   redirectionLink: pricing
+  redirectionPageUrl: pricing
 menus:
   main:
     title: Home
