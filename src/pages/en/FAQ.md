@@ -1,5 +1,5 @@
 ---
-title: FAQ - Tandemz
+title: FAQ -Tandemz
 sections:
 - template: faqblock
   component: FaqBlock
