@@ -8,6 +8,7 @@ fields:
   description: Faq page sections.
   template_types:
   - faqblock
+  - infosformblock
 - type: text
   name: template
   label: Template
