@@ -20,6 +20,7 @@ const InfosFormBlock = (props) => {
   const emailLabel = _.get(section, 'emailLabel');
   const phoneLabel = _.get(section, 'phoneLabel');
   const companyLabel = _.get(section, 'companyLabel');
+  const backgroundColor = _.get(section, 'backgroundColor');
 
   const initialValues = {
     email: '',
@@ -65,6 +66,7 @@ const InfosFormBlock = (props) => {
     <section
       id={section_id}
       className={'block bg-white outer info-form-section'}
+      style={{ '--background-color': backgroundColor || '_palette(bg)' }}
     >
       <div className="form-container inner">
         <h4>{title}</h4>
