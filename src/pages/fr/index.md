@@ -289,7 +289,7 @@ sections:
   formSendingError: Erreur lors de l'envoi du formulaire
   title: Laissez-nous vous recontacter
   validateButtonLabel: Envoyer le formulaire
-  backgroundColor: "#205B96"
+  backgroundColor: ''
 menus:
   main:
     title: Home
