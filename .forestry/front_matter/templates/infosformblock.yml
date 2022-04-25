@@ -78,3 +78,10 @@ fields:
   label: CompanyLabel
   default: Entreprise
   description: The label of the company name form field
+- name: backgroundColor
+  type: color
+  label: BackgroundColor
+  config:
+    required: true
+    color_format: Hex
+  default: "#F7F9FB"
