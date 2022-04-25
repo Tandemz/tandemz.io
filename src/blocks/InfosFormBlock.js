@@ -60,8 +60,9 @@ const InfosFormBlock = (props) => {
     })
       .then(() => {
         setPostStatus('success');
+
         if (redirectionLink) {
-          navigate(redirectionLink);
+          navigate(`${window.location.origin}${redirectionLink}`);
         }
       })
       .catch(() => setPostStatus('error'));
