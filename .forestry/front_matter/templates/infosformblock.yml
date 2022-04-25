@@ -85,3 +85,9 @@ fields:
     required: false
     color_format: Hex
   default: "#F7F9FB"
+- name: redirectionLink
+  type: text
+  config:
+    required: false
+  label: redirectionLink
+  description: The redirection link after successfully submitting the form
