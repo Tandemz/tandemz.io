@@ -290,7 +290,7 @@ sections:
   title: Laissez-nous vous recontacter
   validateButtonLabel: Envoyer le formulaire
   backgroundColor: ''
-  redirectionLink: www.google.com
+  redirectionLink: pricing
 menus:
   main:
     title: Home
