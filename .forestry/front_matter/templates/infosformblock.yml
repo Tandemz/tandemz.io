@@ -25,8 +25,8 @@ fields:
     required: true
   label: FormName
   default: ContactInfosForm
-  description: Warning, this name is used by Zappier to create the user in Airtable.
-    DO NOT change if you have not created a zap looking for this name
+  description: Warning, this name is used by Zappier. DO NOT change it if you have
+    not created a zap watching for this form name.
 - name: displayFormInNetlify
   type: boolean
   label: DisplayFormInNetlify
