@@ -60,9 +60,25 @@ const InfosFormBlock = (props) => {
     })
       .then(() => {
         setPostStatus('success');
-
+        console.log(
+          '`${window.location.origin}${redirectionLink}`',
+          JSON.stringify(
+            `${window.location.origin}${redirectionLink}`,
+            null,
+            2,
+          ),
+        );
         if (redirectionLink) {
-          navigate(`${window.location.origin}${redirectionLink}`);
+          let parsedRedirectionLink = redirectionLink;
+          if (redirectionLink.charAt(0) !== '/') {
+            parsedRedirectionLink = `/${parsedRedirectionLink}`;
+          }
+          if (redirectionLink.charAt(redirectionLink.length - 1) !== '/') {
+            parsedRedirectionLink = `${parsedRedirectionLink}/`;
+          }
+          const url = `${window.location.origin}${parsedRedirectionLink}`;
+          console.log('url', JSON.stringify(url, null, 2));
+          navigate(url);
         }
       })
       .catch(() => setPostStatus('error'));
