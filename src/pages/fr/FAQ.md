@@ -93,7 +93,7 @@ sections:
   formSendingError: Erreur lors de l'envoi
   title: Demandez à être recontactés
   validateButtonLabel: Valider
-  redirectionPageUrl: ''
+  redirectionPageUrl: contact
 menus:
   main:
     title: FAQ
