@@ -92,11 +92,11 @@ fields:
     required: false
     color_format: Hex
   default: "#F7F9FB"
-- name: redirectionPageUrl
+- name: redirectionLink
   type: text
   config:
     required: false
   description: 'The redirection page url after successfully submitting the form<br>Ex
     : for <a href="https://www.tandemz.io/fr/pricing/" title="https://www.tandemz.io/fr/pricing/"
     target="_blank">https://www.tandemz.io/fr/pricing/</a> please only enter "pricing"'
-  label: redirectionPageUrl
+  label: redirectionLink
