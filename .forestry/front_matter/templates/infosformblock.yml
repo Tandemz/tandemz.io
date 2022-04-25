@@ -7,6 +7,11 @@ fields:
   config:
     required: false
   label: Element ID
+  default: infosFormBlock
+  description: 'The id will be used for in page link <br>Ex : Let say you add this
+    block in Home page and you let the default id (infosFormBlock), to redirect to
+    the block you will use the url : <a href="https://www.tandemz.io/#infosFormBlock"
+    title="https://www.tandemz.io/#infosFormBlock" target="_blank">https://www.tandemz.io/#infosFormBlock</a>'
 - name: component
   type: text
   config:
