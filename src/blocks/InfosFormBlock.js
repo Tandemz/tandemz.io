@@ -1,5 +1,6 @@
 import React, { useState, useReducer } from 'react';
 import _ from 'lodash';
+import { navigate } from 'gatsby';
 
 function encode(data) {
   return Object.keys(data)
@@ -8,8 +9,8 @@ function encode(data) {
 }
 
 const InfosFormBlock = (props) => {
-  const section_id = _.get(section, 'section_id');
   const section = _.get(props, 'section');
+  const sectionId = _.get(section, 'sectionId');
   const formName = _.get(section, 'formName');
   const displayFormInNetlify = _.get(section, 'displayFormInNetlify');
   const formSendingSuccessMessage = _.get(section, 'formSendingSuccess');
@@ -21,6 +22,7 @@ const InfosFormBlock = (props) => {
   const phoneLabel = _.get(section, 'phoneLabel');
   const companyLabel = _.get(section, 'companyLabel');
   const backgroundColor = _.get(section, 'backgroundColor');
+  const redirectionLink = _.get(section, 'redirectionLink');
 
   const initialValues = {
     email: '',
@@ -58,15 +60,18 @@ const InfosFormBlock = (props) => {
     })
       .then(() => {
         setPostStatus('success');
+        if (redirectionLink) {
+          navigate(redirectionLink);
+        }
       })
       .catch(() => setPostStatus('error'));
   };
 
   return (
     <section
-      id={section_id}
+      id={sectionId}
       className={'block bg-white outer info-form-section'}
-      style={{ '--background-color': backgroundColor || '_palette(bg)' }}
+      style={{ '--background-color': backgroundColor || '#f7f9fb' }}
     >
       <div className="form-container inner">
         <h4>{title}</h4>
