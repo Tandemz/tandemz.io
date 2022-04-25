@@ -41,7 +41,7 @@ const InfosFormBlock = (props) => {
   const [postStatus, setPostStatus] = useState(null);
 
   const onChange = (e) => {
-    setValues({ [e.target.id]: e.target.value });
+    setValues({ [e.target.name]: e.target.value });
   };
 
   const onSubmit = (e) => {
