@@ -98,5 +98,7 @@ fields:
     required: false
   description: 'The redirection page url after successfully submitting the form<br>Ex
     : for <a href="https://www.tandemz.io/fr/pricing/" title="https://www.tandemz.io/fr/pricing/"
-    target="_blank">https://www.tandemz.io/fr/pricing/</a> please only enter "pricing"'
+    target="_blank">https://www.tandemz.io/fr/pricing/</a> please enter enter "/fr/pricing/"<br><br>Ex
+    : for <a href="https://www.tandemz.io/FAQ" title="https://www.tandemz.io/FAQ"
+    target="_blank">https://www.tandemz.io/FAQ/</a> please enter enter "/FAQ/"'
   label: redirectionLink
