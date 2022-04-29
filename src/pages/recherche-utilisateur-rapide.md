@@ -74,18 +74,6 @@ sections:
     coming_soon: false
     image_alt: Femme recevant de l'argent
     is_beta: false
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: Prêt à recruter rapidement vos utilisateurs qualitatifs dès 40€ ?
-  component: CtaBlock
-  actions:
-  - label: Commencer à recruter rapidement
-    title: Rejoindre la bêta
-    button_priority: ''
-    url: https://app.tandemz.io/recruter-des-participants
-  subtitle: ''
-  bg: orange
 - template: infosformblock
   sectionId: infosFormBlock
   component: InfosFormBlock
