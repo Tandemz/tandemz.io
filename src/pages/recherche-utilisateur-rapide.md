@@ -87,7 +87,7 @@ sections:
   formSendingSuccess: Merci pour votre message !
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
   title: Contactez-nous dès maintenant pour avoir un devis !
-  validateButtonLabel: ''
+  validateButtonLabel: J'envoie mes infos
   redirectionLink: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
