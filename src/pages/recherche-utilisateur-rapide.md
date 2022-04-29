@@ -86,6 +86,21 @@ sections:
     url: https://app.tandemz.io/recruter-des-participants
   subtitle: ''
   bg: orange
+- template: infosformblock
+  sectionId: infosFormBlock
+  component: InfosFormBlock
+  formName: ContactInfosForm
+  displayFormInNetlify: true
+  emailLabel: Email
+  nameLabel: Nom
+  phoneLabel: Numéro de téléphone
+  companyLabel: Entreprise
+  backgroundColor: "#F7F9FB"
+  formSendingSuccess: Merci pour votre message !
+  formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
+  title: Contactez-nous dès maintenant pour avoir un devis !
+  validateButtonLabel: ''
+  redirectionLink: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
