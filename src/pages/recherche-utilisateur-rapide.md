@@ -86,7 +86,7 @@ sections:
   backgroundColor: "#F7F9FB"
   formSendingSuccess: Merci pour votre message !
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
-  title: Contactez-nous dès maintenant pour avoir un devis!
+  title: Contactez-nous dès maintenant pour avoir un devis !
   validateButtonLabel: J'envoie mes infos
   redirectionLink: "/fr/FAQ/"
 template: home
