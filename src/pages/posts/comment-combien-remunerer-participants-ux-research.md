@@ -1,33 +1,31 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
-  - uxresearch
-  - incentive
-  - research partcipants
-  - contrepartie utilisateur
-  - recrutement testeur
-  - user tests
+- uxresearch
+- incentive
+- research partcipants
+- contrepartie utilisateur
+- recrutement testeur
+- user tests
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: comment combien remunerer participants ux research
-full_title:
-  Comment - et combien - rémunérer les participants à la recherche utilisateur
+full_title: Comment - et combien - rémunérer les participants à la recherche utilisateur
   ?
 date: 2020-05-05T22:00:00.000+00:00
-thumb_img_path: '/images/IncentiveIsThanks.jpg'
-content_img_path: '/images/IncentiveIsThanks.jpg'
-excerpt:
-  Grâce à notre guide, spécial recherche utilisateur qualitative, faites le
+thumb_img_path: "/images/IncentiveIsThanks.jpg"
+content_img_path: "/images/IncentiveIsThanks.jpg"
+excerpt: Grâce à notre guide, spécial recherche utilisateur qualitative, faites le
   bon choix de contrepartie pour trouver les bons profils de participants !
 author: src/data/authors/francew.json
-keywords:
-  incentive, contrepartie, recherche utilisateur, ux research, test utilisateur,
+keywords: incentive, contrepartie, recherche utilisateur, ux research, test utilisateur,
   interview, testeur, participant, recrutement participant
-ogimage: '/images/IncentiveIsThanks.jpg'
----
+ogimage: "/images/IncentiveIsThanks.jpg"
+beforeFooterSections: []
 
+---
 _Si vous lisez cet article, c’est que vous savez déjà ce qu’est la recherche utilisateur, que vous souhaitez en faire ou que vous en faites déjà. Si ce n’est pas le cas, je vous invite à lire_ [_cet article_](/introduction-à-la-recherche-utilisateur-quantitative-et-qualitative 'Introduction à la recherche quali et quanti') _avant ;)_
 
 Quand on prépare une session de tests utilisateurs ou d’interviews, il ne suffit pas de savoir où trouver les bonnes personnes avec les bons profils - il faut aussi savoir comment les faire venir ! Cela pose toujours beaucoup de questions : faut-il les rémunérer ? A quelle hauteur ? Est-ce que cela ne crée pas d’emblée un biais dans la sélection ? Il y a de quoi s’arracher les cheveux. Mais plus pour longtemps, grâce à ce guide que nous avons compilé avec amour pour nos clients, et que nous vous partageons aujourd’hui !
@@ -114,9 +112,9 @@ Pour vous simplifier la tâche, nous avons compilé une grille de montants minim
 
 |                                                                              | Modéré, en physique                 | Modéré, à distance                 | Non modéré                       |
 | ---------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------- | -------------------------------- |
-| Cible B2C accessible                                                         | min : 40€ / h </br>idéal : 60€ / h  | min : 25€ / h </br>idéal : 40€ / h | min: 15€ / h</br>idéal : 30€ / h |
-| Cible B2C peu accessible                                                     | min : 60€ / h </br> idéal : 80€ / h | min : 30€ / h</br>idéal : 60€ / h  | min: 15€ / h</br>idéal : 40€ / h |
-| Cible B2B (cible professionnelle) - à moduler en fonction du TJM de la cible | à partir de 200€ / h                | à partir de 100€ / h               | à partir de 60€ / h              |
+| Cible B2C                                                         | min : 40€ / h </br>idéal : 60€ / h  | min : 25€ / h </br>idéal : 40€ / h | min: 15€ / h</br>idéal : 30€ / h |
+| Cible B2B (cible professionnelle) accessible - à moduler en fonction du TJM de la cible | à partir de 80€ / h                | à partir de 60€ / h               | à partir de 40€ / h              |
+| Cible B2B (cible professionnelle) peu accessible - à moduler en fonction du TJM de la cible | à partir de 100€ / h                | à partir de 80€ / h               | à partir de 60€ / h              |
 
 Pour vous simplifier la tâche, chez Tandemz nous choisissons la contrepartie adaptée à votre cible pour vous. N'hésitez pas à simuler un recrutement sur [notre page de devis](https://app.tandemz.io/recruter-des-participants 'page de devis') pour vous inspirer du montant que nous prévoyons pour vous !
 
