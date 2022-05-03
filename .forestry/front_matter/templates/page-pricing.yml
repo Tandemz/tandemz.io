@@ -2,27 +2,30 @@
 label: Page Pricing
 hide_body: true
 fields:
-- type: blocks
-  name: sections
-  label: Sections
-  description: Pricing page sections.
-  template_types:
-  - contentblock
-  - ctablock
-  - faqblock
-  - pricingblock
-- type: text
-  name: template
-  label: Template
-  hidden: true
-  default: FAQ
-  config:
-    required: true
-- name: seo
-  type: include
-  config: {}
-  template: seo-fields
-  label: SEO
+  - type: blocks
+    name: sections
+    label: Sections
+    description: Pricing page sections.
+    template_types:
+      - contentblock
+      - ctablock
+      - faqblock
+      - pricingblock
+      - tabpanelblock
+      - page-title-section
+      - infosformblock
+  - type: text
+    name: template
+    label: Template
+    hidden: true
+    default: FAQ
+    config:
+      required: true
+  - name: seo
+    type: include
+    config: {}
+    template: seo-fields
+    label: SEO
 pages:
-- src/pages/en/pricing.md
-- src/pages/fr/pricing.md
+  - src/pages/en/pricing.md
+  - src/pages/fr/pricing.md

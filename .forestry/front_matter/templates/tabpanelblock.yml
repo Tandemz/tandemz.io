@@ -1,0 +1,42 @@
+---
+label: TabPanel Section
+hide_body: true
+fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: section_id
+    type: text
+    config:
+      required: false
+    label: Element ID
+  - name: component
+    type: text
+    config:
+      required: false
+    label: Component
+    hidden: true
+    default: TabPanelBlock
+  - name: tabs
+    type: field_group_list
+    fields:
+      - name: tablabel
+        type: text
+        config:
+          required: false
+        label: tabLabel
+      - name: childrenpanel
+        type: blocks
+        template_types:
+          - offersection
+        config:
+          min: 0
+          max: 1
+        label: childrenPanel
+    config:
+      min:
+      max:
+      labelField:
+    label: Tabs
