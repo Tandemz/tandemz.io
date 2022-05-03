@@ -1,3 +1,8 @@
+.offer-section-container{
+  display: flex;
+  flex-direction: column;
+}
+
 .offer-section-title {
   font-weight: bold;
   font-size: 20px;
@@ -11,15 +16,32 @@
   flex-direction: row;
   justify-content: center;
   border-radius: 4px;
-  flex-wrap: wrap;
 }
+
 
 .offer-column {
   display: flex;
   flex-direction: column;
   border: 1px solid _palette(border);
   margin-left: -1px;
+  max-width: 256px;
+  margin-bottom: 16px;
 }
+
+.offer-column.offer-column--large {
+  max-width: 368px
+}
+
+
+@media (max-width: 570px) {
+  .offer-section-content {
+    flex-direction: column;
+  }
+  .offer-column {
+    max-width: 368px;
+  }
+}
+
 .offer-column-header {
   height: 182px;
   background-color: _palette(bg);
