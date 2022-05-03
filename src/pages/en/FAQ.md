@@ -32,11 +32,6 @@ sections:
       Our pricing includes participants incentive and our service fee. Depending on the type of target, the format of your study, the duration of the meeting and the offer chosen, you instantly obtain the total price per participant met.
 
       [Evaluate the price of your needs in a few clicks!](https://app.staging.tandemz.io/recruter-des-participants "Pricing page")
-  - question: How does each criteria impact the final price?
-    answer: Our algorithm takes into account the difficulty of each criteria to offer
-      you the best price according to your needs! This difficulty is evaluated according
-      to the size of your potential target audience, and as such, price adjustments
-      might differ from one criteria to the other.
   - question: How does the profile selection work?
     answer: Once you launch the recruitment, our algorithm will automatically contact
       the profile that best suits your target audience. On the Tandemz platform, you
@@ -45,8 +40,7 @@ sections:
       reject the other profiles!
   - question: Can I make my study directly on Tandemz (such as a survey form, an unmoderated
       usability test or an online session)?
-    answer: Not yet! But you can add a link to your current tools so that participants
-      can be redirected to the study.
+    answer: Not yet! But we are working on it!
   - question: How long does it take to start the recruitment?
     answer: As soon as you launch recruitment, our algorithm starts contacting the
       best profiles for your study. Your get your first participants in just a few
@@ -56,7 +50,7 @@ sections:
     answer: It is possible to target B2B participants or a difficult target on Tandemz.
       Both the incentive and the fees will be higher, as the recruitment will be more
       complex.
-  - question: I need more criteria than the ones available on the pricing page.
+  - question: I need more criteria than the ones available on the offer.
     answer: You can add a screener before launching the recruitment. Use the screener
       to ask any question you need in order to gain better knowledge of your participants'
       profiles. You will then be able to select the ones you really want to connect
@@ -68,8 +62,8 @@ sections:
       us know your needs.
   - question: How do I get started?
     answer: You are ready to recruit your first participants? [Click here](https://app.staging.tandemz.io/recruit-participants
-      "Pricing page") and start describing your target audience. Your first participants
-      are just a few clicks away!
+      "Pricing page") and start describing your study. Your first participants are
+      just a few clicks away!
   title_level_one: true
 menus:
   main:
