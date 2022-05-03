@@ -110,7 +110,6 @@ fields:
 pages:
 - src/pages/posts/10-heuristiques-ux.md
 - src/pages/posts/client-case-study-jobteaser.md
-- src/pages/posts/client-use-case-cdiscount.md
 - src/pages/posts/comment-combien-remunerer-participants-ux-research.md
 - src/pages/posts/expliquer-ux-designer-a-ma-grand-mere.md
 - src/pages/posts/interview-eleonore-payfit.md
@@ -121,7 +120,6 @@ pages:
 - src/pages/posts/methode-recherche-utilisateur-qualitative.md
 - src/pages/posts/tandemz-future-40.md
 - src/pages/posts/tip-eviter-no-show.md
-- src/pages/posts/use-case-manomano.md
 - src/pages/posts/ux-ergonomie-agence-interview-affordance.md
 - src/pages/posts/ux-research-interview-roxane-lacotte.md
 - src/pages/posts/valeur-recherche-utilisateur-entreprise.md
