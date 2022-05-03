@@ -55,8 +55,8 @@ sections:
     answer: Il est possible de cibler des participants B2B ou une cible difficile
       sur Tandemz. La contrepartie et les frais seront plus élevés, car le recrutement
       sera plus complexe.
-  - question: J'ai besoin de plus de critères que ceux qui sont disponibles sur la
-      page du devis.
+  - question: J'ai besoin de plus de critères que ceux qui sont disponibles dans les
+      offres.
     answer: Vous pouvez ajouter un screener avant de lancer le recrutement. Utilisez
       le screener pour poser toutes les questions dont vous avez besoin afin de mieux
       connaître les profils de vos participants. Vous pourrez ensuite sélectionner
