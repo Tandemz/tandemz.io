@@ -2,55 +2,83 @@
 label: PricingColumn
 hide_body: true
 fields:
-  - name: title
-    type: text
-    config:
-      required: true
-    label: Title
-    description: The offer label
-  - name: color
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  description: The offer label
+- name: color
+  type: select
+  default: ''
+  config:
+    required: true
+    options:
+    - Blue
+    - Green
+    - Purple
+    - Red
+    - Black
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Color
+  description: The icons and colored label color
+- name: isAvailable
+  type: boolean
+  label: IsAvailable
+  description: If the column is not available, it will be grayed
+  default: true
+- name: price
+  type: text
+  config:
+    required: true
+  label: Price
+  description: The offer price per participant
+- name: priceUnit
+  type: text
+  config:
+    required: true
+  label: priceUnit
+  default: "€"
+- name: priceSubtitle
+  type: text
+  config:
+    required: true
+  label: PriceSubtitle
+  default: per participant
+  description: Label under price
+- name: offerdescription
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: OfferDescription
+  description: The little description that will be visible just under the price
+- name: offerdetails
+  type: field_group_list
+  fields:
+  - name: icon
     type: select
-    default: ''
+    default: []
     config:
       required: true
       options:
-        - Blue
-        - Green
-        - Purple
-        - Red
-        - Black
+      - Present
+      - Lock
+      - Tick
       source:
         type: simple
-        section:
-        file:
-        path:
-    label: Color
-    description: The icons and colored label color
-  - name: isAvailable
-    type: boolean
-    label: IsAvailable
-    description: If the column is not available, it will be grayed
-    default: true
-  - name: price
-    type: text
-    config:
-      required: true
-    label: Price
-    description: The offer price per participant
-  - name: priceUnit
-    type: text
-    config:
-      required: true
-    label: priceUnit
-    default: '€'
-  - name: priceSubtitle
-    type: text
-    config:
-      required: true
-    label: PriceSubtitle
-    default: per participant
-    description: Label under price
-  - name: offerdescription
+        section: 
+        file: 
+        path: 
+    label: Icon
+  - name: offerDetailLabel
     type: textarea
     default: ''
     config:
@@ -58,66 +86,38 @@ fields:
       wysiwyg: false
       schema:
         format: markdown
-    label: OfferDescription
-    description: The little description that will be visible just under the price
-  - name: offerdetails
+    label: OfferDetailLabel
+    description: The bold detail label
+  - name: offerDetailSubItems
     type: field_group_list
     fields:
-      - name: icon
-        type: select
-        default: []
-        config:
-          required: true
-          options:
-            - Present
-            - Lock
-            - Tick
-          source:
-            type: simple
-            section:
-            file:
-            path:
-        label: Icon
-      - name: offerDetailLabel
-        type: textarea
-        default: ''
-        config:
-          required: true
-          wysiwyg: false
-          schema:
-            format: markdown
-        label: OfferDetailLabel
-        description: The bold detail label
-      - name: offerDetailSubItems
-        type: field_group_list
-        fields:
-          - name: offerDetailSubItemLabel
-            type: text
-            config:
-              required: false
-            label: OfferDetailSubItemLabel
-            description: The list item under an icon + bold text
-        config:
-          min:
-          max:
-          labelField:
-        label: OfferDetailSubItems
-        description: 'The sub element of an offer detail '
+    - name: offerDetailSubItemLabel
+      type: text
+      config:
+        required: false
+      label: OfferDetailSubItemLabel
+      description: The list item under an icon + bold text
     config:
-      min:
-      max:
-      labelField:
-    label: OfferDetails
-    description: The different elements present in the offer
-  - name: bottomButtonLabel
-    type: text
-    config:
-      required: false
-    label: BottomButtonLabel
-    default: Choose
-  - name: bottomButtonRedirectionUrl
-    type: text
-    config:
-      required: false
-    label: BottomButtonRedirectionUrl
-    default: https://app.tandemz.io/recruit-participants
+      min: 
+      max: 
+      labelField: 
+    label: OfferDetailSubItems
+    description: 'The sub element of an offer detail '
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: OfferDetails
+  description: The different elements present in the offer
+- name: bottomButtonLabel
+  type: text
+  config:
+    required: false
+  label: BottomButtonLabel
+  default: Choose
+- name: bottomButtonRedirectionUrl
+  type: text
+  config:
+    required: false
+  label: BottomButtonRedirectionUrl
+  default: https://app.tandemz.io/recruit-participants
