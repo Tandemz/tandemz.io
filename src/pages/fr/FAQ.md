@@ -35,11 +35,6 @@ sections:
       Notre tarification comprend la contrepartie pour les participants et nos frais de service. En fonction du type de cible, du format de votre étude, de la durée du rendez-vous et de l'offre choisie, vous obtenez instantanément le tarif total par participant rencontré.
 
       [Evaluez le prix de vos besoins en quelques clics !](https://app.tandemz.io/recruter-des-participants "Page de devis")
-  - question: Quel est l'impact de chaque critère sur le prix final ?
-    answer: Notre algorithme prend en compte la difficulté de chaque critère pour
-      vous proposer le meilleur prix en fonction de vos besoins ! Cette difficulté
-      est évaluée en fonction de la taille de votre audience cible potentiel, et à
-      ce titre, les ajustements de prix peuvent différer d'un critère à l'autre.
   - question: Comment fonctionne la sélection des profils ?
     answer: Dès que vous lancez le recrutement, notre algorithme contacte automatiquement
       le profil qui correspond le mieux à votre public cible. Sur la plateforme Tandemz,
