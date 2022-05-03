@@ -11,9 +11,9 @@ sections:
     by email (contact@tandemz.io).
   faqitems:
   - question: For what type of user research can participants be recruited on Tandemz?
-    answer: 'Tandemz allows you to recruit participants for all your research studies
-      : surveys, in person or online interviews / usability tests, unmoderated usability
-      tests, tree testing, card sorting, 1st click, 5seconds test...'
+    answer: Tandemz allows you to recruit participants for your moderated studies
+      only, i.e. requiring a meeting between you and the participant. We are working
+      to add more types of studies in the future!
   - question: How are participants sourced?
     answer: Participants are recruited from our worldwide community, and when the
       community is insufficient to meet your study needs, we source them directly
