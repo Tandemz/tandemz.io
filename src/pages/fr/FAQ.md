@@ -69,7 +69,7 @@ sections:
       pour nous faire part de vos besoins.
   - question: Comment démarrer ?
     answer: Vous êtes prêt à recruter vos premiers participants ? Cliquez [ici](https://app.tandemz.io/recruter-des-participants
-      "Page de devis") et commencez à décrire votre public cible. Vos premiers participants
+      "Page de devis") et laissez-vous guider par la plateforme. Vos premiers participants
       ne sont plus qu'à quelques clics !
   title_level_one: true
 menus:
