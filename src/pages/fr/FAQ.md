@@ -12,10 +12,9 @@ sections:
   faqitems:
   - question: Pour quel type de recherche utilisateur peut-on recruter des participants
       sur Tandemz ?
-    answer: 'Tandemz vous permet de recruter des participants pour toutes vos études
-      : enquêtes, interviews / tests d''utilisabilité en personne ou en ligne, tests
-      d''utilisabilité non modérés, tree testing, tri de cartes, 1st click test, 5s
-      tests...'
+    answer: Tandemz vous permet de recruter des participants pour vos études modérées
+      uniquement, c'est-à-dire nécessitant une rencontre entre vous et le participant.
+      Nous travaillons à ajouter d'autres types d'études dans le futur !
   - question: Comment les participants sont-ils recrutés ?
     answer: Les participants sont recrutés au sein de notre communauté mondiale, et
       lorsque la communauté est insuffisante pour répondre aux besoins de votre étude,
