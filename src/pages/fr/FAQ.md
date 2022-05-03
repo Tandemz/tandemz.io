@@ -43,8 +43,7 @@ sections:
       mieux à votre étude, et rejeter les autres profils !
   - question: Puis-je faire mon étude directement sur Tandemz (comme un formulaire
       d'enquête, un test d'utilisabilité non modéré ou une session en ligne) ?
-    answer: Pas encore, on y travaille ! Mais vous pouvez ajouter un lien vers vos
-      outils actuels afin que les participants puissent être redirigés vers l'étude.
+    answer: Pas encore, mais nous y travaillons !
   - question: Combien de temps faut-il pour commencer le recrutement ?
     answer: Quand vous lancez le recrutement, notre équipe effectue une modération
       en quelques minutes pour nous assurer que tout est correctement mis en place.
