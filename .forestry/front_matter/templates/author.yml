@@ -13,6 +13,7 @@ fields:
   name: avatar
   label: Avatar
 pages:
+- src/data/authors/Zakari.json
 - src/data/authors/francew.json
 - src/data/authors/geovana.json
 - src/data/authors/marinew.json
