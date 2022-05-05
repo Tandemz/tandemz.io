@@ -5,11 +5,11 @@ sections:
   template: heroblock
   section_id: hero
   background: white
-  title: Interrogez vous-même vos utilisateurs
+  title: Vous êtes UX Designer ou Researcher et vous avez besoin du retour de vrais
+    utilisateurs ?
   component: HeroBlock
-  content: Testez votre produit et récoltez les besoins de vos utilisateurs sans vous
-    compliquer la tâche. Laissez-vous guider par Tandemz et rencontrez votre cible
-    facilement.
+  content: Recrutez facilement et rapidement des utilisateurs pour des tests ou des
+    interviews.
   image: "/images/Hero.svg"
   actions:
   - label: Lancer mes premiers tests
@@ -103,6 +103,7 @@ sections:
     button_priority: ''
     url: https://app.tandemz.io/trouver-des-participants
   subtitle: ''
+  bg: ''
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
@@ -117,5 +118,7 @@ og_image_height: 200
 twitter_card: summary
 metatags: []
 schema_org_data_list: []
+locale: ''
+globalName: ''
 
 ---
