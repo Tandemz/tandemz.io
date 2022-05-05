@@ -5,10 +5,11 @@ sections:
   template: heroblock
   section_id: hero
   background: gray
-  title: "**Etude utilisateur dès 40€ seulement !**"
+  title: "**Vous êtes Product Manager et vous avez besoin de tester votre produit
+    ?**"
   component: HeroBlock
-  content: Grâce à Tandemz, **organisez vos tests et interviews utilisateurs dès 40€**
-    et déléguez toute la logistique à notre algorithme.
+  content: Grâce à Tandemz, recrutez facilement et rapidement des utilisateurs pour
+    tester ou améliorer votre produit.
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
