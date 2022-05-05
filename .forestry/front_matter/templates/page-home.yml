@@ -46,6 +46,7 @@ pages:
 - src/pages/panel.md
 - src/pages/participant.md
 - src/pages/recherche-utilisateur-facile.md
+- src/pages/recherche-utilisateur-product-manager.md
 - src/pages/recherche-utilisateur-rapide.md
 - src/pages/recherche-utilisateur-ux.md
 - src/pages/recruit.md
