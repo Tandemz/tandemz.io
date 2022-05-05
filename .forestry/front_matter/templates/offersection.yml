@@ -2,36 +2,36 @@
 label: OfferSectionsBlock
 hide_body: true
 fields:
-  - name: element_id
+- name: element_id
+  type: text
+  config:
+    required: false
+  label: Element ID
+- name: component
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Component
+  default: OffersectionsBlock
+- name: Sections
+  type: field_group_list
+  fields:
+  - name: title
     type: text
     config:
       required: false
-    label: Element ID
-  - name: component
-    type: text
+    label: Title
+  - name: offerSections
+    type: blocks
+    template_types:
+    - pricingcolumn
     config:
-      required: false
-    hidden: true
-    label: Component
-    default: OffersectionsBlock
-  - name: Sections
-    type: field_group_list
-    fields:
-      - name: title
-        type: text
-        config:
-          required: false
-        label: Title
-      - name: offerSections
-        type: blocks
-        template_types:
-          - pricingcolumn
-        config:
-          min:
-          max:
-        label: OfferSections
-    config:
-      min:
-      max:
-      labelField:
-    label: Sections
+      min: 
+      max: 
+    label: OfferSections
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Sections
