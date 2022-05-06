@@ -4,20 +4,20 @@ sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  background: gray
-  title: "**Vous êtes Product Manager et vous avez besoin de tester votre produit
-    ?**"
+  background: blue
+  title: Vous êtes Product Manager et vous avez besoin de tester votre produit ?
   component: HeroBlock
   content: Grâce à Tandemz, recrutez facilement et rapidement des utilisateurs pour
     tester ou améliorer votre produit.
-  image: "/images/Hero.svg"
+  image: ''
   actions:
   - label: Recrutez dès maintenant
-    url: https://app.tandemz.io/recruter-des-participants
+    url: "/recherche-utilisateur-product-manager#infosFormBlock"
     title: Rejoindre la bêta
     button_priority: primary
+    target: _self
   image_alt: ''
-  embed_youtube_video_id: ''
+  embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
   component: ValueBlock
   bg: gray
@@ -51,7 +51,7 @@ sections:
     content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
       cible de participants, questionnaire de sélection. Ca y est, votre annonce est
       publiée, le recrutement commence !'
-    image: "/images/illustration-screening2.svg"
+    image: "/images/illustration-screening.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
@@ -66,7 +66,7 @@ sections:
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: 3- Menez vos tests utilisateurs
+  - title: 3- Menez vos tests et interviews
     content: Ayez à portée de main toutes les informations de vos participants sur
       votre interface dédiée. Il ne vous reste plus qu'à rencontrer vos participants,
       échanger avec eux et leur faire tester votre produit.
@@ -78,7 +78,7 @@ sections:
 - template: infosformblock
   sectionId: infosFormBlock
   component: InfosFormBlock
-  formName: ContactInfosForm
+  formName: PMInfosForm
   displayFormInNetlify: true
   emailLabel: Email
   nameLabel: Nom
@@ -89,11 +89,12 @@ sections:
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
   title: Contactez-nous dès maintenant pour avoir un devis !
   validateButtonLabel: J'envoie mes infos
-  redirectionLink: https://www.tandemz.io/contact-success/
+  redirectionLink: "/contact-success/"
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
-keywords: user research, international, panel recruitement, user testing, interviews
+keywords: user research, international, panel recruitement, user testing, interviews,
+  recherche utilisateur, product management
 ogtitle: ''
 ogdescription: ''
 ogtype: website
