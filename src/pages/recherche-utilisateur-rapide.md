@@ -9,14 +9,14 @@ sections:
   component: HeroBlock
   content: Grâce à Tandemz, **organisez vos tests et interviews utilisateurs dès 40€**
     et déléguez toute la logistique à notre algorithme.
-  image: "/images/Hero.svg"
+  image: ''
   actions:
   - label: Recrutez dès maintenant
     url: https://app.tandemz.io/recruter-des-participants
     title: Je suis intéressé
     button_priority: secondary
   image_alt: ''
-  embed_youtube_video_id: ''
+  embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
   component: ValueBlock
   bg: gray
