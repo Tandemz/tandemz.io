@@ -1,23 +1,24 @@
 ---
-title: Recherche-utilisateur-ux-design
+title: Landing UX
 sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  background: gray
-  title: "**Vous êtes UX Designer ou Researcher et vous avez besoin du retour de vrais
-    utilisateurs ?**"
+  background: blue
+  title: Vous êtes UX Designer ou Researcher et vous avez besoin du retour de vrais
+    utilisateurs ?
   component: HeroBlock
   content: Recrutez facilement et rapidement des utilisateurs pour des tests ou des
     interviews.
-  image: "/images/Hero.svg"
+  image: ''
   actions:
   - label: Recrutez dès maintenant
-    url: https://app.tandemz.io/recruter-des-participants
-    title: Rejoindre la bêta
+    url: "/recherche-utilisateur-ux-design#infosFormBlock"
+    title: Recrutez des participants
     button_priority: primary
+    target: _self
   image_alt: ''
-  embed_youtube_video_id: ''
+  embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
   component: ValueBlock
   bg: gray
@@ -51,7 +52,7 @@ sections:
     content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
       cible de participants, questionnaire de sélection. Ca y est, votre annonce est
       publiée, le recrutement commence !'
-    image: "/images/illustration-screening2.svg"
+    image: "/images/illustration-screening.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
@@ -78,7 +79,7 @@ sections:
 - template: infosformblock
   sectionId: infosFormBlock
   component: InfosFormBlock
-  formName: ContactInfosForm
+  formName: UXInfosForm
   displayFormInNetlify: true
   emailLabel: Email
   nameLabel: Nom
@@ -89,11 +90,12 @@ sections:
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
   title: Contactez-nous dès maintenant pour avoir un devis !
   validateButtonLabel: J'envoie mes infos
-  redirectionLink: https://www.tandemz.io/contact-success/
+  redirectionLink: "/contact-success/"
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
-keywords: user research, international, panel recruitement, user testing, interviews
+description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+  Trouvez des particuliers et professionnels pour vos interviews et focus groupes
+keywords: user research, international, panel recruitement, user testing, interviews,
+  test utilisateur
 ogtitle: ''
 ogdescription: ''
 ogtype: website
