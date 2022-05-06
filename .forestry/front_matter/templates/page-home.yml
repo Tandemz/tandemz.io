@@ -39,20 +39,6 @@ fields:
   config: {}
   template: locale-fields
   label: Locale
-- name: target
-  type: select
-  default: _blank
-  config:
-    required: false
-    options:
-    - _blank
-    - _self
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: Target
 pages:
 - src/pages/en/index.md
 - src/pages/fr/index.md
