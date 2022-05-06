@@ -5,14 +5,14 @@ sections:
   template: heroblock
   section_id: hero
   background: blue
-  title: "**Etude utilisateur dès 40€ seulement !**"
+  title: Etude utilisateur dès 40€ seulement !
   component: HeroBlock
   content: Grâce à Tandemz, **organisez vos tests et interviews utilisateurs dès 40€**
     et déléguez toute la logistique à notre algorithme.
   image: ''
   actions:
   - label: Recrutez dès maintenant
-    url: https://app.tandemz.io/recruter-des-participants
+    url: "/recherche-utilisateur-rapide#infosFormBlock"
     title: Je suis intéressé
     button_priority: primary
     target: _self
@@ -51,7 +51,7 @@ sections:
     content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
       cible de participants, questionnaire de sélection. Ca y est, votre annonce est
       publiée, le recrutement commence !'
-    image: "/images/illustration-screening2.svg"
+    image: "/images/illustration-screening.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
