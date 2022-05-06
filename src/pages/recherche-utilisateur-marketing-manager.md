@@ -1,5 +1,5 @@
 ---
-title: Landin marketing manager
+title: Landing marketing manager
 sections:
 - type: heroblock
   template: heroblock
@@ -13,8 +13,8 @@ sections:
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
-    url: "/recherche-utilisateur-marketing-manager/"
-    title: Rejoindre la bêta
+    url: "/recherche-utilisateur-marketing-manager#infosFormBlock"
+    title: Recrutez des participants
     button_priority: primary
     target: _self
   image_alt: ''
@@ -88,8 +88,8 @@ sections:
   backgroundColor: "#F7F9FB"
   formSendingSuccess: Merci pour votre message !
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
-  title: Contactez-nous dès maintenant pour avoir un devis !
-  validateButtonLabel: J'envoie mes infos
+  title: Parlez-nous de vos besoin !
+  validateButtonLabel: Je veux être recontacté
   redirectionLink: "/contact-success/"
 template: home
 description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
