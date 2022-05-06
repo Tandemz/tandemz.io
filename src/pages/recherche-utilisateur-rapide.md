@@ -15,6 +15,7 @@ sections:
     url: https://app.tandemz.io/recruter-des-participants
     title: Je suis intéressé
     button_priority: primary
+    target: _self
   image_alt: ''
   embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
@@ -90,9 +91,10 @@ sections:
   validateButtonLabel: J'envoie mes infos
   redirectionLink: "/contact-success/"
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
-keywords: user research, international, panel recruitement, user testing, interviews
+description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+  Trouvez des particuliers et professionnels pour vos tests et interviews !
+keywords: user research, international, panel recruitement, user testing, interviews,
+  qualitatif, modéré
 ogtitle: ''
 ogdescription: ''
 ogtype: website
@@ -105,5 +107,6 @@ metatags: []
 schema_org_data_list: []
 locale: ''
 globalName: ''
+target: ''
 
 ---
