@@ -5,11 +5,11 @@ sections:
   template: heroblock
   section_id: hero
   background: gray
-  title: "**Vous êtes UX Designer ou Researcher et vous avez besoin du retour de vrais
-    utilisateurs ?**"
+  title: "**Vous êtes Marketing Manager et vous avez besoin d’avancer dans votre étude
+    de marché ?**"
   component: HeroBlock
-  content: Recrutez facilement et rapidement des utilisateurs pour des tests ou des
-    interviews.
+  content: Recrutez facilement et rapidement des utilisateurs pour réaliser un focus
+    groupe ou un test de consommateurs.
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
