@@ -1,5 +1,5 @@
 ---
-title: Recherche-utilisateur-product-manager
+title: Landing PM
 sections:
 - type: heroblock
   template: heroblock
@@ -91,8 +91,8 @@ sections:
   validateButtonLabel: J'envoie mes infos
   redirectionLink: "/contact-success/"
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
+description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+  Trouvez des particuliers et professionnels pour vos interviews et focus groupes
 keywords: user research, international, panel recruitement, user testing, interviews,
   recherche utilisateur, product management
 ogtitle: ''

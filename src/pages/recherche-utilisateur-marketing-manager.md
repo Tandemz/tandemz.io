@@ -92,7 +92,7 @@ sections:
   validateButtonLabel: Je veux être recontacté
   redirectionLink: "/contact-success/"
 template: home
-description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+description: Découvrez Tandemz, la plateforme self-service de recrutement de consommateurs.
   Trouvez des particuliers et professionnels pour vos interviews et focus groupes
 keywords: user research, international, panel recruitement, user testing, interviews
 ogtitle: ''
