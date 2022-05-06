@@ -5,11 +5,11 @@ sections:
   template: heroblock
   section_id: hero
   background: gray
-  title: "**Vous êtes Product Manager et vous avez besoin de tester votre produit
-    ?**"
+  title: "**Vous êtes UX Designer ou Researcher et vous avez besoin du retour de vrais
+    utilisateurs ?**"
   component: HeroBlock
-  content: Grâce à Tandemz, recrutez facilement et rapidement des utilisateurs pour
-    tester ou améliorer votre produit.
+  content: Recrutez facilement et rapidement des utilisateurs pour des tests ou des
+    interviews.
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
