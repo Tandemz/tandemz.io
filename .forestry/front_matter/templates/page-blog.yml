@@ -18,6 +18,7 @@ fields:
   - postsblock
   - ctablock
   - heroblock
+  - infosformblock
   config:
     min: 
     max: 

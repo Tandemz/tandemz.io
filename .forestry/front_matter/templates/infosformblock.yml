@@ -1,0 +1,104 @@
+---
+label: InfosFormBlock
+hide_body: true
+fields:
+- name: sectionId
+  type: text
+  config:
+    required: false
+  label: Element ID
+  default: infosFormBlock
+  description: 'The id will be used for in page link <br>Ex : Let say you add this
+    block in Home page and you let the default id (infosFormBlock), to redirect to
+    the block you will use the url : <a href="https://www.tandemz.io/#infosFormBlock"
+    title="https://www.tandemz.io/#infosFormBlock" target="_blank">https://www.tandemz.io/#infosFormBlock</a>'
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
+  default: InfosFormBlock
+- name: formName
+  type: text
+  config:
+    required: true
+  label: FormName
+  default: ContactInfosForm
+  description: Warning, this name is used by Zappier. DO NOT change it if you have
+    not created a zap watching for this form name.
+- name: displayFormInNetlify
+  type: boolean
+  label: DisplayFormInNetlify
+  default: true
+  description: Afficher le formulaire dans Netlify et faire remonter l'infos dans
+    pipedrive ?
+- name: formSendingSuccess
+  type: text
+  config:
+    required: true
+  label: FormSendingSuccess
+  description: The label of the success message displayed after the form has been
+    sent
+- name: formSendingError
+  type: text
+  config:
+    required: true
+  label: FormSendingError
+  description: The error message if the form failed to be saved on the server
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: validateButtonLabel
+  type: text
+  config:
+    required: false
+  label: ValidateButtonLabel
+  description: The text inside the form validation button
+- name: emailLabel
+  type: text
+  config:
+    required: true
+  label: EmailLabel
+  description: The label of the email form field
+  default: Email
+- name: nameLabel
+  type: text
+  config:
+    required: true
+  label: NameLabel
+  description: The label of the full name form field
+  default: Nom
+- name: phoneLabel
+  type: text
+  config:
+    required: true
+  label: PhoneLabel
+  description: The label of the phone number form field
+  default: Numéro de téléphone
+- name: companyLabel
+  type: text
+  config:
+    required: true
+  label: CompanyLabel
+  default: Entreprise
+  description: The label of the company name form field
+- name: backgroundColor
+  type: color
+  label: BackgroundColor
+  config:
+    required: false
+    color_format: Hex
+  default: "#F7F9FB"
+- name: redirectionLink
+  type: text
+  config:
+    required: false
+  description: 'The redirection page url after successfully submitting the form<br>Ex
+    : for <a href="https://www.tandemz.io/fr/pricing/" title="https://www.tandemz.io/fr/pricing/"
+    target="_blank">https://www.tandemz.io/fr/pricing/</a> please enter enter "/fr/pricing/"<br><br>Ex
+    : for <a href="https://www.tandemz.io/FAQ" title="https://www.tandemz.io/FAQ"
+    target="_blank">https://www.tandemz.io/FAQ/</a> please enter enter "/FAQ/"'
+  label: redirectionLink

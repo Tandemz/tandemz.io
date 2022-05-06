@@ -1,40 +1,40 @@
 ---
-title: Recherche-utilisateur-rapide
+title: Landing PM
 sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  background: white
-  title: Recrutez pour vos tests utilisateurs en 2 jours
+  background: blue
+  title: Vous êtes Product Manager et vous avez besoin de tester votre produit ?
   component: HeroBlock
-  content: Grâce à Tandemz, organisez vos tests et interviews utilisateurs rapidement
-    et déléguez toute la logistique à notre algorithme.
-  image: "/images/Hero.svg"
+  content: Grâce à Tandemz, recrutez facilement et rapidement des utilisateurs pour
+    tester ou améliorer votre produit.
+  image: ''
   actions:
-  - label: Commencer à recruter rapidement
-    url: https://app.tandemz.io/trouver-des-participants
+  - label: Recrutez dès maintenant
+    url: "/recherche-utilisateur-product-manager#infosFormBlock"
     title: Rejoindre la bêta
-    button_priority: ''
+    button_priority: primary
+    target: _self
   image_alt: ''
-  embed_youtube_video_id: ''
+  embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
   component: ValueBlock
   bg: gray
   type: valueblock
   valueblocks:
-  - title: Votre session en deux clics
-    content: 'Ne prenez que quelques minutes pour organiser votre session de test.
-      Le recrutement débute automatiquement et sans perdre de temps. '
+  - title: Etude utilisateur BtoC dès 40€
+    content: 'Etude B2C, pour 30 min de visioconférence : à partir de 40€ par participant
+      (dont 20€ de contrepartie incluse).'
     icon: ''
     icon_alt: ''
-  - content: Notre algorithme sélectionne pour vous les participants les plus adaptés
-      au profil recherché, ou, si vous préférez, vous aider à la prise de décision.
+  - content: En moyenne, 60€ par participant (dont 20€ de contrepartie incluse).
     icon: ''
     icon_alt: ''
-    title: Sélection automatique des profils
-  - title: Terminés les aller-retours
-    content: Les participants sont autonomes pour s'inscrire, les rappels sont automatiques.
-      Vous n'avez plus qu'à attendre de les rencontrer !
+    title: Etude utilisateurs en moyenne
+  - title: Etude utilisateurs BtoB dès 160€
+    content: 'Pour 60min de visioconférence : à partir de 160€ par participant (dont
+      60€ de contrepartie incluse).'
     icon: ''
     icon_alt: ''
   section_id: ''
@@ -51,7 +51,7 @@ sections:
     content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
       cible de participants, questionnaire de sélection. Ca y est, votre annonce est
       publiée, le recrutement commence !'
-    image: "/images/illustration-screening2.svg"
+    image: "/images/illustration-screening.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
@@ -66,7 +66,7 @@ sections:
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: 3- Menez vos tests utilisateurs
+  - title: 3- Menez vos tests et interviews
     content: Ayez à portée de main toutes les informations de vos participants sur
       votre interface dédiée. Il ne vous reste plus qu'à rencontrer vos participants,
       échanger avec eux et leur faire tester votre produit.
@@ -75,21 +75,26 @@ sections:
     coming_soon: false
     image_alt: Femme recevant de l'argent
     is_beta: false
-- type: ctablock
-  template: ctablock
-  section_id: call-to-action
-  title: Prêt à recruter rapidement pour vos tests utilisateurs ?
-  component: CtaBlock
-  actions:
-  - label: Commencer à recruter rapidement
-    title: Rejoindre la bêta
-    button_priority: ''
-    url: https://app.tandemz.io/trouver-des-participants
-  subtitle: ''
+- template: infosformblock
+  sectionId: infosFormBlock
+  component: InfosFormBlock
+  formName: PMInfosForm
+  displayFormInNetlify: true
+  emailLabel: Email
+  nameLabel: Nom
+  phoneLabel: Numéro de téléphone
+  companyLabel: Entreprise
+  backgroundColor: "#F7F9FB"
+  formSendingSuccess: Merci pour votre message !
+  formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
+  title: Contactez-nous dès maintenant pour avoir un devis !
+  validateButtonLabel: J'envoie mes infos
+  redirectionLink: "/contact-success/"
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
-keywords: user research, international, panel recruitement, user testing, interviews
+description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+  Trouvez des particuliers et professionnels pour vos interviews et focus groupes
+keywords: user research, international, panel recruitement, user testing, interviews,
+  recherche utilisateur, product management
 ogtitle: ''
 ogdescription: ''
 ogtype: website
@@ -100,5 +105,7 @@ og_image_height: 200
 twitter_card: summary
 metatags: []
 schema_org_data_list: []
+locale: ''
+globalName: ''
 
 ---

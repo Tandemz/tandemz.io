@@ -120,13 +120,16 @@ export default class Contact extends React.Component {
                         recruitment services
                       </option>
                       <option value="Credits">
-                        I want to disccus Tandemz' prepaid credits offers
+                        I want to discuss Tandemz's prepaid credits offers
                       </option>
                       <option value="Participant">
                         I want to become a tester
                       </option>
                       <option value="WhiteBook">
                         I want to get the white book
+                      </option>
+                      <option value="SpecificStudy">
+                        I want to recruit for a specific study
                       </option>
                       <option value="Other">Other</option>
                     </select>

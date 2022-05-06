@@ -13,10 +13,12 @@ sections:
     url: https://app.tandemz.io/recruter-des-participants
     title: Commencer à recruter
     button_priority: primary
+    target: _blank
   - label: Demander une démo
     button_priority: secondary
     url: https://calendly.com/marinew/salesneed
     title: Demander une démo
+    target: _blank
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
@@ -274,6 +276,7 @@ sections:
     url: https://app.tandemz.io/recruter-des-participants
     title: Recrutez dès maintenant des participants
     button_priority: ''
+    target: ''
   subtitle: ''
   bg: orange
 menus:

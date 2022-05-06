@@ -36,7 +36,7 @@ export default class HeroBlock extends React.Component {
                       <Link
                         key={action_idx}
                         to={safePrefix(_.get(action, 'url'))}
-                        target="_blank"
+                        target={_.get(action, 'target')}
                         className={
                           'button large white ' +
                           _.get(action, 'button_priority')
