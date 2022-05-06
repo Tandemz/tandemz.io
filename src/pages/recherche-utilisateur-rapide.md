@@ -1,5 +1,5 @@
 ---
-title: Recherche-utilisateur-rapide
+title: Landing pricing
 sections:
 - type: heroblock
   template: heroblock
@@ -13,8 +13,8 @@ sections:
   actions:
   - label: Recrutez dès maintenant
     url: https://app.tandemz.io/recruter-des-participants
-    title: Rejoindre la bêta
-    button_priority: primary
+    title: Je suis intéressé
+    button_priority: secondary
   image_alt: ''
   embed_youtube_video_id: ''
 - template: valueblock
@@ -88,7 +88,7 @@ sections:
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
   title: Contactez-nous dès maintenant pour avoir un devis !
   validateButtonLabel: J'envoie mes infos
-  redirectionLink: https://www.tandemz.io/contact-success/
+  redirectionLink: "/contact-success/"
 template: home
 description: Leverage the power of social media ads targeting to recruit the perfect
   participants among 3 billion active users - the world's biggest panel.
