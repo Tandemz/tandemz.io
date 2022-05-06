@@ -1,21 +1,22 @@
 ---
-title: Recherche-utilisateur-marketing-manager
+title: Landin marketing manager
 sections:
 - type: heroblock
   template: heroblock
   section_id: hero
-  background: gray
-  title: "**Vous êtes Marketing Manager et vous avez besoin d’avancer dans votre étude
-    de marché ?**"
+  background: blue
+  title: Vous êtes Marketing Manager et vous avez besoin d’avancer dans votre étude
+    de marché ?
   component: HeroBlock
   content: Recrutez facilement et rapidement des utilisateurs pour réaliser un focus
     groupe ou un test de consommateurs.
   image: "/images/Hero.svg"
   actions:
   - label: Recrutez dès maintenant
-    url: https://app.tandemz.io/recruter-des-participants
+    url: "/recherche-utilisateur-marketing-manager/"
     title: Rejoindre la bêta
     button_priority: primary
+    target: _self
   image_alt: ''
   embed_youtube_video_id: ''
 - template: valueblock
@@ -51,7 +52,7 @@ sections:
     content: 'En quelques minutes, créez votre session : lieu, date, contrepartie,
       cible de participants, questionnaire de sélection. Ca y est, votre annonce est
       publiée, le recrutement commence !'
-    image: "/images/illustration-screening2.svg"
+    image: "/images/illustration-screening.svg"
     coming_soon: false
     actions: []
     image_alt: Describe your target audience
@@ -66,10 +67,10 @@ sections:
     coming_soon: false
     image_alt: Adding screening survey questions
     is_beta: false
-  - title: 3- Menez vos tests utilisateurs
+  - title: 3- Menez votre étude sereinement
     content: Ayez à portée de main toutes les informations de vos participants sur
       votre interface dédiée. Il ne vous reste plus qu'à rencontrer vos participants,
-      échanger avec eux et leur faire tester votre produit.
+      échanger avec eux et mener à bien votre étude.
     image: "/images/Discuss.svg"
     actions: []
     coming_soon: false
@@ -78,7 +79,7 @@ sections:
 - template: infosformblock
   sectionId: infosFormBlock
   component: InfosFormBlock
-  formName: ContactInfosForm
+  formName: MarketingInfosForm
   displayFormInNetlify: true
   emailLabel: Email
   nameLabel: Nom
@@ -89,10 +90,10 @@ sections:
   formSendingError: 'Le message n''est pas parti. Merci de retenter : )'
   title: Contactez-nous dès maintenant pour avoir un devis !
   validateButtonLabel: J'envoie mes infos
-  redirectionLink: https://www.tandemz.io/contact-success/
+  redirectionLink: "/contact-success/"
 template: home
-description: Leverage the power of social media ads targeting to recruit the perfect
-  participants among 3 billion active users - the world's biggest panel.
+description: Découvrez Tandemz, la plateforme de recrutement de testeurs en self-service.
+  Trouvez des particuliers et professionnels pour vos interviews et focus groupes
 keywords: user research, international, panel recruitement, user testing, interviews
 ogtitle: ''
 ogdescription: ''

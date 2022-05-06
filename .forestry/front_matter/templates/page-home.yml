@@ -2,52 +2,52 @@
 label: Page Home
 hide_body: true
 fields:
-  - type: blocks
-    name: sections
-    label: Sections
-    template_types:
-      - contentblock
-      - ctablock
-      - faqblock
-      - featuresblock
-      - heroblock
-      - postsblock
-      - pricingblock
-      - reviewsblock
-      - iconsblock
-      - valueblock
-      - how-it-works-section
-      - recruitsection
-      - cards-grid-section
-      - announcement-block
-      - infosformblock
-    description: Page sections
-  - type: text
-    name: template
-    label: Template
-    hidden: true
-    default: home
-    config:
-      required: true
-  - name: seo
-    type: include
-    config: {}
-    template: seo-fields
-    label: SEO
-  - name: locale
-    type: include
-    config: {}
-    template: locale-fields
-    label: Locale
+- type: blocks
+  name: sections
+  label: Sections
+  template_types:
+  - contentblock
+  - ctablock
+  - faqblock
+  - featuresblock
+  - heroblock
+  - postsblock
+  - pricingblock
+  - reviewsblock
+  - iconsblock
+  - valueblock
+  - how-it-works-section
+  - recruitsection
+  - cards-grid-section
+  - announcement-block
+  - infosformblock
+  description: Page sections
+- type: text
+  name: template
+  label: Template
+  hidden: true
+  default: home
+  config:
+    required: true
+- name: seo
+  type: include
+  config: {}
+  template: seo-fields
+  label: SEO
+- name: locale
+  type: include
+  config: {}
+  template: locale-fields
+  label: Locale
 pages:
-  - src/pages/en/index.md
-  - src/pages/fr/index.md
-  - src/pages/landing-international.md
-  - src/pages/panel.md
-  - src/pages/participant.md
-  - src/pages/recherche-utilisateur-facile.md
-  - src/pages/recherche-utilisateur-marketing-manager.md
-  - src/pages/recherche-utilisateur-product-manager.md
-  - src/pages/recherche-utilisateur-pricing.md
-  - src/pages/recherche-utilisateur-ux-design.md
-  - src/pages/recruit.md
+- src/pages/en/index.md
+- src/pages/fr/index.md
+- src/pages/landing-international.md
+- src/pages/panel.md
+- src/pages/participant.md
+- src/pages/recherche-utilisateur-facile.md
+- src/pages/recherche-utilisateur-marketing-manager.md
+- src/pages/recherche-utilisateur-pricing.md
+- src/pages/recherche-utilisateur-product-manager.md
+- src/pages/recherche-utilisateur-ux-design.md
+- src/pages/recruit.md
