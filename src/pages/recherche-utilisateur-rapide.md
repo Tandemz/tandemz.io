@@ -14,7 +14,7 @@ sections:
   - label: Recrutez dès maintenant
     url: https://app.tandemz.io/recruter-des-participants
     title: Je suis intéressé
-    button_priority: secondary
+    button_priority: primary
   image_alt: ''
   embed_youtube_video_id: ERuhpJPcksc
 - template: valueblock
