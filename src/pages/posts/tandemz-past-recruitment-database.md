@@ -10,7 +10,7 @@ full_title: 'Ressource: discover the scope of what we can do with our Past Recru
   Database'
 date: 2022-05-29T22:00:00Z
 thumb_img_path: "/images/database.jpg"
-content_img_path: "/images/database.jpg"
+content_img_path: "/images/databasethumbnail.jpg"
 excerpt: '"Can you recruit my target?"is the question we get the most at Tandemz.
   To help you get an answer, we''ve compiled a database of past recruitments!'
 author: src/data/authors/francew.json
