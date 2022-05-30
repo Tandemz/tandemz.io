@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 600
+og_image_height: 300
 hashtags: []
 template: post
 twitter_card: summary_large_image
@@ -9,13 +9,13 @@ title: tandemz-past-recruitment-database
 full_title: 'Ressource: discover the scope of what we can do with our Past Recruitments
   Database'
 date: 2022-05-29T22:00:00Z
-thumb_img_path: ''
-content_img_path: ''
+thumb_img_path: "/images/database.jpg"
+content_img_path: "/images/database.jpg"
 excerpt: '"Can you recruit my target?"is the question we get the most at Tandemz.
   To help you get an answer, we''ve compiled a database of past recruitments!'
 author: src/data/authors/francew.json
 keywords: user research, panel, participant recruitment
-ogimage: ''
+ogimage: "/images/database.jpg"
 beforeFooterSections:
 - template: leadmagnetsection
   component: LeadMagnetBlock
