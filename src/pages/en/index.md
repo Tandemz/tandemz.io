@@ -170,7 +170,7 @@ sections:
       respondents and participants to the interviews were top notch, the selection
       was perfect, and we gained very rich insights.
     avatar: ''
-  section_id: ''
+  section_id: reviews
   subtitle: ''
   logos:
   - logo: "/images/logo_withings_client_tandemz.png"
