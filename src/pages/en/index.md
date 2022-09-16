@@ -176,7 +176,7 @@ sections:
   - logo: "/images/logo_withings_client_tandemz.png"
     alt: Logo Withings Client Tandemz
     title: ''
-  - logo: "/images/logo_alan_client_tandemz.png"
+  - logo: "/images/logo_alan_client_tandemz-1.png"
     alt: Logo Alan Client Tandemz
     title: ''
   - logo: "/images/logocd.png"
