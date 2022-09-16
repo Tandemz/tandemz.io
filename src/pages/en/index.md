@@ -13,10 +13,12 @@ sections:
     button_priority: primary
     url: https://app.tandemz.io/recruit-participants
     title: Recruit participants now
+    target: ''
   - label: Request a demo
     button_priority: secondary
     url: https://calendly.com/marinew/salesneed
     title: Request a demo
+    target: ''
   imageAlt: ''
   image_alt: ''
   embed_youtube_video_id: ''
@@ -171,6 +173,9 @@ sections:
   section_id: ''
   subtitle: ''
   logos:
+  - logo: "/images/logo_alan_client_tandemz.png"
+    alt: Logo Alan Client Tandemz
+    title: ''
   - logo: "/images/logocd.png"
     alt: logo cdiscount
     title: Logo CDiscount
@@ -265,6 +270,7 @@ sections:
     url: https://app.tandemz.io/recruit-participants
     title: Start recruiting participants now
     button_priority: ''
+    target: ''
   subtitle: ''
   bg: orange
 menus:
