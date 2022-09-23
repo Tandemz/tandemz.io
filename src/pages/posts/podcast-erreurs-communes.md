@@ -26,6 +26,10 @@ ogimage: "/images/post-1080-x-1080-bouton.png"
 beforeFooterSections: []
 
 ---
+
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6O5tPanNkmLeGgNPrT21XX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+  
 En tant que CPO de Tandemz, je passe beaucoup de temps avec des clients, des designers, des PMs, des entrepreneurs, sur des sujets de recherche utilisateur… Je réponds à leurs questions, j’écoute leurs problématiques - et du coup je vois des patterns émerger, dont des erreurs et des raccourcis qui desservent leur pratique de recherche. Ces erreurs sont si communes qu’on les a tous forcément commises - moi la première !
 
 Il en existe 3 types :
