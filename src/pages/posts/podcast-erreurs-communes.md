@@ -81,4 +81,4 @@ Pour toute recherche utilisateur, il est extrêmement important de cibler les bo
 
 Cela passe par bien définir la cible en amont, et poser les bonnes questions avant les rencontres pour s'assurer que les utilisateurs correspondent.
 
-Vous restez sur votre faim ? Alors allez écouter le podcast en entier !
+Vous restez sur votre faim ? Alors allez écouter [le podcast en entier](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg) !
