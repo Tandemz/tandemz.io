@@ -26,6 +26,8 @@ ogimage: "/images/post-1080-x-1080-bouton.png"
 beforeFooterSections: []
 
 ---
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4P1KQadZZMalzMYyLD1D0y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+  
 En tant que CPO de Tandemz, je passe beaucoup de temps avec des clients, des designers, des PMs, des entrepreneurs, sur des sujets de recherche utilisateur… Je réponds à leurs questions, j’écoute leurs problématiques - et je vois ainsi des patterns émerger, dont des erreurs et des raccourcis qui desservent leur pratique de recherche. Ces erreurs sont si communes qu’on les a tous forcément commises - moi la première !
 
 Il en existe 3 types :
@@ -35,8 +37,6 @@ Il en existe 3 types :
 * ✂️ les raccourcis qui coûtent cher
 
 J’ai eu la chance de pouvoir rentrer dans le détail de ce sujet dans le podcast [Design +](https://anchor.fm/designplus) de [Laurent Gallen](https://www.linkedin.com/in/laurentgallen/).
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4P1KQadZZMalzMYyLD1D0y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Voici un petit résumé de ce que j’y dis pour ceux qui n’auraient pas l’envie ou la possibilité de l’écouter !
 
