@@ -36,7 +36,7 @@ Il en existe 3 types :
 
 J’ai eu la chance de pouvoir rentrer dans le détail de ce sujet dans le podcast [Design +](https://anchor.fm/designplus) de [Laurent Gallen](https://www.linkedin.com/in/laurentgallen/).  
   
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4P1KQadZZMalzMYyLD1D0y?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen" loading="lazy"></iframe>
+<div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4P1KQadZZMalzMYyLD1D0y?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen" loading="lazy"></iframe></div>
 
 Et voici un petit résumé de ce que j’y dis pour ceux qui n’auraient pas l’envie ou la possibilité de l’écouter !
 
