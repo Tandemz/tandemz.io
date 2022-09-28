@@ -81,8 +81,8 @@ Pour toute recherche utilisateur, il est extrêmement important de cibler les bo
 
 Cela passe par bien définir la cible en amont, et poser les bonnes questions avant les rencontres pour s'assurer que les utilisateurs correspondent.
 
-Vous restez sur votre faim ? Alors allez écouter [le podcast en entier](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg) !
+Vous restez sur votre faim ? Alors allez écouter le podcast en entier sur:
 
-[Deezer]( https://www.deezer.com/fr/episode/436524817), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/france-wang-quelles-sont-les-erreurs-les-plus-communes/id1470372088?i=1000580432967), [Google Podcast](Design + - France Wang - Quelles sont les erreurs les plus communes en UX research ? (google.com))
+[Spotify](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg), [Deezer]( https://www.deezer.com/fr/episode/436524817), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/france-wang-quelles-sont-les-erreurs-les-plus-communes/id1470372088?i=1000580432967), [Google Podcast](Design + - France Wang - Quelles sont les erreurs les plus communes en UX research ? (google.com))
 
 D'autres méthodes d'écoute [ici](https://anchor.fm/designplus/episodes/France-Wang---Quelles-sont-les-erreurs-les-plus-communes-en-UX-research-e1o295d).
