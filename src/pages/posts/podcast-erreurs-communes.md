@@ -13,7 +13,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: podcast-erreurs-communes
 full_title: 'Podcast: Les erreurs les plus communes en recherche utilisateur'
-date: 2022-09-23T15:00:00Z
+date: 2022-09-23T15:00:00.000+00:00
 thumb_img_path: "/images/post-1080-x-1080-bouton.png"
 content_img_path: "/images/post-1080-x-1080-bouton.png"
 excerpt: Invitée sur le podcast Design +, notre CPO France dévoile les erreurs les
@@ -34,8 +34,8 @@ Il en existe 3 types :
 * 👻 les mythes qui ont la peau dure
 * ✂️ les raccourcis qui coûtent cher
 
-J’ai eu la chance de pouvoir rentrer dans le détail de ce sujet dans le podcast [Design +](https://anchor.fm/designplus) de [Laurent Gallen](https://www.linkedin.com/in/laurentgallen/).  
-  
+J’ai eu la chance de pouvoir rentrer dans le détail de ce sujet dans le podcast [Design +](https://anchor.fm/designplus) de [Laurent Gallen](https://www.linkedin.com/in/laurentgallen/).
+
 <div><iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4P1KQadZZMalzMYyLD1D0y?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen" loading="lazy"></iframe></div>
 
 Et voici un petit résumé de ce que j’y dis pour ceux qui n’auraient pas l’envie ou la possibilité de l’écouter !
@@ -82,3 +82,7 @@ Pour toute recherche utilisateur, il est extrêmement important de cibler les bo
 Cela passe par bien définir la cible en amont, et poser les bonnes questions avant les rencontres pour s'assurer que les utilisateurs correspondent.
 
 Vous restez sur votre faim ? Alors allez écouter [le podcast en entier](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg) !
+
+[Deezer]( https://www.deezer.com/fr/episode/436524817), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/france-wang-quelles-sont-les-erreurs-les-plus-communes/id1470372088?i=1000580432967), [Google Podcast](Design + - France Wang - Quelles sont les erreurs les plus communes en UX research ? (google.com))
+
+D'autres méthodes d'écoute [ici](https://anchor.fm/designplus/episodes/France-Wang---Quelles-sont-les-erreurs-les-plus-communes-en-UX-research-e1o295d).
