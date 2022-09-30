@@ -13,7 +13,7 @@ content_img_path: "/images/64a0c70caee4d6089d1b03fa40958aa84422f7bf-2120x1000.we
 excerpt: Adobe is buying Figma and here's what everyone's saying about it.
 author: src/data/authors/francew.json
 keywords: figma, adobe, product design, uxtool
-ogimage: ''
+ogimage: "/images/64a0c70caee4d6089d1b03fa40958aa84422f7bf-2120x1000.webp"
 beforeFooterSections: []
 
 ---
