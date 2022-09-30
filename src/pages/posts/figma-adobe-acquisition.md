@@ -8,8 +8,8 @@ ogtype: article
 title: figma-adobe-acquisition
 full_title: "Adobe buys Figma - \U0001F631 or \U0001F929 ?"
 date: 2022-09-29T22:00:00Z
-thumb_img_path: "/images/figma-adobe.png"
-content_img_path: "/images/figma-adobe.png"
+thumb_img_path: "/images/64a0c70caee4d6089d1b03fa40958aa84422f7bf-2120x1000.webp"
+content_img_path: "/images/64a0c70caee4d6089d1b03fa40958aa84422f7bf-2120x1000.webp"
 excerpt: Adobe is buying Figma and here's what everyone's saying about it.
 author: src/data/authors/francew.json
 keywords: figma, adobe, product design, uxtool
