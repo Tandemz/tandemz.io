@@ -87,20 +87,19 @@ This disappointment and disbelief comes with a lot of 😱 fear and uncertainty 
   Some people even worry that the whole idea of this acquisition is to kill Figma in order to push Adobe XD (truth be told, this is unlikely, not with a $20 billion price tag - but we’ll come back to this)
 * For a lot of designers, Adobe’s vision and philosophy is very different to Figma’s. Figma’s product is efficient and user friendly. Most Adobe products are deemed bloated and confusing. If both philosophies have to clash, which will prevail?
 
-  ![](/images/tandemz-figma-adobe-8.png)
+  ![](/images/tandemz-figma-adobe-8.png)![](/images/tandemz-figma-adobe-9.png)
 * Cost is also a real concern. Adobe has long used its dominant position in the market to get away with high prices (for instance, [in 2013, if you wanted to buy a Creative Suit licence in Australia, it was cheaper for you to fly to the US and buy it there than to buy it in Australia](https://www.gizmodo.com.au/2013/02/dont-believe-the-adobe-price-cut-hype-its-still-gauging-you-silly/)). Currently, each individual Adobe product has a subscription cost of \~$20 / month, with the full Creative Suite (bundle of 20+ apps) costing \~$55/month. In contrast, Figma costs $12/month. This is for individuals / small teams, so the 40% saving (at worst) is nothing to overlook. Also to be noted : Figma offers a 100% free version, and is also free for educational purpose, whereas Adobe only offers a free trial and a discount for students. It is therefore understandable that a lot of Figma’s free and individual subscription holders are worried for their wallets.
 
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4cb3bee9-384b-416d-b081-6fb4331aaa6e/Untitled.png)
-
-  ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fade036d-d190-442b-836d-90849722594c/Untitled.png)
+  ![](/images/tandemz-figma-adobe-10.png)
+* ![](/images/tandemz-figma-adobe-11.png)
 
 Designers are so worried that they are starting to look into alternatives, in prevision of Figma’s presumed demise.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aac62d1e-93cf-40a1-a3e3-25be4796584f/Untitled.png)
+![](/images/tandemz-figma-adobe-12.png)
 
 In just a couple of days, competitor and open source alternative Penpot has seen their growth increase by 5600%, which [allowed them to raise $8 millions](https://techcrunch.com/2022/09/27/penpot-inks-8m-as-signups-for-its-open-source-spin-on-figma-jump-5600-after-adobes-20b-acquisition-move/). Sketch, the previous king of the hill, has also taken this opportunity to welcome back previous users that had jumped ship.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89026ad6-b244-4591-a37f-0bb920350161/Untitled.png)
+![](/images/tandemz-figma-adobe-13.png)
 
 ## How the market reacted
 
@@ -144,3 +143,5 @@ Do you not care at all about this subject, and are just here for the memes? Well
 Here are some of my favorites :
 
 Coming soon in your Creative Cloud
+
+![](/images/tandemz-figma-adobe-14.png)![](/images/tandemz-figma-adobe-15.png)![](/images/tandemz-figma-adobe-16.png)
