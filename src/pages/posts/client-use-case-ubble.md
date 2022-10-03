@@ -10,7 +10,8 @@ full_title: 'Ubble x Tandemz: ”UX without testing is divination.”'
 date: 2022-10-16T22:00:00Z
 thumb_img_path: "/images/partenariat-ubble-tandemz.png"
 content_img_path: "/images/partenariat-ubble-tandemz.png"
-excerpt: ''
+excerpt: We explore how Ubble implemented user research habits and processes using
+  Tandemz recruitment features.
 author: src/data/authors/Loïs Gauthier.json
 keywords: 'use case, customer story, '
 ogimage: "/images/partenariat-ubble-tandemz.png"
