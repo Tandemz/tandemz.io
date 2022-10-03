@@ -179,9 +179,15 @@ sections:
       répondants et participants aux interviews étaient au top, la sélection nickel,
       et on en retire des insights très riches.
     avatar: ''
-  section_id: ''
+  section_id: reviews
   subtitle: ''
   logos:
+  - logo: "/images/logo_withings_client_tandemz.png"
+    alt: Logo Withings Client Tandemz
+    title: ''
+  - logo: "/images/logo_alan_client_tandemz-1.png"
+    alt: Logo Alan Client Tandemz
+    title: ''
   - logo: "/images/logo-shine.png"
     alt: Shine logo
     title: Logo Shine
