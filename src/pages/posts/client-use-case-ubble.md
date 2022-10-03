@@ -24,11 +24,11 @@ How do you find the time and resources to build scalable and effective UX practi
 
 > ”We often think we know our users, our customers. In reality, we know an archetype of a perfect, imaginary user; an average user that doesn't really exist.”
 
-# Simon
+## Simon
 
 Simon has been working in the field of user experience since 2011: he has worked as a freelancer, in agencies and for advertisers (BNP Paribas, Bankin'). He is now Lead UX at Ubble.
 
-# Ubble
+## Ubble
 
 Founded in 2018, this French startup that raised €8M in 2020 and was acquired by Checkout in 2022 develops an online identity verification solution through a technology combining live video, artificial intelligence and human verification. UX is at the heart of their challenges as verification must fit seamlessly into the journeys while guaranteeing the reliability of the authentication.
 
@@ -36,7 +36,7 @@ Founded in 2018, this French startup that raised €8M in 2020 and was acquired 
 
 Let's explore the search habits at Ubble before Simon's arrival and how he introduced new processes and methods with the help of Tandemz.
 
-# User research at Ubble
+## User research at Ubble
 
 Before Simon's arrival at Ubble, due to the lack of a solution, user tests were carried out by the teams but with a lack of centralization and methodology, insights were lost and they found it hard to really include user experience deep inside their processes.
 
