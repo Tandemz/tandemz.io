@@ -22,17 +22,15 @@ We can argue that most UX professionals are convinced of the need to meet their 
 
 How do you find the time and resources to build scalable and effective UX practices? In this article, we explore these questions with Simon Vandereecken, UX Lead at Ubble and Tandemz’ client.
 
-> ”We often think we know our users, our customers. In reality, we know an archetype of a perfect, imaginary user; an average user that doesn't really exist.”
+”We often think we know our users, our customers. In reality, we know an archetype of a perfect, imaginary user; an average user that doesn't really exist.”
 
-## Simon
+# Simon and Ubble
 
 Simon has been working in the field of user experience since 2011: he has worked as a freelancer, in agencies and for advertisers (BNP Paribas, Bankin'). He is now Lead UX at Ubble.
 
-## Ubble
+Founded in 2018, this French startup that raised €8M in 2020 and was acquired by Checkout in 2022 develops an online identity verification solution through a technology combining live video, artificial intelligence and human verification. UX is at the heart of their challenges as identity verification must fit seamlessly into the user’s journey while guaranteeing the reliability of the authentication.
 
-Founded in 2018, this French startup that raised €8M in 2020 and was acquired by Checkout in 2022 develops an online identity verification solution through a technology combining live video, artificial intelligence and human verification. UX is at the heart of their challenges as verification must fit seamlessly into the journeys while guaranteeing the reliability of the authentication.
-
-# Research context
+# Initiating UX research in a startup
 
 Let's explore the search habits at Ubble before Simon's arrival and how he introduced new processes and methods with the help of Tandemz.
 
@@ -40,7 +38,7 @@ Let's explore the search habits at Ubble before Simon's arrival and how he intro
 
 Before Simon's arrival at Ubble, due to the lack of a solution, user tests were carried out by the teams but with a lack of centralization and methodology, insights were lost and they found it hard to really include user experience deep inside their processes.
 
-## Objectives of the research and role of Tandemz
+## Tandemz comes in
 
 Ubble's user research needs are focused on the continuous improvement of their identity verification solution:
 
@@ -48,9 +46,9 @@ Ubble's user research needs are focused on the continuous improvement of their i
 * measure the usability of the solution and the clarity of the instructions
 * measure the fluidity of the verification process and its integration into the overall customer experience
 
-To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Tandemz had been recommended to Simon by a peer, so it was only natural that he turned to Tandemz to recruit his participants.
+To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices in Paris) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Following the recommendations of a peer, he turned to Tandemz to recruit his participants.
 
-> ”UX without testing is divination.”
+”UX without testing is divination.”
 
 ## Testers recruitment target
 
@@ -58,19 +56,19 @@ Ubble's clients are companies in the banking sector or tech startups whose end u
 
 🎯 Tandemz helps limit 3 of Simon's major paints in his user research:
 
-* the recruitment of participants
-* the management of no-shows
-* the multitude of tools usually needed for research
+* participant recruitment
+* no show management
+* removing the multitude of tools usually needed for research
 
 ➡️ Time saving and reduced mental load
 
-# Recruitment
+## Recruitment
 
 Since his arrival at Ubble, Simon has already conducted 6 recruitment sessions with Tandemz. Depending on his objectives, he needed between 5 and 10 participants and this objective has been met by Tandemz in the majority of cases.
 
 Before using Tandemz, Simon was sometimes faced with no-show rates of up to 50%. We managed to reduce this figure to 10%.
 
-# Analysis and insights
+## Driving more user-centricity at Ubble
 
 The tests performed by Simon allow Ubble to support their sales pitch to their B2B customers by:
 
@@ -91,7 +89,7 @@ Therefore, this insight helps to define the targeting of subsequent test iterati
 
 In this way, Simon develops a better internal knowledge of the customer that feeds the strategy and relevance of all the teams involved. This transversality of customer knowledge is a major characteristic of a customer-centric company.
 
-# Credits for simplified UX processes
+# Buying credits for more agile research processes
 
 Given the frequency of UX work done by Simon, Ubble decided to buy Tandemz credits. These credits facilitate the UX processes internally by:
 
@@ -100,7 +98,7 @@ Given the frequency of UX work done by Simon, Ubble decided to buy Tandemz credi
 
 Ubble is one of the many customers who have purchased Tandemz credits (Air France, Mozza, Jobteaser, CDiscount, Schneider Electric among others).
 
-> ”Buying Tandemz credits allows us to perpetuate the user research at Ubble, to make the tests more regular in order to maximize the ROI of our actions.”
+”Buying Tandemz credits allows us to perpetuate the user research at Ubble, to make the tests more regular in order to maximize the ROI of our actions.”
 
 Want to know more about how our customers use Tandemz to boost their user research? Read our other customer case studies:
 
