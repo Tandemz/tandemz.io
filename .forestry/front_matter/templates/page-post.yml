@@ -109,6 +109,7 @@ fields:
   default: article
 pages:
 - src/pages/posts/10-heuristiques-ux.md
+- src/pages/posts/5-testeurs-suffisent-mythe.md
 - src/pages/posts/client-case-study-jobteaser.md
 - src/pages/posts/client-use-case-cdiscount.md
 - src/pages/posts/comment-combien-remunerer-participants-ux-research.md
