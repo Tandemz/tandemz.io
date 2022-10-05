@@ -139,7 +139,7 @@ Ainsi quand on dit “tester avec 5 utilisateurs suffit !” on dit bien **utili
 
 Si vous testez votre application de recherche d’emploi avec vos parents à la retraite depuis 10 ans, vous pouvez être sûr·e que vous n’obtiendrez pas des résultats aussi exhaustifs ni aussi pertinents que si vous testiez avec des personnes en recherche d’emploi en ce moment même.
 
-<div background-color="#F7F9FB" padding="16px">💡 Trouver des utilisateurs représentatifs de votre cible vous paraît plus facile à dire qu’à faire ? Laissez-nous vous aider ! Chez Tandemz, c’est notre spécialité ! Vous ne nous croyez-pas ? [Jetez un oeil aux recrutements passés que nous avons déjà effectués ! ](https://www.tandemz.io/posts/tandemz-past-recruitment-database/)</div>__
+<p style="background-color:#F7F9FB;padding:16px">💡 Trouver des utilisateurs représentatifs de votre cible vous paraît plus facile à dire qu’à faire ? Laissez-nous vous aider ! Chez Tandemz, c’est notre spécialité ! Vous ne nous croyez-pas ? [Jetez un oeil aux recrutements passés que nous avons déjà effectués ! ](https://www.tandemz.io/posts/tandemz-past-recruitment-database/)</p>
 
 #### 3. Tester avec 5 utilisateurs aux profils trop différents
 
@@ -155,7 +155,7 @@ Comment mentionné plus haut, l’objectif premier de Nielsen était de maximise
 
 Dans cette même veine, Nielsen a toujours recommandé de faire de **multiples itérations de 5 tests**. En effet, dans un contexte où les interfaces évoluent très vite, il devient inutile de dresser en une fois une liste très exhaustive des problèmes d’utilisabilité d’un produit : il est probable que de toute façon, l’équipe de développement ne puisse pas la résoudre dans son intégralité, rendant cette liste rapidement obsolète aux grés des évolutions de l’interface. Il faut ainsi privilégier un suivi continu mais moins exhaustif, pour pouvoir aider les choix des équipes de développement sur la durée.
 
-<div background-color="#F7F9FB" padding="16px">💡 Itérez rapidement et facilement avec nos offres de crédits Tandemz! L’achat de crédits prépayés vous permet de faire des économies et d’accélérer vos cycles de recherche, tout en vous évitant la démultiplication des allers-retours de facturation. Pour plus d’infos, contactez-nous ! </div>
+<p style="background-color:#F7F9FB;padding:16px">💡 Itérez rapidement et facilement avec nos offres de crédits Tandemz! L’achat de crédits prépayés vous permet de faire des économies et d’accélérer vos cycles de recherche, tout en vous évitant la démultiplication des allers-retours de facturation. Pour plus d’infos, contactez-nous ! </p>
 
 Ainsi dès le départ, l’affirmation “**5 utilisateurs permettent de découvrir 85% des problèmes d’une interface”** vient avec son lot d’astérisques, de “si“ et de “mais”, qui ne la rendent pas applicable universellement. Malheureusement, et comme trop bien souvent, la communauté s’est avant tout emparée d’une forme simpliste et fausse du modèle.
 
@@ -247,8 +247,6 @@ Le modèle de Nielsen est avant tout un modèle d’optimisation du ROI de la re
 * moins vous testez, moins vous comprendrez ce qu’il faut améliorer sur le produit, et plus vous avez de chance de laisser passer des problèmes qui peuvent s’avérer graves.
 
 Le tout est de trouver un bon équilibre entre efforts de recherche et exhaustivité des résultats - et d’accepter les conséquences de son choix.
-
-D’ailleurs, si 5 testeurs permettent de trouver entre ****55% et 100% des problèmes de votre interface, cela veut aussi dire que vous avez des chances de passer à côté de jusque 45% des problèmes ! Est-ce bien acceptable pour vous ?
 
 Notre conseil ? Définissez d’abord votre priorité ainsi que le niveau de risque acceptable associé ! Posez-vous ainsi les questions suivantes :
 
