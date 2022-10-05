@@ -255,3 +255,5 @@ Notre conseil ? Définissez d’abord votre priorité ainsi que le niveau de ris
 * Un problème sur votre produit ou parcours peut-il avoir un impact grave sur vos utilisateurs ? Si oui, alors privilégiez l’exhaustivité.
 * Si non, avez-vous le budget et le temps de tester avec 15 personnes ? 10 personnes ? 5 personnes ? Si non, contentez-vous de ce que vous pouvez réaliser comme tests, et essayez d’itérer le plus souvent possible pour compenser.
 * Si oui, et que ces personnes remontent beaucoup de problèmes, aurez-vous la capacité de développement pour les corriger rapidement avant votre prochain cycle de test ? Ajustez alors la nombre de personnes visées en fonction de votre capacité de développement.
+
+<p style="background-color:#E3F4FF;padding:16px;border-radius:4px;">📰 Ce sujet des 5 utilisateurs qui suffisent est une des erreurs les plus communes en UX research, mais il en existe bien d'autres ! Découvrez-les dans le podcast de notre CPO <a href="https://www.tandemz.io/posts/podcast-erreurs-communes/">les erreurs les plus communes en UX research</a> pour apprendre à les reconnaître et les éviter ! </p>
