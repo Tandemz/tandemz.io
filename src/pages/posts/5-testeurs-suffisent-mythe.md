@@ -13,7 +13,7 @@ title: 5-testeurs-suffisent-mythe
 full_title: "Tester avec 5 personne suffit-il vraiment ? \U0001F914"
 date: 2022-10-04T22:00:00Z
 thumb_img_path: "/images/5personstitle.jpg"
-content_img_path: ''
+content_img_path: "/images/5personstitle-1.jpg"
 excerpt: On entend partout que 5 personnes suffisent pour tester une interface ! Ce
   n'est pourtant pas aussi simple - ensemble, démêlons le vrai du faux.
 author: src/data/authors/francew.json
@@ -40,6 +40,8 @@ En 1993, Jakob Nielsen (co-fondateur du célèbre Nielsen Norman Group) et Thoma
 Ce papier de recherche est résumé en 2000 dans l’article de blog [**Why You Only Need to Test with 5 Users**](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) qui fera le tour du monde - et est, à bien des égards, considéré comme étant à l’origine du mythe !
 
 La conclusion de son article : **5 utilisateurs permettent de découvrir 85% des problèmes d’une interface.**
+
+![Jakob Nielsen dans une de ses vidéos sur ce sujet](/images/nielsen.jpeg "Jakob Nielsen dans une de ses vidéos sur ce sujet")
 
 ## Comprendre le papier d’origine
 
@@ -155,7 +157,7 @@ Comment mentionné plus haut, l’objectif premier de Nielsen était de maximise
 
 Dans cette même veine, Nielsen a toujours recommandé de faire de **multiples itérations de 5 tests**. En effet, dans un contexte où les interfaces évoluent très vite, il devient inutile de dresser en une fois une liste très exhaustive des problèmes d’utilisabilité d’un produit : il est probable que de toute façon, l’équipe de développement ne puisse pas la résoudre dans son intégralité, rendant cette liste rapidement obsolète aux grés des évolutions de l’interface. Il faut ainsi privilégier un suivi continu mais moins exhaustif, pour pouvoir aider les choix des équipes de développement sur la durée.
 
-<p style="background-color:#E3F4FF;padding:16px;border-radius:4px;">💡 Itérez rapidement et facilement avec nos offres de crédits Tandemz! L’achat de crédits prépayés vous permet de faire des économies et d’accélérer vos cycles de recherche, tout en vous évitant la démultiplication des allers-retours de facturation. Pour plus d’infos, <a href="https://www.tandemz.io/posts/contact">contactez-nous</a> ! </p>
+<p style="background-color:#E3F4FF;padding:16px;border-radius:4px;">💡 Itérez rapidement et facilement avec nos offres de crédits Tandemz! L’achat de crédits prépayés vous permet de faire des économies et d’accélérer vos cycles de recherche, tout en vous évitant la démultiplication des allers-retours de facturation. Pour plus d’infos, <a href="https://www.tandemz.io/contact">contactez-nous</a> ! </p>
 
 Ainsi dès le départ, l’affirmation “**5 utilisateurs permettent de découvrir 85% des problèmes d’une interface”** vient avec son lot d’astérisques, de “si“ et de “mais”, qui ne la rendent pas applicable universellement. Malheureusement, et comme trop bien souvent, la communauté s’est avant tout emparée d’une forme simpliste et fausse du modèle.
 
