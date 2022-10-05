@@ -1,19 +1,25 @@
 ---
-og_image_width: 0
-og_image_height: 0
-hashtags: []
+og_image_width: 324
+og_image_height: 216
+hashtags:
+- ux research
+- user research
+- 5 persons rule
+- Nielsen
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: 5-testeurs-suffisent-mythe
 full_title: "Tester avec 5 personne suffit-il vraiment ? \U0001F914"
 date: 2022-10-04T22:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/5personstitle.jpg"
 content_img_path: ''
-excerpt: ''
+excerpt: On entend partout que 5 personnes suffisent pour tester une interface ! Ce
+  n'est pourtant pas aussi simple - ensemble, démêlons le vrai du faux.
 author: src/data/authors/francew.json
-keywords: ''
-ogimage: ''
+keywords: UX research, user research, usability testing, user tests, Nielsen, 5 persons
+  rule, test sample size
+ogimage: "/images/5personstitle-1.jpg"
 beforeFooterSections: []
 
 ---
@@ -31,7 +37,7 @@ Aujourd’hui, démêlons le vrai du faux, pour essayer de trouver une réponse 
 
 En 1993, Jakob Nielsen (co-fondateur du célèbre Nielsen Norman Group) et Thomas Landauer publient [**A mathematical model of the finding of usability problems**](https://dl.acm.org/doi/epdf/10.1145/169059.169166).
 
-Ce papier de recherche est résumé en 2000 dans l’article de blog [**Why You Only Need to Test with 5 Users **](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)qui fera le tour du monde - et est, à bien des égards, considéré comme étant à l’origine du mythe !
+Ce papier de recherche est résumé en 2000 dans l’article de blog [**Why You Only Need to Test with 5 Users**](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/) qui fera le tour du monde - et est, à bien des égards, considéré comme étant à l’origine du mythe !
 
 La conclusion de son article : **5 utilisateurs permettent de découvrir 85% des problèmes d’une interface.**
 
@@ -65,7 +71,7 @@ Ils vont donc chercher à déterminer à partir de combien de tests est-ce qu’
 
 ### Modèle mathématique
 
-_Attention, c’est là qu’on rentre dans le dur du sujet ! Si vous n’avez pas envie d’entrer à ce niveau de détails, vous pouvez sautez directement à nos conclusions ! Promis, on ne dira rien_ 😉
+_Attention, c’est là qu’on rentre dans le dur du sujet ! Si vous n’avez pas envie d’entrer à ce niveau de détails, vous pouvez_ [_sauter directement à nos conclusions_](#summary "Aller à la conclusion") _! Promis, on ne dira rien_ 😉
 
 Cette loi des rendements décroissants peut être modélisée selon cette formule :
 
@@ -188,9 +194,11 @@ Pour les sets de 5, elle remarque ainsi que selon les utilisateurs sur lesquels 
 
 Pour les sets de 10 utilisateurs, elle était plutôt entre 82% et 100%, avec une moyenne de 95%
 
+![](/images/10testersset.png)
+
 Et ainsi de suite :
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a543b71-838f-45d3-aa60-35109906307a/Untitled.png)
+![](/images/allsets.png)
 
 Cette étude corrobore bien le modèle de Nielsen et Landauer, mais uniquement en moyenne ! Ramenée au cas réel d’une étude terrain, cette moyenne ne peut pas malheureusement pas s’appliquer.
 
@@ -208,7 +216,7 @@ La question de la sévérité se pose du coup plutôt dans l’autre sens : si 5
 
 ## Pour résumer
 
-L’affirmation “Tester avec 5 personnes suffit” n’est pas complètement fausse - elle est juste très imprécise, et surtout, elle vient avec beaucoup de limites et de conditions qu’il est facile d’oublier !
+<div id="summary"> L’affirmation “Tester avec 5 personnes suffit” n’est pas complètement fausse - elle est juste très imprécise, et surtout, elle vient avec beaucoup de limites et de conditions qu’il est facile d’oublier ! </div>
 
 L’affirmation complète devrait plutôt être : **Tester avec 5 utilisateurs permet de trouver entre 55% et 100% des problèmes d’une interface.**
 
