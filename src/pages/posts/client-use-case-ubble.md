@@ -54,7 +54,7 @@ To do this, Simon favors in person moderated interviews (he meets the participan
 
 Ubble's clients are companies in the banking sector or tech startups whose end users are individuals (B2B2C). Ubble does not have direct access to the end users of their solution. Tandemz, thanks to its targeting features, allows Ubble to recruit participants matching their customers' end-users without soliciting them.
 
-🎯 Tandemz helps limit 3 of Simon's major paints in his user research:
+🎯 Tandemz helps limit 3 of Simon's major pain points in his user research:
 
 * participant recruitment
 * no show management
