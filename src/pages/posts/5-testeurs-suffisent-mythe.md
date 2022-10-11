@@ -10,7 +10,7 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: 5-testeurs-suffisent-mythe
-full_title: "Tester avec 5 personne suffit-il vraiment ? \U0001F914"
+full_title: "Tester avec 5 personnes suffit-il vraiment ? \U0001F914"
 date: 2022-10-04T22:00:00Z
 thumb_img_path: "/images/5personstitle.jpg"
 content_img_path: "/images/5personstitle-1.jpg"
