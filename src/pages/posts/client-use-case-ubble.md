@@ -107,4 +107,4 @@ Want to know more about how our clients use Tandemz to boost their user research
 * [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
 * [Jobteaser](https://www.tandemz.io/posts/client-case-study-jobteaser/)
 
-_Interview conducted with Simon Vandereecken on 08/09/2022._
+_Interview conducted with Simon Vandereecken on 08/09/2022_
