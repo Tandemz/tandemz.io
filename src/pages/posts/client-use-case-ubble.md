@@ -73,7 +73,7 @@ Before using Tandemz, Simon was sometimes faced with no-show rates of up to 50%.
 
 The tests performed by Simon allow Ubble to support their sales pitch to their B2B customers by:
 
-* providing them with verbatims
+* providing them verbatims
 * justifying decisions and offering arguments on points of experience
 * reassuring clients of the quality of the user experience offered by their solution, verified through testing
 
@@ -88,7 +88,7 @@ Therefore, this insight helps to define the targeting of subsequent test iterati
 * By inviting a different person from the company to each test and booking some time during the interview for that person's questions
 * By giving employees access to the recording of the interviews (before deleting the data)
 
-In this way, Simon develops a better internal knowledge of the customer that feeds the strategy and relevance of all the teams involved. This transversality of customer knowledge is a major characteristic of a customer-centric company.
+In this way, Simon develops a better internal knowledge of customers that feeds the strategy and relevance of all the teams involved. This transversality of customer knowledge is a major characteristic of a customer-centric company.
 
 # Buying credits for more agile research processes
 
