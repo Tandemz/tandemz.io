@@ -101,7 +101,7 @@ Ubble is one of the many customers who have purchased Tandemz credits (Air Franc
 
 ”Buying Tandemz credits allows us to perpetuate the user research at Ubble, to make the tests more regular in order to maximize the ROI of our actions.”
 
-Want to know more about how our customers use Tandemz to boost their user research? Read our other clients' case studies:
+Want to know more about how our clients use Tandemz to boost their user research? Read our other clients' case studies:
 
 * [Cdiscount](https://www.tandemz.io/posts/client-use-case-cdiscount/)
 * [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
