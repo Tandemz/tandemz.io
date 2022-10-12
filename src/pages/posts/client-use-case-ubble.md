@@ -103,6 +103,8 @@ Ubble is one of the many customers who have purchased Tandemz credits (Air Franc
 
 ![](/images/banniere-credits-half.png)
 
+[Chat with](https://calendly.com/tandemz-credits/30min?month=2022-10) us to know more about how credits can help your orgnization become more agile
+
 Want to know more about how our clients use Tandemz to boost their user research? Read our other clients' case studies:
 
 * [Cdiscount](https://www.tandemz.io/posts/client-use-case-cdiscount/)
