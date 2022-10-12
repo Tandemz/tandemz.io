@@ -7,7 +7,7 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: client-use-case-ubble
-full_title: 'Ubble x Tandemz: ”UX without testing is divination.”'
+full_title: 'Ubble x Tandemz: "UX without testing is divination"'
 date: 2022-10-11T22:00:00Z
 thumb_img_path: "/images/partenariat-ubble-tandemz.png"
 content_img_path: "/images/partenariat-ubble-tandemz.png"
