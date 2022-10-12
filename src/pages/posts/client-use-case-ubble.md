@@ -47,7 +47,7 @@ Ubble's user research needs are focused on the continuous improvement of their i
 * measure the usability of the solution and the clarity of the instructions
 * measure the fluidity of the verification process and its integration into the overall customer experience
 
-To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices in Paris) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Following the recommendations of a peer, he turned to Tandemz to recruit his participants.
+To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices in Paris) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Following the recommendation of a peer, he turned to Tandemz to recruit his participants.
 
 ”UX without testing is divination.”
 
