@@ -1,28 +1,30 @@
 ---
 og_image_width: 0
 og_image_height: 0
-hashtags: []
+hashtags:
+  - client use case
 template: post
 twitter_card: summary_large_image
 ogtype: article
 title: client-use-case-ubble
-full_title: 'Ubble x Tandemz: ”UX without testing is divination.”'
-date: 2022-10-16T22:00:00Z
-thumb_img_path: "/images/partenariat-ubble-tandemz.png"
-content_img_path: "/images/partenariat-ubble-tandemz.png"
-excerpt: We explore how Ubble implemented user research habits and processes using
+full_title: 'Ubble x Tandemz: "UX without testing is divination"'
+date: 2022-10-11T22:00:00Z
+thumb_img_path: '/images/partenariat-ubble-tandemz.png'
+content_img_path: '/images/partenariat-ubble-tandemz.png'
+excerpt:
+  We explore how Ubble implemented user research habits and processes using
   Tandemz recruitment features.
 author: src/data/authors/Loïs Gauthier.json
 keywords: 'use case, customer story, '
-ogimage: "/images/partenariat-ubble-tandemz.png"
+ogimage: '/images/partenariat-ubble-tandemz.png'
 beforeFooterSections: []
-
 ---
+
 We can argue that most UX professionals are convinced of the need to meet their users. The difficulties they encounter are in terms of time, process and tools.
 
 How do you find the time and resources to build scalable and effective UX practices? In this article, we explore these questions with Simon Vandereecken, UX Lead at Ubble and Tandemz’ client.
 
-”We often think we know our users, our customers. In reality, we know an archetype of a perfect, imaginary user; an average user that doesn't really exist.”
+> We often think we know our users, our customers. In reality, we know an archetype of a perfect, imaginary user; an average user that doesn't really exist.
 
 # Simon and Ubble
 
@@ -42,13 +44,13 @@ Before Simon's arrival at Ubble, due to the lack of a solution, user tests were 
 
 Ubble's user research needs are focused on the continuous improvement of their identity verification solution:
 
-* detect user pain points and frictions
-* measure the usability of the solution and the clarity of the instructions
-* measure the fluidity of the verification process and its integration into the overall customer experience
+- detect user pain points and frictions
+- measure the usability of the solution and the clarity of the instructions
+- measure the fluidity of the verification process and its integration into the overall customer experience
 
-To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices in Paris) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Following the recommendations of a peer, he turned to Tandemz to recruit his participants.
+To do this, Simon favors in person moderated interviews (he meets the participants at Ubble's offices in Paris) in order to be able to take into account the verbal AND non-verbal reactions of the participants with more precision. Following the recommendation of a peer, he turned to Tandemz to recruit his participants.
 
-”UX without testing is divination.”
+> UX without testing is divination.
 
 ## Testers recruitment target
 
@@ -56,9 +58,9 @@ Ubble's clients are companies in the banking sector or tech startups whose end u
 
 🎯 Tandemz helps limit 3 of Simon's major pain points in his user research:
 
-* participant recruitment
-* no show management
-* removing the multitude of tools usually needed for research
+- participant recruitment
+- no show management
+- removing the multitude of tools usually needed for research
 
 ➡️ Time saving and reduced mental load
 
@@ -72,9 +74,9 @@ Before using Tandemz, Simon was sometimes faced with no-show rates of up to 50%.
 
 The tests performed by Simon allow Ubble to support their sales pitch to their B2B customers by:
 
-* providing them with verbatims
-* justifying decisions and offering arguments on points of experience
-* reassuring clients of the quality of the user experience offered by their solution, verified through testing
+- providing them verbatims
+- justifying decisions and offering arguments on points of experience
+- reassuring clients of the quality of the user experience offered by their solution, verified through testing
 
 Carrying out tests before the client's request allows them to enhance their commercial relationship by justifying the seriousness of the work done.
 
@@ -84,26 +86,30 @@ Therefore, this insight helps to define the targeting of subsequent test iterati
 
 💡 How does Ubble use UX research to nurture user empathy within its teams?
 
-* By inviting a different person from the company to each test and booking some time during the interview for that person's questions
-* By giving employees access to the recording of the interviews (before deleting the data)
+- By inviting a different person from the company to each test and booking some time during the interview for that person's questions
+- By giving employees access to the recording of the interviews (before deleting the data)
 
-In this way, Simon develops a better internal knowledge of the customer that feeds the strategy and relevance of all the teams involved. This transversality of customer knowledge is a major characteristic of a customer-centric company.
+In this way, Simon develops a better internal knowledge of customers that feeds the strategy and relevance of all the teams involved. This transversality of customer knowledge is a major characteristic of a customer-centric company.
 
 # Buying credits for more agile research processes
 
 Given the frequency of UX work done by Simon, Ubble decided to buy Tandemz credits. These credits facilitate the UX processes internally by:
 
-* reducing the time between the decision to carry out a study and its completion (no budget or additional estimate to validate)
-* benefiting from numerous advantages: free credits from 5k€ purchased, dedicated Tandemz consultant
+- reducing the time between the decision to carry out a study and its completion (no budget or additional estimate to validate)
+- benefiting from numerous advantages: free credits from 5k€ purchased, dedicated Tandemz consultant
 
 Ubble is one of the many customers who have purchased Tandemz credits (Air France, Mozza, Jobteaser, CDiscount, Schneider Electric among others).
 
-”Buying Tandemz credits allows us to perpetuate the user research at Ubble, to make the tests more regular in order to maximize the ROI of our actions.”
+> Buying Tandemz credits allows us to perpetuate user research at Ubble, to make tests more regular in order to maximize the ROI of our actions.
 
-Want to know more about how our customers use Tandemz to boost their user research? Read our other customer case studies:
+![](/images/banniere-credits-half.png)
 
-* [Cdiscount](https://www.tandemz.io/posts/client-use-case-cdiscount/)
-* [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
-* [Jobteaser](https://www.tandemz.io/posts/client-case-study-jobteaser/)
+[Chat with](https://calendly.com/tandemz-credits/30min?month=2022-10) us to know more about how credits can help your orgnization become more agile.
 
-_Interview conducted with Simon Vandereecken on 08/09/2022._
+Want to know more about how our clients use Tandemz to boost their user research? Read our other clients' case studies:
+
+- [Cdiscount](https://www.tandemz.io/posts/client-use-case-cdiscount/)
+- [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
+- [Jobteaser](https://www.tandemz.io/posts/client-case-study-jobteaser/)
+
+_Interview conducted with Simon Vandereecken on 08/09/2022_

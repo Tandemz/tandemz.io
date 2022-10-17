@@ -66,7 +66,7 @@ C’est vrai ! Mais il ne l’a pas dit comme ça. Cette affirmation vient avec 
 
 En réalité, la phrase complète est “Tester avec 5 utilisateurs permet de trouver 85% des problèmes d’une interface”.
 
-Ce sujet est très vaste et pourrait faire l’objet de son propre article (spoiler alert : ce sera bientôt le cas ! Si cela vous intéresse de le lire quand il sortira, [inscrivez-vous à notre newsletter](#sib-form "Inscription newsletter") !) mais dans les grandes lignes :
+Ce sujet est très vaste et fait déjà l'objet de [son propre article, ](https://www.tandemz.io/posts/5-testeurs-suffisent-mythe/ "Article sur le mythe de la 5 persones rule")mais dans les grandes lignes :
 
 * elle ne s’applique qu’aux tests d’interface
 * elle ne s’applique que si vous testez avec 5 utilisateurs aux profils similaires
@@ -83,6 +83,6 @@ Cela passe par bien définir la cible en amont, et poser les bonnes questions av
 
 Vous restez sur votre faim ? Alors allez écouter le podcast en entier sur:
 
-[Spotify](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg), [Deezer]( https://www.deezer.com/fr/episode/436524817), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/france-wang-quelles-sont-les-erreurs-les-plus-communes/id1470372088?i=1000580432967), [Google Podcast](Design + - France Wang - Quelles sont les erreurs les plus communes en UX research ? (google.com))
+[Spotify](https://open.spotify.com/episode/6O5tPanNkmLeGgNPrT21XX?si=7qME1SPqTWu27-BkmpLxkg), [Deezer](https://www.deezer.com/fr/episode/436524817), [Apple Podcasts](https://podcasts.apple.com/fr/podcast/france-wang-quelles-sont-les-erreurs-les-plus-communes/id1470372088?i=1000580432967), [Google Podcast](Design + - France Wang - Quelles sont les erreurs les plus communes en UX research ? (google.com))
 
 D'autres méthodes d'écoute [ici](https://anchor.fm/designplus/episodes/France-Wang---Quelles-sont-les-erreurs-les-plus-communes-en-UX-research-e1o295d).
