@@ -72,7 +72,7 @@ export default function LocaleSelector({ page }) {
       );
       if (matchingPage) {
         saveLocale(getLocale(matchingPage));
-        navigate(matchingPage.url);
+        navigate(`${matchingPage.url}${window.location.search}`);
         return;
       }
     }
@@ -84,7 +84,7 @@ export default function LocaleSelector({ page }) {
     if (!option) {
       return;
     }
-    navigate(option.url);
+    navigate(`${option.url}${window.location.search}`);
   };
 
   return <Select options={options} value={locale} onChange={_onChange} gray />;
