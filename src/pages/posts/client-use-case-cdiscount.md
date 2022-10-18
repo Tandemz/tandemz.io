@@ -12,7 +12,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: client-use-case-cdiscount
 full_title: 'CDiscount x Tandemz : retour sur 1 an de collaboration réussie !'
-date: 2022-03-29T22:00:00Z
+date: 2022-03-29T22:00:00.000+00:00
 thumb_img_path: "/images/usecasecdiscount.png"
 content_img_path: "/images/usecasecdiscount.png"
 excerpt: Tandemz accompagne depuis 1 an Cdiscount dans sa recherche utilisateur !
@@ -25,7 +25,6 @@ ogimage: "/images/usecasecdiscount2x1.png"
 beforeFooterSections: []
 
 ---
-
 Cdiscount, c’est le pari fou d’une start-up lancée en 1998 à Bordeaux, et devenue aujourd’hui le leader français du e-commerce. Spécialisée à ses débuts dans la vente de DVD à moins de 1€, l’entreprise n’a cessé d’innover et a connu 2 évolutions majeures : la création de sa marketplace en 2011 et le développement de ses activités BtoB en 2020.
 
 Pilier de ces évolutions, l’entité technologique de Cdiscount soutient et accélère les développements BtoC et BtoB de Cdiscount et de ses filiales, et produit la technologie des 4 assets de Cdiscount : le site Cdiscount.com, Octopia (filiale dédiée aux solutions marketplace), C-Logistics (filiale logistique), et la marque Cdiscount Advertising (dédié au marketing digital).
@@ -39,7 +38,7 @@ La Design Factory s’est développée très vite : son équipe d’UX researche
 Dans le cadre de la mise en place d’[Octopia](https://octopia.com/ "Octopia"), filiale dédiée aux solutions marketplace, l’entité Tech de Cdiscount cherchait à rencontrer des profils spécialisés dans les métiers de la gestion des marketplaces :
 
 * des personnes s’occupant de la sélection des produits et des vendeurs
-*  au sein de Marketplaces spécialistes et généralistes, sélectives et moins sélectives, matures et récentes sur le marché
+* au sein de Marketplaces spécialistes et généralistes, sélectives et moins sélectives, matures et récentes sur le marché
 * sur des territoires géographiques internationaux.
 
 L’objectif étant de comprendre les logiques d’usages des marketplaces vis-à-vis de la sélection des produits et des vendeurs, afin de s’assurer de l’utilisabilité et de la pertinence des parcours proposés aux utilisateurs et de leur efficience dans une utilisation quotidienne.
@@ -77,3 +76,9 @@ Au fur et à mesure, les chantiers se sont diversifiés et Tandemz a pu travaill
 > “Depuis un an, la collaboration avec Tandemz a été très fructueuse. Chaque étude a pu nous donner des résultats convaincants, qui nous permettent d’avancer sereinement sur nos produits. Le fait de pouvoir déléguer le recrutement a été un réel soulagement, et un facteur non négligeable dans la croissance de notre connaissance des besoins et usages des utilisateurs. C’est pour cela que nous nous sommes engagés via une souscription annuelle.”
 
 Isabelle RICHARD – Lead Research
+
+Découvrez comment nos clients utilisent Tandemz pour booster leur recherche utilisateur en lisant nos cas clients:
+
+* [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
+* [Jobteaser](https://www.tandemz.io/posts/client-case-study-jobteaser/)
+* [Ubble](https://www.tandemz.io/posts/client-use-case-ubble/)
