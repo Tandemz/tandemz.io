@@ -39,7 +39,7 @@ const LeadMagnetBlock = (props) => {
     })
       .then(() => {
         if (redirectTo) {
-          props.navigate(redirectTo);
+          props.navigate(`${redirectTo}?email=${email}`);
         } else {
           setPostStatus('success');
         }

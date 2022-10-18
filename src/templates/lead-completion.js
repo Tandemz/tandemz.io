@@ -4,8 +4,12 @@ import _ from 'lodash';
 import { Layout } from '../components';
 import { htmlToReact } from '../utils';
 
-export default class Contact extends React.Component {
+export default class LeadCompletion extends React.Component {
   render() {
+    const params = new URLSearchParams(
+      this.props.location ? this.props.location.search : '',
+    );
+    const email = params.get('email');
     return (
       <Layout {...this.props}>
         <div className="outer">
@@ -62,6 +66,7 @@ export default class Contact extends React.Component {
                       name="email"
                       className="form-input"
                       required
+                      defaultValue={email}
                     />
                   </p>
                   <p className="form-row">
