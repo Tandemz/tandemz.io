@@ -1,6 +1,6 @@
 ---
-og_image_width: ''
-og_image_height: ''
+og_image_width: 
+og_image_height: 
 hashtags:
 - Jobteaser
 - user research
@@ -20,6 +20,7 @@ excerpt: Découvrez comment Jobteaser a réussi à faire de la recherche utilisa
 author: src/data/authors/francew.json
 keywords: Jobteaser, user research, Tandemz, German students, client use cas
 ogimage: "/images/partenariat.jpg"
+beforeFooterSections: []
 
 ---
 JobTeaser accompagne depuis 2008 les nouvelles générations pour les aider à mieux s’orienter, à se révéler et à s’accomplir professionnellement, en leur proposant entre autres une plateforme dédiée avec des offres de stage et d'emploi.
@@ -49,3 +50,9 @@ Grâce à Tandemz, ils ont pu recruter, interviewer et tester leur prototype d'a
 > C'était top, hyper rapide. Tous les testeurs étaient hyper qualifiés, et en plus, ils étaient bien motivés et ont bien joué le jeu. J'ai pu rencontrer des personnes que j'aurais jamais eu moyen d'atteindre par mes propres moyens avant.
 
 Et maintenant ? **Jobteaser a souscrit à un abonnement de recrutement** pour que toutes les équipes produit et design puissent utiliser la plateforme et recruter 15 profils étudiants par mois, n'importe où dans le monde !
+
+Découvrez comment nos clients utilisent Tandemz pour booster leur recherche utilisateur en lisant nos cas clients:
+
+* [Mano mano](https://www.tandemz.io/posts/use-case-manomano/)
+* [cDiscount](https://www.tandemz.io/posts/client-use-case-cdiscount/)
+* [Ubble](https://www.tandemz.io/posts/client-use-case-ubble/)
