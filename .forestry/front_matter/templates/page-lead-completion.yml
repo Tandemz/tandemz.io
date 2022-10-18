@@ -1,0 +1,95 @@
+---
+label: Page Lead Completion/Magnet
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the page.
+  config:
+    required: true
+- type: text
+  name: template
+  label: Template
+  hidden: false
+  default: contact
+  config:
+    required: true
+- type: text
+  name: subtitle
+  label: Subtitle
+  description: The text shown below the page title.
+- type: text
+  name: firstName
+  label: Label firstName
+- type: text
+  name: email
+  label: Label email
+- type: text
+  name: jobTitle
+  label: Label jobtitle
+
+- type: field_group
+  name: target
+  label: Target Field config
+  fields:
+    - type: text
+      name: label
+      label: Label
+    - type: text
+      name: b2b
+      label: B2B option
+    - type: text
+      name: b2c
+      label: B2C option
+    - type: text
+      name: both
+      label: Both option
+    - type: text
+      name: never
+      label: Never option
+
+- type: field_group
+  name: companyType
+  label: Company Type field config
+  fields:
+    - type: text
+      name: label
+      label: Label
+    - type: text
+      name: freelance
+      label: Freelance option
+    - type: text
+      name: agency
+      label: Agency option
+    - type: text
+      name: startup
+      label: Start-up option
+    - type: text
+      name: scaleup
+      label: Scaleup option
+    - type: text
+      name: publicAgency
+      label: Public Agency option
+    - type: text
+      name: none
+      label: None option
+
+- type: text
+  name: dest
+  label: Url de destination
+- type: text
+  name: submit
+  label: Submit button
+- type: file
+  name: img_path
+  label: Image
+  description: The image shown below the page title.
+- name: seo
+  type: include
+  config: {}
+  template: seo-fields
+  label: SEO
+pages:
+- src/pages/en/lead-magnet.md
+- src/pages/fr/lead-magnet.md

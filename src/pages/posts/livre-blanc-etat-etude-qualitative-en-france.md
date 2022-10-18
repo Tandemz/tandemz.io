@@ -30,6 +30,7 @@ beforeFooterSections:
     le support
   formSendingSuccess: Nous vous avons envoyé le dossier par mail !
   inputPlaceholder: 'ex : sendme@example.com'
+  redirectTo: '/lead-magnet'
   buttonLabel: Recevoir le dossier
   title: Recevez le dossier complet !
   section_id: WhiteBook

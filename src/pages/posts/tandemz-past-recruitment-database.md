@@ -28,6 +28,7 @@ beforeFooterSections:
     also access it directly here: https://airtable.com/shr16iFa074cTMG0Q'
   formSendingError: Something went wrong, check your internet connexion and try again!
   buttonLabel: Get access
+  redirectTo: /lead-magnet
 
 ---
 

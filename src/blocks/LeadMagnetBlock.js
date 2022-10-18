@@ -17,6 +17,7 @@ const LeadMagnetBlock = (props) => {
   const formSendingSuccessMessage = _.get(section, 'formSendingSuccess');
   const formSendingErrorMessage = _.get(section, 'formSendingError');
   const section_id = _.get(section, 'section_id');
+  const redirectTo = _.get(section, 'redirectTo');
 
   const [email, setEmail] = useState(null);
   const [postStatus, setPostStatus] = useState(null);
@@ -37,7 +38,11 @@ const LeadMagnetBlock = (props) => {
       }),
     })
       .then(() => {
-        setPostStatus('success');
+        if (redirectTo) {
+          props.navigate(redirectTo);
+        } else {
+          setPostStatus('success');
+        }
       })
       .catch(() => setPostStatus('error'));
   };
