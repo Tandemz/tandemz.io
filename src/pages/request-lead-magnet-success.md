@@ -19,6 +19,6 @@ ogdescription: ''
 metatags: []
 schema_org_data_list: []
 locale: ''
-globalName: contact-success
+globalName: lead-magnet-success
 
 ---
