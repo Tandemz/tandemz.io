@@ -10,7 +10,7 @@ template: post
 twitter_card: summary_large_image
 ogtype: article
 title: guide-screener-writing
-full_title: The ultimate guide to screener writing
+full_title: The Ultimate Guide to Screener Writing
 date: 2022-10-18T22:00:00Z
 thumb_img_path: "/images/the-ultimate-guide-to-screener-writing.png"
 content_img_path: "/images/the-ultimate-guide-to-screener-writing.png"
@@ -96,25 +96,8 @@ To go even further, we are working on a database of ready-to-use questions for y
 
 You will find questions on the following criteria:
 
-* Demographic:
-  * Age
-  * Gender
-  * Location
-  * Language.s spoken
-  * Education level
-  * Professional situation
-  * Family status
-  * Income level
-  * Job title
-  * Professional category
-  * Hierarchy level
-  * Company size
-  * Industry
-  * Company category
-* Behavioral:
-  * Frequency
-  * Tech savviness
-* Emotional:
-  * Preference
+* Demographic: Age, Gender, Location, Language.s spoken, Education level, Professional situation, Family status, Income level, Job title, Professional category, Hierarchy level, Company size, Industry, Company category
+* Behavioral: Frequency, Tech savviness
+* Emotional: Preference
 
 ![](/images/teasing-screener-questions-database.png)
