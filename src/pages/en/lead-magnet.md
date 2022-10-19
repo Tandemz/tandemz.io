@@ -22,10 +22,10 @@ companyType:
   publicAgency: Public company / Government agency
   none: None of above
 maturity:
-  label: Quelle situation vous correspond le mieux ?
-  min: Personne ne fait de recherche utilisateur dans mon entreprise
-  avg: Il n'y a pas de personne dédiée à la recherche utilisateur dans mon entreprise
-  max: Il y a des personnes dédiées à la recherche utilisateur dans mon entreprise
+  label: Which of the following best describes the situation at your organization?
+  min: No one conducts user research within my organization
+  avg: There are no people dedicated to conducting research within my organization
+  max: There are people dedicated to conducting research within my organization
 submit: Receive the ressource
 dest: "/request-lead-magnet-success"
 keywords: recherche utilisateur, recherche UX, tests utilisateurs
