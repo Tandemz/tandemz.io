@@ -169,6 +169,40 @@ export default class LeadCompletion extends React.Component {
                       <option value="none">None</option>
                     </select>
                   </p>
+                  <p className="form-row">
+                    <label className="form-label">
+                      {_.get(
+                        this.props,
+                        'pageContext.frontmatter.maturity.label',
+                      )}
+                    </label>
+                    <select
+                      id="maturity"
+                      name="maturity"
+                      className="form-input"
+                      required
+                    >
+                      <option value="" selected></option>
+                      <option value="min">
+                        {_.get(
+                          this.props,
+                          'pageContext.frontmatter.maturity.min',
+                        )}
+                      </option>
+                      <option value="avg">
+                        {_.get(
+                          this.props,
+                          'pageContext.frontmatter.maturity.avg',
+                        )}
+                      </option>
+                      <option value="max">
+                        {_.get(
+                          this.props,
+                          'pageContext.frontmatter.maturity.max',
+                        )}
+                      </option>
+                    </select>
+                  </p>
                   <input
                     type="hidden"
                     name="form-name"

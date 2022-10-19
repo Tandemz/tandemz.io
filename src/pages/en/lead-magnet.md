@@ -21,6 +21,11 @@ companyType:
   scaleup: Scale-up / Corporation
   publicAgency: Public company / Government agency
   none: None of above
+maturity:
+  label: Quelle situation vous correspond le mieux ?
+  min: Personne ne fait de recherche utilisateur dans mon entreprise
+  avg: Il n'y a pas de personne dédiée à la recherche utilisateur dans mon entreprise
+  max: Il y a des personnes dédiées à la recherche utilisateur dans mon entreprise
 submit: Receive the ressource
 dest: "/request-lead-magnet-success"
 keywords: recherche utilisateur, recherche UX, tests utilisateurs

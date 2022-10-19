@@ -19,6 +19,11 @@ companyType:
   scaleup: Scale-up / Grand groupe
   publicAgency: Entreprise publique / Agence gouvernementale
   none: Aucune de ces catégories
+maturity:
+  label: Quelle situation vous correspond le mieux ?
+  min: Personne ne fait de recherche utilisateur dans mon entreprise
+  avg: Il n'y a pas de personne dédiée à la recherche utilisateur dans mon entreprise
+  max: Il y a des personnes dédiées à la recherche utilisateur dans mon entreprise
 submit: Recevoir le document
 dest: "/request-lead-magnet-success"
 img_path: ''

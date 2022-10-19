@@ -72,6 +72,19 @@ fields:
   - type: text
     name: none
     label: None option
+- type: field_group
+  name: maturity
+  label: Maturity field config
+  fields:
+  - type: text
+    name: label
+    label: Label
+  - type: text
+    name: min
+  - type: text
+    name: avg
+  - type: text
+    name: max
 - type: text
   name: dest
   label: Url de destination
