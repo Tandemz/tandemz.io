@@ -20,7 +20,7 @@ companyType:
   startup: Start-up
   scaleup: Scale-up / Corporation
   publicAgency: Public company / Government agency
-  none: None of above
+  none: None of the above
 maturity:
   label: Which of the following best describes the situation at your organization?
   min: No one conducts user research within my organization
