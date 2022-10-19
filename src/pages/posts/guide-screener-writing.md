@@ -51,10 +51,10 @@ To help you enhance your research with good screeners we have written an extensi
 
 In this guide, you will learn:
 
-* what is a screener? how and when to use them?
-* what are the characteristics of a good screener?
-* what are the steps to create a good screener?
-* how to deal with behavioral, emotional and demographic criteria?
+* What is a screener? how and when to use them?
+* What are the characteristics of a good screener?
+* What are the steps to create a good screener?
+* How to deal with behavioral, emotional and demographic criteria?
 
 In the guide, we use the specific use case of a mobile network operator with examples for each step of the process. Whatever your business is, it will help understand how to adapt each step to your specific needs and requirements.
 
