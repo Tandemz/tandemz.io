@@ -28,53 +28,50 @@ fields:
 - type: text
   name: jobTitle
   label: Label jobtitle
-
 - type: field_group
   name: target
   label: Target Field config
   fields:
-    - type: text
-      name: label
-      label: Label
-    - type: text
-      name: b2b
-      label: B2B option
-    - type: text
-      name: b2c
-      label: B2C option
-    - type: text
-      name: both
-      label: Both option
-    - type: text
-      name: never
-      label: Never option
-
+  - type: text
+    name: label
+    label: Label
+  - type: text
+    name: b2b
+    label: B2B option
+  - type: text
+    name: b2c
+    label: B2C option
+  - type: text
+    name: both
+    label: Both option
+  - type: text
+    name: never
+    label: Never option
 - type: field_group
   name: companyType
   label: Company Type field config
   fields:
-    - type: text
-      name: label
-      label: Label
-    - type: text
-      name: freelance
-      label: Freelance option
-    - type: text
-      name: agency
-      label: Agency option
-    - type: text
-      name: startup
-      label: Start-up option
-    - type: text
-      name: scaleup
-      label: Scaleup option
-    - type: text
-      name: publicAgency
-      label: Public Agency option
-    - type: text
-      name: none
-      label: None option
-
+  - type: text
+    name: label
+    label: Label
+  - type: text
+    name: freelance
+    label: Freelance option
+  - type: text
+    name: agency
+    label: Agency option
+  - type: text
+    name: startup
+    label: Start-up option
+  - type: text
+    name: scaleup
+    label: Scaleup option
+  - type: text
+    name: publicAgency
+    label: Public Agency option
+  - type: text
+    name: none
+    label: None option
 - type: text
   name: dest
   label: Url de destination
