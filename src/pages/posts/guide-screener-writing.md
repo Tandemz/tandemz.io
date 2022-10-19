@@ -1,6 +1,6 @@
 ---
-og_image_width: 0
-og_image_height: 0
+og_image_width: 
+og_image_height: 
 hashtags:
 - guide
 - screener
@@ -11,7 +11,7 @@ twitter_card: summary_large_image
 ogtype: article
 title: guide-screener-writing
 full_title: The Ultimate Guide to Screener Writing
-date: 2022-10-18T22:00:00Z
+date: 2022-10-18T22:00:00.000+00:00
 thumb_img_path: "/images/the-ultimate-guide-to-screener-writing.png"
 content_img_path: "/images/the-ultimate-guide-to-screener-writing.png"
 excerpt: A guide for anyone conducting research wanting to streamline their screener
@@ -39,7 +39,7 @@ Being good at it requires great knowledge of human psychology and/or using a gre
 
 It can seem pretty easy at first, but once you realize all the biases and implications that each question can raise, it becomes trickier than expected. There are many different ways to articulate questions and to phrase each one of them.
 
-A good screener can:
+# **A good screener can:**
 
 * save time and resources by spending time with the right users
 * avoid a lot of bias in your research results
@@ -49,7 +49,7 @@ A screener can be used at all steps of the research process and for different ty
 
 To help you enhance your research with good screeners we have written an extensive and exhaustive guide: the ultimate guide to screener writing.
 
-In this guide, you will learn:
+# **In this guide, you will learn:**
 
 * What is a screener? how and when to use them?
 * What are the characteristics of a good screener?
@@ -58,7 +58,7 @@ In this guide, you will learn:
 
 In the guide, we use the specific use case of a mobile network operator with examples for each step of the process. Whatever your business is, it will help understand how to adapt each step to your specific needs and requirements.
 
-Here is the outline of the guide:
+## Here is the outline of the guide:
 
 * Pre-requisite: define your study’s target
   * Behavioral criteria
@@ -76,7 +76,7 @@ Here is the outline of the guide:
     * A screener example
   * Coming soon: screener question database
 
-A few examples of what you’ll find in the guide:
+## A few examples of what you’ll find in the guide:
 
 * how to prioritize behavioral, emotional and demographic criteria to select testers
 * how to measure emotional criteria to limit bias
@@ -91,6 +91,8 @@ A few examples of what you’ll find in the guide:
 The guide also includes a full examples of a screener with 13 questions.
 
 Using this guide, you will have a clear idea of how to screen the right testers for your study. We hope this helps you find the right testers for your study and create loved products.
+
+## Screener Questions Database Coming Soon!
 
 To go even further, we are working on a database of ready-to-use questions for your screener following the best practices we have just presented you in this guide.
 
