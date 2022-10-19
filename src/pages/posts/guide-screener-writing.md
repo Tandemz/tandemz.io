@@ -1,7 +1,11 @@
 ---
 og_image_width: 0
 og_image_height: 0
-hashtags: []
+hashtags:
+- guide
+- screener
+- ux research
+- ux ressource
 template: post
 twitter_card: summary_large_image
 ogtype: article
@@ -13,9 +17,20 @@ content_img_path: "/images/the-ultimate-guide-to-screener-writing.png"
 excerpt: A guide for anyone conducting research wanting to streamline their screener
   writing skills for better research results.
 author: src/data/authors/francew.json
-keywords: guide, screener
+keywords: guide, screener, ux research, ux ressource
 ogimage: "/images/the-ultimate-guide-to-screener-writing.png"
-beforeFooterSections: []
+beforeFooterSections:
+- template: leadmagnetsection
+  component: LeadMagnetBlock
+  displayFormInNetlify: true
+  section_id: ScreenerGuideAccessRequestForm
+  buttonLabel: Get access
+  redirectTo: "/lead-magnet"
+  formName: ScreenerGuideAccessRequestForm
+  inputPlaceholder: 'ex : sendtome@mycompany.com'
+  title: Get access to the full guide now!
+  formSendingSuccess: We've sent you the link to the guide by email!
+  formSendingError: There was an issue, please try again later or contact our support
 
 ---
 Screener writing is not an innate skill.
