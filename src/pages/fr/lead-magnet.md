@@ -20,7 +20,7 @@ companyType:
   publicAgency: Entreprise publique / Agence gouvernementale
   none: Aucune de ces catégories
 submit: Recevoir le document
-dest: "/lead-magnet"
+dest: "/request-lead-magnet-success"
 img_path: ''
 description: Remplissez les informations ci-dessous pour recevoir le document
 keywords: recherche utilisateur, recherche UX, tests utilisateurs
