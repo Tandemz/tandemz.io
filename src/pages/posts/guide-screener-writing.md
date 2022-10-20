@@ -49,6 +49,8 @@ A screener can be used at all steps of the research process and for different ty
 
 To help you enhance your research with good screeners we have written an extensive and exhaustive guide: the ultimate guide to screener writing.
 
+[**Access the guide**](https://www.tandemz.io/posts/guide-screener-writing/#ScreenerGuideAccessRequestForm)
+
 # **In this guide, you will learn:**
 
 * What is a screener? how and when to use them?
