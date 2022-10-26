@@ -170,9 +170,7 @@ This is what makes us perceive animal shapes in clouds or in stars.
 1. You conduct tests on low-fidelity wireframes for a food ordering app. The 3 first testers have a very smooth experience and rate the usability of the app positively. You have 12 other testers left to work with but you have already told your team the user flow won’t need any major changes.
 2. When chronologically reviewing the results of a survey answered by 230 users, you are surprised that 12 users in a row chose the same answer to a yes/no question.
 
-# **
-
-Reduce bias with hands-on tactics and experiments:**
+## Reduce bias with hands-on tactics and experiments
 
 When preparing for user research
 
