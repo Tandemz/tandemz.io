@@ -13,13 +13,13 @@ ogtype: article
 title: 9-biases-in-user-research
 full_title: 9 biases to keep in mind when conducting user research
 date: 2022-10-25T22:00:00Z
-thumb_img_path: "/images/banniere-article-biais.png"
-content_img_path: "/images/banniere-article-biais.png"
+thumb_img_path: "/images/banniere-article-biais-2.png"
+content_img_path: "/images/banniere-article-biais-2.png"
 excerpt: Do you know which biases are a danger for your user research? This article
   will tell you. Plus, it has gifs!
 author: src/data/authors/Loïs Gauthier.json
 keywords: UX research, user research, biases, user test, interviews
-ogimage: "/images/banniere-article-biais.png"
+ogimage: "/images/banniere-article-biais-2.png"
 beforeFooterSections: []
 
 ---
