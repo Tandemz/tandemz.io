@@ -35,7 +35,7 @@ There are tens of different ones that have been studied. In this article, we sha
 
 For each bias, we provide a definition, an explanation, a daily-life example followed by 2 UX examples.
 
-## Biases that can negatively impact your UX research:
+## Biases that can negatively impact your UX research
 
 ### Confirmation bias
 
