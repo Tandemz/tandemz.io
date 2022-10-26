@@ -115,10 +115,10 @@ This is what pushed people to watch Game of Thrones until the final episode, eve
 
 The anchoring bias describes our tendency to take as a reference the first piece of information we have been in contact with.
 
-In the context of UX research **it means: we cannot forget what was said first and will unwillingly react to it when making decisions.** 
+In the context of UX research **it means: we cannot forget what was said first and will unwillingly react to it when making decisions.**
 
-![](https://media.giphy.com/media/3orieOV8shvF24aLjW/giphy.gif)  
-  
+![](https://media.giphy.com/media/3orieOV8shvF24aLjW/giphy.gif)
+
 This is why in negotiations, the one who states their price before the other party has the advantage.
 
 ### Examples:
@@ -132,7 +132,7 @@ The peak end rule describes our tendency to rely mostly on the peak and end of a
 
 **It means a great show is all about a big surprise in the middle and another one at the end.**
 
-![](https://media.giphy.com/media/3ohze1LSWrEGCML02Y/giphy.gif)
+![](https://media.giphy.com/media/3orifdcMyW0p8RQMX6/giphy.gif)
 
 This is what makes you give a mediocre rating to a restaurant where you really enjoyed the starter and main course but were disappointed with the dessert.
 
@@ -143,8 +143,8 @@ This is what makes you give a mediocre rating to a restaurant where you really e
 
 ## Social desirability
 
-Social desirability bias describes our tendency to present ourselves in a way that will positively affect other people’s perception of us.  
-  
+Social desirability bias describes our tendency to present ourselves in a way that will positively affect other people’s perception of us.
+
 In the context of UX research, **it means your user might lie to you because they want to be nice and/or be a “good person”**.
 
 ![](https://media.giphy.com/media/3o6fJ5RnMX4Pp5zgAM/giphy.gif)
@@ -156,12 +156,12 @@ In the context of UX research, **it means your user might lie to you because the
 
 ## Clustering illusion
 
-The clustering illusion creates a wrong perception of statistical data. We expect random data to look one specific way although at a small scale, most configurations have similar likeliness.  
-  
+The clustering illusion creates a wrong perception of statistical data. We expect random data to look one specific way although at a small scale, most configurations have similar likeliness.
+
 **It means: we find patterns where there aren’t any.**
 
-![](https://media.giphy.com/media/G4wEOs5KN9JFXMLT6d/giphy.gif)  
-  
+![](https://media.giphy.com/media/G4wEOs5KN9JFXMLT6d/giphy.gif)
+
 This is what makes us perceive animal shapes in clouds or in stars.
 
 ### Examples:
@@ -169,7 +169,8 @@ This is what makes us perceive animal shapes in clouds or in stars.
 1. You conduct tests on low-fidelity wireframes for a food ordering app. The 3 first testers have a very smooth experience and rate the usability of the app positively. You have 12 other testers left to work with but you have already told your team the user flow won’t need any major changes.
 2. When chronologically reviewing the results of a survey answered by 230 users, you are surprised that 12 users in a row chose the same answer to a yes/no question.
 
-# **  
+# **
+
 Reduce bias with hands-on tactics and experiments:**
 
 When preparing for user research
@@ -184,7 +185,7 @@ During the research
 * Test one persona at a time
 * Stay neutral, work on a reducing your body language during tests and interviews - avoid showing off your company’s logo, avoid agreeing or disagreeing with participants etc.
 * Be very attentive to non verbal cues when meeting participants for tests or interviews: furrowed brows, long pauses, eyes clearly looking all over the page to try to find the information, etc.
-* Have more than one person conducting interviews/tests. 
+* Have more than one person conducting interviews/tests.
 
 After the research
 
