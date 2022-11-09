@@ -46,29 +46,37 @@ They refer to how you and your organization conduct research, how stakeholders u
 
 ## Company culture
 
-1. You make product/design decisions based on best practices or on the opinion of the most senior/convincing person
+3. You make product/design decisions based on best practices or on the opinion of the most senior/convincing person
    * Depending on the culture at your company, decision-making based on data and user insights might not be a given.
    * Remember you cannot change the company culture by yourself
    * Rather, try to take it step by step and position your research as a decision-making tool (user insights = y, following y leads to = positive KPI evolution, recommended actions to follow y = x, and then focus on pushing x)
-2. You have no persona shared across the organization and/or your teams disagree on how to use these persona, or you have a persona but it has never evolved
+
+
+4. You have no persona shared across the organization and/or your teams disagree on how to use these persona, or you have a persona but it has never evolved
    * Depending on which team you are a part of (product, marketing or dedicated UX department), persona might have been developed by one team or the other and it is possible they have not spread across other teams.
    * Your role as a UX practitioner will be to unify these personas to make sure the whole company is working towards the same goals. This comes with extensive research and the involvement of as many and various stakeholders as possible.
-3. You focus on features more than on problems
+
+
+5. You focus on features more than on problems
    * Because of company culture, objectives and/or your own biases, you might emphasize too much on creating new features.
    * Remember your work is to find solutions to user problems, not creating features for the sake of it. Try to rationalize how you and your team prioritize feature development, what is the process behind it and what drives decisions. It should be about the user, not how cool the feature might be.
    * Using this approach will encourage you to do more research and to start from the user, not the product: focusing on the why rather than on the what.
 
 ## Research process
 
-1. You only use certain methods and mediums of user research
+6. You only use certain methods and mediums of user research
    * You might be more comfortable with one method that you’ll use extensively but remember they all have different purposes and applications. There is no “one size fits all” in user research!
    * Diversify your methods (qualitative and quantitative) and mediums (focus groups, interviews, tests, diary etc) : you’ll see, you’ll gain a much deeper understanding of your users!
    * 🇫🇷 Lisez notre [articles sur les 8 méthodes de recherche qualitative](https://www.tandemz.io/posts/methode-recherche-utilisateur-qualitative/) pour inspirer vos sources de connaissance utilisateur et créer une vision plus mature et globale de leur expérience
-2. You conduct tests with the same testers each time or with colleagues, friends or family
+
+
+7. You conduct tests with the same testers each time or with colleagues, friends or family
    * Testing with participants that are not part of your target (colleagues, friends or testers irrelevant to your research) creates a lot of bias because their insights might guide you in the wrong direction. Finding a reliable source of testers is necessary to ensure the quality of your research.
    * To find quality testers, you can also leverage internal resources: working with marketing, CRM and sales teams. They can help you reach wider and more targeted audiences. For examples, they can give you access to their prospecting or advertising tools for your research.
    * When budgeting for your research, remember to include compensations and recruitment fees. This will increase the cost of your research (if you were testing with “free” testers so far) but will also improve its relevance.
-3. You only conduct research for some steps of your design process (ideation, exploration, testing) while others are not driven by research
+
+
+8. You only conduct research for some steps of your design process (ideation, exploration, testing) while others are not driven by research
    * Maybe you, your team or company are used to using UX research for usability studies only (or any other step).
    * By focusing on specific steps of the design process, you are missing on important insights that would help you increase the ROI of your research.
    * Try thinking of research as a continuous process by blending lines between different steps of the process. To do this, establish a frequent input of feedback (users and teams) coming to you in order to feed your research.
