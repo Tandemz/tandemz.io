@@ -98,6 +98,6 @@ This can be used when you need your participant to share their screen but don’
 
 # 👂 General advice:
 
-* Warn your participants in advance of which format will be used ans provide explantions and indications on how and where
+* Warn your participants in advance of which format will be used and provide explanations and indications on how and where
 * If applicable, make sure they are comfortable with the format and provide another one if needed
-* Make sure you have an alternative contact information so that you can remind them if they are late or have problem connecting/reaching your office
+* Try to get your participants' full contact details and share yours as well. This will avoid friction and will give you fallback options if there's an issue.
