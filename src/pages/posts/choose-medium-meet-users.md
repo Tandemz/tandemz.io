@@ -84,7 +84,7 @@ This can be used when you need your participant to share their screen but don’
 
 ![](/images/hello-phone-call.gif)
 
-# General advice:
+# 👂 General advice:
 
 * Warn your participants in advance of which medium will be used ans provide explantions and indications on how and where
 * If applicable, make sure they are comfortable with the medium and provide another one if needed
