@@ -27,7 +27,7 @@ Covid-19 has had a significant impact on how we conduct research: meeting partic
 
 In this article, we share the **advantages** and **limitations** of each of these 3 mediums as well as when to favor one over the others and provide examples to illustrate how to choose in specific situations.
 
-# In-person:
+# 👥 In-person:
 
 Isn’t it funny to remember that meeting participants in-person used to be the only way to do it. However, it can be a frightening medium for new researchers. Here is how you can prioritize it compared to digital mediums.
 
@@ -49,7 +49,7 @@ Isn’t it funny to remember that meeting participants in-person used to be the 
 
 ![](/images/giphy-handshake.gif)
 
-# Phonecall:
+# 📞 Phonecall:
 
 This medium is extensively used for surveys but can also extend to interviews in some cases.
 
@@ -65,7 +65,7 @@ This medium is extensively used for surveys but can also extend to interviews in
 
 ![](/images/giphy-phonecall.gif)
 
-# Videocall:
+# 💻 Videocall:
 
 Videocalls are the most recent version of user interviews and testing. They helped sharply reduce research costs and enabled a wider audience to conduct research.
 
