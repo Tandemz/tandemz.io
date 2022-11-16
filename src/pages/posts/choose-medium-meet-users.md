@@ -45,8 +45,12 @@ Isn’t it funny to remember that meeting participants in-person used to be the 
     * if you are renting your testing space, you will have limited time to meet your participants, which reduces their availability options. This is even more true for focus groups.
   * Tester:
     * the commute from the participants’ residence and the meeting location reduces the reach of who you can interview and/or increases the compensation.
-* **When to favor:** if your testers live near where you work and test, try to favor in-person studies. If in-person doesn’t allow you to test with your ideal tester, then rather use a digital medium such as a phone or videocall. If you are testing a physical product, in-person testing will probably be a must for you.
-* **Advice:** be exhaustive about instructions on how to reach your testing location: provide not only the address but also the closest public transportation station, parking options, who to ask for etc. Create a guide that you will send beforehand along with your contact information.
+* **When to favor:** 
+
+  If your testers live near where you work and test, try to favor in-person studies. If in-person doesn’t allow you to test with your ideal tester, then rather use a digital medium such as a phone or videocall. If you are testing a physical product, in-person testing will probably be a must for you.
+* **Advice:** 
+
+  Be exhaustive about instructions on how to reach your testing location: provide not only the address but also the closest public transportation station, parking options, who to ask for etc. Create a guide that you will send beforehand along with your contact information.
 
 ![](/images/giphy-handshake.gif)
 
@@ -55,14 +59,19 @@ Isn’t it funny to remember that meeting participants in-person used to be the 
 This format is extensively used for surveys but can also extend to interviews in some cases.
 
 * **Advantages:**
-  * Almost everyone owns a phone or has access to one, you can thus reach a very large audience with this format. Aside from network quality, there are less potential technical issues to be expected from a phonecall than a videocall.
+
+  Almost everyone owns a phone or has access to one, you can thus reach a very large audience with this format. Aside from network quality, there are less potential technical issues to be expected from a phonecall than a videocall.
 * **Limitations:**
   * Depending on your location and your participant’s, phone network can be an issue which can have an impact on how the call goes
   * Giving a company phone number to a participant can be dangerous in some cases. If you are trying to avoid unwanted calls, you can call using a hidden phone number. If you do so, warn your participant in advance to make sure they will answer
   * A phonecall will only allow you to catch verbal cues while body language will be inaccessible.
   * Your participant might be less alert and involved over the phone
-* **When to favor:** A phonecall is indicated if you are interviewing participants with low tech-savviness who might not have access or be comfortable with a computer and when in-person is not possible
-* **Advice:** remind your participants in advance they will need to be in a calm environment without distractions. As this format is the one that creates the most distance between testers and researcher, make it clear that participants will need to be reactive and fully available for the interview/test.
+* **When to favor:** 
+
+  A phonecall is indicated if you are interviewing participants with low tech-savviness who might not have access or be comfortable with a computer and when in-person is not possible
+* **Advice:** 
+
+  Remind your participants in advance they will need to be in a calm environment without distractions. As this format is the one that creates the most distance between testers and researcher, make it clear that participants will need to be reactive and fully available for the interview/test.
 
 ![](/images/giphy-phonecall.gif)
 
@@ -75,7 +84,9 @@ Videocalls are the most recent version of user interviews and testing. They help
   * If participants are sharing their screen, you will have an even better vision of their navigation and clicks than during an in-person meeting.
 * **Limitations:**
   * If the internet connection is not satisfactory, the videocall might not be smooth or even be impossible to carry out. Always remind your participants they will need a good internet connection and that it will be a criteria to validate the interview. In any case, include time for technical issues and arrangements because you are not in control of all variables.
-* **When to favor:** videocalls are becoming a standard for user interviews and testing. They are a good solution in most cases. However, try not to make them systematic: keeping a mix of in-person and videocalls is a great practice.
+* **When to favor:** 
+
+  Videocalls are becoming a standard for user interviews and testing. They are a good solution in most cases. However, try not to make them systematic: keeping a mix of in-person and videocalls is a great practice.
 
 ![](/images/virtual-background-otis-new.gif)
 
