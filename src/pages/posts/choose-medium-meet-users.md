@@ -15,7 +15,8 @@ full_title: How should you meet your users? In-person, phonecall or video call
 date: 2022-11-15T23:00:00Z
 thumb_img_path: "/images/banniere-article-mediums.png"
 content_img_path: "/images/banniere-article-mediums.png"
-excerpt: ''
+excerpt: When was the last time you met a tester in person? Read how to choose between
+  mediums to meet your participants.
 author: src/data/authors/Loïs Gauthier.json
 keywords: 'uxresearch, users, in-person, phonecall, videocall, study medium, '
 ogimage: "/images/banniere-article-mediums.png"
