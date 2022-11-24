@@ -1,5 +1,12 @@
 ---
 sections:
+- template: announcement-block
+  component: AnnouncementBlock
+  title: "C'est le Black Friday \U0001F6CD ! Offre limitée : achetez des crédits aujourd'hui
+    et obtenez-en 10% gratuits supplémentaires!"
+  description: Ne manquez pas cette opportunité d'accélérer la recherche utilisateur
+    de votre entreprise ! <a href="https://tandemz.webflow.io/black-friday">Voir les
+    offres</a>
 - type: heroblock
   template: heroblock
   section_id: hero
