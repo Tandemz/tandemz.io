@@ -5,7 +5,8 @@ sections:
   title: "It's Black Friday \U0001F6CD ! Limited offer : buy credits today and earn
     an extra 10% for free!"
   description: Don't miss this opportunity to accelerate your company's user research
-    practice! <a href="https://tandemz.webflow.io/black-friday">See offers</a>
+    practice! <a href="https://tandemz.webflow.io/black-friday" color="white">See
+    offers</a>
 - type: heroblock
   template: heroblock
   section_id: hero
